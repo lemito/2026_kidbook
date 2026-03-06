@@ -1,0 +1,80 @@
+SELECT ?item ?itemLabel ?itemDescription WHERE {
+  VALUES ?item {
+    wd:Q5          # Человек
+    wd:Q956115     # Право
+    wd:Q878070     # Обязанность
+    wd:Q7748       # Закон
+    wd:Q7755       # Конституция
+    wd:Q907751     # Право на образование
+    wd:Q8436       # Семья
+    wd:Q1518783    # Право на имя
+    wd:Q2526134    # Безопасность
+    wd:Q159491     # Неприкосновенность частной жизни
+    wd:Q3503200    # Обязанность учиться
+    wd:Q83223793   # Обязанность беречь природу (охрана окружающей среды)
+    wd:Q3914       # Школа
+    wd:Q35535      # Полиция
+    wd:Q215627     # Гражданин
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+
+SELECT ?item ?itemLabel ?superclass ?superclassLabel WHERE {
+  VALUES ?item {
+    wd:Q956115     # Право
+    wd:Q878070     # Обязанность
+    wd:Q907751     # Право на образование
+    wd:Q159491     # Неприкосновенность частной жизни
+    wd:Q3503200    # Обязанность учиться
+    wd:Q83223793   # Обязанность беречь природу
+    wd:Q215627     # Гражданин
+  }
+  OPTIONAL { ?item wdt:P279 ?superclass. }   # P279 = подкласс
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+}
+
+SELECT ?doc ?docLabel ?country ?countryLabel WHERE {
+  ?doc wdt:P31 wd:Q7755;          # экземпляр = конституция
+       wdt:P17 ?country.           # страна
+  FILTER(?country IN (wd:Q159, wd:Q183))  # Россия, Германия
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+}
+
+SELECT ?right ?rightLabel WHERE {
+  ?right wdt:P279 wd:Q956115.      # подкласс права
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+}
+LIMIT 10
+
+SELECT ?duty ?dutyLabel WHERE {
+  ?duty wdt:P279 wd:Q878070.       # подкласс обязанности
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+}
+LIMIT 10
+
+SELECT ?instance ?instanceLabel WHERE {
+  ?instance wdt:P31 ?class.        # экземпляр класса
+  VALUES ?class { wd:Q3914 wd:Q35535 }   # школа, полиция
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+}
+LIMIT 20
+
+#defaultView:Graph
+PREFIX gas: <http://www.bigdata.com/rdf/gas#>
+
+SELECT DISTINCT ?item1 ?item1Label ?item2 ?item2Label WHERE {
+  {
+    SELECT ?item1 ?item2 WHERE {
+      SERVICE gas:service {
+        gas:program gas:gasClass "com.bigdata.rdf.graph.analytics.BFS" ;
+                    gas:in wd:Q956115 ;            # стартовая вершина – Право
+                    gas:traversalDirection "Forward" ;
+                    gas:out ?item1 ;
+                    gas:out1 ?depth1 ;
+                    gas:out2 ?item2 ;
+                    gas:linkType wdt:P279 .         # отношение подкласса
+      }
+    }
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}

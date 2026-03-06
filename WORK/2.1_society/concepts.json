@@ -1,0 +1,179 @@
+{
+  "section": "2.1 Общество и взаимодействие людей",
+  "topic": "Твои права и обязанности",
+  "author_group": "Команда 14",
+  "members": [
+    "Сергей Усов",
+    "Жиденко Виктория",
+    "Мария Люзина",
+    "Попов Владимир",
+    "Агейкин Егор"
+  ],
+  "concepts": [
+    {
+      "id": "person",
+      "label": "Человек",
+      "name": "Человек",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/person.md",
+      "description": "Индивид, обладающий правами и обязанностями",
+      "lemmas": ["человек", "индивид", "личность", "права", "обязанности", "гражданин", "общество", "государство", "закон", "свобода", "ответственность"],
+      "wikidata_id": "Q5",
+      "author": "Сергей Усов"
+    },
+    {
+      "id": "right",
+      "label": "Право",
+      "name": "Право",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/right.md",
+      "description": "Возможность что-то делать, гарантированная законом",
+      "lemmas": ["право", "закон", "свобода", "гарантия", "конституция", "права человека", "обязанность", "государство", "защита", "юстиция"],
+      "wikidata_id": "Q956115",
+      "author": "Сергей Усов"
+    },
+    {
+      "id": "duty",
+      "label": "Обязанность",
+      "name": "Обязанность",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/duty.md",
+      "description": "То, что человек должен делать по закону или морали",
+      "lemmas": ["обязанность", "долг", "ответственность", "закон", "мораль", "конституция", "налог", "служба", "семья", "школа"],
+      "wikidata_id": "Q878070",
+      "author": "Сергей Усов"
+    },
+    {
+      "id": "law",
+      "label": "Закон",
+      "name": "Закон",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/law.md",
+      "description": "Правило, установленное государством",
+      "lemmas": ["закон", "правило", "норма", "государство", "конституция", "кодекс", "парламент", "суд", "право", "юрист"],
+      "wikidata_id": "Q7748",
+      "author": "Жиденко Виктория"
+    },
+    {
+      "id": "constitution",
+      "label": "Конституция",
+      "name": "Конституция",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/constitution.md",
+      "description": "Главный закон страны",
+      "lemmas": ["конституция", "основной закон", "государство", "права", "обязанности", "президент", "парламент", "гражданин", "демократия", "власть"],
+      "wikidata_id": "Q7755",
+      "author": "Жиденко Виктория"
+    },
+    {
+      "id": "education_right",
+      "label": "Право на образование",
+      "name": "Право на образование",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/education_right.md",
+      "description": "Право ходить в школу и учиться",
+      "lemmas": ["образование", "право на образование", "школа", "учёба", "знания", "бесплатное образование", "учебное заведение", "учитель", "ученик", "диплом"],
+      "wikidata_id": "Q8434",
+      "author": "Жиденко Виктория"
+    },
+    {
+      "id": "family",
+      "label": "Семья",
+      "name": "Семья",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/family.md",
+      "description": "Близкие люди, которые заботятся друг о друге",
+      "lemmas": ["семья", "родители", "дети", "родственники", "забота", "воспитание", "традиции", "брак", "дом", "опека"],
+      "wikidata_id": "Q8436",
+      "author": "Мария Люзина"
+    },
+    {
+      "id": "name_right",
+      "label": "Право на имя",
+      "name": "Право на имя",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/name_right.md",
+      "description": "Право иметь собственное имя при рождении",
+      "lemmas": ["имя", "фамилия", "отчество", "право на имя", "личность", "идентичность", "документы", "свидетельство о рождении", "псевдоним", "традиция"],
+      "wikidata_id": "Q1071027",
+      "author": "Мария Люзина"
+    },
+    {
+      "id": "safety",
+      "label": "Безопасность",
+      "name": "Безопасность",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/safety.md",
+      "description": "Защита от вреда и опасности",
+      "lemmas": ["безопасность", "защита", "опасность", "правила", "полиция", "МЧС", "сигнализация", "травма", "профилактика", "интернет-безопасность"],
+      "wikidata_id": "Q10566551",
+      "author": "Мария Люзина"
+    },
+    {
+      "id": "privacy",
+      "label": "Неприкосновенность частной жизни",
+      "name": "Неприкосновенность частной жизни",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/privacy.md",
+      "description": "Право на свои тайны и личные вещи",
+      "lemmas": ["приватность", "частная жизнь", "тайна", "личные данные", "конфиденциальность", "персональные данные", "слежка", "переписка", "медицинская тайна", "закон"],
+      "wikidata_id": "Q188728",
+      "author": "Попов Владимир"
+    },
+    {
+      "id": "duty_study",
+      "label": "Обязанность учиться",
+      "name": "Обязанность учиться",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/duty_study.md",
+      "description": "Необходимость получать знания",
+      "lemmas": ["учёба", "образование", "обязанность", "школа", "уроки", "знания", "дисциплина", "аттестат", "учитель", "экзамен"],
+      "wikidata_id": "Q3503200",
+      "author": "Попов Владимир"
+    },
+    {
+      "id": "duty_nature",
+      "label": "Обязанность беречь природу",
+      "name": "Обязанность беречь природу",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/duty_nature.md",
+      "description": "Забота об окружающей среде",
+      "lemmas": ["природа", "экология", "охрана", "защита", "мусор", "лес", "вода", "животные", "загрязнение", "субботник"],
+      "wikidata_id": "Q83223793",
+      "author": "Попов Владимир"
+    },
+    {
+      "id": "school",
+      "label": "Школа",
+      "name": "Школа",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/school.md",
+      "description": "Место, где дети получают образование",
+      "lemmas": ["школа", "ученик", "учитель", "класс", "урок", "образование", "перемена", "директор", "школьная форма", "экзамен"],
+      "wikidata_id": "Q3914",
+      "author": "Агейкин Егор"
+    },
+    {
+      "id": "police",
+      "label": "Полиция",
+      "name": "Полиция",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/police.md",
+      "description": "Органы, защищающие порядок и права",
+      "lemmas": ["полиция", "порядок", "безопасность", "закон", "преступление", "инспектор", "участковый", "патруль", "помощь", "правонарушение"],
+      "wikidata_id": "Q35535",
+      "author": "Агейкин Егор"
+    },
+    {
+      "id": "citizen",
+      "label": "Гражданин",
+      "name": "Гражданин",
+      "dir": "WEB/14_team/rights_and_responsibilities/articles",
+      "file": "WEB/14_team/rights_and_responsibilities/articles/citizen.md",
+      "description": "Член общества со статусом в государстве",
+      "lemmas": ["гражданин", "гражданство", "паспорт", "государство", "права", "обязанности", "выборы", "налог", "патриотизм", "общество"],
+      "wikidata_id": "Q215627",
+      "author": "Агейкин Егор"
+    }
+  ]
+}
