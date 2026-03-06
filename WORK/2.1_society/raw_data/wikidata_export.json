@@ -1,0 +1,146 @@
+{
+  "export_date": "2026-03-07T18:56:45.349607",
+  "section": "2.1 Общество и взаимодействие людей",
+  "topic": "Твои права и обязанности",
+  "author_group": "Сергей Усов",
+  "total_concepts": 15,
+  "success_count": 15,
+  "error_count": 0,
+  "concepts": [
+    {
+      "concept_id": "person",
+      "label": "Человек",
+      "wikidata_id": "Q5",
+      "local_description": "Индивид, обладающий правами и обязанностями",
+      "wikidata_label_ru": "человек",
+      "wikidata_description_ru": "общественное существо, обладающее разумом и сознанием; субъект, относящийся к виду Человек разумный",
+      "wikidata_label_en": "human"
+    },
+    {
+      "concept_id": "right",
+      "label": "Право",
+      "wikidata_id": "Q956115",
+      "local_description": "Возможность что-то делать, гарантированная законом",
+      "wikidata_label_ru": "В пещере горного короля",
+      "wikidata_description_ru": "композиция из сюиты Эдварда Грига на пьесу Генрика Ибсена «Пер Гюнт»",
+      "wikidata_label_en": "In the Hall of the Mountain King"
+    },
+    {
+      "concept_id": "duty",
+      "label": "Обязанность",
+      "wikidata_id": "Q878070",
+      "local_description": "То, что человек должен делать по закону или морали",
+      "wikidata_label_ru": "долг",
+      "wikidata_description_ru": "философия",
+      "wikidata_label_en": "duty"
+    },
+    {
+      "concept_id": "law",
+      "label": "Закон",
+      "wikidata_id": "Q7748",
+      "local_description": "Правило, установленное государством",
+      "wikidata_label_ru": "закон",
+      "wikidata_description_ru": "правило регулирования общественных отношений",
+      "wikidata_label_en": "law"
+    },
+    {
+      "concept_id": "constitution",
+      "label": "Конституция",
+      "wikidata_id": "Q7755",
+      "local_description": "Главный закон страны",
+      "wikidata_label_ru": "конституция",
+      "wikidata_description_ru": "основной закон государства",
+      "wikidata_label_en": "constitution"
+    },
+    {
+      "concept_id": "education_right",
+      "label": "Право на образование",
+      "wikidata_id": "Q8434",
+      "local_description": "Право ходить в школу и учиться",
+      "wikidata_label_ru": "образование",
+      "wikidata_description_ru": "система обучения и приобретённые знания",
+      "wikidata_label_en": "education"
+    },
+    {
+      "concept_id": "family",
+      "label": "Семья",
+      "wikidata_id": "Q8436",
+      "local_description": "Близкие люди, которые заботятся друг о друге",
+      "wikidata_label_ru": "семья",
+      "wikidata_description_ru": "супруги, родственники, сожители, тесно связанные люди",
+      "wikidata_label_en": "family"
+    },
+    {
+      "concept_id": "name_right",
+      "label": "Право на имя",
+      "wikidata_id": "Q1071027",
+      "local_description": "Право иметь собственное имя при рождении",
+      "wikidata_label_ru": "полное имя",
+      "wikidata_description_ru": "личные данные человека в виде фамилии, имени и/или отчества",
+      "wikidata_label_en": "full name"
+    },
+    {
+      "concept_id": "safety",
+      "label": "Безопасность",
+      "wikidata_id": "Q10566551",
+      "local_description": "Защита от вреда и опасности",
+      "wikidata_label_ru": "безопасность",
+      "wikidata_description_ru": "состояние субъекта или объекта в условиях возможных факторов опасности",
+      "wikidata_label_en": "safety"
+    },
+    {
+      "concept_id": "privacy",
+      "label": "Неприкосновенность частной жизни",
+      "wikidata_id": "Q188728",
+      "local_description": "Право на свои тайны и личные вещи",
+      "wikidata_label_ru": "неприкосновенность частной жизни",
+      "wikidata_description_ru": "право на частную и неприкосновенную жизнь, которое обеспечивает государство",
+      "wikidata_label_en": "privacy"
+    },
+    {
+      "concept_id": "duty_study",
+      "label": "Обязанность учиться",
+      "wikidata_id": "Q3503200",
+      "local_description": "Необходимость получать знания",
+      "wikidata_label_ru": "",
+      "wikidata_description_ru": "",
+      "wikidata_label_en": "Oulunkylä railway station"
+    },
+    {
+      "concept_id": "duty_nature",
+      "label": "Обязанность беречь природу",
+      "wikidata_id": "Q83223793",
+      "local_description": "Забота об окружающей среде",
+      "wikidata_label_ru": "",
+      "wikidata_description_ru": "научная статья опубликованная 19 марта 2010 г.",
+      "wikidata_label_en": "Rearing germ-free albino rats"
+    },
+    {
+      "concept_id": "school",
+      "label": "Школа",
+      "wikidata_id": "Q3914",
+      "local_description": "Место, где дети получают образование",
+      "wikidata_label_ru": "школа",
+      "wikidata_description_ru": "учебное заведение для детей и подростков",
+      "wikidata_label_en": "school"
+    },
+    {
+      "concept_id": "police",
+      "label": "Полиция",
+      "wikidata_id": "Q35535",
+      "local_description": "Органы, защищающие порядок и права",
+      "wikidata_label_ru": "полиция",
+      "wikidata_description_ru": "государственное учреждение, в задачу которого входит поддержание порядка в обществе",
+      "wikidata_label_en": "police"
+    },
+    {
+      "concept_id": "citizen",
+      "label": "Гражданин",
+      "wikidata_id": "Q215627",
+      "local_description": "Член общества со статусом в государстве",
+      "wikidata_label_ru": "личность",
+      "wikidata_description_ru": "человек (реальный или вымышленный) со своими индивидуальными особенностями с социокультурной точки зрения",
+      "wikidata_label_en": "person"
+    }
+  ]
+}
