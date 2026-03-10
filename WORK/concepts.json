@@ -4,39 +4,39 @@
     "topic": "Критическое мышление",
     "author_group": "Команда 6",
     "members": [
-      "Колесник Дмитрий",
-      "Барменков Артемий",
-      "Шилов Павел",
-      "Османова Виктория",
-      "Германенко Матвей"
+      "Дмитрий Колесник",
+      "Артемий Барменков",
+      "Павел Шилов",
+      "Виктория Османова",
+      "Матвей Германенко"
     ],
     "concepts": [
       {
-        "id": "",
-        "description": "",
-        "lemmas": ["", "", "", "", "", "", ""],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
+        "id": "WEB/4.2/critical_thinking/articles",
+        "description": "Анализ методов логического вывода: дедукции, индукции и абдукции. Разбор их влияния на достоверность аргументации и процесс научного познания.",
+        "lemmas": ["дедукция", "индукция", "абдукция", "умозаключение", "логика", "логический вывод", "силлогизм", "критическое мышление"],
+        "name": "Logical inference",
+        "file": "WEB/4.2/critical_thinking/articles/methods_of_logical_inference.md",
+        "wikidata_id": "Q170658",
+        "author": "Дмитрий Колесник"
       },
       {
-        "id": "",
-        "description": "",
-        "lemmas": ["", "", "", "", "", "", ""],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
+        "id": "WEB/4.2/critical_thinking/articles",
+        "description": "Изучение структуры аргумента (тезис, посылки, доказательства) и техник рациональной контраргументации с использованием иерархии Грэма.",
+        "lemmas": ["аргументация", "тезис", "посылка", "доказательство", "контраргумент", "дискуссия", "пирамида Грэма", "спор"],
+        "name": "Structure of argument and counterargument",
+        "file": "WEB/4.2/critical_thinking/articles/logical_errors_and_sophisms.md",
+        "wikidata_id": "Q183067",
+        "author": "Дмитрий Колесник"
       },
       {
-        "id": "",
-        "description": "",
-        "lemmas": ["", "", "", "", "", "", ""],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
+        "id": "WEB/4.2/critical_thinking/articles",
+        "description": "Классификация логических ошибок и софизмов. Разбор методов манипуляции (подмена понятий, ложная дилемма) и способов защиты от них.",
+        "lemmas": ["логическая ошибка", "софизм", "паралогизм", "манипуляция", "подмена понятий", "ложная дилемма", "соломенное чучело", "ad hominem"],
+        "name": "Logical fallacies and sophisms",
+        "file": "WEB/4.2/critical_thinking/articles/anatomy_of_agrument.md",
+        "wikidata_id": "Q186150",
+        "author": "Дмитрий Колесник"
       },
       {
         "id": "",
