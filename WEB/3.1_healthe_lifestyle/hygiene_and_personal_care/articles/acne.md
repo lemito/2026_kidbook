@@ -3,7 +3,7 @@
 <img src="../Attachments/acne_main.png" align="right" width="300" alt="Прыщи и акне" style="margin-left: 20px; margin-bottom: 20px;">
 
 **ID:** `acne`  
-**WikiData:** [Q241303](https://www.wikidata.org/wiki/Q241303)  
+**WikiData:** [Q79928](https://www.wikidata.org/wiki/Q79928)  
 **Раздел:** 3.1. Здоровый образ жизни
 
 > 💡 **Коротко:** Акне — это воспаление кожи из‑за того, что поры забиваются кожным салом и отмершими клетками, а бактерии усиливают воспаление. Это очень распространено у подростков и лечится — главное делать всё безопасно.
