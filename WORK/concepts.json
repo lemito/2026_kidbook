@@ -23,7 +23,7 @@
         ],
         "name": "Что такое первая помощь",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q133981",
         "author": "Грищенко Владимир"
       },
       {
@@ -37,7 +37,7 @@
         ],
         "name": "Цели и принципы первой помощи",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q133981",
         "author": "Грищенко Владимир"
       },
       {
@@ -52,7 +52,7 @@
         ],
         "name": "Алгоритм первой помощи",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q133981",
         "author": "Грищенко Владимир"
       },
       {
@@ -66,7 +66,7 @@
         ],
         "name": "Ушиб: признаки и особенности",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/04_ushib_chto_eto_priznaki.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q574491",
         "author": "Акимов Кирилл"
       },
       {
@@ -80,7 +80,7 @@
         ],
         "name": "Первая помощь при ушибе",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/05_pervaya_pomoshch_pri_ushibe.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q574491",
         "author": "Акимов Кирилл"
       },
       {
@@ -94,7 +94,7 @@
         ],
         "name": "Когда при ушибе нужен врач",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q574491",
         "author": "Акимов Кирилл"
       },
       {
@@ -108,7 +108,7 @@
         ],
         "name": "Ошибки при ушибах",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q574491",
         "author": "Бачурин Николай"
       },
       {
@@ -122,7 +122,7 @@
         ],
         "name": "Виды ран и ссадин",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q184753",
         "author": "Бачурин Николай"
       },
       {
@@ -136,7 +136,7 @@
         ],
         "name": "Первая помощь при порезе",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q184753",
         "author": "Бачурин Николай"
       },
       {
@@ -150,7 +150,7 @@
         ],
         "name": "Как остановить кровотечение",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q166019",
         "author": "Косов Всеволод"
       },
       {
@@ -164,7 +164,7 @@
         ],
         "name": "Когда рану нужно показать врачу",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/11_porez_kogda_vrach.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q184753",
         "author": "Косов Всеволод"
       },
       {
@@ -178,7 +178,7 @@
         ],
         "name": "Чего нельзя делать при порезах",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/12_porez_chego_nelzya.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q184753",
         "author": "Косов Всеволод"
       },
       {
@@ -192,7 +192,7 @@
         ],
         "name": "Ожоги: виды и степени",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/13_ozhogi_vidy_stepeni.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q170518",
         "author": "Ласточкин Максим"
       },
       {
@@ -206,7 +206,7 @@
         ],
         "name": "Первая помощь при ожоге",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/14_pervaya_pomoshch_pri_ozhoge.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q170518",
         "author": "Ласточкин Максим"
       },
       {
@@ -220,7 +220,7 @@
         ],
         "name": "Когда при ожоге нужна скорая",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/15_ozhog_kogda_skoraya.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q170518",
         "author": "Ласточкин Максим"
       },
       {
@@ -234,7 +234,7 @@
         ],
         "name": "Ошибки при ожогах",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/16_ozhog_chego_nelzya.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q170518",
         "author": "Савков Игорь"
       },
       {
@@ -248,7 +248,7 @@
         ],
         "name": "Аптечка для первой помощи",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q815867",
         "author": "Савков Игорь"
       },
       {
@@ -262,7 +262,7 @@
         ],
         "name": "Мифы и профилактика",
         "file": "WEB/3.1_pervaya_pomoshch/ushibi_porezy_ozhogi/18_mify_i_7_pravil.md",
-        "wikidata_id": "",
+        "wikidata_id": "Q47157209",
         "author": "Савков Игорь"
       }
     ]
