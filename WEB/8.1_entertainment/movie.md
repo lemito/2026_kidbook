@@ -42,6 +42,6 @@
 
 ---
 
-Авторы: @Ecodrin
+Автор статьи: **Ecodrin**
 
-Ресурсы LLM - Gigachat
+Ресурсы LLM: GigaChat
