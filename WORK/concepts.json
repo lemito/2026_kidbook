@@ -174,56 +174,56 @@
         "author": "Павел Шилов"
       },
       {
-        "id": "",
-        "description": "",
+        "id": "WEB/4.2/critical_thinking/articles",
+        "description": "Методология глубокого анализа проблем: различие между симптомами и первопричинами. Применение принципа MECE и модели 'Айсберга' для декомпозиции сложных ситуаций.",
         "lemmas": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "структурирование проблемы",
+          "симптомы",
+          "первопричина",
+          "MECE",
+          "модель айсберга",
+          "problem statement",
+          "декомпозиция"
         ],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
+        "name": "Problem structuring and Root Cause Analysis",
+        "file": "WEB/4.2/critical_thinking/articles/problem_structuring.md",
+        "wikidata_id": "Q7247508",
+        "author": "Артемий Барменков"
       },
       {
-        "id": "",
-        "description": "",
+        "id": "WEB/4.2/critical_thinking/articles",
+        "description": "Инструменты системного подхода к принятию решений: использование Шести шляп мышления для преодоления когнитивных искажений и SWOT-анализа для стратегического планирования.",
         "lemmas": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "модели решений",
+          "Шесть шляп мышления",
+          "SWOT-анализ",
+          "интеллект-карты",
+          "параллельное мышление",
+          "матрица Эйзенхауэра",
+          "принятие решений"
         ],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
+        "name": "Decision-making models and systems thinking",
+        "file": "WEB/4.2/critical_thinking/articles/decision_models.md",
+        "wikidata_id": "Q1331926",
+        "author": "Артемий Барменков"
       },
       {
-        "id": "",
-        "description": "",
+        "id": "WEB/4.2/critical_thinking/articles",
+        "description": "Практика рефлексии и проведение Post-mortem анализа. Культура поиска системных ошибок без перехода на личности (Blameless Culture) и цикл обучения Колба.",
         "lemmas": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "рефлексия",
+          "post-mortem",
+          "цикл Колба",
+          "обучение на ошибках",
+          "blameless culture",
+          "ретроспектива",
+          "хронология событий"
         ],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
-      },
+        "name": "Reflective practice and Post-mortem analysis",
+        "file": "WEB/4.2/critical_thinking/articles/reflection_and_post_mortem.md",
+        "wikidata_id": "Q1455207",
+        "author": "Артемий Барменков"
+      }
       {
         "id": "",
         "description": "",
