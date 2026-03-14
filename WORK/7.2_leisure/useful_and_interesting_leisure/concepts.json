@@ -1,0 +1,294 @@
+[
+  {
+    "section": "7.2_leisure",
+    "topic": "Как выбирать полезный и интересный досуг",
+    "author_group": "Команда 22",
+    "members": [
+      "Маркелов Ярослав",
+      "Гусев Савелий",
+      "Заворотный Алексей",
+      "Миронов Данил",
+      "Кондратенко Александр",
+      "Гайдуков Александр"
+    ],
+    "concepts": [
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/leisure_and_why_need",
+        "description": "Определение досуга, его задачи и значение для школьников.",
+        "lemmas": [
+          "досуг",
+          "свободное время",
+          "отдых",
+          "значение"
+        ],
+        "name": "Что такое досуг и зачем он нужен",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/leisure_and_why_need.md",
+        "wikidata_id": "Q180910",
+        "author": "Маркелов Ярослав"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/useful_vs_useless_leisure",
+        "description": "Критерии полезного досуга, его влияние на развитие и отличия от пустого времяпрепровождения.",
+        "lemmas": [
+          "полезный досуг",
+          "бесполезный досуг",
+          "развитие",
+          "времяпрепровождение"
+        ],
+        "name": "Чем полезный досуг отличается от бесполезного",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/useful_vs_useless_leisure.md",
+        "wikidata_id": "Q184872",
+        "author": "Гусев Савелий"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/time_for_hobby_daily_routine",
+        "description": "Советы по планированию дня, чтобы находить время для любимых занятий и хобби.",
+        "lemmas": [
+          "хобби",
+          "режим дня",
+          "тайм-менеджмент",
+          "планирование",
+          "свободное время"
+        ],
+        "name": "Как найти время на хобби (режим дня)",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/time_for_hobby_daily_routine.md",
+        "wikidata_id": "Q355217",
+        "author": "Заворотный Алексей"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby",
+        "description": "Как поддерживать равновесие между учебой, отдыхом и личными увлечениями, чтобы избегать выгорания.",
+        "lemmas": [
+          "баланс",
+          "учеба",
+          "отдых",
+          "увлечения",
+          "выгорание",
+          "равновесие"
+        ],
+        "name": "Баланс между учёбой, отдыхом и увлечениями",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md",
+        "wikidata_id": "Q763264",
+        "author": "Миронов Данил"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/how_to_understand_your_interests",
+        "description": "Методы самопознания и поиска занятий, которые действительно приносят удовольствие.",
+        "lemmas": [
+          "интересы",
+          "самопознание",
+          "поиск себя",
+          "увлечения",
+          "склонности",
+          "пробы"
+        ],
+        "name": "Как понять, чем тебе нравится заниматься",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/how_to_understand_your_interests.md",
+        "wikidata_id": "Q1527275",
+        "author": "Кондратенко Александр"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/active_recreation_and_sport",
+        "description": "Виды активного отдыха, польза спорта для здоровья и настроения, примеры активностей.",
+        "lemmas": [
+          "активный отдых",
+          "спорт",
+          "здоровье",
+          "физическая активность",
+          "прогулки",
+          "тренировки"
+        ],
+        "name": "Активный отдых и спорт",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/active_recreation_and_sport.md",
+        "wikidata_id": "Q747883",
+        "author": "Гайдуков Александр"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/creativity_and_handicrafts",
+        "description": "Разнообразие творческих направлений: рисование, лепка, вязание и другие виды рукоделия.",
+        "lemmas": [
+          "творчество",
+          "рукоделие",
+          "рисование",
+          "лепка",
+          "вязание"
+        ],
+        "name": "Творчество и рукоделие",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/creativity_and_handicrafts.md",
+        "wikidata_id": "Q170658",
+        "author": "Маркелов Ярослав"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/board_and_intellectual_games",
+        "description": "Обзор настольных игр для компании и игр, развивающих логику, память и мышление.",
+        "lemmas": [
+          "настольные игры",
+          "интеллектуальные игры",
+          "логика",
+          "память",
+          "мышление",
+          "досуг с друзьями"
+        ],
+        "name": "Настольные и интеллектуальные игры",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/board_and_intellectual_games.md",
+        "wikidata_id": "Q131436",
+        "author": "Гусев Савелий"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit",
+        "description": "Как выбирать игры, которые развивают навыки, и соблюдать меру, чтобы не навредить здоровью.",
+        "lemmas": [
+          "компьютерные игры",
+          "польза",
+          "развитие",
+          "навыки",
+          "гейминг",
+          "киберспорт"
+        ],
+        "name": "Компьютерные игры: как играть с пользой",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit.md",
+        "wikidata_id": "Q7889",
+        "author": "Заворотный Алексей"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education",
+        "description": "Польза чтения книг и других способов самообразования для расширения кругозора.",
+        "lemmas": [
+          "чтение",
+          "самообразование",
+          "книги",
+          "развитие",
+          "кругозор",
+          "обучение"
+        ],
+        "name": "Чтение и самообразование",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md",
+        "wikidata_id": "Q2267590",
+        "author": "Миронов Данил"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/clubs_and_sections",
+        "description": "Как выбрать кружок или секцию, преимущества занятий в коллективе и с наставником.",
+        "lemmas": [
+          "кружки",
+          "секции",
+          "клубы по интересам",
+          "дополнительное образование",
+          "хобби-клубы"
+        ],
+        "name": "Кружки, секции и клубы по интересам",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/clubs_and_sections.md",
+        "wikidata_id": "Q1341006",
+        "author": "Кондратенко Александр"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/leisure_with_friends_and_family",
+        "description": "Идеи для совместного времяпрепровождения, которое укрепляет отношения с близкими.",
+        "lemmas": [
+          "досуг с друзьями",
+          "досуг с семьей",
+          "совместный отдых",
+          "общение",
+          "близкие"
+        ],
+        "name": "Досуг с друзьями и семьёй",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/leisure_with_friends_and_family.md",
+        "wikidata_id": "Q609298",
+        "author": "Гайдуков Александр"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/volunteering_and_helping_others",
+        "description": "Что такое волонтёрство, как помогать другим и почему это может быть интересным досугом.",
+        "lemmas": [
+          "волонтёрство",
+          "помощь другим",
+          "благотворительность",
+          "социальная активность",
+          "добрые дела"
+        ],
+        "name": "Волонтёрство и помощь другим",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/volunteering_and_helping_others.md",
+        "wikidata_id": "Q188844",
+        "author": "Маркелов Ярослав"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/how_not_to_quit_hobby",
+        "description": "Советы по поддержанию мотивации и превращению временного увлечения в постоянное хобби.",
+        "lemmas": [
+          "мотивация",
+          "постоянство",
+          "привычка",
+          "не бросить хобби",
+          "интерес",
+          "цели"
+        ],
+        "name": "Как не бросить хобби через неделю",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/how_not_to_quit_hobby.md",
+        "wikidata_id": "Q644302",
+        "author": "Гусев Савелий"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/mistakes_in_choosing_hobby",
+        "description": "Типичные ошибки при выборе увлечения и как их избежать, чтобы разочарование не наступило сразу.",
+        "lemmas": [
+          "ошибки",
+          "выбор хобби",
+          "разочарование",
+          "советы",
+          "подводные камни"
+        ],
+        "name": "Ошибки при выборе увлечения",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/mistakes_in_choosing_hobby.md",
+        "wikidata_id": "Q47728",
+        "author": "Заворотный Алексей"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/free_leisure_activities",
+        "description": "Идеи для досуга, которые не требуют финансовых вложений, но приносят радость и пользу.",
+        "lemmas": [
+          "бесплатный досуг",
+          "без денег",
+          "экономия",
+          "идеи",
+          "доступные увлечения"
+        ],
+        "name": "Досуг, который не требует денег",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/free_leisure_activities.md",
+        "wikidata_id": "Q1858477",
+        "author": "Миронов Данил"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation",
+        "description": "Основные правила безопасности во время активного и пассивного отдыха, чтобы избежать травм и проблем.",
+        "lemmas": [
+          "безопасность",
+          "отдых",
+          "правила",
+          "травмы",
+          "поведение",
+          "риски"
+        ],
+        "name": "Безопасность во время отдыха",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md",
+        "wikidata_id": "Q47157209",
+        "author": "Кондратенко Александр"
+      },
+      {
+        "id": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/leisure_influence_on_future",
+        "description": "Как хобби и увлечения в школьные годы могут повлиять на выбор профессии и будущую жизнь.",
+        "lemmas": [
+          "будущее",
+          "профессия",
+          "влияние",
+          "развитие",
+          "карьера",
+          "увлечения"
+        ],
+        "name": "Как досуг влияет на будущее",
+        "file": "WEB/7.2_leisure/useful_and_interesting_leisure/articles/leisure_influence_on_future.md",
+        "wikidata_id": "Q10998095",
+        "author": "Гайдуков Александр"
+      }
+    ]
+  }
+]
