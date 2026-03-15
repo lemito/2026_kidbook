@@ -223,57 +223,60 @@
         "file": "WEB/4.2/critical_thinking/articles/reflection_and_post_mortem.md",
         "wikidata_id": "Q1455207",
         "author": "Артемий Барменков"
-      }
-      {
-        "id": "",
-        "description": "",
-        "lemmas": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
       },
       {
-        "id": "",
-        "description": "",
+        "id": "WEB/4.2/critical_thinking/articles",
+        "description": "Анализ техник манипулятивного воздействия в СМИ и социальных сетях: язык вражды, эмоционально окрашенная лексика, манипулятивные заголовки и признаки пропагандистского контента.",
         "lemmas": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "манипуляция",
+          "язык вражды",
+          "hate speech",
+          "эмоциональная лексика",
+          "сенсационализм",
+          "медиаграмотность",
+          "деперсонализация",
+          "критическое чтение"
         ],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
+        "name": "Recognizing manipulation in media and social networks",
+        "file": "WEB/4.2/critical_thinking/articles/manipulation_recognition.md",
+        "wikidata_id": "Q272468",
+        "author": "Виктория Османова"
       },
       {
-        "id": "",
-        "description": "",
+        "id": "WEB/4.2/critical_thinking/articles",
+        "description": "Классические и современные приёмы пропаганды: навешивание ярлыков, сияющая обобщённость, подмена понятий и другие техники скрытого влияния на общественное мнение.",
         "lemmas": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "пропаганда",
+          "навешивание ярлыков",
+          "name-calling",
+          "сияющая обобщённость",
+          "glittering generality",
+          "подмена понятий",
+          "bandwagon",
+          "перенос авторитета"
         ],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
+        "name": "Propaganda techniques: labels, generalities and equivocation",
+        "file": "WEB/4.2/critical_thinking/articles/propaganda_techniques.md",
+        "wikidata_id": "Q130691",
+        "author": "Виктория Османова"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/articles",
+        "description": "Принцип работы рекомендательных алгоритмов социальных сетей и поисковых систем. Понятия информационного пузыря и эхо-камеры, их влияние на мировосприятие и способы выхода из них.",
+        "lemmas": [
+          "информационный пузырь",
+          "фильтр-пузырь",
+          "эхо-камера",
+          "рекомендательный алгоритм",
+          "вовлечённость",
+          "медиаграмотность",
+          "поляризация",
+          "персонализация контента"
+        ],
+        "name": "Information bubbles and recommendation algorithms",
+        "file": "WEB/4.2/critical_thinking/articles/information_bubbles.md",
+        "wikidata_id": "Q4816328",
+        "author": "Виктория Османова"
       }
     ]
   }
