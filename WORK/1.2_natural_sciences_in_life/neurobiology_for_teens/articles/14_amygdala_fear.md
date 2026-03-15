@@ -15,7 +15,11 @@
 
 ---
 
-![Человек вздрагивает от громкого звука](../images/amygdala_startle.png)
+<!-- ![Человек вздрагивает от громкого звука](../images/amygdala_startle.png) -->
+<p align="center">
+  <img src="../images/amygdala_startle.png" width="550"><br>
+  <em>Человек вздрагивает от громкого звука</em>
+</p>
 
 ---
 
