@@ -56,6 +56,30 @@
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/01_brain_complexity.md",
       "wikidata_id": "Q1073",
       "author": "Кунавин Кирилл"
+    },
+    {
+      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/02_neuron_main_cell",
+      "description": "Статья о нейроне как главной клетке нервной системы: из каких частей он состоит, как передаёт электрические и химические сигналы, что такое аксон, дендриты и синапс, и почему нейроны так важны для мышления, памяти, движений и обучения.",
+      "lemmas": [
+        "нейрон",
+        "нервная клетка",
+        "дендрит",
+        "аксон",
+        "тело клетки",
+        "синапс",
+        "нейромедиаторы",
+        "потенциал действия",
+        "нервный импульс",
+        "нервная система",
+        "передача сигнала",
+        "обучение",
+        "память",
+        "мышление"
+      ],
+      "name": "Нейрон — главная клетка мозга",
+      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/02_neuron_main_cell.md",
+      "wikidata_id": "Q43054",
+      "author": "Кунавин Кирилл"
     }
   ]
 }
