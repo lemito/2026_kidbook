@@ -446,3 +446,19 @@
   "wikidata_id": "Q8358",
   "author": "Савинов Никита"
 }
+{
+  "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/22_neuroplasticity.md",
+  "description": "Способность мозга изменяться, формируя и перестраивая нейронные связи в процессе обучения и опыта.",
+  "lemmas": [
+    "нейропластичность",
+    "пластичность мозга",
+    "нейронные связи",
+    "обучение мозг",
+    "синапсы",
+    "нейроны"
+  ],
+  "name": "Нейропластичность",
+  "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/22_neuroplasticity.md",
+  "wikidata_id": "Q189118",
+  "author": "Савинов Никита"
+}
