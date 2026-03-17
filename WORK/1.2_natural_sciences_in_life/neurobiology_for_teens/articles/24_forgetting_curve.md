@@ -48,7 +48,7 @@
 - каждый раз перед тем, как начать забывать.
 
 <p align="center">
-  <img src="images/forgetting_curve_2.png" width="500"/>
+  <img src="../images/forgetting_curve_2.png" width="500"/>
 </p>
 
 Например:
@@ -83,7 +83,7 @@
 Результат будет намного лучше.
 
 <p align="center">
-  <img src="images/forgetting_curve_3.png" width="500"/>
+  <img src="../images/forgetting_curve_3.png" width="500"/>
 </p>
 
 ## Почему это важно
