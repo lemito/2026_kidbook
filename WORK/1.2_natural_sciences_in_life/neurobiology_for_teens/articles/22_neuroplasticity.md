@@ -83,7 +83,7 @@
 - навыки можно развивать постоянно.
 
 <p align="center">
-  <img src="../images/neuroplasticity_3.png" width="500"/><br>,
+  <img src="../images/neuroplasticity_3.png" width="800"/><br>,
 </p>
 
 ## Почему это важно
