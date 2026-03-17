@@ -6,7 +6,6 @@
     <title>Физика - Граф знаний</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
-        /* ... (оставил ваш CSS без изменений, он большой — можно вставить тот же самый) ... */
         * { margin:0; padding:0; box-sizing:border-box; }
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -120,7 +119,6 @@
     </div>
 
     <script>
-        // --- глобальный стейт ---
         let graphData = null;
         let simulation = null;
         let svg, g, zoom;
@@ -150,21 +148,17 @@
             const width = container.clientWidth || 800;
             const height = container.clientHeight || 600;
 
-            // Правильный viewBox (без запятых) + width/height
             svg.attr('viewBox', `0 0 ${width} ${height}`)
                .attr('width', width)
                .attr('height', height);
 
-            // zoom
             zoom = d3.zoom().scaleExtent([0.1, 4]).on('zoom', (event) => {
                 if (g) g.attr('transform', event.transform);
             });
             svg.call(zoom);
 
-            // main group
             g = svg.append('g');
 
-            // resize
             window.addEventListener('resize', () => {
                 const w = container.clientWidth;
                 const h = container.clientHeight;
@@ -174,7 +168,6 @@
                 }
             });
 
-            // клик по фону — очистка
             svg.on('click', () => clearSelection());
         }
 
@@ -191,7 +184,6 @@
                 updateStats();
                 buildLegend();
             } catch (error) {
-                // Если fetch не удался — покажем ошибку в контейнере
                 document.getElementById('graph-container').innerHTML =
                     `<div class="loading">Ошибка загрузки: ${error.message}. Если вы открываете файл локально (file://), запустите локальный сервер (например: python -m http.server).</div>`;
                 console.error('Load error:', error);
@@ -237,7 +229,6 @@
                 predicateLabel: edge.predicate_label || (graphData.labels && graphData.labels[edge.predicate_id]) || edge.predicate_id
             }));
 
-            // assign predicate colors
             const predicates = [...new Set(links.map(l => l.predicate))];
             predicates.forEach((p,i) => predicateColors[p] = colors[i % colors.length]);
         }
@@ -247,10 +238,8 @@
             const width = container.clientWidth || 800;
             const height = container.clientHeight || 600;
 
-            // если уже был - остановим
             if (simulation) simulation.stop();
 
-            // d3.forceLink автоматически разрешит source/target по id
             simulation = d3.forceSimulation(nodes)
                 .force('link', d3.forceLink(links).id(d => d.id).distance(() => 80 + Math.random()*40).strength(0.5))
                 .force('charge', d3.forceManyBody().strength(-200).distanceMax(400))
@@ -264,7 +253,6 @@
         }
 
         function ticked() {
-            // links могут иметь source/target как объекты
             g.selectAll('.link')
                 .attr('x1', d => (d.source.x !== undefined ? d.source.x : d.source))
                 .attr('y1', d => (d.source.y !== undefined ? d.source.y : d.source))
@@ -276,13 +264,10 @@
         }
 
         function render() {
-            // очистим группу
             g.selectAll('*').remove();
 
-            // видимые связи (учитываем скрытые предикаты)
             const visibleLinks = links.filter(l => !hiddenPredicates.has(l.predicate));
 
-            // узлы, которые имеют видимые связи
             const connectedNodeIds = new Set();
             visibleLinks.forEach(l => {
                 const sid = (l.source && l.source.id) ? l.source.id : l.source;
@@ -300,7 +285,6 @@
             const visibleNodeIds = new Set(visibleNodes.map(n => n.id));
             const filteredLinks = visibleLinks.filter(l => visibleNodeIds.has(l.source.id || l.source) && visibleNodeIds.has(l.target.id || l.target));
 
-            // обновим sim
             simulation.nodes(visibleNodes);
             if (simulation.force) {
                 const linkForce = simulation.force('link');
@@ -308,7 +292,6 @@
             }
             simulation.alpha(0.3).restart();
 
-            // отрисовка ссылок
             const linkG = g.append('g').attr('class','links')
                 .selectAll('line')
                 .data(filteredLinks, d => d.id)
@@ -320,7 +303,6 @@
                 .on('mouseover', showLinkTooltip)
                 .on('mouseout', hideTooltip);
 
-            // отрисовка узлов
             const nodeG = g.append('g').attr('class','nodes')
                 .selectAll('.node')
                 .data(visibleNodes, d => d.id)
@@ -349,10 +331,8 @@
                 .attr('text-anchor', 'middle')
                 .text(d => d.label && d.label.length > 20 ? d.label.substring(0,18) + '...' : d.label);
 
-            // обновляем статистику: отображаемые узлы и связи
             document.getElementById('displayedCount').textContent = `${visibleNodes.length} / ${filteredLinks.length}`;
 
-            // сохраним ссылки на элементы для дальнейших манипуляций
             window.linkElements = linkG;
             window.nodeElements = nodeG;
         }
@@ -380,7 +360,6 @@
                 if (t === d.id) connectedIds.add(s);
             });
 
-            // применяем классы к узлам/ссылкам
             if (window.nodeElements) {
                 window.nodeElements.classed('dimmed', n => !connectedIds.has(n.id))
                     .classed('selected', n => n.id === d.id)
@@ -480,7 +459,6 @@
 
         function buildLegend() {
             const legend = document.getElementById('legend');
-            // уберём старые элементы, кроме заголовка
             [...legend.querySelectorAll('.legend-item')].forEach(n => n.remove());
 
             const preds = new Map();
@@ -490,7 +468,7 @@
             sorted.forEach(([id,label]) => {
                 const item = document.createElement('div');
                 item.className = 'legend-item';
-                item.dataset.predicate = id; // ключевой момент: сохраним id
+                item.dataset.predicate = id;
                 item.innerHTML = `
                     <div class="legend-color" style="background: ${predicateColors[id] || '#888'}"></div>
                     <span>${label}</span>
@@ -525,13 +503,11 @@
             const searchTerm = document.getElementById('searchNode').value.toLowerCase().trim();
             const predicateFilter = document.getElementById('predicateFilter').value;
 
-            // сбросим легенду
             hiddenPredicates.clear();
             document.querySelectorAll('.legend-item').forEach(el => el.classList.remove('disabled'));
 
             if (predicateFilter) {
                 Object.keys(predicateColors).forEach(p => { if (p !== predicateFilter) hiddenPredicates.add(p); });
-                // пометим элементы легенды, опираясь на data-predicate
                 document.querySelectorAll('.legend-item').forEach(el => {
                     if (el.dataset.predicate && el.dataset.predicate !== predicateFilter) el.classList.add('disabled');
                 });
@@ -539,7 +515,6 @@
 
             render();
 
-            // поиск по узлу
             if (searchTerm) {
                 const matchedNode = nodes.find(n => (n.label && n.label.toLowerCase().includes(searchTerm)) || (n.id && n.id.toLowerCase().includes(searchTerm)));
                 if (matchedNode) {
@@ -552,14 +527,11 @@
                         .scale(1.5)
                         .translate(-matchedNode.x, -matchedNode.y));
 
-                    // клик по найденному узлу чуть позже
                     setTimeout(() => {
                         if (!window.nodeElements) return;
                         const sel = window.nodeElements.filter(d => d.id === matchedNode.id);
                         const data = sel.size ? sel.datum() : sel.datum && sel.datum();
-                        // .datum() на отфильтрованной selection вернёт datum первого элемента
                         const nodeData = sel.empty ? (sel.datum && sel.datum()) : (sel.empty && null);
-                        // проще: если selection не пуст — вызовем click на элементе DOM
                         const nodeElem = sel.node ? sel.node() : null;
                         if (nodeElem) nodeElem.dispatchEvent(new MouseEvent('click', { bubbles: true }));
                     }, 800);
@@ -576,7 +548,6 @@
             clearSelection();
             render();
 
-            // сброс зума
             const container = document.getElementById('graph-container');
             const w = container.clientWidth;
             const h = container.clientHeight;
@@ -596,7 +567,6 @@
             }
         }
 
-        // старт
         init();
     </script>
 </body>
