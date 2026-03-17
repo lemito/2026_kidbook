@@ -19,7 +19,7 @@
 Без гиппокампа мы не могли бы нормально запоминать новые события.
 
 <p align="center">
-  <img src="images/hippocampus_1.png" width="500"/><br>,
+  <img src="../images/hippocampus_1.png" width="500"/><br>,
 </p>
 
 ## Гиппокамп как навигатор
@@ -44,7 +44,7 @@
 👉 чем больше ты используешь навык, тем сильнее меняется мозг
 
 <p align="center">
-  <img src="images/hippocampus_2.png" width="500"/><br>,
+  <img src="../images/hippocampus_2.png" width="500"/><br>,
 </p>
 
 ## Гиппокамп как архив
@@ -75,7 +75,7 @@
 Этот случай показал, насколько важен гиппокамп для памяти.
 
 <p align="center">
-  <img src="images/hippocampus_3.png" width="500"/><br>,
+  <img src="../images/hippocampus_3.png" width="500"/><br>,
 </p>
 
 ## Почему это важно
