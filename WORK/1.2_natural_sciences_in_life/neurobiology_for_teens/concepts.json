@@ -338,7 +338,7 @@
   ]
 }
 {
-  "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/15_memory_structure",
+  "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/21_how_memory_works",
   "description": "О том, как устроена память: различия между кратковременной и долговременной памятью, как происходит консолидация воспоминаний, почему мы забываем и какую роль играют сон и эмоции в запоминании.",
   "lemmas": [
     "память",
@@ -356,7 +356,7 @@
     "эмоции и память"
   ],
   "name": "Устройство памяти — как мозг хранит воспоминания",
-  "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/15_memory_structure.md",
+  "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/21_how_memory_works.md",
   "wikidata_id": "Q8358",
   "author": "Савинов Никита"
 }
