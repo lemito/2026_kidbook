@@ -46,34 +46,41 @@
     "name": "MAC-адрес",
     "description": "Уникальный физический адрес сетевой карты, зашитый на заводе; используется внутри локальной сети",
     "lemmas": ["MAC-адрес", "MAC", "физический адрес", "сетевая карта", "OUI"],
-    "file": "networks/ip_mac/README.md"
+    "file": "networks/ip_mac/ip_and_mac.md"
   },
   {
     "id": "networks/ip_address",
     "name": "IP-адрес",
     "description": "Сетевой адрес устройства, выдаваемый при подключении; бывает IPv4 и IPv6",
     "lemmas": ["IP-адрес", "IP", "IPv4", "IPv6", "адрес"],
-    "file": "networks/ip_mac/README.md"
+    "file": "networks/ip_mac/ip_and_mac.md"
   },
   {
     "id": "networks/arp",
     "name": "ARP",
     "description": "Протокол разрешения адресов: позволяет узнать MAC-адрес устройства по его IP-адресу",
     "lemmas": ["ARP", "ARP-запрос", "ARP-кэш", "разрешение адресов"],
-    "file": "networks/ip_mac/README.md"
+    "file": "networks/ip_mac/ip_and_mac.md"
   },
   {
     "id": "networks/dhcp",
     "name": "DHCP",
     "description": "Протокол автоматической выдачи IP-адресов устройствам при подключении к сети",
     "lemmas": ["DHCP", "динамический адрес", "выдача адреса"],
-    "file": "networks/ip_mac/README.md"
+    "file": "networks/ip_mac/ip_and_mac.md"
   },
   {
     "id": "networks/nat",
     "name": "NAT",
     "description": "Трансляция сетевых адресов: позволяет многим устройствам выходить в интернет через один публичный IP",
     "lemmas": ["NAT", "трансляция адресов", "приватный адрес", "публичный адрес"],
-    "file": "networks/ip_mac/README.md"
+    "file": "networks/ip_mac/nat.md"
+  },
+  {
+    "id": "networks/how_to_find_address",
+    "name": "Как узнать свой IP и MAC-адрес",
+    "description": "Пошаговая инструкция для Windows, macOS и Linux: как найти публичный IP, локальный IP и MAC-адрес",
+    "lemmas": ["узнать IP", "узнать MAC", "ipconfig", "ifconfig", "whatismyip", "arp -a"],
+    "file": "networks/ip_mac/how_to_find_address.md"
   }
 ]
