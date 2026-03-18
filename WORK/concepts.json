@@ -156,7 +156,7 @@
         "author": "Павел Шилов"
       },
       {
-        "id": "WEB/4.2/critical_thinking/fact_and_opinion_differences",
+        "id": "WEB/4.2/critical_thinking/influence_of_emotions",
         "description": "Эмоции — мощный инструмент манипуляции: как страх, надежда, симпатия и гнев заставляют наш мозг игнорировать факты и принимать иррациональные решения.",
         "lemmas": [
           "эмоции",
@@ -169,7 +169,7 @@
           "лимбическая система"
         ],
         "name": "Influence of emotions",
-        "file": "WEB/4.2/critical_thinking/articles/fact_and_opinion_differences.md",
+        "file": "WEB/4.2/critical_thinking/articles/influence_of_emotions.md",
         "wikidata_id": "Q9415",
         "author": "Павел Шилов"
       },
