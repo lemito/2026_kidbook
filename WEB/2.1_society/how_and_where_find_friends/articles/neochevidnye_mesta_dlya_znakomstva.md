@@ -133,13 +133,9 @@
 
 ## Связанные статьи
 
-- [Свой среди чужих: как найти людей с редким хобби](../svoy_sredi_chuzhikh)
-- [Гайд для интровертов: как общаться без стресса](../gayd_dlya_introvertov)
-- [Skill-микс: идём на курсы не за дипломом, а за людьми](../skill_miks)
-- [Как стать интересным собеседником](../kak_stat_interesnym_sobesednikom)
-- [Изи-темы для разговора: с чего начать](../izi_temy_dlya_razgovora)
-- [Отказ — это не конец](../otkaz_eto_ne_konets)
-- [Можно ли найти друзей случайно](../mozhno_li_nayti_druzey_sluchayno)
+- [Skill-микс: идём на курсы не за дипломом, а за людьми](./skill_miks.md)
+- [Можно ли найти друзей случайно](./mozno_li_naiti_druzei_sluchaino.md)
+- [Геолокация и проверка контекста](../../../5.1_technology_and_digital_literacy/information%20and%20media%20literacy/articles/геолокация_и_проверка_контекста.md)
 
 ---
 

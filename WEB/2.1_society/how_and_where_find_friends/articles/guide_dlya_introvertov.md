@@ -129,7 +129,9 @@
 
 ## Связанные статьи
 
-# СВЯЗАТЬ
+- [Можно ли найти друзей случайно](./mozno_li_naiti_druzei_sluchaino.md)
+- [Цифровая дружба: реально ли найти друга в соцсетях?](./tcifrovaya_druzhba.md)
+- [Clubs And Sections](../../../7.2_leisure/useful_and_interesting_leisure/articles/clubs_and_sections.md)
 
 ## Словарь по теме
 

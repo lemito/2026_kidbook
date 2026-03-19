@@ -131,13 +131,9 @@
 
 ## Связанные статьи
 
-- [Топ-10 неочевидных мест для знакомства](../neochevidnye_mesta_dlya_znakomstva)
-- [Как стать интересным собеседником](../kak_stat_interesnym_sobesednikom)
-- [Изи-темы для разговора: с чего начать](../izi_temy_dlya_razgovora)
-- [Гайд для интровертов: как общаться без стресса](../gayd_dlya_introvertov)
-- [Отказ — это не конец](../otkaz_eto_ne_konets)
-- [Свой среди чужих: как найти людей с редким хобби](../svoy_sredi_chuzhikh)
-- [Цифровая дружба: когда переписка становится настоящей](../tsifrovaya_druzhba)
+- [Топ-10 неочевидных мест для знакомства](./neochevidnye_mesta_dlya_znakomstva.md)
+- [Изи-темы для разговора: Как заговорить с кем-то, если вы вообще не знакомы](./izi_temy_dlya_razgovora.md)
+- [Карта компетенций по возрастам](../../../5.1_technology_and_digital_literacy/information%20and%20media%20literacy/articles/карта_компетенций_по_возрастам.md)
 
 ---
 

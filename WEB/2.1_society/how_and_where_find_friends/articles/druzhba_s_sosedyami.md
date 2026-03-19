@@ -113,13 +113,9 @@
 
 ## Связанные статьи
 
-- [Топ-10 неочевидных мест для знакомства](../neochevidnye_mesta_dlya_znakomstva)
-- [Skill-микс: идём на курсы не за дипломом, а за людьми](../skill_miks)
-- [Изи-темы для разговора: с чего начать](../izi_temy_dlya_razgovora)
-- [Как стать интересным собеседником](../kak_stat_interesnym_sobesednikom)
-- [Гайд для интровертов: как общаться без стресса](../gayd_dlya_introvertov)
-- [Можно ли найти друзей случайно](../mozhno_li_nayti_druzey_sluchayno)
-- [Конфликты с лучшим другом: как мириться](../konflikty_s_luchshim_drugom)
+- [Топ-10 неочевидных мест для знакомства](./neochevidnye_mesta_dlya_znakomstva.md)
+- [Гайд для интровертов: как найти друзей, не истощая свой ресурс](./guide_dlya_introvertov.md)
+- [Skill-микс: идём на курсы не за дипломом, а за людьми](./skill_miks.md)
 
 ---
 

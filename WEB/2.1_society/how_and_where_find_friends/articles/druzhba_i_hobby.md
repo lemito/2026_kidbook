@@ -65,6 +65,12 @@
 
 Твоя задача — просто начать их искать. И поверь, когда ты найдешь первого «своего», ты поймешь: оно того стоило.
 
+## Связанные статьи
+
+- [Цифровая дружба: реально ли найти друга в соцсетях?](./tcifrovaya_druzhba.md)
+- [Гайд для интровертов: как найти друзей, не истощая свой ресурс](./guide_dlya_introvertov.md)
+- [Clubs And Sections](../../../7.2_leisure/useful_and_interesting_leisure/articles/clubs_and_sections.md)
+
 ---
 
 **Автор:** Irina Timofeeva  
