@@ -1,33 +1,48 @@
 [
-  "section": "0.0_meow",
-  "topic": "How to meow",
-  "author_group": "Top-manager team",
-  "members": [
-  ],
-  "concepts": [
   {
-    "comment_only_for_dev": "ПРИМЕР КОНЦЕПТА ДЛЯ ТЕМЫ \"Статья пример\"",
-    "meow": "(=^-ω-^=)",
-    "UwU": "ฅ•ω•ฅ",
-    "comment_only_for_dev_": "УДАЛИТЬ БЛОК В НАСТОЯЩЕМ!!!!!!!!!!!!!!!!!"
-  },
-  {
-    "id": "TUTORIAL/how_write_article",
-    "description": "Как писать статьи",
-    "lemmas": ["md", "mardown", "tutorial", "Как писать статьи", "оформление", "инструкция", "правила"],
-    "name": "How write articles",
-    "file": "TUTORIAL/how_write_article/README.md",
-    "wikidata_id": "Q535741",
-    "author": "admin"
-  },
-  {
-    "id": "TUTORIAL/cucumbers",
-    "description": "О ботанических особенностях огурца, его истории, основных сортах, правилах выращивания и ухода, а также о полезных свойствах и применении",
-    "lemmas": ["огурцы", "овощи", "овощ", "ботаника", "растения"],
-    "name": "cucumbers",
-    "file": "TUTORIAL/cucumbers/README.md",
-    "wikidata_id": "Q2735883",
-    "author": "admin"
+    "section": "0.0_meow",
+    "topic": "How to meow",
+    "author_group": "Top-manager team",
+    "members": [],
+    "concepts": [
+      {
+        "comment_only_for_dev": "ПРИМЕР КОНЦЕПТА ДЛЯ ТЕМЫ \"Статья пример\"",
+        "meow": "(=^-ω-^=)",
+        "UwU": "ฅ•ω•ฅ",
+        "comment_only_for_dev_": "УДАЛИТЬ БЛОК В НАСТОЯЩЕМ!!!!!!!!!!!!!!!!!"
+      },
+      {
+        "id": "TUTORIAL/how_write_article",
+        "description": "Как писать статьи",
+        "lemmas": [
+          "md",
+          "mardown",
+          "tutorial",
+          "Как писать статьи",
+          "оформление",
+          "инструкция",
+          "правила"
+        ],
+        "name": "How write articles",
+        "file": "TUTORIAL/how_write_article/README.md",
+        "wikidata_id": "Q535741",
+        "author": "admin"
+      },
+      {
+        "id": "TUTORIAL/cucumbers",
+        "description": "О ботанических особенностях огурца, его истории, основных сортах, правилах выращивания и ухода, а также о полезных свойствах и применении",
+        "lemmas": [
+          "огурцы",
+          "овощи",
+          "овощ",
+          "ботаника",
+          "растения"
+        ],
+        "name": "cucumbers",
+        "file": "TUTORIAL/cucumbers/README.md",
+        "wikidata_id": "Q2735883",
+        "author": "admin"
+      }
+    ]
   }
-  ]
 ]
