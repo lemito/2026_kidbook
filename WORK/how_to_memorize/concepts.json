@@ -1,0 +1,436 @@
+[
+  {
+    "section": "4.1. Навыки учёбы",
+    "topic": "Как запоминать материал",
+    "author_group": "Команда 15",
+    "members": [
+      "Ковриженков Дмитрий",
+      "Еряшев Алексей",
+      "Севастьянов Иван",
+      "Снетков Никита",
+      "Тертычный Олег"
+    ],
+    "concepts": [
+      {
+        "id": "WEB/how_to_memorize/articles/zapominanie",
+        "description": "Процесс сохранения новой информации в памяти и способность воспроизвести её позднее.",
+        "lemmas": [
+          "запоминание",
+          "запоминать",
+          "запомнить",
+          "запоминается",
+          "запомнил",
+          "усвоение"
+        ],
+        "name": "Запоминание",
+        "file": "WEB/how_to_memorize/articles/zapominanie.md",
+        "wikidata_id": "Q1065742",
+        "dbpedia_resource": "http://dbpedia.org/resource/Memorization",
+        "author": "Ковриженков Дмитрий ",
+        "related_terms": [
+          "Память",
+          "Внимание",
+          "Повторение",
+          "Долговременная память",
+          "Мотивация"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/pamyat",
+        "description": "Способность мозга сохранять, хранить и воспроизводить информацию и опыт.",
+        "lemmas": [
+          "память",
+          "памяти",
+          "памятью",
+          "помнить",
+          "воспоминание",
+          "запас знаний"
+        ],
+        "name": "Память",
+        "file": "WEB/how_to_memorize/articles/pamyat.md",
+        "wikidata_id": "Q492",
+        "dbpedia_resource": "http://dbpedia.org/resource/Memory",
+        "author": "Севастьянов Иван",
+        "related_terms": [
+          "Запоминание",
+          "Долговременная память",
+          "Кратковременная память",
+          "Внимание",
+          "Сон"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/dolgovremennaya_pamyat",
+        "description": "Вид памяти, в котором информация хранится длительное время — от нескольких дней до всей жизни.",
+        "lemmas": [
+          "долговременная память",
+          "долгая память",
+          "длительная память",
+          "запомнить надолго",
+          "хранение знаний"
+        ],
+        "name": "Долговременная память",
+        "file": "WEB/how_to_memorize/articles/dolgovremennaya_pamyat.md",
+        "wikidata_id": "Q211548",
+        "dbpedia_resource": "http://dbpedia.org/resource/Long-term_memory",
+        "author": "Еряшев Алексей",
+        "related_terms": [
+          "Память",
+          "Кратковременная память",
+          "Повторение",
+          "Сон",
+          "Интервальное повторение"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/kratkovremennaya_pamyat",
+        "description": "Вид памяти, в котором информация удерживается короткое время — обычно от нескольких секунд до минуты.",
+        "lemmas": [
+          "кратковременная память",
+          "короткая память",
+          "временная память",
+          "оперативная память",
+          "рабочая память"
+        ],
+        "name": "Кратковременная память",
+        "file": "WEB/how_to_memorize/articles/kratkovremennaya_pamyat.md",
+        "wikidata_id": "Q208195",
+        "dbpedia_resource": "http://dbpedia.org/resource/Short-term_memory",
+        "author": "Севастьянов Иван",
+        "related_terms": [
+          "Память",
+          "Долговременная память",
+          "Внимание",
+          "Концентрация",
+          "Повторение"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/vnimanie",
+        "description": "Способность сосредотачиваться на определённой информации, выделяя её среди остального.",
+        "lemmas": [
+          "внимание",
+          "внимания",
+          "внимательный",
+          "внимательно",
+          "сфокусироваться",
+          "замечать"
+        ],
+        "name": "Внимание",
+        "file": "WEB/how_to_memorize/articles/vnimanie.md",
+        "wikidata_id": "Q107561",
+        "dbpedia_resource": "http://dbpedia.org/resource/Attention",
+        "author": "Снетков Никита",
+        "related_terms": [
+          "Запоминание",
+          "Концентрация",
+          "Память",
+          "Стресс",
+          "Усталость"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/koncentraciya",
+        "description": "Умение длительно удерживать внимание на одной задаче, не отвлекаясь.",
+        "lemmas": [
+          "концентрация",
+          "сосредоточенность",
+          "сосредоточиться",
+          "фокус внимания",
+          "фокусировка"
+        ],
+        "name": "Концентрация",
+        "file": "WEB/how_to_memorize/articles/koncentraciya.md",
+        "wikidata_id": "Q1061588",
+        "dbpedia_resource": "http://dbpedia.org/resource/Concentration_(cognitive)",
+        "author": "Снетков Никита",
+        "related_terms": [
+          "Внимание",
+          "Запоминание",
+          "Усталость",
+          "Стресс",
+          "Мотивация"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/povtorenie",
+        "description": "Повторное обращение к изученному материалу для его закрепления в памяти.",
+        "lemmas": [
+          "повторение",
+          "повторять",
+          "повторил",
+          "повторение материала",
+          "закрепление"
+        ],
+        "name": "Повторение",
+        "file": "WEB/how_to_memorize/articles/povtorenie.md",
+        "wikidata_id": "Q844569",
+        "dbpedia_resource": "http://dbpedia.org/resource/Repetition",
+        "author": "Снетков Никита",
+        "related_terms": [
+          "Запоминание",
+          "Интервальное повторение",
+          "Активное вспоминание",
+          "Долговременная память",
+          "Конспектирование"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/intervalnoe_povtorenie",
+        "description": "Метод повторения информации через постепенно увеличивающиеся промежутки времени.",
+        "lemmas": [
+          "интервальное повторение",
+          "повторение с интервалами",
+          "распределённое повторение",
+          "метод интервалов",
+          "повторять по расписанию"
+        ],
+        "name": "Интервальное повторение",
+        "file": "WEB/how_to_memorize/articles/intervalnoe_povtorenie.md",
+        "wikidata_id": "Q831482",
+        "dbpedia_resource": "http://dbpedia.org/resource/Spaced_repetition",
+        "author": "Еряшев Алексей",
+        "related_terms": [
+          "Повторение",
+          "Долговременная память",
+          "Активное вспоминание",
+          "Самопроверка",
+          "Сон"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/aktivnoe_vspominanie",
+        "description": "Метод обучения, при котором человек сам пытается воспроизвести информацию без подсказок.",
+        "lemmas": [
+          "активное вспоминание",
+          "вспоминать",
+          "вспомнить",
+          "воспроизведение по памяти",
+          "извлечение из памяти"
+        ],
+        "name": "Активное вспоминание",
+        "file": "WEB/how_to_memorize/articles/aktivnoe_vspominanie.md",
+        "wikidata_id": "Q7157438",
+        "dbpedia_resource": "http://dbpedia.org/resource/Active_recall",
+        "author": "Еряшев Алексей",
+        "related_terms": [
+          "Повторение",
+          "Самопроверка",
+          "Долговременная память",
+          "Запоминание",
+          "Конспектирование"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/mnemotehnika",
+        "description": "Набор специальных приёмов и техник, облегчающих запоминание информации с помощью образов и ассоциаций.",
+        "lemmas": [
+          "мнемотехника",
+          "мнемоника",
+          "мнемонические приёмы",
+          "запоминалки",
+          "техники запоминания"
+        ],
+        "name": "Мнемотехника",
+        "file": "WEB/how_to_memorize/articles/mnemotehnika.md",
+        "wikidata_id": "Q544531",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mnemonic",
+        "author": "Севастьянов Иван",
+        "related_terms": [
+          "Ассоциации",
+          "Визуализация",
+          "Запоминание",
+          "Память",
+          "Повторение"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/associacii",
+        "description": "Мысленные связи между новой информацией и тем, что уже знакомо, помогающие лучше запоминать.",
+        "lemmas": [
+          "ассоциации",
+          "ассоциация",
+          "ассоциативная связь",
+          "связь образов",
+          "ассоциировать"
+        ],
+        "name": "Ассоциации",
+        "file": "WEB/how_to_memorize/articles/associacii.md",
+        "wikidata_id": "Q188444",
+        "dbpedia_resource": "http://dbpedia.org/resource/Association_(psychology)",
+        "author": "Еряшев Алексей",
+        "related_terms": [
+          "Мнемотехника",
+          "Визуализация",
+          "Запоминание",
+          "Долговременная память",
+          "Память"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/vizualizaciya",
+        "description": "Представление информации в виде мысленных образов, схем или рисунков для лучшего понимания и запоминания.",
+        "lemmas": [
+          "визуализация",
+          "визуализировать",
+          "представлять образ",
+          "мысленная картинка",
+          "наглядное представление"
+        ],
+        "name": "Визуализация",
+        "file": "WEB/how_to_memorize/articles/vizualizaciya.md",
+        "wikidata_id": "Q1413415",
+        "dbpedia_resource": "http://dbpedia.org/resource/Visualization_(graphics)",
+        "author": "Тертычный Олег",
+        "related_terms": [
+          "Мнемотехника",
+          "Ассоциации",
+          "Конспектирование",
+          "Запоминание",
+          "Повторение"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/konspektirovanie",
+        "description": "Краткая запись ключевых идей и фактов из учебного материала своими словами.",
+        "lemmas": [
+          "конспектирование",
+          "конспект",
+          "записывать",
+          "записи",
+          "заметки",
+          "краткая запись"
+        ],
+        "name": "Конспектирование",
+        "file": "WEB/how_to_memorize/articles/konspektirovanie.md",
+        "wikidata_id": "Q187588",
+        "dbpedia_resource": "http://dbpedia.org/resource/Note-taking",
+        "author": "Ковриженков Дмитрий",
+        "related_terms": [
+          "Повторение",
+          "Самопроверка",
+          "Визуализация",
+          "Активное вспоминание",
+          "Внимание"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/samoproverka",
+        "description": "Проверка своих знаний без подсказок, помогающая выявить пробелы и укрепить запоминание.",
+        "lemmas": [
+          "самопроверка",
+          "проверить себя",
+          "проверка знаний",
+          "тестирование себя",
+          "контроль знаний"
+        ],
+        "name": "Самопроверка",
+        "file": "WEB/how_to_memorize/articles/samoproverka.md",
+        "wikidata_id": "Q213385",
+        "dbpedia_resource": "http://dbpedia.org/resource/Self-assessment",
+        "author": "Ковриженков Дмитрий",
+        "related_terms": [
+          "Активное вспоминание",
+          "Повторение",
+          "Интервальное повторение",
+          "Конспектирование",
+          "Мотивация"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/son",
+        "description": "Естественное состояние отдыха, во время которого мозг обрабатывает и закрепляет полученную за день информацию.",
+        "lemmas": [
+          "сон",
+          "спать",
+          "выспаться",
+          "ночной отдых",
+          "здоровый сон"
+        ],
+        "name": "Сон",
+        "file": "WEB/how_to_memorize/articles/son.md",
+        "wikidata_id": "Q7382",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sleep",
+        "author": "Тертычный Олег",
+        "related_terms": [
+          "Долговременная память",
+          "Запоминание",
+          "Память",
+          "Усталость",
+          "Концентрация"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/ustalost",
+        "description": "Состояние снижения физической и умственной энергии, ухудшающее концентрацию и способность запоминать.",
+        "lemmas": [
+          "усталость",
+          "устал",
+          "утомление",
+          "переутомление",
+          "нет сил",
+          "измотанность"
+        ],
+        "name": "Усталость",
+        "file": "WEB/how_to_memorize/articles/ustalost.md",
+        "wikidata_id": "Q9690",
+        "dbpedia_resource": "http://dbpedia.org/resource/Fatigue",
+        "author": "Тертычный Олег",
+        "related_terms": [
+          "Сон",
+          "Концентрация",
+          "Внимание",
+          "Стресс",
+          "Мотивация"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/stress",
+        "description": "Состояние психологического напряжения, которое может мешать сосредоточиться и запоминать информацию.",
+        "lemmas": [
+          "стресс",
+          "стрессовый",
+          "напряжение",
+          "переживание",
+          "тревога",
+          "волнение"
+        ],
+        "name": "Стресс",
+        "file": "WEB/how_to_memorize/articles/stress.md",
+        "wikidata_id": "Q12078",
+        "dbpedia_resource": "http://dbpedia.org/resource/Stress_(biology)",
+        "author": "Тертычный Олег",
+        "related_terms": [
+          "Внимание",
+          "Концентрация",
+          "Усталость",
+          "Мотивация",
+          "Сон"
+        ]
+      },
+      {
+        "id": "WEB/how_to_memorize/articles/motivaciya",
+        "description": "Внутреннее или внешнее побуждение, которое помогает человеку начать учиться и не бросить на полпути.",
+        "lemmas": [
+          "мотивация",
+          "мотивировать",
+          "желание учиться",
+          "стимул",
+          "интерес к учёбе"
+        ],
+        "name": "Мотивация",
+        "file": "WEB/how_to_memorize/articles/motivaciya.md",
+        "wikidata_id": "Q179289",
+        "dbpedia_resource": "http://dbpedia.org/resource/Motivation",
+        "author": "Севастьянов Иван",
+        "related_terms": [
+          "Запоминание",
+          "Повторение",
+          "Внимание",
+          "Концентрация",
+          "Самопроверка"
+        ]
+      }
+    ]
+  }
+]

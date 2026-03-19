@@ -1,0 +1,283 @@
+[
+  {
+    "section": "4.2 Мышление и работа с информацией",
+    "topic": "Критическое мышление",
+    "author_group": "Команда 6",
+    "members": [
+      "Дмитрий Колесник",
+      "Артемий Барменков",
+      "Павел Шилов",
+      "Виктория Османова",
+      "Матвей Германенко"
+    ],
+    "concepts": [
+      {
+        "id": "WEB/4.2/critical_thinking/methods_of_logical_inference",
+        "description": "Анализ методов логического вывода: дедукции, индукции и абдукции. Разбор их влияния на достоверность аргументации и процесс научного познания.",
+        "lemmas": [
+          "дедукция",
+          "индукция",
+          "абдукция",
+          "умозаключение",
+          "логика",
+          "логический вывод",
+          "силлогизм",
+          "критическое мышление"
+        ],
+        "name": "Logical inference",
+        "file": "WEB/4.2/critical_thinking/articles/methods_of_logical_inference.md",
+        "wikidata_id": "Q843894",
+        "author": "Дмитрий Колесник"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/logical_errors_and_sophisms",
+        "description": "Изучение структуры аргумента (тезис, посылки, доказательства) и техник рациональной контраргументации с использованием иерархии Грэма.",
+        "lemmas": [
+          "аргументация",
+          "тезис",
+          "посылка",
+          "доказательство",
+          "контраргумент",
+          "дискуссия",
+          "пирамида Грэма",
+          "спор"
+        ],
+        "name": "Structure of argument and counterargument",
+        "file": "WEB/4.2/critical_thinking/articles/logical_errors_and_sophisms.md",
+        "wikidata_id": "Q186619",
+        "author": "Дмитрий Колесник"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/anatomy_of_agrument",
+        "description": "Классификация логических ошибок и софизмов. Разбор методов манипуляции (подмена понятий, ложная дилемма) и способов защиты от них.",
+        "lemmas": [
+          "логическая ошибка",
+          "софизм",
+          "паралогизм",
+          "манипуляция",
+          "подмена понятий",
+          "ложная дилемма",
+          "соломенное чучело",
+          "ad hominem"
+        ],
+        "name": "Logical fallacies and sophisms",
+        "file": "WEB/4.2/critical_thinking/articles/anatomy_of_agrument.md",
+        "wikidata_id": "Q1483917",
+        "author": "Дмитрий Колесник"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/information_verification",
+        "description": "Методы проверки достоверности информации в интернете. Основы фактчекинга: как проверять новости, фотографии и статистику, чтобы отличать правду от фейков.",
+        "lemmas": [
+          "верификация информации",
+          "фактчекинг",
+          "проверка информации",
+          "фейковые новости",
+          "достоверность источника",
+          "проверка фотографий",
+          "проверка статистики",
+          "дезинформация"
+        ],
+        "name": "Information verification and fact-checking",
+        "file": "WEB/4.2/critical_thinking/articles/information_verification.md",
+        "wikidata_id": "Q59555084",
+        "author": "Матвей Германенко"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/source_evaluation",
+        "description": "Критерии оценки источников информации: авторитетность автора, независимость источника, различие между первичными и вторичными источниками, а также влияние конфликта интересов.",
+        "lemmas": [
+          "оценка источника",
+          "авторитетность источника",
+          "независимость источника",
+          "первичный источник",
+          "вторичный источник",
+          "конфликт интересов",
+          "критическое мышление",
+          "достоверность информации"
+        ],
+        "name": "Evaluating information sources",
+        "file": "WEB/4.2/critical_thinking/articles/source_evaluation.md",
+        "wikidata_id": "Q3523102",
+        "author": "Матвей Германенко"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/data_and_statistics",
+        "description": "Основы работы со статистикой и данными. Разбор распространённых статистических манипуляций, способов искажения информации с помощью графиков и правил критического анализа данных.",
+        "lemmas": [
+          "статистика",
+          "анализ данных",
+          "статистическая манипуляция",
+          "визуализация данных",
+          "искажение графиков",
+          "выборочная статистика",
+          "сравнение данных",
+          "критический анализ данных"
+        ],
+        "name": "Working with data and statistics",
+        "file": "WEB/4.2/critical_thinking/articles/data_and_statistics.md",
+        "wikidata_id": "Q12483",
+        "author": "Матвей Германенко"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/main_cognitive_distortions",
+        "description": "Разбор главных ловушек мышления. Эффект подтверждения, ошибка выжившего и эффект Даннинга-Крюгера",
+        "lemmas": [
+          "ловушка мышления",
+          "эффект подтверждения",
+          "ошибка выжевшего",
+          "эффект Даннинга-Крюгера",
+          "когнитивное искажение",
+          "кривая уверенности",
+          "успех",
+          "провал"
+        ],
+        "name": "The main traps of thinking",
+        "file": "WEB/4.2/critical_thinking/articles/main_cognitive_distortions.md",
+        "wikidata_id": "Q639444",
+        "author": "Павел Шилов"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/fact_and_opinion_differences",
+        "description": "Отличие факта от мнения: объективная и субъективная сторона вопроса",
+        "lemmas": [
+          "факт",
+          "мнение",
+          "объективная реальность",
+          "субъективная оценка",
+          "поток информации",
+          "истинность",
+          "манипуляция",
+          "доказательства"
+        ],
+        "name": "How to distinguish fact from opinion",
+        "file": "WEB/4.2/critical_thinking/articles/fact_and_opinion_differences.md",
+        "wikidata_id": "Q58967793",
+        "author": "Павел Шилов"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/influence_of_emotions",
+        "description": "Эмоции — мощный инструмент манипуляции: как страх, надежда, симпатия и гнев заставляют наш мозг игнорировать факты и принимать иррациональные решения.",
+        "lemmas": [
+          "эмоции",
+          "страх",
+          "надежда",
+          "симпатия",
+          "гнев",
+          "эмоциональная регуялция",
+          "когнитивная переоценка",
+          "лимбическая система"
+        ],
+        "name": "Influence of emotions",
+        "file": "WEB/4.2/critical_thinking/articles/influence_of_emotions.md",
+        "wikidata_id": "Q9415",
+        "author": "Павел Шилов"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/problem_structuring",
+        "description": "Методология глубокого анализа проблем: различие между симптомами и первопричинами. Применение принципа MECE и модели 'Айсберга' для декомпозиции сложных ситуаций.",
+        "lemmas": [
+          "структурирование проблемы",
+          "симптомы",
+          "первопричина",
+          "MECE",
+          "модель айсберга",
+          "problem statement",
+          "декомпозиция"
+        ],
+        "name": "Problem structuring and Root Cause Analysis",
+        "file": "WEB/4.2/critical_thinking/articles/problem_structuring.md",
+        "wikidata_id": "Q1074664",
+        "author": "Артемий Барменков"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/decision_models",
+        "description": "Инструменты системного подхода к принятию решений: использование Шести шляп мышления для преодоления когнитивных искажений и SWOT-анализа для стратегического планирования.",
+        "lemmas": [
+          "модели решений",
+          "Шесть шляп мышления",
+          "SWOT-анализ",
+          "интеллект-карты",
+          "параллельное мышление",
+          "матрица Эйзенхауэра",
+          "принятие решений"
+        ],
+        "name": "Decision-making models and systems thinking",
+        "file": "WEB/4.2/critical_thinking/articles/decision_models.md",
+        "wikidata_id": "Q1074664",
+        "author": "Артемий Барменков"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/reflection_and_post_mortem",
+        "description": "Практика рефлексии и проведение Post-mortem анализа. Культура поиска системных ошибок без перехода на личности (Blameless Culture) и цикл обучения Колба.",
+        "lemmas": [
+          "рефлексия",
+          "post-mortem",
+          "цикл Колба",
+          "обучение на ошибках",
+          "blameless culture",
+          "ретроспектива",
+          "хронология событий"
+        ],
+        "name": "Reflective practice and Post-mortem analysis",
+        "file": "WEB/4.2/critical_thinking/articles/reflection_and_post_mortem.md",
+        "wikidata_id": "Q11089007",
+        "author": "Артемий Барменков"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/manipulation_recognition",
+        "description": "Анализ техник манипулятивного воздействия в СМИ и социальных сетях: язык вражды, эмоционально окрашенная лексика, манипулятивные заголовки и признаки пропагандистского контента.",
+        "lemmas": [
+          "манипуляция",
+          "язык вражды",
+          "hate speech",
+          "эмоциональная лексика",
+          "сенсационализм",
+          "медиаграмотность",
+          "деперсонализация",
+          "критическое чтение"
+        ],
+        "name": "Recognizing manipulation in media and social networks",
+        "file": "WEB/4.2/critical_thinking/articles/manipulation_recognition.md",
+        "wikidata_id": "Q106466760",
+        "author": "Виктория Османова"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/propaganda_techniques",
+        "description": "Классические и современные приёмы пропаганды: навешивание ярлыков, сияющая обобщённость, подмена понятий и другие техники скрытого влияния на общественное мнение.",
+        "lemmas": [
+          "пропаганда",
+          "навешивание ярлыков",
+          "name-calling",
+          "сияющая обобщённость",
+          "glittering generality",
+          "подмена понятий",
+          "bandwagon",
+          "перенос авторитета"
+        ],
+        "name": "Propaganda techniques: labels, generalities and equivocation",
+        "file": "WEB/4.2/critical_thinking/articles/propaganda_techniques.md",
+        "wikidata_id": "Q7281",
+        "author": "Виктория Османова"
+      },
+      {
+        "id": "WEB/4.2/critical_thinking/information_bubbles",
+        "description": "Принцип работы рекомендательных алгоритмов социальных сетей и поисковых систем. Понятия информационного пузыря и эхо-камеры, их влияние на мировосприятие и способы выхода из них.",
+        "lemmas": [
+          "информационный пузырь",
+          "фильтр-пузырь",
+          "эхо-камера",
+          "рекомендательный алгоритм",
+          "вовлечённость",
+          "медиаграмотность",
+          "поляризация",
+          "персонализация контента"
+        ],
+        "name": "Information bubbles and recommendation algorithms",
+        "file": "WEB/4.2/critical_thinking/articles/information_bubbles.md",
+        "wikidata_id": "Q269415",
+        "author": "Виктория Османова"
+      }
+    ]
+  }
+]
