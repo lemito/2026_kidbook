@@ -152,11 +152,7 @@
 
 ---
 
-<<<<<<< HEAD
 Авторы: Александр Горячев
-=======
-Авторы: Горячев Александр
->>>>>>> 1a39d8c (fixed concepts.json)
 
 *Данные: WikiData ([Q116634](https://www.wikidata.org/wiki/Q116634), [Q862490](https://www.wikidata.org/wiki/Q862490), [Q6895044](https://www.wikidata.org/wiki/Q6895044), [Q11163](https://www.wikidata.org/wiki/Q11163), [Q8803](https://www.wikidata.org/wiki/Q8803), [Q859938](https://www.wikidata.org/wiki/Q859938), [Q321213](https://www.wikidata.org/wiki/Q321213), [Q7265601](https://www.wikidata.org/wiki/Q7265601))*
 
