@@ -13,7 +13,7 @@
 | Статья | Автор | Статус |
 |--------|-------|--------|
 | [Что происходит, когда я открываю сайт?](../../KIDBOOK/networks/what_happens/README.md) | — | 🚧 |
-| [История интернета](../../KIDBOOK/networks/internet_history/README.md) | — | 🚧 |
+| [История интернета](../../KIDBOOK/networks/HISTORY/internet_history.md) | Дима | ✅ |
 | [Wi-Fi и локальная сеть](../../KIDBOOK/networks/wifi_lan/README.md) | — | 🚧 |
 | [IP и MAC-адреса](../../KIDBOOK/networks/ip_mac/README.md) | — | 🚧 |
 | [TCP и UDP](../../KIDBOOK/networks/tcp_udp/README.md) | — | 🚧 |
