@@ -14,7 +14,12 @@
       "id": "5.2_cybersecurity/cpp_fundamentals/introduction",
       "name": "Введение в C++: Твой первый код",
       "description": "Узнаем историю одного из самых мощных языков в мире, настроим компьютер для работы и заставим его поздороваться с миром с помощью команды Hello World.",
-      "lemmas": ["язык", "компилятор", "код", "программирование"],
+      "lemmas": [
+        "язык",
+        "компилятор",
+        "код",
+        "программирование"
+      ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/1_introduction.md",
       "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_1_introduction.png",
       "wikidata_id": "Q2407",
@@ -24,7 +29,12 @@
       "id": "5.2_cybersecurity/cpp_fundamentals/syntax",
       "name": "Структура программы: Из чего состоит код",
       "description": "Разбираем скелет программы: зачем нужны заголовочные файлы, что такое главная функция main и зачем в конце каждой мысли ставить точку с запятой.",
-      "lemmas": ["main", "директива", "синтаксис", "блок"],
+      "lemmas": [
+        "main",
+        "директива",
+        "синтаксис",
+        "блок"
+      ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/2_syntax.md",
       "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_2_syntax.png",
       "wikidata_id": "Q7248435",
@@ -34,7 +44,13 @@
       "id": "5.2_cybersecurity/cpp_fundamentals/variables",
       "name": "Переменные и типы данных: Коробочки для памяти",
       "description": "Представь, что память — это склад с коробками. Учимся подбирать правильные коробки для целых чисел, букв и дробных чисел.",
-      "lemmas": ["int", "double", "char", "bool", "переменная"],
+      "lemmas": [
+        "int",
+        "double",
+        "char",
+        "bool",
+        "переменная"
+      ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/3_variables.md",
       "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_3_variables.png",
       "wikidata_id": "Q190087",
@@ -44,7 +60,12 @@
       "id": "5.2_cybersecurity/cpp_fundamentals/io",
       "name": "Ввод и вывод данных: Общение с компьютером",
       "description": "Учим компьютер слушать нас через клавиатуру и отвечать нам на экране с помощью команд cin и cout.",
-      "lemmas": ["iostream", "cin", "cout", "поток"],
+      "lemmas": [
+        "iostream",
+        "cin",
+        "cout",
+        "поток"
+      ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/4_io.md",
       "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_4_io.png",
       "wikidata_id": "Q105599763",
@@ -75,7 +96,7 @@
         "условие"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/6_control_flow.md",
-      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_control_flow.png",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_6_control_flow.png",
       "wikidata_id": "Q2984985",
       "author": "Кривошапкин Егор"
     },
@@ -90,7 +111,7 @@
         "повторение"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/7_loops.md",
-      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_loops.png",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_7_loops.png",
       "wikidata_id": "Q8868615",
       "author": "Кривошапкин Егор"
     },
@@ -133,7 +154,7 @@
         "список"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/10_arrays.md",
-      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_arrays.png",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_10_arrays.png",
       "wikidata_id": "Q186152",
       "author": "Велиев Рауф"
     },
@@ -148,7 +169,7 @@
         "память"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/11_pointers.md",
-      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_pointers.png",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_11_pointers.png",
       "wikidata_id": "Q118155",
       "author": "Кривошапкин Егор"
     },
