@@ -2,7 +2,7 @@
 
 ## Описание раздела
 
-Этот раздел энциклопедии посвящён тому, как работает запоминание и как можно учиться легче и эффективнее. Он помогает понять, почему одни вещи запоминаются быстро, а другие — с трудом, и какие приёмы действительно помогают улучшить память. Раздел охватывает базовые понятия о памяти, методы обучения и факторы, влияющие на усвоение знаний. Все материалы написаны простым и понятным языком для школьников.
+Этот раздел энциклопедии посвящён тому, как работает [запоминание](../../WEB/how_to_memorize/articles/zapominanie.md) и как можно учиться легче и эффективнее. Он помогает понять, почему одни вещи запоминаются быстро, а другие — с трудом, и какие приёмы действительно помогают улучшить [память](../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/board_and_intellectual_games.md). Раздел охватывает базовые понятия о [памяти](../../WEB/how_to_memorize/articles/pamyat.md), методы обучения и факторы, влияющие на усвоение знаний. Все материалы написаны простым и понятным языком для школьников.
 
 ## Цель работы
 
@@ -29,22 +29,22 @@
 
 - Запоминание
 - Память
-- Долговременная память
-- Кратковременная память
-- Внимание
-- Концентрация
-- Повторение
-- Интервальное повторение
-- Активное вспоминание
-- Мнемотехника
-- Ассоциации
-- Визуализация
-- Конспектирование
-- Самопроверка
-- Сон
-- Усталость
-- Стресс
-- Мотивация
+- [Долговременная память](../../WEB/how_to_memorize/articles/dolgovremennaya_pamyat.md)
+- [Кратковременная память](../../WEB/how_to_memorize/articles/kratkovremennaya_pamyat.md)
+- [Внимание](../../WEB/how_to_memorize/articles/vnimanie.md)
+- [Концентрация](../../WEB/how_to_memorize/articles/koncentraciya.md)
+- [Повторение](../../WEB/how_to_memorize/articles/povtorenie.md)
+- [Интервальное повторение](../../WEB/how_to_memorize/articles/intervalnoe_povtorenie.md)
+- [Активное вспоминание](../../WEB/how_to_memorize/articles/aktivnoe_vspominanie.md)
+- [Мнемотехника](../../WEB/how_to_memorize/articles/mnemotehnika.md)
+- [Ассоциации](../../WEB/how_to_memorize/articles/associacii.md)
+- [Визуализация](../../WEB/how_to_memorize/articles/vizualizaciya.md)
+- [Конспектирование](../../WEB/how_to_memorize/articles/konspektirovanie.md)
+- [Самопроверка](../../WEB/how_to_memorize/articles/samoproverka.md)
+- [Сон](../../WEB/how_to_memorize/articles/son.md)
+- [Усталость](../../WEB/how_to_memorize/articles/ustalost.md)
+- [Стресс](../../WEB/how_to_memorize/articles/stress.md)
+- [[Мотивация](../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/how_not_to_quit_hobby.md)](../../WEB/how_to_memorize/articles/motivaciya.md)
 
 ## Концептуализация предметной области
 
@@ -133,7 +133,7 @@ graph TD
 | Визуализация | Образное представление информации | Мнемотехника, Ассоциации, Конспектирование | vizualizaciya.md |
 | Конспектирование | Краткая запись ключевых идей | Повторение, Самопроверка, Визуализация, АВ | konspektirovanie.md |
 | Самопроверка | Проверка знаний без подсказок | АВ, Повторение, ИП, Конспектирование | samoproverka.md |
-| Сон | Отдых и обработка информации мозгом | ДП, Запоминание, Усталость, Концентрация | son.md | 
+| Сон | [[[Отдых](../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md)](../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md)](../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/leisure_and_why_need.md) и обработка информации мозгом | ДП, Запоминание, Усталость, Концентрация | son.md | 
 | Усталость | Снижение энергии и внимания | Сон, Концентрация, Внимание, Стресс | ustalost.md |
 | Стресс | Напряжение, мешающее учиться | Внимание, Концентрация, Усталость, Мотивация | stress.md | 
 | Мотивация | Побуждение к обучению | Запоминание, Повторение, Внимание, Самопроверка | motivaciya.md | 
@@ -190,7 +190,7 @@ SELECT ?property ?propertyLabel ?value ?valueLabel WHERE {
    - описание проекта и аудитории;
    - полную карту файлов и путей для корректных внутренних ссылок;
    - список обязательных связанных понятий для каждой статьи;
-   - требования к структуре: вступление, объяснение, пример из жизни, практические советы, таблица «помогает / мешает», частые ошибки, связь с другими понятиями, интересный факт, раздел «см. также».
+   - требования к структуре: вступление, объяснение, пример из жизни, практические советы, таблица «помогает / мешает», частые [ошибки](../../WEB/7.2_leisure/useful_and_interesting_leisure/articles/mistakes_in_choosing_hobby.md), связь с другими понятиями, интересный [факт](../../WEB/4.2/critical_thinking/articles/fact_and_opinion_differences.md), раздел «см. также».
 
 2. **Генерация**: каждая статья генерировалась отдельным запросом с указанием конкретного понятия и его обязательных связей.
 

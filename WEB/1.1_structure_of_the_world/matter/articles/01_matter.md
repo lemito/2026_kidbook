@@ -53,7 +53,7 @@
 
 | Свойство | Вещество | Физическое поле |
 |----------|----------|-----------------|
-| Масса покоя | Есть | Нет (кроме поля Хиггса) |
+| [Масса](11_physical_properties.md) покоя | Есть | Нет (кроме поля Хиггса) |
 | Дискретность | Состоит из частиц | Непрерывно (но квантуется) |
 | Локализация | Занимает конечный объём | Распределено в пространстве |
 | Скорость распространения | Меньше скорости света | До скорости света |
@@ -69,7 +69,7 @@
 
 Наряду с обычной материей, существует [антиматерия](16_antimatter.md), состоящая из [античастиц](16_antimatter.md), а также гипотетическая [тёмная материя](17_dark_matter.md), [природа](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md) которой до сих пор не установлена.
 
-## Историческое развитие понятия
+## Историческое [[[[развитие](../../../7.2_leisure/useful_and_interesting_leisure/articles/leisure_influence_on_future.md)](../../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md)](../../../7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit.md)](../../../7.2_leisure/useful_and_interesting_leisure/articles/useful_vs_useless_leisure.md) понятия
 
 Представления о материи развивались на протяжении тысячелетий. Концепция [дискретности материи](02_atomism.md) зародилась в Древней Греции и прошла долгий путь развития от [атомизма Демокрита до атомной теории Дальтона](02_atomism.md). Современная физика продолжает углублять понимание [природы](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md) материи, исследуя её на всё более фундаментальных уровнях.
 

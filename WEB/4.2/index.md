@@ -1,4 +1,4 @@
-# 4.2 Мышление и работа с информацией: Критическое мышление
+# 4.2 [Мышление](../7.2_leisure/useful_and_interesting_leisure/articles/board_and_intellectual_games.md) и работа с информацией: [[Критическое мышление](critical_thinking/articles/source_evaluation.md)](critical_thinking/articles/methods_of_logical_inference.md)
 
 **Раздел:** 4.2 Мышление и работа с информацией  
 **Тема:** Критическое мышление  
@@ -39,12 +39,12 @@
 | 5 | [Оценка источников информации](./critical_thinking/articles/source_evaluation.md) | Критерии надёжности источников: авторитетность автора, независимость, первичные и вторичные источники, конфликт интересов. |
 | 6 | [Работа с данными и статистикой](./critical_thinking/articles/data_and_statistics.md) | Как анализировать статистику, распознавать манипуляции с цифрами и искажения на графиках. |
 | 7 | [Главные ловушки мышления: Эффект подтверждения, ошибка выжившего и эффект Даннинга-Крюгера](./critical_thinking/articles/main_cognitive_distortions.md) | Ловушки мышления, которые приводят людей к неверным выводам на основе имеющихся данных |
-| 8 | [Как отличить факт от мнения?](./critical_thinking/articles/fact_and_opinion_differences.md) | Руководство, как отличить факт от мнения и найти истину. |
-| 9 | [Влияние эмоций: Как страх, надежда или симпатия заставляют нас игнорировать факты](./critical_thinking/articles/influence_of_emotions.md) | Как эмоции заставляют наш мозг принимать иррациональные решения. |
+| 8 | [Как отличить факт от мнения?](./critical_thinking/articles/fact_and_opinion_differences.md) | Руководство, как отличить [факт](critical_thinking/articles/fact_and_opinion_differences.md) от мнения и найти истину. |
+| 9 | [Влияние эмоций: Как страх, надежда или симпатия заставляют нас игнорировать факты](./critical_thinking/articles/influence_of_emotions.md) | Как [эмоции](critical_thinking/articles/influence_of_emotions.md) заставляют наш мозг принимать иррациональные решения. |
 | 10 | [Структурирование проблемы: от симптомов к первопричинам](./critical_thinking/articles/structuring_the_problem.md) | Как отделять внешние проявления от системных сбоев и правильно формулировать Problem Statement для поиска эффективных решений. |
 | 11 | [Модели решений: SWOT, Шесть шляп и Интеллект-карты](./critical_thinking/articles/decision_models.md) | Инструментарий для системного выбора альтернатив, борьбы с когнитивными искажениями и творческой генерации идей. |
 | 12 | [Рефлексия и Post-mortem: культура обучения на ошибках](./critical_thinking/articles/reflection_and_post-mortem.md) | Методология анализа прошлых решений и инцидентов для извлечения опыта без поиска виновных (Blameless Culture). |
-| 13 | [Распознавание манипуляций в СМИ и социальных сетях](./critical_thinking/articles/manipulation_recognition.md) | Как распознать язык вражды, эмоционально окрашенную лексику и манипулятивные приёмы в новостях и соцсетях. |
+| 13 | [Распознавание манипуляций в СМИ и социальных сетях](./critical_thinking/articles/manipulation_recognition.md) | Как распознать [язык вражды](critical_thinking/articles/manipulation_recognition.md), эмоционально окрашенную лексику и манипулятивные приёмы в новостях и соцсетях. |
 | 14 | [Приёмы пропаганды: навешивание ярлыков, сияющая обобщённость и подмена понятий](./critical_thinking/articles/propaganda_techniques.md) | Классические техники скрытого влияния на общественное мнение и способы их распознавания. |
 | 15 | [Информационные пузыри и рекомендательные алгоритмы](./critical_thinking/articles/information_bubbles.md) | Как алгоритмы соцсетей и поисковиков формируют «пузырь» вокруг пользователя и как из него выйти. |
 

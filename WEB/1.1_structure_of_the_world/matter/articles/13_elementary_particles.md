@@ -2,7 +2,7 @@
 
 ![Стандартная модель элементарных частиц](/WEB/1.1_structure_of_the_world/matter/images/Standard_Model_of_Elementary_Particles.svg.png)
 
-*Стандартная модель [элементарных частиц](01_matter.md) — все известные фундаментальные частицы*
+*[Стандартная модель](14_fundamental_interactions.md) [элементарных частиц](01_matter.md) — все известные фундаментальные частицы*
 
 **[Элементарные частицы](01_matter.md)** — фундаментальные, неделимые (в рамках современных [знаний](../../../2.1_society/rights_and_responsibilities/articles/education_right.md)) составные части [материи](01_matter.md). Все наблюдаемые формы [вещества](01_matter.md) — от [атомов](03_atom_structure.md) и [молекул](04_molecular_level.md) до [звёзд](08_plasma.md) — построены из [элементарных частиц](01_matter.md), взаимодействующих через [фундаментальные силы](14_fundamental_interactions.md).
 
@@ -25,7 +25,7 @@
 
 Частицы делятся на два [класса](../../../2.1_society/rights_and_responsibilities/articles/school.md):
 
-| [Класс](../../../2.1_society/rights_and_responsibilities/articles/school.md) | Спин | Статистика | Роль |
+| [Класс](../../../2.1_society/rights_and_responsibilities/articles/school.md) | Спин | [Статистика](../../../4.2/critical_thinking/articles/data_and_statistics.md) | Роль |
 |-------|------|------------|------|
 | **Фермионы** | 1/2 | Ферми-Дирака | Составляют [вещество](01_matter.md) |
 | **Бозоны** | 0 или 1 | Бозе-[Эйнштейна](15_conservation_law.md) | Переносят взаимодействия |
@@ -93,7 +93,7 @@
 
 **Бозон Хиггса** (H⁰) — открыт в 2012 году на Большом адронном коллайдере ([ЦЕРН](16_antimatter.md)).
 
-| Свойство | Значение |
+| Свойство | [Значение](../../../7.2_leisure/useful_and_interesting_leisure/articles/leisure_and_why_need.md) |
 |----------|----------|
 | [Масса](01_matter.md) | ~125,1 ГэВ/c² |
 | Спин | 0 |

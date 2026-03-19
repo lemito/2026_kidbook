@@ -1,4 +1,4 @@
-# Ложные связи и манипуляция
+# Ложные связи и [[манипуляция](../../../4.2/critical_thinking/articles/manipulation_recognition.md)](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md)
 
 ![Мальчик в счастливых носках играет в настольную игру](../images/false_connections.jpeg)
 

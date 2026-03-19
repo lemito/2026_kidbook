@@ -1,4 +1,4 @@
-# Развлечения: игры, фильмы и музыка — баланс пользы и развлечения
+# Развлечения: игры, фильмы и музыка — [баланс](../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md) пользы и развлечения
 
 ## Описание направления
 
@@ -6,7 +6,7 @@
 
 ## Онтология предметной области
 
-### Визуализация (Mermaid)
+### [Визуализация](../how_to_memorize/articles/vizualizaciya.md) (Mermaid)
 
 ```mermaid
 graph TD
@@ -76,7 +76,7 @@ graph TD
 |-----------|-------------|---------|
 | **Иерархическая** (подвид / включает) | Сплошная линия → | Развлечение → Фильм; Фильм → Мультфильм |
 | **Горизонтальная** (влияет / использует) | Пунктирная линия -.-> | Фильмы ↔ Игры (экранизации); Песня → Фильм (саундтрек) |
-| **Функциональная** (требует / развивает) | Пунктирная линия -.-> | Развлечение → Медиаграмотность |
+| **Функциональная** (требует / развивает) | Пунктирная линия -.-> | Развлечение → [[Медиаграмотность](../4.2/critical_thinking/articles/information_bubbles.md)](../4.2/critical_thinking/articles/manipulation_recognition.md) |
 
 ### Список понятий
 
@@ -84,8 +84,8 @@ graph TD
 |---|---------|----------|-----------|------|
 | 1 | История видеоигр | [Q941220](https://www.wikidata.org/wiki/Q941220) | Игры | `articles/history-of-games.md` |
 | 2 | Жанры видеоигр | [Q659563](https://www.wikidata.org/wiki/Q659563) | Игры | `articles/game-genres.md` |
-| 3 | Настольные игры | [Q131436](https://www.wikidata.org/wiki/Q131436) | Игры | `articles/board-games.md` |
-| 4 | Киберспорт | [Q300920](https://www.wikidata.org/wiki/Q300920) | Игры | `articles/esports.md` |
+| 3 | [Настольные игры](../7.2_leisure/useful_and_interesting_leisure/articles/board_and_intellectual_games.md) | [Q131436](https://www.wikidata.org/wiki/Q131436) | Игры | `articles/board-games.md` |
+| 4 | [Киберспорт](../7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit.md) | [Q300920](https://www.wikidata.org/wiki/Q300920) | Игры | `articles/esports.md` |
 | 5 | Азартные игры и их вред | [Q133323](https://www.wikidata.org/wiki/Q133323) | Игры | `articles/gambling-and-harm.md` |
 | 6 | Геймификация | [Q1145661](https://www.wikidata.org/wiki/Q1145661) | Игры | `articles/gamification.md` |
 | 7 | Композитор | [Q36834](https://www.wikidata.org/wiki/Q36834) | Музыка | `articles/composer.md` |
@@ -93,7 +93,7 @@ graph TD
 | 9 | Музыкальные инструменты | [Q34379](https://www.wikidata.org/wiki/Q34379) | Музыка | `articles/musical_instruments.md` |
 | 10 | Понятие музыки и её устройство | [Q638](https://www.wikidata.org/wiki/Q638) | Музыка | `articles/music.md` |
 | 11 | История музыки | [Q188451](https://www.wikidata.org/wiki/Q188451) | Музыка | `articles/history_of_music.md` |
-| 12 | Влияние музыки на человека | [Q886424](https://www.wikidata.org/wiki/Q886424) | Музыка | `articles/psychology_of_music.md` |
+| 12 | [Влияние](../7.2_leisure/useful_and_interesting_leisure/articles/leisure_influence_on_future.md) музыки на человека | [Q886424](https://www.wikidata.org/wiki/Q886424) | Музыка | `articles/psychology_of_music.md` |
 | 13 | Режиссёр | [P57](https://www.wikidata.org/wiki/Property:P57) | Фильмы | `articles/director.md` |
 | 14 | Сценарий | [Q103076](https://www.wikidata.org/wiki/Q103076) | Фильмы | `articles/script.md` |
 | 15 | Саундтрек | [Q217199](https://www.wikidata.org/wiki/Q217199) | Фильмы | `articles/soundtrack.md` |
@@ -124,7 +124,7 @@ graph TD
 Промпт-шаблон:
 > **Системный**: "Ты автор детской энциклопедии для восьмиклассников. Пиши просто, интересно и понятно для десятилетнего ребёнка. Пиши развёрнуто, подробно раскрывая каждый раздел."
 >
-> **Пользователь**: "Напиши подробную статью для детской энциклопедии о понятии «{понятие}». Тема раздела: «Игры, фильмы и музыка: баланс пользы и развлечения». Описание: {description}. Содержание: введение, история, виды, интересные факты (3-5), примеры из жизни, польза, риски, баланс, заключение. Используй WikiData: {wikidata_context}. Ответ в формате markdown."
+> **Пользователь**: "Напиши подробную статью для детской энциклопедии о понятии «{понятие}». Тема раздела: «Игры, фильмы и музыка: баланс пользы и развлечения». Описание: {description}. Содержание: введение, история, виды, интересные факты (3-5), примеры из жизни, польза, [риски](../7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md), баланс, заключение. Используй WikiData: {wikidata_context}. Ответ в формате markdown."
 
 Параметры: `temperature=0.7`, `max_tokens=3000`
 

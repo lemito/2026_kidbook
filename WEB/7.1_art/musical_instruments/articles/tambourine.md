@@ -85,7 +85,7 @@
 
 ---
 
-## Советы начинающим
+## [Советы](../../../7.2_leisure/useful_and_interesting_leisure/articles/mistakes_in_choosing_hobby.md) начинающим
 
 1. **Освой три основных приёма.** Удар ладонью — встряхивание — thumb roll. Трёх хватит для 90% применений.
 

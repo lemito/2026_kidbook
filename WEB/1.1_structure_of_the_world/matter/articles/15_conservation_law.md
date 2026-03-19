@@ -16,7 +16,7 @@
 
 ## [Закон сохранения](01_matter.md) [массы](01_matter.md)
 
-### Историческое развитие
+### Историческое [[[[развитие](../../../7.2_leisure/useful_and_interesting_leisure/articles/leisure_influence_on_future.md)](../../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md)](../../../7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit.md)](../../../7.2_leisure/useful_and_interesting_leisure/articles/useful_vs_useless_leisure.md)
 
 [Закон сохранения](01_matter.md) [массы](01_matter.md) формулировался независимо несколькими учёными:
 
@@ -77,7 +77,7 @@
 
 ### Эквивалентность [массы](01_matter.md) и [энергии](01_matter.md)
 
-В 1905 году **Альберт Эйнштейн** показал, что [масса](01_matter.md) и [энергия](01_matter.md) эквивалентны:
+В 1905 году **Альберт [Эйнштейн](18_mass_energy.md)** показал, что [масса](01_matter.md) и [энергия](01_matter.md) эквивалентны:
 
 > **[E = mc²](01_matter.md)**
 
@@ -132,7 +132,7 @@
 
 Теорема Нётер (1918): каждой непрерывной симметрии физической системы соответствует [закон сохранения](01_matter.md).
 
-## Значение для науки и философии
+## [Значение](../../../7.2_leisure/useful_and_interesting_leisure/articles/leisure_and_why_need.md) для науки и философии
 
 [Закон сохранения](01_matter.md) [массы-энергии](18_mass_energy.md) имеет глубокое значение:
 
