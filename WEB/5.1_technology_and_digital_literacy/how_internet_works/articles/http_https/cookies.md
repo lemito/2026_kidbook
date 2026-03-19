@@ -121,4 +121,7 @@ Set-Cookie: session_id=abc123; HttpOnly; Secure; SameSite=Strict; Expires=...
 ---
 
 Авторы: Коростин Никита
+
+*Данные: WikiData ([Q483326](https://www.wikidata.org/wiki/Q483326))*
+
 *Ресурсы: LLM — Claude Sonnet 4.6*
