@@ -14,7 +14,7 @@
       "шифрование",
       "замочек"
     ],
-    "file": "networks/http_https/README.md"
+    "file": "networks/http_https/http_https.md"
   },
   {
     "id": "networks/http_request",
@@ -27,7 +27,7 @@
       "POST",
       "метод"
     ],
-    "file": "networks/http_https/README.md"
+    "file": "networks/http_https/http_https.md"
   },
   {
     "id": "networks/http_response",
@@ -39,7 +39,7 @@
       "статус",
       "заголовок"
     ],
-    "file": "networks/http_https/README.md"
+    "file": "networks/http_https/http_https.md"
   },
   {
     "id": "networks/status_code",
@@ -53,7 +53,7 @@
       "ошибка",
       "статус"
     ],
-    "file": "networks/http_https/README.md"
+    "file": "networks/http_https/http_https.md"
   },
   {
     "id": "networks/tls_ssl",
@@ -66,7 +66,7 @@
       "безопасность",
       "сертификат"
     ],
-    "file": "networks/http_https/README.md"
+    "file": "networks/http_https/http_https.md"
   },
   {
     "id": "networks/certificate",
