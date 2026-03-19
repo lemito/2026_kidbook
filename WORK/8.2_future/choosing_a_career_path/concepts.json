@@ -4,161 +4,146 @@
     "author_group": "672",
     "members": [
       "Ильинский Никита",
-      "Фамилия Имя 2",
-      "Фамилия Имя 3",
+      "Дехтеренко Дмитрий",
+      "Иванов Владимир",
       "Фамилия Имя 4",
       "Фамилия Имя 5"
     ],
     "concepts": [
       {
-        "id": "8.2_career/profession",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "род трудовой деятельности человека, владеющего комплексом специальных теоретических знаний и практических навыков",
         "lemmas": ["специальность", "род занятий", "профессиональная деятельность"],
         "name": "profession",
-        "file": "8.2_career/articles/profession.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/profession.md",
         "wikidata_id": "Q28640",
-        "author": "Ильинский Никита",
-        "article_llm": "GigaChat"
+        "author": "Ильинский Никита"
       },
       {
-        "id": "8.2_career/skills",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "О разнице между твердыми и мягкими навыками (Hard и Soft Skills) и как их развивать.",
         "lemmas": ["навыки", "скиллы", "умения", "способности", "soft skills"],
         "name": "skills",
-        "file": "8.2_career/articles/skills.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/skills.md",
         "wikidata_id": "Q1058914",
-        "author": "Ильинский Никита",
-        "article_llm": "GigaChat"
+        "author": "Ильинский Никита"
       },
       {
-        "id": "8.2_career/hobbies",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "Как детские увлечения и хобби превращаются в серьезную работу в будущем.",
         "lemmas": ["хобби", "увлечения", "интересы", "кружки"],
         "name": "hobbies",
-        "file": "8.2_career/articles/hobbies.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/hobbies.md",
         "wikidata_id": "Q11707",
-        "author": "Ильинский Никита",
-        "article_llm": "GigaChat"
+        "author": "Ильинский Никита"
       },
       {
-        "id": "8.2_career/university",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "Об обучении в университете: зачем туда ходить и чему там учат будущих профи.",
         "lemmas": ["университет", "вуз", "высшее образование", "студент", "лекция"],
         "name": "university",
-        "file": "8.2_career/articles/university.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/university.md",
         "wikidata_id": "Q3918",
-        "author": "Фамилия Имя 2",
-        "article_llm": "GigaChat"
+        "author": "Дехтеренко Дмитрий"
       },
       {
-        "id": "8.2_career/internship",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "Что такое стажировка и как попробовать себя в настоящем деле, пока ты еще учишься.",
         "lemmas": ["стажировка", "практика", "стажер", "первый опыт"],
         "name": "internship",
-        "file": "8.2_career/articles/internship.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/internship.md",
         "wikidata_id": "Q1313364",
-        "author": "Фамилия Имя 2",
-        "article_llm": "GigaChat"
+        "author": "Дехтеренко Дмитрий"
       },
       {
-        "id": "8.2_career/career_path",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "О карьерной лестнице: как пройти путь от помощника до большого руководителя.",
         "lemmas": ["карьера", "карьерный рост", "повышение", "успех"],
         "name": "career_path",
-        "file": "8.2_career/articles/career-path.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/career-path.md",
         "wikidata_id": "Q652431",
-        "author": "Фамилия Имя 2",
-        "article_llm": "GigaChat"
+        "author": "Дехтеренко Дмитрий"
       },
       {
-        "id": "8.2_career/programmer",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "О профессии программиста: как люди создают цифровые миры с помощью кода.",
         "lemmas": ["программист", "код", "разработка", "IT", "айтишник"],
         "name": "programmer",
-        "file": "8.2_career/articles/programmer.md",
+        "file": "Иванов Владимирprogrammer.md",
         "wikidata_id": "Q5482740",
-        "author": "Фамилия Имя 3",
-        "article_llm": "GigaChat"
+        "author": "Иванов Владимир"
       },
       {
-        "id": "8.2_career/doctor",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "О работе врача: почему это одна из самых важных и сложных профессий в мире.",
         "lemmas": ["врач", "доктор", "медицина", "больница", "здоровье"],
         "name": "doctor",
-        "file": "8.2_career/articles/doctor.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/doctor.md",
         "wikidata_id": "Q39631",
-        "author": "Фамилия Имя 3",
-        "article_llm": "GigaChat"
+        "author": "Иванов Владимир"
       },
       {
-        "id": "8.2_career/designer",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "Кто такой дизайнер и как он делает мир вокруг нас красивым и удобным.",
         "lemmas": ["дизайнер", "дизайн", "стиль", "оформление", "творчество"],
         "name": "designer",
-        "file": "8.2_career/articles/designer.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/designer.md",
         "wikidata_id": "Q190539",
-        "author": "Фамилия Имя 3",
-        "article_llm": "GigaChat"
+        "author": "Иванов Владимир"
       },
       {
-        "id": "8.2_career/resume",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "О том, как составить свое первое резюме и рассказать о своих талантах.",
         "lemmas": ["резюме", "портфолио", "анкета", "самопрезентация"],
         "name": "resume",
-        "file": "8.2_career/articles/resume.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/resume.md",
         "wikidata_id": "Q186649",
-        "author": "Фамилия Имя 4",
-        "article_llm": "GigaChat"
+        "author": "Фамилия Имя 4"
       },
       {
-        "id": "8.2_career/interview",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "Что такое собеседование: как подготовиться к первой встрече с работодателем.",
         "lemmas": ["собеседование", "интервью", "найм", "работа"],
         "name": "interview",
-        "file": "8.2_career/articles/interview.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/interview.md",
         "wikidata_id": "Q178685",
-        "author": "Фамилия Имя 4",
-        "article_llm": "GigaChat"
+        "author": "Фамилия Имя 4"
       },
       {
-        "id": "8.2_career/salary",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "От чего зависит зарплата и почему специалисты разного уровня получают по-разному.",
         "lemmas": ["зарплата", "деньги", "доход", "заработок", "оплата труда"],
         "name": "salary",
-        "file": "8.2_career/articles/salary.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/salary.md",
         "wikidata_id": "Q178631",
-        "author": "Фамилия Имя 4",
-        "article_llm": "GigaChat"
+        "author": "Фамилия Имя 4"
       },
       {
-        "id": "8.2_career/team",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "Почему работать в команде эффективнее, чем одному, и кто такие коллеги.",
         "lemmas": ["команда", "коллеги", "сотрудничество", "коллектив"],
         "name": "team",
-        "file": "8.2_career/articles/team.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/team.md",
         "wikidata_id": "Q171138",
-        "author": "Фамилия Имя 5",
-        "article_llm": "GigaChat"
+        "author": "Фамилия Имя 5"
       },
       {
-        "id": "8.2_career/office",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "Как устроено рабочее место: от больших офисов до работы из дома (удаленки).",
         "lemmas": ["офис", "кабинет", "удаленка", "рабочее место"],
         "name": "office",
-        "file": "8.2_career/articles/office.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/office.md",
         "wikidata_id": "Q149460",
-        "author": "Фамилия Имя 5",
-        "article_llm": "GigaChat"
+        "author": "Фамилия Имя 5"
       },
       {
-        "id": "8.2_career/dream",
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
         "description": "О мечте: как понять, кем ты хочешь стать, когда вырастешь, и сделать первый шаг.",
         "lemmas": ["мечта", "цель", "будущее", "планирование"],
         "name": "dream",
-        "file": "8.2_career/articles/dream.md",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/dream.md",
         "wikidata_id": "Q1158639",
-        "author": "Фамилия Имя 5",
-        "article_llm": "GigaChat"
+        "author": "Фамилия Имя 5"
       }
     ]
   }
