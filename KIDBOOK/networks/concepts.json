@@ -223,6 +223,27 @@
     "wikidata_id": "Q483326"
   },
   {
+    "id": "networks/internet_history",
+    "name": "История интернета",
+    "description": "Обзор истории интернета: от ARPANET до наших дней, сеть, протоколы, IP, DNS, HTTP, Wi-Fi",
+    "lemmas": ["история интернета", "интернет", "сеть", "ARPANET", "протокол", "TCP/IP", "WWW"],
+    "file": "networks/history/internet_history.md"
+  },
+  {
+    "id": "networks/arpanet",
+    "name": "ARPANET",
+    "description": "Первая в истории компьютерная сеть (1969), пакетная передача, IMP, распределённая сеть",
+    "lemmas": ["ARPANET", "ARPA", "пакетная передача", "пакет", "IMP", "маршрутизатор", "распределённая сеть", "Ликлайдер", "Робертс"],
+    "file": "networks/history/arpanet.md",
+    "wikidata_id": "Q42998"
+  },
+  {
+    "id": "networks/internet_at_home",
+    "name": "Как интернет пришёл в каждый дом",
+    "description": "Подстатья: модемы, провайдеры, BBS, браузеры, Wi-Fi, соцсети — путь из лабораторий в дома",
+    "lemmas": ["модем", "провайдер", "BBS", "браузер", "Mosaic", "Netscape", "Internet Explorer", "Chrome", "Wi-Fi", "соцсети", "AOL"],
+    "file": "networks/history/internet_at_home.md"
+  {
     "id": "networks/dns",
     "name": "DNS",
     "description": "Система доменных имён — глобальная 'телефонная книга' интернета, переводящая доменные имена в IP-адреса",
