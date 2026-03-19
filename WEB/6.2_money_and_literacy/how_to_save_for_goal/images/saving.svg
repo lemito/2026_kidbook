@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#EAF4FB"/>
+  <!-- Bar chart showing growth of savings -->
+  <!-- Axes -->
+  <line x1="100" y1="320" x2="540" y2="320" stroke="#2C3E50" stroke-width="2"/>
+  <line x1="100" y1="60" x2="100" y2="320" stroke="#2C3E50" stroke-width="2"/>
+  <!-- Bars (months of saving) -->
+  <rect x="130" y="280" width="50" height="40" fill="#3498DB" rx="4"/>
+  <text x="155" y="275" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">200₽</text>
+  <text x="155" y="340" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">Янв</text>
+  <rect x="210" y="240" width="50" height="80" fill="#2980B9" rx="4"/>
+  <text x="235" y="235" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">400₽</text>
+  <text x="235" y="340" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">Фев</text>
+  <rect x="290" y="195" width="50" height="125" fill="#1A6FA3" rx="4"/>
+  <text x="315" y="190" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">650₽</text>
+  <text x="315" y="340" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">Мар</text>
+  <rect x="370" y="155" width="50" height="165" fill="#1558A0" rx="4"/>
+  <text x="395" y="150" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">850₽</text>
+  <text x="395" y="340" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">Апр</text>
+  <rect x="450" y="100" width="50" height="220" fill="#0F3E80" rx="4"/>
+  <text x="475" y="95" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">1100₽</text>
+  <text x="475" y="340" text-anchor="middle" font-family="Arial" font-size="12" fill="#2C3E50">Май</text>
+  <!-- Trend arrow -->
+  <path d="M130,280 Q300,200 500,100" stroke="#E74C3C" stroke-width="2.5" fill="none" stroke-dasharray="8,4"/>
+  <!-- Text -->
+  <text x="300" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1A5276">Сбережения растут каждый месяц!</text>
+</svg>

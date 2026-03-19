@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#FDE8F0"/>
+  <!-- Piggy body -->
+  <ellipse cx="290" cy="230" rx="130" ry="110" fill="#F4A7B9" stroke="#E91E8C" stroke-width="3"/>
+  <!-- Head -->
+  <circle cx="390" cy="180" r="65" fill="#F4A7B9" stroke="#E91E8C" stroke-width="3"/>
+  <!-- Snout -->
+  <ellipse cx="420" cy="200" rx="28" ry="22" fill="#F08080" stroke="#E91E8C" stroke-width="2"/>
+  <circle cx="413" cy="200" r="6" fill="#C0392B"/>
+  <circle cx="427" cy="200" r="6" fill="#C0392B"/>
+  <!-- Eye -->
+  <circle cx="395" cy="170" r="8" fill="#2C3E50"/>
+  <circle cx="398" cy="167" r="3" fill="white"/>
+  <!-- Ear -->
+  <ellipse cx="365" cy="125" rx="18" ry="25" fill="#F4A7B9" stroke="#E91E8C" stroke-width="2"/>
+  <!-- Legs -->
+  <rect x="195" y="315" width="35" height="45" rx="8" fill="#F4A7B9" stroke="#E91E8C" stroke-width="2"/>
+  <rect x="250" y="320" width="35" height="40" rx="8" fill="#F4A7B9" stroke="#E91E8C" stroke-width="2"/>
+  <rect x="310" y="320" width="35" height="40" rx="8" fill="#F4A7B9" stroke="#E91E8C" stroke-width="2"/>
+  <rect x="360" y="315" width="35" height="45" rx="8" fill="#F4A7B9" stroke="#E91E8C" stroke-width="2"/>
+  <!-- Coin slot -->
+  <rect x="265" y="135" width="40" height="8" rx="3" fill="#C0392B"/>
+  <!-- Coins going in -->
+  <rect x="279" y="100" width="12" height="20" rx="3" fill="#F1C40F" stroke="#E67E22" stroke-width="1.5"/>
+  <!-- Tail -->
+  <path d="M165,210 Q130,190 145,230 Q160,270 140,250" stroke="#E91E8C" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Text -->
+  <text x="300" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#C0392B">Копилка — твой первый банк!</text>
+</svg>

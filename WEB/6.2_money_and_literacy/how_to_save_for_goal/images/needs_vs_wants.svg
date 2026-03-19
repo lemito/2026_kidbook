@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#F8F9FA"/>
+  <!-- Left side: Needs -->
+  <rect x="30" y="60" width="250" height="290" rx="15" fill="#27AE60" opacity="0.15" stroke="#27AE60" stroke-width="2"/>
+  <text x="155" y="95" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="#1E8449">ПОТРЕБНОСТИ</text>
+  <text x="155" y="113" text-anchor="middle" font-family="Arial" font-size="13" fill="#1E8449">(без них нельзя)</text>
+  <text x="75" y="150" font-family="Arial" font-size="16" fill="#2C3E50">🍎 Еда</text>
+  <text x="75" y="185" font-family="Arial" font-size="16" fill="#2C3E50">🏠 Жильё</text>
+  <text x="75" y="220" font-family="Arial" font-size="16" fill="#2C3E50">👕 Одежда</text>
+  <text x="75" y="255" font-family="Arial" font-size="16" fill="#2C3E50">🏫 Образование</text>
+  <text x="75" y="290" font-family="Arial" font-size="16" fill="#2C3E50">💊 Здоровье</text>
+  <text x="75" y="325" font-family="Arial" font-size="16" fill="#2C3E50">🚌 Транспорт</text>
+  <!-- Divider VS -->
+  <text x="300" y="215" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#7F8C8D">VS</text>
+  <!-- Right side: Wants -->
+  <rect x="320" y="60" width="250" height="290" rx="15" fill="#E67E22" opacity="0.15" stroke="#E67E22" stroke-width="2"/>
+  <text x="445" y="95" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="#D35400">ЖЕЛАНИЯ</text>
+  <text x="445" y="113" text-anchor="middle" font-family="Arial" font-size="13" fill="#D35400">(хочу, но могу подождать)</text>
+  <text x="340" y="150" font-family="Arial" font-size="16" fill="#2C3E50">🎮 Игры</text>
+  <text x="340" y="185" font-family="Arial" font-size="16" fill="#2C3E50">🍦 Сладости</text>
+  <text x="340" y="220" font-family="Arial" font-size="16" fill="#2C3E50">🎒 Новый рюкзак</text>
+  <text x="340" y="255" font-family="Arial" font-size="16" fill="#2C3E50">🎬 Кино</text>
+  <text x="340" y="290" font-family="Arial" font-size="16" fill="#2C3E50">🚲 Велосипед</text>
+  <text x="340" y="325" font-family="Arial" font-size="16" fill="#2C3E50">📱 Гаджеты</text>
+  <!-- Text -->
+  <text x="300" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2C3E50">Умей отличать нужное от желанного!</text>
+</svg>

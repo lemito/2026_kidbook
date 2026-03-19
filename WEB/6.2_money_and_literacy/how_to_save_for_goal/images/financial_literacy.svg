@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#EAF4FB"/>
+  <!-- Open book -->
+  <path d="M100,100 L300,80 L500,100 L500,310 L300,290 L100,310 Z" fill="white" stroke="#2980B9" stroke-width="2"/>
+  <line x1="300" y1="80" x2="300" y2="290" stroke="#2980B9" stroke-width="2.5"/>
+  <!-- Spine shadow -->
+  <path d="M295,82 L295,288" stroke="#BDC3C7" stroke-width="3"/>
+  <!-- Left page content -->
+  <text x="200" y="125" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#2980B9">Финансовая</text>
+  <text x="200" y="143" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#2980B9">грамотность — это:</text>
+  <text x="125" y="168" font-family="Arial" font-size="12" fill="#2C3E50">✅ Уметь считать деньги</text>
+  <text x="125" y="190" font-family="Arial" font-size="12" fill="#2C3E50">✅ Отличать нужное от лишнего</text>
+  <text x="125" y="212" font-family="Arial" font-size="12" fill="#2C3E50">✅ Планировать бюджет</text>
+  <text x="125" y="234" font-family="Arial" font-size="12" fill="#2C3E50">✅ Копить на цели</text>
+  <text x="125" y="256" font-family="Arial" font-size="12" fill="#2C3E50">✅ Понимать инфляцию</text>
+  <text x="125" y="278" font-family="Arial" font-size="12" fill="#2C3E50">✅ Пользоваться банком</text>
+  <!-- Right page: coin growing into tree -->
+  <circle cx="400" cy="250" r="20" fill="#F1C40F" stroke="#E67E22" stroke-width="2"/>
+  <text x="400" y="257" text-anchor="middle" font-family="Arial" font-size="14" fill="#E67E22" font-weight="bold">₽</text>
+  <!-- Tree trunk -->
+  <rect x="394" y="175" width="12" height="75" fill="#8B6914" rx="3"/>
+  <!-- Tree crown -->
+  <circle cx="400" cy="150" r="40" fill="#27AE60"/>
+  <circle cx="370" cy="165" r="25" fill="#2ECC71"/>
+  <circle cx="430" cy="165" r="25" fill="#2ECC71"/>
+  <!-- Money leaves -->
+  <text x="388" y="150" font-family="Arial" font-size="12" fill="#F1C40F" font-weight="bold">₽</text>
+  <text x="408" y="138" font-family="Arial" font-size="12" fill="#F1C40F" font-weight="bold">₽</text>
+  <text x="375" y="162" font-family="Arial" font-size="12" fill="#F1C40F" font-weight="bold">₽</text>
+  <!-- Text -->
+  <text x="300" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#1A5276">Финансовая грамотность — сила знаний!</text>
+</svg>

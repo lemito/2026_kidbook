@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#FEF9E7"/>
+  <!-- Shopping basket and price tags showing inflation -->
+  <!-- Basket -->
+  <path d="M180,250 Q200,350 300,350 Q400,350 420,250 Z" fill="#E67E22" opacity="0.8"/>
+  <path d="M175,255 L425,255" stroke="#D35400" stroke-width="4" stroke-linecap="round"/>
+  <!-- Handle -->
+  <path d="M230,255 Q250,180 300,165 Q350,180 370,255" stroke="#D35400" stroke-width="4" fill="none"/>
+  <!-- Items in basket -->
+  <circle cx="250" cy="290" r="25" fill="#E74C3C"/>
+  <text x="250" y="297" text-anchor="middle" font-family="Arial" font-size="20">🍎</text>
+  <circle cx="300" cy="285" r="25" fill="#F1C40F"/>
+  <text x="300" y="292" text-anchor="middle" font-family="Arial" font-size="20">🥛</text>
+  <circle cx="355" cy="290" r="25" fill="#27AE60"/>
+  <text x="355" y="297" text-anchor="middle" font-family="Arial" font-size="20">🥐</text>
+  <!-- Price tags: then vs now -->
+  <rect x="50" y="100" width="150" height="110" rx="10" fill="#D5F5E3" stroke="#27AE60" stroke-width="2"/>
+  <text x="125" y="125" text-anchor="middle" font-family="Arial" font-size="13" fill="#1E8449" font-weight="bold">В прошлом году:</text>
+  <text x="125" y="150" text-anchor="middle" font-family="Arial" font-size="15" fill="#2C3E50">Хлеб: 50₽</text>
+  <text x="125" y="172" text-anchor="middle" font-family="Arial" font-size="15" fill="#2C3E50">Молоко: 80₽</text>
+  <text x="125" y="194" text-anchor="middle" font-family="Arial" font-size="13" fill="#1E8449" font-weight="bold">Итого: 130₽</text>
+  <rect x="400" y="100" width="155" height="110" rx="10" fill="#FDEDEC" stroke="#E74C3C" stroke-width="2"/>
+  <text x="477" y="125" text-anchor="middle" font-family="Arial" font-size="13" fill="#C0392B" font-weight="bold">Сегодня:</text>
+  <text x="477" y="150" text-anchor="middle" font-family="Arial" font-size="15" fill="#2C3E50">Хлеб: 58₽ ↑</text>
+  <text x="477" y="172" text-anchor="middle" font-family="Arial" font-size="15" fill="#2C3E50">Молоко: 94₽ ↑</text>
+  <text x="477" y="194" text-anchor="middle" font-family="Arial" font-size="13" fill="#C0392B" font-weight="bold">Итого: 152₽ ↑</text>
+  <!-- Arrow between -->
+  <text x="290" y="165" text-anchor="middle" font-family="Arial" font-size="28" fill="#E74C3C">→</text>
+  <text x="290" y="185" text-anchor="middle" font-family="Arial" font-size="11" fill="#E74C3C">+17%</text>
+  <!-- Text -->
+  <text x="300" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#7D6608">Инфляция: цены растут со временем</text>
+</svg>
