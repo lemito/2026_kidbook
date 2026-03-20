@@ -24,7 +24,7 @@
           "дедлайн",
           "накопление на цель"
         ],
-        "name": "What is a goal",
+        "name": "Цель",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/goal.md",
         "wikidata_id": "Q485053",
         "author": "Гаврилов Никита"
@@ -43,7 +43,7 @@
           "история денег",
           "что такое деньги"
         ],
-        "name": "What is money",
+        "name": "Деньги",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/money.md",
         "wikidata_id": "Q1368",
         "author": "Гаврилов Никита"
@@ -61,7 +61,7 @@
           "финансовый учёт",
           "доходы и расходы"
         ],
-        "name": "Budget",
+        "name": "Бюджет",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/budget.md",
         "wikidata_id": "Q4835944",
         "author": "Гаврилов Никита"
@@ -79,7 +79,7 @@
           "piggy bank",
           "первые сбережения"
         ],
-        "name": "Piggy bank",
+        "name": "Копилка",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/piggy_bank.md",
         "wikidata_id": "Q215504",
         "author": "Григорьев Тимофей"
@@ -97,7 +97,7 @@
           "откуда берутся деньги",
           "карманные деньги"
         ],
-        "name": "Income",
+        "name": "Доход",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/income.md",
         "wikidata_id": "Q132580",
         "author": "Григорьев Тимофей"
@@ -115,7 +115,7 @@
           "экономия",
           "на что тратить деньги"
         ],
-        "name": "Expenses",
+        "name": "Расходы",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/expenses.md",
         "wikidata_id": "Q192177",
         "author": "Григорьев Тимофей"
@@ -133,7 +133,7 @@
           "копить деньги",
           "сберегать"
         ],
-        "name": "Savings",
+        "name": "Сбережения",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/saving.md",
         "wikidata_id": "Q1127086",
         "author": "Нагорная Анна"
@@ -152,7 +152,7 @@
           "страхование вкладов",
           "сберегательный счёт"
         ],
-        "name": "Bank account",
+        "name": "Банковский счёт",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/bank_account.md",
         "wikidata_id": "Q79822",
         "author": "Нагорная Анна"
@@ -170,7 +170,7 @@
           "доходность вклада",
           "деньги делают деньги"
         ],
-        "name": "Interest rates",
+        "name": "Проценты",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/interest.md",
         "wikidata_id": "Q105619756",
         "author": "Нагорная Анна"
@@ -189,7 +189,7 @@
           "постановка целей",
           "формула цели"
         ],
-        "name": "SMART goals",
+        "name": "SMART-цель",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/smart_goal.md",
         "wikidata_id": "Q1319562",
         "author": "Татаркин Иван"
@@ -207,7 +207,7 @@
           "осознанные расходы",
           "нужно или хочется"
         ],
-        "name": "Needs vs wants",
+        "name": "Потребности и желания",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/needs_vs_wants.md",
         "wikidata_id": "Q223571",
         "author": "Татаркин Иван"
@@ -225,7 +225,7 @@
           "как достичь цели",
           "несколько целей"
         ],
-        "name": "Financial planning",
+        "name": "Финансовый план",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/planning.md",
         "wikidata_id": "Q622811",
         "author": "Татаркин Иван"
@@ -243,7 +243,7 @@
           "мотивация к накоплению",
           "правило двух недель"
         ],
-        "name": "Motivation to save",
+        "name": "Мотивация к накоплению",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/motivation.md",
         "wikidata_id": "Q63632",
         "author": "Фомин Владислав"
@@ -261,7 +261,7 @@
           "центральный банк",
           "почему дорожает"
         ],
-        "name": "Inflation",
+        "name": "Инфляция",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/inflation.md",
         "wikidata_id": "Q35774",
         "author": "Фомин Владислав"
@@ -278,11 +278,11 @@
           "финансовые ошибки",
           "умение обращаться с деньгами"
         ],
-        "name": "Financial literacy",
+        "name": "Финансовая грамотность",
         "file": "WEB/6.2_money_and_literacy/how_to_save_for_goal/articles/financial_literacy.md",
         "wikidata_id": "Q1420824",
         "author": "Фомин Владислав"
-      },
+      }
     ]
   }
 ]
