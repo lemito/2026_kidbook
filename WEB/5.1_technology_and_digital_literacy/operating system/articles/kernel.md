@@ -119,4 +119,9 @@ flowchart TB
 * [[memory_management|Управление памятью]]
 * [[file_system|Файловая система]]
 * [[HAL|Слой аппаратных абстракций]]
-* [[scheduling|Планирование задач]] 
+* [[scheduling|Планирование задач]]
+
+---
+
+**Автор**: [Воронухин Никита](https://github.com/DeZtrOiD)
+**LLM - Deepseek**
