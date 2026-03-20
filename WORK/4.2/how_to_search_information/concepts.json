@@ -179,7 +179,7 @@
         "author": "Ерофеева Александра"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/cooperative_WEB",
+        "id": "WEB/4.2/how_to_search_information/articles/cooperative_work",
         "name": "Совместная работа в сети",
         "description": "О том, как искать, собирать и редактировать информацию вместе с одноклассниками в облачных документах, договариваться о ролях, использовать комментарии и не терять изменения.",
         "lemmas": [
@@ -200,7 +200,7 @@
           "медиаграмотность",
           "CRAAP"
         ],
-        "file": "WEB/4.2/how_to_search_information/articles/cooperative_WEB.md",
+        "file": "WEB/4.2/how_to_search_information/articles/cooperative_work.md",
         "wikidata_id": "Q1762292",
         "author": "Книга Тимофей"
       },
