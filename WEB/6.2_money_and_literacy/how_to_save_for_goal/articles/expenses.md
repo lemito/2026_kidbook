@@ -88,7 +88,7 @@
 
 ## Читай также из других разделов
 
-- [Чем полезный досуг отличается от бесполезного](../../../../7.2_leisure/useful_and_interesting_leisure/articles/useful_vs_useless_leisure.md) — раздел 7.2 «Досуг»
+- [Чем полезный досуг отличается от бесполезного](../../../7.2%20Media,%20leisure%20and%20hobbies/Computer%20games/useful_and_interesting_leisure/articles/useful_vs_useless_leisure.md) — раздел 7.2 «Досуг»
 - [Эмоциональные триггеры в контенте](../../../../5.1_technology_and_digital_literacy/information%20and%20media%20literacy/articles/эмоциональные_триггеры_в_контенте.md) — раздел 5.1 «Медиаграмотность»
 
 ---
