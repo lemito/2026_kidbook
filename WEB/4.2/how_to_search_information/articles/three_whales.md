@@ -20,7 +20,7 @@
 
 В интернете нет строгого контроля, как в учебниках. Любой человек может:
 - написать статью,
-- выдать мнение за факт,
+- выдать [мнение](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md) за [факт](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md),
 - придумать цифры,
 - переписать чужую информацию с ошибками.
 
@@ -73,7 +73,7 @@
 
 ---
 
-## Третий кит: Ссылка (источники)
+## Третий кит: Ссылка ([источники](../../../5.1_technology_and_digital_literacy/information%20and%20media%20literacy/articles/надежные_и_ненадежные_источники.md))
 
 Это самый “профессиональный” уровень проверки.
 
@@ -88,7 +88,7 @@
 - ❌ Вообще нет источников
 
 Ключевая мысль:
-> если нет источников — это мнение, а не факт.
+> если нет источников — это [мнение](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md), а не [факт](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md).
 
 ---
 
