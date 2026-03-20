@@ -50,6 +50,8 @@
 Простой лайфхак:
 > чем больше цитирований — тем важнее работа (но не всегда).
 
+![Google Scholar](../images/external/google_scholar_citations.png)
+
 ---
 
 ### 2. КиберЛенинка

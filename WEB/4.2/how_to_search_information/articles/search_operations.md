@@ -86,6 +86,8 @@
 
 Так поиск становится намного удобнее.
 
+![Operators](../images/search_operators__operators.png)
+
 ---
 
 ## Типичные ошибки
