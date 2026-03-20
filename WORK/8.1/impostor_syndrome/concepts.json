@@ -3,12 +3,12 @@
   "topic": "Синдром самозванца на новой работе",
   "author_group": "Группа ...",
   "members": [
-    "Человек 1",
-    "Человек 2",
-    "Человек 3",
-    "Человек 4",
-    "Человек 5",
-    "Человек 6"
+    "Гуляев Андрей",
+    "Лапин Данил",
+    "Болдинова Валерия",
+    "Фоменко Артем",
+    "Суровегин Никита",
+    "Малеев Владислав"
   ],
   "concepts": [
     {
@@ -24,7 +24,7 @@
       "name": "impostor_syndrome",
       "file": "8.1_self_understanding/articles/impostor_syndrome.md",
       "wikidata_id": "Q1073568",
-      "author": "Человек 1",
+      "author": "Гуляев Андрей",
       "article_llm": ""
     },
     {
@@ -40,7 +40,7 @@
       "name": "history_of_impostor_syndrome",
       "file": "8.1_self_understanding/articles/history_of_impostor_syndrome.md",
       "wikidata_id": "Q1073568",
-      "author": "Человек 1",
+      "author": "Гуляев Андрей",
       "article_llm": ""
     },
     {
@@ -57,7 +57,7 @@
       "name": "types_of_impostor_syndrome",
       "file": "8.1_self_understanding/articles/types_of_impostor_syndrome.md",
       "wikidata_id": "Q1073568",
-      "author": "Человек 1",
+      "author": "Гуляев Андрей",
       "article_llm": ""
     },
     {
@@ -73,7 +73,7 @@
       "name": "causes",
       "file": "8.1_self_understanding/articles/causes.md",
       "wikidata_id": "Q1073568",
-      "author": "Человек 2",
+      "author": "Лапин Данил",
       "article_llm": ""
     },
     {
@@ -89,7 +89,7 @@
       "name": "perfectionism",
       "file": "8.1_self_understanding/articles/perfectionism.md",
       "wikidata_id": "Q1121749",
-      "author": "Человек 2",
+      "author": "Лапин Данил",
       "article_llm": ""
     },
     {
@@ -105,7 +105,7 @@
       "name": "family_influence",
       "file": "8.1_self_understanding/articles/family_influence.md",
       "wikidata_id": "Q8436",
-      "author": "Человек 2",
+      "author": "Лапин Данил",
       "article_llm": ""
     },
     {
@@ -121,7 +121,7 @@
       "name": "manifestations",
       "file": "8.1_self_understanding/articles/manifestations.md",
       "wikidata_id": "Q1073568",
-      "author": "Человек 3",
+      "author": "Болдинова Валерия",
       "article_llm": ""
     },
     {
@@ -137,7 +137,7 @@
       "name": "self_esteem",
       "file": "8.1_self_understanding/articles/self_esteem.md",
       "wikidata_id": "Q10981881",
-      "author": "Человек 3",
+      "author": "Болдинова Валерия",
       "article_llm": ""
     },
     {
@@ -153,7 +153,7 @@
       "name": "high_achievers",
       "file": "8.1_self_understanding/articles/high_achievers.md",
       "wikidata_id": "Q1073568",
-      "author": "Человек 3",
+      "author": "Болдинова Валерия",
       "article_llm": ""
     },
     {
@@ -169,7 +169,7 @@
       "name": "workplace_adaptation",
       "file": "8.1_self_understanding/articles/workplace_adaptation.md",
       "wikidata_id": "Q3249551",
-      "author": "Человек 4",
+      "author": "Фоменко Артем",
       "article_llm": ""
     },
     {
@@ -185,7 +185,7 @@
       "name": "feedback",
       "file": "8.1_self_understanding/articles/feedback.md",
       "wikidata_id": "Q179024",
-      "author": "Человек 4",
+      "author": "Фоменко Артем",
       "article_llm": ""
     },
     {
@@ -201,7 +201,7 @@
       "name": "social_comparison",
       "file": "8.1_self_understanding/articles/social_comparison.md",
       "wikidata_id": "Q7553",
-      "author": "Человек 4",
+      "author": "Фоменко Артем",
       "article_llm": ""
     },
     {
@@ -217,7 +217,7 @@
       "name": "overcoming",
       "file": "8.1_self_understanding/articles/overcoming.md",
       "wikidata_id": "Q1073568",
-      "author": "Человек 5",
+      "author": "Суровегин Никита",
       "article_llm": ""
     },
     {
@@ -233,7 +233,7 @@
       "name": "cbt_techniques",
       "file": "8.1_self_understanding/articles/cbt_techniques.md",
       "wikidata_id": "Q1147152",
-      "author": "Человек 5",
+      "author": "Суровегин Никита",
       "article_llm": ""
     },
     {
@@ -249,7 +249,7 @@
       "name": "mentorship",
       "file": "8.1_self_understanding/articles/mentorship.md",
       "wikidata_id": "Q188775",
-      "author": "Человек 5",
+      "author": "Суровегин Никита",
       "article_llm": ""
     },
     {
@@ -265,7 +265,7 @@
       "name": "professional_growth",
       "file": "8.1_self_understanding/articles/professional_growth.md",
       "wikidata_id": "Q2534109",
-      "author": "Человек 6",
+      "author": "Малеев Владислав",
       "article_llm": ""
     },
     {
@@ -281,7 +281,7 @@
       "name": "when_to_seek_help",
       "file": "8.1_self_understanding/articles/when_to_seek_help.md",
       "wikidata_id": "Q1147152",
-      "author": "Человек 6",
+      "author": "Малеев Владислав",
       "article_llm": ""
     },
     {
@@ -297,7 +297,7 @@
       "name": "self_confidence",
       "file": "8.1_self_understanding/articles/self_confidence.md",
       "wikidata_id": "Q177719",
-      "author": "Человек 6",
+      "author": "Малеев Владислав",
       "article_llm": ""
     }
   ]
