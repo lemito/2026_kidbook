@@ -42,11 +42,17 @@ DEFAULT_CONCEPTS_PATH = Path(__file__).resolve().parent.parent / "concepts.json"
 
 
 @dataclass(frozen=True)
+class PatternVariant:
+    tokens: tuple[str, ...]
+    priority: int
+
+
+@dataclass(frozen=True)
 class ConceptPattern:
     name: str
     lookup_name: str
     target: Path
-    patterns: tuple[tuple[str, ...], ...]
+    patterns: tuple[PatternVariant, ...]
     first_tokens: frozenset[str]
 
 
@@ -55,6 +61,7 @@ class Match:
     start: int
     end: int
     text: str
+    priority: int
 
 
 def find_repo_root(start: Path) -> Path:
@@ -80,6 +87,19 @@ def normalize_phrase(phrase: str, morph: MorphAnalyzer | None) -> tuple[str, ...
 
 def normalize_lookup_value(value: str) -> str:
     return re.sub(r"\s+", " ", value.replace("Ё", "Е").replace("ё", "е")).strip().lower()
+
+
+def is_safe_lemma_phrase(
+    phrase: str,
+    concept_name_tokens: frozenset[str],
+    morph: MorphAnalyzer | None,
+) -> tuple[str, ...] | None:
+    normalized = normalize_phrase(phrase, morph)
+    if not normalized:
+        return None
+    if any(token in concept_name_tokens for token in normalized):
+        return normalized
+    return None
 
 
 def merge_spans(spans: list[tuple[int, int]]) -> list[tuple[int, int]]:
@@ -144,6 +164,7 @@ def load_concepts(
             target = (repo_root / file_value).resolve()
             name = str(concept.get("name") or concept.get("label") or concept.get("title") or target.stem)
             lookup_name = normalize_lookup_value(name)
+            name_tokens = frozenset(normalize_phrase(name, morph))
             raw_allowed_targets = concept.get("links_from_article")
             allowed_targets = (
                 frozenset(
@@ -156,31 +177,43 @@ def load_concepts(
             )
             allowed_targets_by_source[target] = allowed_targets or None
 
-            phrase_sources: list[str] = [name]
-            phrase_sources.extend(
-                str(item)
-                for item in concept.get("lemmas", [])
-                if isinstance(item, str) and item.strip()
-            )
-            extra_names = concept.get("aliases") or concept.get("keywords") or []
-            phrase_sources.extend(str(item) for item in extra_names if isinstance(item, str) and item.strip())
+            patterns: list[PatternVariant] = []
+            seen: set[tuple[int, tuple[str, ...]]] = set()
 
-            patterns: list[tuple[str, ...]] = []
-            seen: set[tuple[str, ...]] = set()
-            for phrase in phrase_sources:
-                normalized = normalize_phrase(phrase, morph)
-                if normalized and normalized not in seen:
-                    seen.add(normalized)
-                    patterns.append(normalized)
+            def add_pattern(priority: int, phrase: str, normalized: tuple[str, ...] | None = None) -> None:
+                value = normalized if normalized is not None else normalize_phrase(phrase, morph)
+                if not value:
+                    return
+                key = (priority, value)
+                if key in seen:
+                    return
+                seen.add(key)
+                patterns.append(PatternVariant(tokens=value, priority=priority))
+
+            add_pattern(0, name)
+
+            for alias in concept.get("aliases", []):
+                if isinstance(alias, str) and alias.strip():
+                    add_pattern(1, alias)
+
+            for lemma in concept.get("lemmas", []):
+                if not isinstance(lemma, str) or not lemma.strip():
+                    continue
+                safe_lemma = is_safe_lemma_phrase(lemma, name_tokens, morph)
+                if safe_lemma is not None:
+                    add_pattern(2, lemma, safe_lemma)
 
             if patterns:
-                first_tokens = frozenset(pattern[0] for pattern in patterns if pattern)
+                sorted_patterns = tuple(
+                    sorted(patterns, key=lambda item: (item.priority, -len(item.tokens), item.tokens))
+                )
+                first_tokens = frozenset(pattern.tokens[0] for pattern in sorted_patterns if pattern.tokens)
                 concepts.append(
                     ConceptPattern(
                         name=name,
                         lookup_name=lookup_name,
                         target=target,
-                        patterns=tuple(sorted(patterns, key=lambda item: (-len(item), item))),
+                        patterns=sorted_patterns,
                         first_tokens=first_tokens,
                     )
                 )
@@ -253,16 +286,16 @@ def find_candidate_in_tokens(
 
     for start_idx in range(len(tokens)):
         for pattern in concept.patterns:
-            length = len(pattern)
+            length = len(pattern.tokens)
             if start_idx + length > len(tokens):
                 continue
             window = tokens[start_idx : start_idx + length]
-            if tuple(item[2] for item in window) != pattern:
+            if tuple(item[2] for item in window) != pattern.tokens:
                 continue
             start = window[0][0]
             end = window[-1][1]
             matched_text = line[start:end]
-            return Match(start=start, end=end, text=matched_text)
+            return Match(start=start, end=end, text=matched_text, priority=pattern.priority)
     return None
 
 
@@ -328,7 +361,10 @@ def process_article(
 
     chosen: list[tuple[int, Match, ConceptPattern]] = []
     occupied: dict[int, list[tuple[int, int]]] = {}
-    for line_index, match, concept in sorted(matches, key=lambda item: (item[0], item[1].start, -(item[1].end - item[1].start))):
+    for line_index, match, concept in sorted(
+        matches,
+        key=lambda item: (item[0], item[1].start, item[1].priority, -(item[1].end - item[1].start)),
+    ):
         spans = occupied.setdefault(line_index, [])
         if any(match.start < end and match.end > start for start, end in spans):
             continue
