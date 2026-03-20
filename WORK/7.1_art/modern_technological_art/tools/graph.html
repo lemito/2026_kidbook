@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Граф ссылок — Технологическое искусство</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #0f1117; color: #e2e8f0; font-family: 'Inter', system-ui, sans-serif;
+         display: flex; height: 100vh; overflow: hidden; }
+
+  /* ── sidebar ── */
+  #sidebar { width: 280px; min-width: 280px; background: #1a1d2e; display: flex;
+             flex-direction: column; border-right: 1px solid #2d3348; z-index: 10; }
+  #sidebar h1 { font-size: 13px; font-weight: 700; padding: 16px; color: #94a3b8;
+                text-transform: uppercase; letter-spacing: .08em; border-bottom: 1px solid #2d3348; }
+
+  .section { padding: 12px 16px; border-bottom: 1px solid #2d3348; }
+  .section h2 { font-size: 11px; font-weight: 600; color: #64748b; text-transform: uppercase;
+                letter-spacing: .07em; margin-bottom: 8px; }
+
+  /* search */
+  #search { width: 100%; background: #252840; border: 1px solid #3a3f5c; border-radius: 6px;
+            padding: 7px 10px; font-size: 13px; color: #e2e8f0; outline: none; }
+  #search::placeholder { color: #475569; }
+  #search:focus { border-color: #6366f1; }
+
+  /* toggles */
+  .toggle-row { display: flex; align-items: center; gap: 8px; margin-bottom: 6px;
+                cursor: pointer; user-select: none; font-size: 13px; }
+  .toggle-row input { accent-color: #6366f1; cursor: pointer; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+
+  /* portal list */
+  .portal-item { display: flex; align-items: center; gap: 8px; padding: 4px 0;
+                 cursor: pointer; font-size: 12px; color: #94a3b8; }
+  .portal-item.active { color: #e2e8f0; }
+  .portal-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+
+  /* info panel */
+  #info { flex: 1; overflow-y: auto; padding: 12px 16px; }
+  #info-title { font-size: 14px; font-weight: 600; margin-bottom: 8px; color: #f1f5f9; }
+  #info-body { font-size: 12px; color: #94a3b8; line-height: 1.6; }
+  #info-body .stat { margin-top: 4px; }
+  #info-body .chip { display: inline-block; background: #252840; border-radius: 4px;
+                     padding: 2px 7px; margin: 2px 2px 0 0; font-size: 11px; color: #64748b; }
+
+  /* stats bar */
+  #stats { padding: 10px 16px; font-size: 11px; color: #475569;
+           border-top: 1px solid #2d3348; }
+
+  /* ── canvas ── */
+  #canvas { flex: 1; position: relative; }
+  svg { width: 100%; height: 100%; }
+
+  .link { stroke-opacity: 0.55; fill: none; }
+  .link.internal { stroke: #6366f1; stroke-width: 1.5px; }
+  .link.external  { stroke: #475569; stroke-width: 1px; stroke-dasharray: 4 3; }
+  .link.wiki      { stroke: #374151; stroke-width: 1px; stroke-dasharray: 3 3; }
+  .link.broken    { stroke: #ef4444; stroke-width: 1px; stroke-dasharray: 2 4; }
+
+  .link.highlighted  { stroke-opacity: 1   !important; stroke-width: 2.5px !important; }
+  .link.bg-dimmed    { stroke-opacity: 0   !important; pointer-events: none; }
+  .link.path-link    { stroke: #22c55e !important; stroke-opacity: 1 !important;
+                       stroke-width: 3px  !important; stroke-dasharray: none !important; }
+
+  .node circle { cursor: pointer; stroke-width: 1.5px; }
+  .node text   { pointer-events: none; font-size: 11px; fill: #cbd5e1;
+                 text-shadow: 0 1px 3px #0f1117, 0 0 8px #0f1117; }
+  .node.dimmed circle { opacity: 0.12; }
+  .node.dimmed text   { opacity: 0.08; }
+  .node.highlighted  circle { stroke: #fff    !important; stroke-width: 2.5px; }
+  .node.path-source  circle { stroke: #22c55e !important; stroke-width: 3.5px; fill: #22c55e33 !important; }
+  .node.path-target  circle { stroke: #f59e0b !important; stroke-width: 3.5px; fill: #f59e0b33 !important; }
+  .node.path-mid     circle { stroke: #fff    !important; stroke-width: 2px; }
+
+  /* tooltip */
+  #tooltip { position: absolute; background: #1e2235; border: 1px solid #3a3f5c;
+             border-radius: 8px; padding: 10px 13px; pointer-events: none;
+             font-size: 12px; max-width: 260px; line-height: 1.5;
+             box-shadow: 0 8px 24px rgba(0,0,0,.5); opacity: 0; transition: opacity .1s; z-index: 100; }
+  #tooltip strong { color: #f1f5f9; display: block; margin-bottom: 4px; }
+  #tooltip span { color: #64748b; font-size: 11px; }
+</style>
+</head>
+<body>
+
+<div id="sidebar">
+  <h1>Граф ссылок</h1>
+
+  <div class="section">
+    <h2>Поиск</h2>
+    <input id="search" type="text" placeholder="Название статьи или домен…">
+  </div>
+
+  <div class="section">
+    <h2>Показать</h2>
+    <label class="toggle-row"><input type="checkbox" id="tog-internal" checked>
+      <span class="dot" style="background:#6366f1"></span> Внутренние ссылки</label>
+    <label class="toggle-row"><input type="checkbox" id="tog-external">
+      <span class="dot" style="background:#475569"></span> Внешние (Wikipedia, сайты)</label>
+    <label class="toggle-row"><input type="checkbox" id="tog-broken">
+      <span class="dot" style="background:#ef4444"></span> Ссылки вне репо</label>
+    <label class="toggle-row"><input type="checkbox" id="tog-labels" checked>
+      <span class="dot" style="background:#94a3b8"></span> Подписи узлов</label>
+  </div>
+
+  <div class="section">
+    <h2>Путь A → B</h2>
+    <div id="path-status" style="font-size:12px;color:#475569;margin-bottom:8px">Режим выключен</div>
+    <button id="btn-path"
+      style="width:100%;padding:7px;background:#252840;border:1px solid #3a3f5c;border-radius:6px;
+             color:#94a3b8;font-size:12px;cursor:pointer;text-align:left">
+      ⬡ Включить режим пути
+    </button>
+    <label class="toggle-row" style="margin-top:8px">
+      <input type="checkbox" id="tog-readme-path">
+      <span class="dot" style="background:#F59E0B"></span> Через README
+    </label>
+  </div>
+
+  <div class="section" id="portal-filters">
+    <h2>Порталы</h2>
+    <!-- filled by JS -->
+  </div>
+
+  <div id="info">
+    <div id="info-title" style="color:#475569">Нажмите на узел</div>
+    <div id="info-body"></div>
+  </div>
+
+  <div id="stats"></div>
+</div>
+
+<div id="canvas">
+  <svg id="svg"></svg>
+  <div id="tooltip"></div>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+const DATA = {"nodes":[{"id":"README","label":"Технологическое искусство: Энциклопедия","short":"README","type":"readme","portal":0,"color":"#F59E0B","file":"README.md","in":27,"out":38},{"id":"1.1_hole_in_space","label":"Hole in Space (1980)","short":"Hole in Space (1980)","type":"article","portal":1,"color":"#06B6D4","file":"articles/1.1_hole_in_space.md","in":5,"out":11},{"id":"1.2_nam_june_paik","label":"Нам Джун Пайк и концепция электронного суперхайвея","short":"Нам Джун Пайк и концепция э…","type":"article","portal":1,"color":"#06B6D4","file":"articles/1.2_nam_june_paik.md","in":4,"out":13},{"id":"1.3_participatory_art","label":"Партиципаторное искусство и телевещание","short":"Партиципаторное искусство и…","type":"article","portal":1,"color":"#06B6D4","file":"articles/1.3_participatory_art.md","in":7,"out":11},{"id":"2.1_jodi","label":"Арт-группа JODI","short":"Арт-группа JODI","type":"article","portal":2,"color":"#3B82F6","file":"articles/2.1_jodi.md","in":6,"out":11},{"id":"2.2_heath_bunting","label":"Хит Бантинг (Heath Bunting)","short":"Хит Бантинг (Heath Bunting)","type":"article","portal":2,"color":"#3B82F6","file":"articles/2.2_heath_bunting.md","in":6,"out":12},{"id":"2.3_nettime","label":"2.3_nettime","short":"2.3_nettime","type":"article","portal":2,"color":"#3B82F6","file":"articles/2.3_nettime.md","in":6,"out":11},{"id":"2.4_art_servers","label":"Первые арт-серверы","short":"Первые арт-серверы","type":"article","portal":2,"color":"#3B82F6","file":"articles/2.4_art_servers.md","in":6,"out":12},{"id":"2.5_siberian_deal","label":"Проект Siberian Deal (1995)","short":"Проект Siberian Deal (1995)","type":"article","portal":2,"color":"#3B82F6","file":"articles/2.5_siberian_deal.md","in":6,"out":8},{"id":"2.6_cac","label":"2.6_cac","short":"2.6_cac","type":"article","portal":2,"color":"#3B82F6","file":"articles/2.6_cac.md","in":6,"out":11},{"id":"3.1_uncensored_library","label":"The Uncensored Library","short":"The Uncensored Library","type":"article","portal":3,"color":"#F97316","file":"articles/3.1_uncensored_library.md","in":3,"out":12},{"id":"3.2_surveillance_art","label":"Искусство против надзора (Surveillance Art)","short":"Искусство против надзора (S…","type":"article","portal":3,"color":"#F97316","file":"articles/3.2_surveillance_art.md","in":3,"out":13},{"id":"3.3_deepfake_art","label":"Дипфейк-арт и Синтетическая сатира","short":"Дипфейк-арт и Синтетическая…","type":"article","portal":3,"color":"#F97316","file":"articles/3.3_deepfake_art.md","in":4,"out":18},{"id":"4.1_post_internet","label":"От Постинтернета к Фиджиталу","short":"От Постинтернета к Фиджиталу","type":"article","portal":4,"color":"#8B5CF6","file":"articles/4.1_post_internet.md","in":6,"out":11},{"id":"4.2_ar_monumentalism","label":"AR-монументализм","short":"AR-монументализм","type":"article","portal":4,"color":"#8B5CF6","file":"articles/4.2_ar_monumentalism.md","in":5,"out":15},{"id":"4.3_cyborg_art","label":"Киборг-арт и Пост-цифровая телесность","short":"Киборг-арт и Пост-цифровая …","type":"article","portal":4,"color":"#8B5CF6","file":"articles/4.3_cyborg_art.md","in":5,"out":15},{"id":"4.4_bio_art","label":"Био-арт: ДНК как программный код","short":"Био-арт: ДНК как программны…","type":"article","portal":4,"color":"#8B5CF6","file":"articles/4.4_bio_art.md","in":5,"out":17},{"id":"4.5_algorithmic_craft","label":"Алгоритмический крафт и 3D-печать","short":"Алгоритмический крафт и 3D-…","type":"article","portal":4,"color":"#8B5CF6","file":"articles/4.5_algorithmic_craft.md","in":6,"out":19},{"id":"5.1_nn_visualization","label":"Визуализация нейросетей (OpenAI Microscope)","short":"Визуализация нейросетей (Op…","type":"article","portal":5,"color":"#10B981","file":"articles/5.1_nn_visualization.md","in":6,"out":13},{"id":"5.2_art_residencies","label":"Арт-резиденции при IT-гигантах","short":"Арт-резиденции при IT-гиган…","type":"article","portal":5,"color":"#10B981","file":"articles/5.2_art_residencies.md","in":6,"out":11},{"id":"5.3_refik_anadol","label":"Рефик Анадол и Архитектура Big Data","short":"Рефик Анадол и Архитектура …","type":"article","portal":5,"color":"#10B981","file":"articles/5.3_refik_anadol.md","in":9,"out":13},{"id":"5.4_mario_klingemann","label":"Марио Клингеманн и генеративные портреты","short":"Марио Клингеманн и генерати…","type":"article","portal":5,"color":"#10B981","file":"articles/5.4_mario_klingemann.md","in":8,"out":16},{"id":"5.5_yandex_neural","label":"Нейронная оборона (Яндекс)","short":"Нейронная оборона (Яндекс)","type":"article","portal":5,"color":"#10B981","file":"articles/5.5_yandex_neural.md","in":7,"out":12},{"id":"6.1_prompt_art","label":"Промпт-арт (Лингвистическое искусство)","short":"Промпт-арт (Лингвистическое…","type":"article","portal":6,"color":"#EC4899","file":"articles/6.1_prompt_art.md","in":8,"out":24},{"id":"6.2_latent_space","label":"Латентное пространство и Феномен Loab","short":"Латентное пространство и Фе…","type":"article","portal":6,"color":"#EC4899","file":"articles/6.2_latent_space.md","in":8,"out":9},{"id":"6.3_ai_simulations","label":"ИИ-симуляции и Иэн Ченг","short":"ИИ-симуляции и Иэн Ченг","type":"article","portal":6,"color":"#EC4899","file":"articles/6.3_ai_simulations.md","in":5,"out":10},{"id":"6.4_holly_herndon","label":"Цифровое клонирование голоса (Холли Херндон / Spawn)","short":"Цифровое клонирование голос…","type":"article","portal":6,"color":"#EC4899","file":"articles/6.4_holly_herndon.md","in":6,"out":14},{"id":"6.5_eliza_effect","label":"Эффект Элизы в современном искусстве","short":"Эффект Элизы в современном …","type":"article","portal":6,"color":"#EC4899","file":"articles/6.5_eliza_effect.md","in":6,"out":12},{"id":"wiki:ru:Флюксус","label":"Флюксус","short":"Флюксус","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Флюксус","color":"#64748B","in":3,"out":0},{"id":"wiki:ru:Видеоарт","label":"Видеоарт","short":"Видеоарт","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Видеоарт","color":"#64748B","in":4,"out":0},{"id":"wiki:ru:Net-арт","label":"Net-арт","short":"Net-арт","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Net-арт","color":"#64748B","in":12,"out":0},{"id":"wiki:ru:Глитч-арт","label":"Глитч-арт","short":"Глитч-арт","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Глитч-арт","color":"#64748B","in":3,"out":0},{"id":"wiki:en:Participatory_art","label":"Participatory art","short":"Participatory art","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Participatory_art","color":"#94A3B8","in":4,"out":0},{"id":"wiki:ru:Хактивизм","label":"Хактивизм","short":"Хактивизм","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Хактивизм","color":"#64748B","in":5,"out":0},{"id":"wiki:en:Generative_art","label":"Generative art","short":"Generative art","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Generative_art","color":"#94A3B8","in":10,"out":0},{"id":"wiki:en:Post-Internet","label":"Post-Internet","short":"Post-Internet","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Post-Internet","color":"#94A3B8","in":2,"out":0},{"id":"wiki:en:Latent_space","label":"Latent space","short":"Latent space","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Latent_space","color":"#94A3B8","in":2,"out":0},{"id":"wiki:en:Phygital","label":"Phygital","short":"Phygital","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Phygital","color":"#94A3B8","in":3,"out":0},{"id":"wiki:en:Surveillance_art","label":"Surveillance art","short":"Surveillance art","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Surveillance_art","color":"#94A3B8","in":2,"out":0},{"id":"wiki:en:Telematic_art","label":"Telematic art","short":"Telematic art","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Telematic_art","color":"#94A3B8","in":3,"out":0},{"id":"wiki:en:Kit_Galloway","label":"Kit Galloway","short":"Kit Galloway","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Kit_Galloway","color":"#94A3B8","in":1,"out":0},{"id":"wiki:ru:Медиаискусство","label":"Медиаискусство","short":"Медиаискусство","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Медиаискусство","color":"#64748B","in":10,"out":0},{"id":"wiki:en:JODI_(art_group","label":"JODI (art group","short":"JODI (art group","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/JODI_(art_group","color":"#94A3B8","in":4,"out":0},{"id":"ext:www.eai.org","label":"www.eai.org","short":"www.eai.org","type":"external","domain":"www.eai.org","url":"https://www.eai.org","color":"#6B7280","in":1,"out":0},{"id":"ext:www.youtube.com","label":"www.youtube.com","short":"www.youtube.com","type":"external","domain":"www.youtube.com","url":"https://www.youtube.com","color":"#6B7280","in":1,"out":0},{"id":"ext:www.twitch.tv","label":"www.twitch.tv","short":"www.twitch.tv","type":"external","domain":"www.twitch.tv","url":"https://www.twitch.tv","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:Nettime","label":"Nettime","short":"Nettime","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Nettime","color":"#94A3B8","in":3,"out":0},{"id":"ext:jodi.org","label":"jodi.org","short":"jodi.org","type":"external","domain":"jodi.org","url":"https://jodi.org","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:Heath_Bunting","label":"Heath Bunting","short":"Heath Bunting","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Heath_Bunting","color":"#94A3B8","in":1,"out":0},{"id":"ext:irational.org","label":"irational.org","short":"irational.org","type":"external","domain":"irational.org","url":"https://irational.org","color":"#6B7280","in":1,"out":0},{"id":"ext:forensic-architecture.org","label":"forensic-architecture.org","short":"forensic-architecture.org","type":"external","domain":"forensic-architecture.org","url":"https://forensic-architecture.org","color":"#6B7280","in":1,"out":0},{"id":"broken:роль_поисковых_систем.md","label":"роль_поисковых_систем.md","short":"роль_поисковых_систем.md","type":"broken","portal":-1,"color":"#EF4444","file":"роль_поисковых_систем.md","in":1,"out":0},{"id":"ext:substack.com","label":"substack.com","short":"substack.com","type":"external","domain":"substack.com","url":"https://substack.com","color":"#6B7280","in":1,"out":0},{"id":"ext:thing.net","label":"thing.net","short":"thing.net","type":"external","domain":"thing.net","url":"https://thing.net","color":"#6B7280","in":1,"out":0},{"id":"ext:itch.io","label":"itch.io","short":"itch.io","type":"external","domain":"itch.io","url":"https://itch.io","color":"#6B7280","in":1,"out":0},{"id":"ext:joinmastodon.org","label":"joinmastodon.org","short":"joinmastodon.org","type":"external","domain":"joinmastodon.org","url":"https://joinmastodon.org","color":"#6B7280","in":1,"out":0},{"id":"ext:rhizome.org","label":"rhizome.org","short":"rhizome.org","type":"external","domain":"rhizome.org","url":"https://rhizome.org","color":"#6B7280","in":1,"out":0},{"id":"ext:artsandculture.google.com","label":"artsandculture.google.com","short":"artsandculture.google.com","type":"external","domain":"artsandculture.google.com","url":"https://artsandculture.google.com","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:Reporters_Without_Borders","label":"Reporters Without Borders","short":"Reporters Without Borders","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Reporters_Without_Borders","color":"#94A3B8","in":1,"out":0},{"id":"wiki:ru:Minecraft","label":"Minecraft","short":"Minecraft","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Minecraft","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Цензура","label":"Цензура","short":"Цензура","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Цензура","color":"#64748B","in":1,"out":0},{"id":"broken:что_такое_информационная_и_медиаграмотность.md","label":"что_такое_информационная_и_медиаграмотность.md","short":"что_такое_информационная_и_…","type":"broken","portal":-1,"color":"#EF4444","file":"что_такое_информационная_и_медиаграмотность.md","in":2,"out":0},{"id":"wiki:en:Media_activism","label":"Media activism","short":"Media activism","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Media_activism","color":"#94A3B8","in":1,"out":0},{"id":"wiki:ru:Распознавание_лиц","label":"Распознавание лиц","short":"Распознавание лиц","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Распознавание_лиц","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Биометрия","label":"Биометрия","short":"Биометрия","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Биометрия","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Агентство_национальной_безопасности","label":"Агентство национальной безопасности","short":"Агентство национальной безо…","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Агентство_национальной_безопасности","color":"#64748B","in":1,"out":0},{"id":"wiki:en:Adam_Harvey_(artist","label":"Adam Harvey (artist","short":"Adam Harvey (artist","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Adam_Harvey_(artist","color":"#94A3B8","in":1,"out":0},{"id":"wiki:en:Trevor_Paglen","label":"Trevor Paglen","short":"Trevor Paglen","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Trevor_Paglen","color":"#94A3B8","in":1,"out":0},{"id":"broken:приватность_и_цифровой_след.md","label":"приватность_и_цифровой_след.md","short":"приватность_и_цифровой_след…","type":"broken","portal":-1,"color":"#EF4444","file":"приватность_и_цифровой_след.md","in":1,"out":0},{"id":"wiki:ru:Дипфейк","label":"Дипфейк","short":"Дипфейк","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Дипфейк","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Манипуляция_в_СМИ","label":"Манипуляция в СМИ","short":"Манипуляция в СМИ","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Манипуляция_в_СМИ","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Постправда","label":"Постправда","short":"Постправда","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Постправда","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Генеративно-состязательная_сеть","label":"Генеративно-состязательная сеть","short":"Генеративно-состязательная …","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Генеративно-состязательная_сеть","color":"#64748B","in":3,"out":0},{"id":"ext:sheffdocfest.com","label":"sheffdocfest.com","short":"sheffdocfest.com","type":"external","domain":"sheffdocfest.com","url":"https://sheffdocfest.com","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:Welcome_to_Chechnya","label":"Welcome to Chechnya","short":"Welcome to Chechnya","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Welcome_to_Chechnya","color":"#94A3B8","in":1,"out":0},{"id":"ext:contentauthenticity.org","label":"contentauthenticity.org","short":"contentauthenticity.org","type":"external","domain":"contentauthenticity.org","url":"https://contentauthenticity.org","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:Diffusion_model","label":"Diffusion model","short":"Diffusion model","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Diffusion_model","color":"#94A3B8","in":2,"out":0},{"id":"broken:дезинформация_и_фейки.md","label":"дезинформация_и_фейки.md","short":"дезинформация_и_фейки.md","type":"broken","portal":-1,"color":"#EF4444","file":"дезинформация_и_фейки.md","in":1,"out":0},{"id":"broken:манипуляции_и_пропаганда.md","label":"манипуляции_и_пропаганда.md","short":"манипуляции_и_пропаганда.md","type":"broken","portal":-1,"color":"#EF4444","file":"манипуляции_и_пропаганда.md","in":1,"out":0},{"id":"broken:проверка_фото_на_манипуляции.md","label":"проверка_фото_на_манипуляции.md","short":"проверка_фото_на_манипуляци…","type":"broken","portal":-1,"color":"#EF4444","file":"проверка_фото_на_манипуляции.md","in":1,"out":0},{"id":"broken:оценка_качества_изображений_и_видео.md","label":"оценка_качества_изображений_и_видео.md","short":"оценка_качества_изображений…","type":"broken","portal":-1,"color":"#EF4444","file":"оценка_качества_изображений_и_видео.md","in":1,"out":0},{"id":"broken:критическое_мышление_в_онлайн_среде.md","label":"критическое_мышление_в_онлайн_среде.md","short":"критическое_мышление_в_онла…","type":"broken","portal":-1,"color":"#EF4444","file":"критическое_мышление_в_онлайн_среде.md","in":2,"out":0},{"id":"wiki:ru:Дополненная_реальность","label":"Дополненная реальность","short":"Дополненная реальность","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Дополненная_реальность","color":"#64748B","in":1,"out":0},{"id":"wiki:en:Public_art","label":"Public art","short":"Public art","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Public_art","color":"#94A3B8","in":1,"out":0},{"id":"ext:www.blasttheory.co.uk","label":"www.blasttheory.co.uk","short":"www.blasttheory.co.uk","type":"external","domain":"www.blasttheory.co.uk","url":"https://www.blasttheory.co.uk","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:Nancy_Baker_Cahill","label":"Nancy Baker Cahill","short":"Nancy Baker Cahill","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Nancy_Baker_Cahill","color":"#94A3B8","in":1,"out":0},{"id":"ext:4thwall.app","label":"4thwall.app","short":"4thwall.app","type":"external","domain":"4thwall.app","url":"https://4thwall.app","color":"#6B7280","in":1,"out":0},{"id":"ext:acuteart.com","label":"acuteart.com","short":"acuteart.com","type":"external","domain":"acuteart.com","url":"https://acuteart.com","color":"#6B7280","in":1,"out":0},{"id":"ext:www.serpentinegalleries.org","label":"www.serpentinegalleries.org","short":"www.serpentinegalleries.org","type":"external","domain":"www.serpentinegalleries.org","url":"https://www.serpentinegalleries.org","color":"#6B7280","in":2,"out":0},{"id":"ext:artivive.com","label":"artivive.com","short":"artivive.com","type":"external","domain":"artivive.com","url":"https://artivive.com","color":"#6B7280","in":1,"out":0},{"id":"wiki:ru:Постгуманизм","label":"Постгуманизм","short":"Постгуманизм","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Постгуманизм","color":"#64748B","in":2,"out":0},{"id":"wiki:en:A_Cyborg_Manifesto","label":"A Cyborg Manifesto","short":"A Cyborg Manifesto","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/A_Cyborg_Manifesto","color":"#94A3B8","in":1,"out":0},{"id":"wiki:en:Donna_Haraway","label":"Donna Haraway","short":"Donna Haraway","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Donna_Haraway","color":"#94A3B8","in":1,"out":0},{"id":"wiki:ru:Киборг","label":"Киборг","short":"Киборг","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Киборг","color":"#64748B","in":1,"out":0},{"id":"wiki:en:Neil_Harbisson","label":"Neil Harbisson","short":"Neil Harbisson","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Neil_Harbisson","color":"#94A3B8","in":1,"out":0},{"id":"wiki:en:Stelarc","label":"Stelarc","short":"Stelarc","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Stelarc","color":"#94A3B8","in":1,"out":0},{"id":"wiki:ru:Перформанс","label":"Перформанс","short":"Перформанс","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Перформанс","color":"#64748B","in":1,"out":0},{"id":"wiki:en:Moon_Ribas","label":"Moon Ribas","short":"Moon Ribas","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Moon_Ribas","color":"#94A3B8","in":1,"out":0},{"id":"ext:www.cyborgfoundation.com","label":"www.cyborgfoundation.com","short":"www.cyborgfoundation.com","type":"external","domain":"www.cyborgfoundation.com","url":"https://www.cyborgfoundation.com","color":"#6B7280","in":1,"out":0},{"id":"wiki:ru:Генная_инженерия","label":"Генная инженерия","short":"Генная инженерия","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Генная_инженерия","color":"#64748B","in":1,"out":0},{"id":"wiki:en:Bio_art","label":"Bio art","short":"Bio art","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Bio_art","color":"#94A3B8","in":1,"out":0},{"id":"wiki:ru:ДНК","label":"ДНК","short":"ДНК","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/ДНК","color":"#64748B","in":1,"out":0},{"id":"wiki:en:Eduardo_Kac","label":"Eduardo Kac","short":"Eduardo Kac","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Eduardo_Kac","color":"#94A3B8","in":1,"out":0},{"id":"wiki:en:Transgenic_art","label":"Transgenic art","short":"Transgenic art","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Transgenic_art","color":"#94A3B8","in":1,"out":0},{"id":"ext:ars.electronica.art","label":"ars.electronica.art","short":"ars.electronica.art","type":"external","domain":"ars.electronica.art","url":"https://ars.electronica.art","color":"#6B7280","in":3,"out":0},{"id":"wiki:ru:Мицелий","label":"Мицелий","short":"Мицелий","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Мицелий","color":"#64748B","in":1,"out":0},{"id":"ext:ecovative.com","label":"ecovative.com","short":"ecovative.com","type":"external","domain":"ecovative.com","url":"https://ecovative.com","color":"#6B7280","in":1,"out":0},{"id":"ext:www.symbiotica.uwa.edu.au","label":"www.symbiotica.uwa.edu.au","short":"www.symbiotica.uwa.edu.au","type":"external","domain":"www.symbiotica.uwa.edu.au","url":"https://www.symbiotica.uwa.edu.au","color":"#6B7280","in":1,"out":0},{"id":"wiki:ru:3D-печать","label":"3D-печать","short":"3D-печать","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/3D-печать","color":"#64748B","in":1,"out":0},{"id":"wiki:en:Parametric_design","label":"Parametric design","short":"Parametric design","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Parametric_design","color":"#94A3B8","in":1,"out":0},{"id":"ext:www.grasshopper3d.com","label":"www.grasshopper3d.com","short":"www.grasshopper3d.com","type":"external","domain":"www.grasshopper3d.com","url":"https://www.grasshopper3d.com","color":"#6B7280","in":1,"out":0},{"id":"ext:processing.org","label":"processing.org","short":"processing.org","type":"external","domain":"processing.org","url":"https://processing.org","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:Neri_Oxman","label":"Neri Oxman","short":"Neri Oxman","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Neri_Oxman","color":"#94A3B8","in":1,"out":0},{"id":"wiki:ru:Биомиметика","label":"Биомиметика","short":"Биомиметика","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Биомиметика","color":"#64748B","in":1,"out":0},{"id":"ext:reprap.org","label":"reprap.org","short":"reprap.org","type":"external","domain":"reprap.org","url":"https://reprap.org","color":"#6B7280","in":1,"out":0},{"id":"ext:www.thingiverse.com","label":"www.thingiverse.com","short":"www.thingiverse.com","type":"external","domain":"www.thingiverse.com","url":"https://www.thingiverse.com","color":"#6B7280","in":1,"out":0},{"id":"ext:openscad.org","label":"openscad.org","short":"openscad.org","type":"external","domain":"openscad.org","url":"https://openscad.org","color":"#6B7280","in":1,"out":0},{"id":"wiki:ru:Хадид,_Заха","label":"Хадид, Заха","short":"Хадид, Заха","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Хадид,_Заха","color":"#64748B","in":1,"out":0},{"id":"ext:www.zaha-hadid.com","label":"www.zaha-hadid.com","short":"www.zaha-hadid.com","type":"external","domain":"www.zaha-hadid.com","url":"https://www.zaha-hadid.com","color":"#6B7280","in":1,"out":0},{"id":"ext:big.dk","label":"big.dk","short":"big.dk","type":"external","domain":"big.dk","url":"https://big.dk","color":"#6B7280","in":1,"out":0},{"id":"wiki:ru:Искусственная_нейронная_сеть","label":"Искусственная нейронная сеть","short":"Искусственная нейронная сеть","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Искусственная_нейронная_сеть","color":"#64748B","in":1,"out":0},{"id":"ext:microscope.openai.com","label":"microscope.openai.com","short":"microscope.openai.com","type":"external","domain":"microscope.openai.com","url":"https://microscope.openai.com","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:DeepDream","label":"DeepDream","short":"DeepDream","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/DeepDream","color":"#94A3B8","in":1,"out":0},{"id":"ext:sonarplusd.com","label":"sonarplusd.com","short":"sonarplusd.com","type":"external","domain":"sonarplusd.com","url":"https://sonarplusd.com","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:Experiments_in_Art_and_Technology","label":"Experiments in Art and Technology","short":"Experiments in Art and Tech…","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Experiments_in_Art_and_Technology","color":"#94A3B8","in":1,"out":0},{"id":"wiki:en:Bell_Labs","label":"Bell Labs","short":"Bell Labs","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Bell_Labs","color":"#94A3B8","in":1,"out":0},{"id":"wiki:en:Google_Arts_%26_Culture","label":"Google Arts %26 Culture","short":"Google Arts %26 Culture","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Google_Arts_%26_Culture","color":"#94A3B8","in":1,"out":0},{"id":"ext:magenta.tensorflow.org","label":"magenta.tensorflow.org","short":"magenta.tensorflow.org","type":"external","domain":"magenta.tensorflow.org","url":"https://magenta.tensorflow.org","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:MIT_Media_Lab","label":"MIT Media Lab","short":"MIT Media Lab","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/MIT_Media_Lab","color":"#94A3B8","in":1,"out":0},{"id":"wiki:ru:Большие_данные","label":"Большие данные","short":"Большие данные","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Большие_данные","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Музей_современного_искусства_(Нью-Йорк","label":"Музей современного искусства (Нью-Йорк","short":"Музей современного искусств…","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Музей_современного_искусства_(Нью-Йорк","color":"#64748B","in":1,"out":0},{"id":"ext:refikanadol.com","label":"refikanadol.com","short":"refikanadol.com","type":"external","domain":"refikanadol.com","url":"https://refikanadol.com","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:Refik_Anadol","label":"Refik Anadol","short":"Refik Anadol","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Refik_Anadol","color":"#94A3B8","in":1,"out":0},{"id":"wiki:ru:Sotheby%27s","label":"Sotheby%27s","short":"Sotheby%27s","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Sotheby%27s","color":"#64748B","in":1,"out":0},{"id":"ext:zkm.de","label":"zkm.de","short":"zkm.de","type":"external","domain":"zkm.de","url":"https://zkm.de","color":"#6B7280","in":1,"out":0},{"id":"ext:www.barbican.org.uk","label":"www.barbican.org.uk","short":"www.barbican.org.uk","type":"external","domain":"www.barbican.org.uk","url":"https://www.barbican.org.uk","color":"#6B7280","in":1,"out":0},{"id":"ext:botto.com","label":"botto.com","short":"botto.com","type":"external","domain":"botto.com","url":"https://botto.com","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:Decentralized_autonomous_organization","label":"Decentralized autonomous organization","short":"Decentralized autonomous or…","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Decentralized_autonomous_organization","color":"#94A3B8","in":1,"out":0},{"id":"wiki:ru:Невзаимозаменяемый_токен","label":"Невзаимозаменяемый токен","short":"Невзаимозаменяемый токен","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Невзаимозаменяемый_токен","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Яндекс","label":"Яндекс","short":"Яндекс","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Яндекс","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Долгая_краткосрочная_память","label":"Долгая краткосрочная память","short":"Долгая краткосрочная память","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Долгая_краткосрочная_память","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Летов,_Егор_Фёдорович","label":"Летов, Егор Фёдорович","short":"Летов, Егор Фёдорович","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Летов,_Егор_Фёдорович","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Гражданская_оборона_(группа","label":"Гражданская оборона (группа","short":"Гражданская оборона (группа","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Гражданская_оборона_(группа","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Интеллектуальная_собственность","label":"Интеллектуальная собственность","short":"Интеллектуальная собственно…","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Интеллектуальная_собственность","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Исходный_код","label":"Исходный код","short":"Исходный код","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Исходный_код","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Экфрасис","label":"Экфрасис","short":"Экфрасис","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Экфрасис","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:Конкретная_поэзия","label":"Конкретная поэзия","short":"Конкретная поэзия","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Конкретная_поэзия","color":"#64748B","in":1,"out":0},{"id":"wiki:ru:УЛИПО","label":"УЛИПО","short":"УЛИПО","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/УЛИПО","color":"#64748B","in":1,"out":0},{"id":"wiki:en:Flarf_poetry","label":"Flarf poetry","short":"Flarf poetry","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Flarf_poetry","color":"#94A3B8","in":1,"out":0},{"id":"wiki:en:Prompt_engineering","label":"Prompt engineering","short":"Prompt engineering","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Prompt_engineering","color":"#94A3B8","in":1,"out":0},{"id":"ext:www.aiva.ai","label":"www.aiva.ai","short":"www.aiva.ai","type":"external","domain":"www.aiva.ai","url":"https://www.aiva.ai","color":"#6B7280","in":1,"out":0},{"id":"ext:www.midjourney.com","label":"www.midjourney.com","short":"www.midjourney.com","type":"external","domain":"www.midjourney.com","url":"https://www.midjourney.com","color":"#6B7280","in":1,"out":0},{"id":"ext:openai.com","label":"openai.com","short":"openai.com","type":"external","domain":"openai.com","url":"https://openai.com/dall-e-3","color":"#6B7280","in":1,"out":0},{"id":"ext:chatgpt.com","label":"chatgpt.com","short":"chatgpt.com","type":"external","domain":"chatgpt.com","url":"https://chatgpt.com","color":"#6B7280","in":1,"out":0},{"id":"wiki:ru:Хайку","label":"Хайку","short":"Хайку","type":"wiki","lang":"ru","domain":"ru.wikipedia.org","url":"https://ru.wikipedia.org/wiki/Хайку","color":"#64748B","in":1,"out":0},{"id":"ext:promptbase.com","label":"promptbase.com","short":"promptbase.com","type":"external","domain":"promptbase.com","url":"https://promptbase.com","color":"#6B7280","in":1,"out":0},{"id":"ext:lexica.art","label":"lexica.art","short":"lexica.art","type":"external","domain":"lexica.art","url":"https://lexica.art","color":"#6B7280","in":1,"out":0},{"id":"ext:stability.ai","label":"stability.ai","short":"stability.ai","type":"external","domain":"stability.ai","url":"https://stability.ai","color":"#6B7280","in":1,"out":0},{"id":"broken:авторское_право_и_честное_использование.md","label":"авторское_право_и_честное_использование.md","short":"авторское_право_и_честное_и…","type":"broken","portal":-1,"color":"#EF4444","file":"авторское_право_и_честное_использование.md","in":2,"out":0},{"id":"broken:алгоритмы_и_пузырь_фильтров.md","label":"алгоритмы_и_пузырь_фильтров.md","short":"алгоритмы_и_пузырь_фильтров…","type":"broken","portal":-1,"color":"#EF4444","file":"алгоритмы_и_пузырь_фильтров.md","in":1,"out":0},{"id":"ext:www.teamlab.art","label":"www.teamlab.art","short":"www.teamlab.art","type":"external","domain":"www.teamlab.art","url":"https://www.teamlab.art","color":"#6B7280","in":1,"out":0},{"id":"ext:holly.plus","label":"holly.plus","short":"holly.plus","type":"external","domain":"holly.plus","url":"https://holly.plus","color":"#6B7280","in":1,"out":0},{"id":"ext:www.crypton.co.jp","label":"www.crypton.co.jp","short":"www.crypton.co.jp","type":"external","domain":"www.crypton.co.jp","url":"https://www.crypton.co.jp/miku_eng","color":"#6B7280","in":1,"out":0},{"id":"ext:www.vocaloid.com","label":"www.vocaloid.com","short":"www.vocaloid.com","type":"external","domain":"www.vocaloid.com","url":"https://www.vocaloid.com","color":"#6B7280","in":1,"out":0},{"id":"ext:elevenlabs.io","label":"elevenlabs.io","short":"elevenlabs.io","type":"external","domain":"elevenlabs.io","url":"https://elevenlabs.io","color":"#6B7280","in":1,"out":0},{"id":"broken:цифровая_репутация.md","label":"цифровая_репутация.md","short":"цифровая_репутация.md","type":"broken","portal":-1,"color":"#EF4444","file":"цифровая_репутация.md","in":2,"out":0},{"id":"ext:replika.com","label":"replika.com","short":"replika.com","type":"external","domain":"replika.com","url":"https://replika.com","color":"#6B7280","in":1,"out":0},{"id":"wiki:en:Turing_test","label":"Turing test","short":"Turing test","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/Turing_test","color":"#94A3B8","in":1,"out":0},{"id":"wiki:en:ELIZA_effect","label":"ELIZA effect","short":"ELIZA effect","type":"wiki","lang":"en","domain":"en.wikipedia.org","url":"https://en.wikipedia.org/wiki/ELIZA_effect","color":"#94A3B8","in":1,"out":0}],"links":[{"source":"README","target":"1.2_nam_june_paik","type":"internal","label":"Нам Джун Пайка"},{"source":"README","target":"6.1_prompt_art","type":"internal","label":"промпт-арта"},{"source":"README","target":"6.3_ai_simulations","type":"internal","label":"ИИ-симуляций"},{"source":"README","target":"1.1_hole_in_space","type":"internal","label":"Hole in Space (1980)"},{"source":"README","target":"1.3_participatory_art","type":"internal","label":"Партиципаторное искусство и телевещание"},{"source":"README","target":"2.1_jodi","type":"internal","label":"Арт-группа JODI"},{"source":"README","target":"2.2_heath_bunting","type":"internal","label":"Хит Бантинг"},{"source":"README","target":"2.3_nettime","type":"internal","label":"Почтовые рассылки как арт-пространство (Nettime)"},{"source":"README","target":"2.4_art_servers","type":"internal","label":"Первые арт-серверы"},{"source":"README","target":"2.5_siberian_deal","type":"internal","label":"Проект Siberian Deal (1995)"},{"source":"README","target":"2.6_cac","type":"internal","label":"Computer Aided Curating (C@C)"},{"source":"README","target":"3.1_uncensored_library","type":"internal","label":"Игровой хактивизм (The Uncensored Library)"},{"source":"README","target":"3.2_surveillance_art","type":"internal","label":"Искусство против надзора (Surveillance Art)"},{"source":"README","target":"3.3_deepfake_art","type":"internal","label":"Дипфейк-арт и Синтетическая сатира"},{"source":"README","target":"4.1_post_internet","type":"internal","label":"От Постинтернета к Фиджиталу"},{"source":"README","target":"4.2_ar_monumentalism","type":"internal","label":"AR-монументализм"},{"source":"README","target":"4.3_cyborg_art","type":"internal","label":"Киборг-арт и Пост-цифровая телесность"},{"source":"README","target":"4.4_bio_art","type":"internal","label":"Био-арт: ДНК как программный код"},{"source":"README","target":"4.5_algorithmic_craft","type":"internal","label":"Алгоритмический крафт и 3D-печать"},{"source":"README","target":"5.1_nn_visualization","type":"internal","label":"Визуализация нейросетей (OpenAI Microscope)"},{"source":"README","target":"5.2_art_residencies","type":"internal","label":"Арт-резиденции при IT-гигантах"},{"source":"README","target":"5.3_refik_anadol","type":"internal","label":"Рефик Анадол и Архитектура Big Data"},{"source":"README","target":"5.4_mario_klingemann","type":"internal","label":"Марио Клингеманн и генеративные портреты"},{"source":"README","target":"5.5_yandex_neural","type":"internal","label":"Нейронная оборона (Яндекс)"},{"source":"README","target":"6.2_latent_space","type":"internal","label":"Латентное пространство и Феномен Loab"},{"source":"README","target":"6.4_holly_herndon","type":"internal","label":"Цифровое клонирование голоса (Холли Херндон / Spaw"},{"source":"README","target":"6.5_eliza_effect","type":"internal","label":"Эффект Элизы в современном искусстве"},{"source":"README","target":"wiki:ru:Флюксус","type":"external","label":"Флюксус"},{"source":"README","target":"wiki:ru:Видеоарт","type":"external","label":"видеоарт"},{"source":"README","target":"wiki:ru:Net-арт","type":"external","label":"Net.art"},{"source":"README","target":"wiki:ru:Глитч-арт","type":"external","label":"Глитч-арт"},{"source":"README","target":"wiki:en:Participatory_art","type":"external","label":"Партиципаторное искусство"},{"source":"README","target":"wiki:ru:Хактивизм","type":"external","label":"Хактивизм"},{"source":"README","target":"wiki:en:Generative_art","type":"external","label":"Генеративное искусство"},{"source":"README","target":"wiki:en:Post-Internet","type":"external","label":"Постинтернет"},{"source":"README","target":"wiki:en:Latent_space","type":"external","label":"Латентное пространство"},{"source":"README","target":"wiki:en:Phygital","type":"external","label":"Фиджитал"},{"source":"README","target":"wiki:en:Surveillance_art","type":"external","label":"Surveillance Art"},{"source":"1.1_hole_in_space","target":"wiki:en:Telematic_art","type":"external","label":"телекоммуникационного искусства"},{"source":"1.1_hole_in_space","target":"wiki:en:Kit_Galloway","type":"external","label":"Китом Гэллоуэем и Шерри Рабиновиц"},{"source":"1.1_hole_in_space","target":"wiki:ru:Медиаискусство","type":"external","label":"медиаискусства"},{"source":"1.1_hole_in_space","target":"wiki:ru:Видеоарт","type":"external","label":"видеоарта"},{"source":"1.1_hole_in_space","target":"wiki:en:Participatory_art","type":"external","label":"партиципаторного искусства"},{"source":"1.1_hole_in_space","target":"1.3_participatory_art","type":"internal","label":"Партиципаторное искусство и телевещание"},{"source":"1.1_hole_in_space","target":"1.2_nam_june_paik","type":"internal","label":"Нам Джун Пайк и концепция электронного суперхайвея"},{"source":"1.1_hole_in_space","target":"README","type":"internal","label":"Порталом 1: Телекоммуникационное искусство (Предте"},{"source":"1.1_hole_in_space","target":"wiki:ru:Net-арт","type":"external","label":"Net.art"},{"source":"1.1_hole_in_space","target":"wiki:en:JODI_(art_group","type":"external","label":"арт-группа JODI"},{"source":"1.1_hole_in_space","target":"ext:www.eai.org","type":"external","label":"Electronic Arts Intermix (EAI)"},{"source":"1.2_nam_june_paik","target":"wiki:ru:Видеоарт","type":"external","label":"видеоарта"},{"source":"1.2_nam_june_paik","target":"wiki:ru:Медиаискусство","type":"external","label":"медиаискусства"},{"source":"1.2_nam_june_paik","target":"wiki:ru:Флюксус","type":"external","label":"Флюксус"},{"source":"1.2_nam_june_paik","target":"wiki:en:Participatory_art","type":"external","label":"партиципаторного искусства"},{"source":"1.2_nam_june_paik","target":"wiki:en:Telematic_art","type":"external","label":"телекоммуникационного искусства"},{"source":"1.2_nam_june_paik","target":"1.3_participatory_art","type":"internal","label":"Партиципаторное искусство и телевещание"},{"source":"1.2_nam_june_paik","target":"1.1_hole_in_space","type":"internal","label":"Hole in Space (1980)"},{"source":"1.2_nam_june_paik","target":"README","type":"internal","label":"Портал 1: Телекоммуникационное искусство (Предтечи"},{"source":"1.2_nam_june_paik","target":"wiki:en:JODI_(art_group","type":"external","label":"Арт-группа JODI"},{"source":"1.2_nam_june_paik","target":"wiki:ru:Net-арт","type":"external","label":"Net.art"},{"source":"1.2_nam_june_paik","target":"5.3_refik_anadol","type":"internal","label":"Рефик Анадол и Архитектура Big Data"},{"source":"1.2_nam_june_paik","target":"ext:www.youtube.com","type":"external","label":"YouTube"},{"source":"1.2_nam_june_paik","target":"ext:www.twitch.tv","type":"external","label":"Twitch"},{"source":"1.3_participatory_art","target":"wiki:en:Telematic_art","type":"external","label":"телекоммуникационного искусства"},{"source":"1.3_participatory_art","target":"wiki:ru:Видеоарт","type":"external","label":"Видеоарт"},{"source":"1.3_participatory_art","target":"1.2_nam_june_paik","type":"internal","label":"Нам Джун Пайк и концепция электронного суперхайвея"},{"source":"1.3_participatory_art","target":"wiki:ru:Флюксус","type":"external","label":"Флюксус"},{"source":"1.3_participatory_art","target":"wiki:en:Participatory_art","type":"external","label":"Партиципаторное искусство"},{"source":"1.3_participatory_art","target":"1.1_hole_in_space","type":"internal","label":"Hole in Space (1980)"},{"source":"1.3_participatory_art","target":"wiki:ru:Net-арт","type":"external","label":"Net.art"},{"source":"1.3_participatory_art","target":"wiki:en:Nettime","type":"external","label":"Почтовые рассылки как арт-пространство (Nettime)"},{"source":"1.3_participatory_art","target":"wiki:ru:Медиаискусство","type":"external","label":"медиаискусства"},{"source":"1.3_participatory_art","target":"README","type":"internal","label":"Портал 1: Телекоммуникационное искусство (Предтечи"},{"source":"1.3_participatory_art","target":"wiki:en:JODI_(art_group","type":"external","label":"Арт-группа JODI"},{"source":"2.1_jodi","target":"wiki:ru:Net-арт","type":"external","label":"net.art"},{"source":"2.1_jodi","target":"wiki:ru:Глитч-арт","type":"external","label":"глитч-арта"},{"source":"2.1_jodi","target":"wiki:en:JODI_(art_group","type":"external","label":"JODI (art group)"},{"source":"2.1_jodi","target":"ext:jodi.org","type":"external","label":"jodi.org"},{"source":"2.1_jodi","target":"2.2_heath_bunting","type":"internal","label":"Хит Бантинг"},{"source":"2.1_jodi","target":"2.3_nettime","type":"internal","label":"Почтовые рассылки как арт-пространство (Nettime)"},{"source":"2.1_jodi","target":"2.4_art_servers","type":"internal","label":"Первые арт-серверы"},{"source":"2.1_jodi","target":"2.5_siberian_deal","type":"internal","label":"Проект Siberian Deal (1995)"},{"source":"2.1_jodi","target":"2.6_cac","type":"internal","label":"Computer Aided Curating (C@C)"},{"source":"2.1_jodi","target":"README","type":"internal","label":"Портал 2: Net.art (Золотой век сетевого искусства "},{"source":"2.1_jodi","target":"1.1_hole_in_space","type":"internal","label":"Hole in Space (1980)"},{"source":"2.2_heath_bunting","target":"wiki:en:Heath_Bunting","type":"external","label":"Heath Bunting"},{"source":"2.2_heath_bunting","target":"wiki:ru:Net-арт","type":"external","label":"net.art"},{"source":"2.2_heath_bunting","target":"wiki:ru:Хактивизм","type":"external","label":"хактивизма"},{"source":"2.2_heath_bunting","target":"ext:irational.org","type":"external","label":"irational.org"},{"source":"2.2_heath_bunting","target":"ext:forensic-architecture.org","type":"external","label":"Forensic Architecture"},{"source":"2.2_heath_bunting","target":"2.1_jodi","type":"internal","label":"Арт-группа JODI"},{"source":"2.2_heath_bunting","target":"2.3_nettime","type":"internal","label":"Почтовые рассылки как арт-пространство (Nettime)"},{"source":"2.2_heath_bunting","target":"2.4_art_servers","type":"internal","label":"Первые арт-серверы"},{"source":"2.2_heath_bunting","target":"2.5_siberian_deal","type":"internal","label":"Проект Siberian Deal (1995)"},{"source":"2.2_heath_bunting","target":"2.6_cac","type":"internal","label":"Computer Aided Curating (C@C)"},{"source":"2.2_heath_bunting","target":"README","type":"internal","label":"Портал 2: Net.art (Золотой век сетевого искусства "},{"source":"2.2_heath_bunting","target":"broken:роль_поисковых_систем.md","type":"broken","label":"Роль поисковых систем"},{"source":"2.3_nettime","target":"wiki:en:Nettime","type":"external","label":"Nettime"},{"source":"2.3_nettime","target":"ext:substack.com","type":"external","label":"Substack"},{"source":"2.3_nettime","target":"2.1_jodi","type":"internal","label":"Арт-группа JODI"},{"source":"2.3_nettime","target":"2.2_heath_bunting","type":"internal","label":"Хит Бантинг"},{"source":"2.3_nettime","target":"2.4_art_servers","type":"internal","label":"Первые арт-серверы"},{"source":"2.3_nettime","target":"2.5_siberian_deal","type":"internal","label":"Проект Siberian Deal (1995)"},{"source":"2.3_nettime","target":"2.6_cac","type":"internal","label":"Computer Aided Curating (C@C)"},{"source":"2.3_nettime","target":"README","type":"internal","label":"Портал 2: Net.art (Золотой век сетевого искусства "},{"source":"2.3_nettime","target":"1.3_participatory_art","type":"internal","label":"Партиципаторное искусство и телевещание"},{"source":"2.3_nettime","target":"6.5_eliza_effect","type":"internal","label":"Эффект Элизы в современном искусстве"},{"source":"2.3_nettime","target":"wiki:ru:Net-арт","type":"external","label":"Net.art"},{"source":"2.4_art_servers","target":"ext:thing.net","type":"external","label":"The Thing"},{"source":"2.4_art_servers","target":"ext:itch.io","type":"external","label":"itch.io"},{"source":"2.4_art_servers","target":"ext:joinmastodon.org","type":"external","label":"Mastodon"},{"source":"2.4_art_servers","target":"2.1_jodi","type":"internal","label":"Арт-группа JODI"},{"source":"2.4_art_servers","target":"2.2_heath_bunting","type":"internal","label":"Хит Бантинг"},{"source":"2.4_art_servers","target":"2.3_nettime","type":"internal","label":"Почтовые рассылки как арт-пространство (Nettime)"},{"source":"2.4_art_servers","target":"2.5_siberian_deal","type":"internal","label":"Проект Siberian Deal (1995)"},{"source":"2.4_art_servers","target":"2.6_cac","type":"internal","label":"Computer Aided Curating (C@C)"},{"source":"2.4_art_servers","target":"README","type":"internal","label":"Портал 2: Net.art (Золотой век сетевого искусства "},{"source":"2.4_art_servers","target":"5.5_yandex_neural","type":"internal","label":"Нейронная оборона (Яндекс)"},{"source":"2.4_art_servers","target":"wiki:ru:Net-арт","type":"external","label":"Net.art"},{"source":"2.4_art_servers","target":"wiki:ru:Хактивизм","type":"external","label":"Хактивизм"},{"source":"2.5_siberian_deal","target":"2.1_jodi","type":"internal","label":"JODI"},{"source":"2.5_siberian_deal","target":"2.2_heath_bunting","type":"internal","label":"Хит Бантинг"},{"source":"2.5_siberian_deal","target":"2.3_nettime","type":"internal","label":"Почтовые рассылки как арт-пространство (Nettime)"},{"source":"2.5_siberian_deal","target":"2.4_art_servers","type":"internal","label":"Первые арт-серверы"},{"source":"2.5_siberian_deal","target":"2.6_cac","type":"internal","label":"Computer Aided Curating (C@C)"},{"source":"2.5_siberian_deal","target":"README","type":"internal","label":"Портал 2: Net.art (Золотой век сетевого искусства "},{"source":"2.5_siberian_deal","target":"1.3_participatory_art","type":"internal","label":"Партиципаторное искусство и телевещание"},{"source":"2.5_siberian_deal","target":"wiki:ru:Net-арт","type":"external","label":"Net.art"},{"source":"2.6_cac","target":"ext:rhizome.org","type":"external","label":"Rhizome.org"},{"source":"2.6_cac","target":"ext:artsandculture.google.com","type":"external","label":"Google Arts & Culture"},{"source":"2.6_cac","target":"2.1_jodi","type":"internal","label":"Арт-группа JODI"},{"source":"2.6_cac","target":"2.2_heath_bunting","type":"internal","label":"Хит Бантинг"},{"source":"2.6_cac","target":"2.3_nettime","type":"internal","label":"Почтовые рассылки как арт-пространство (Nettime)"},{"source":"2.6_cac","target":"2.4_art_servers","type":"internal","label":"Первые арт-серверы"},{"source":"2.6_cac","target":"2.5_siberian_deal","type":"internal","label":"Проект Siberian Deal (1995)"},{"source":"2.6_cac","target":"README","type":"internal","label":"Портал 2: Net.art (Золотой век сетевого искусства "},{"source":"2.6_cac","target":"5.2_art_residencies","type":"internal","label":"Арт-резиденции при IT-гигантах"},{"source":"2.6_cac","target":"4.1_post_internet","type":"internal","label":"От Постинтернета к Фиджиталу"},{"source":"2.6_cac","target":"wiki:ru:Net-арт","type":"external","label":"Net.art"},{"source":"3.1_uncensored_library","target":"wiki:ru:Хактивизм","type":"external","label":"хактивизма"},{"source":"3.1_uncensored_library","target":"wiki:en:Reporters_Without_Borders","type":"external","label":"Reporters Without Borders"},{"source":"3.1_uncensored_library","target":"wiki:ru:Minecraft","type":"external","label":"Minecraft"},{"source":"3.1_uncensored_library","target":"wiki:ru:Цензура","type":"external","label":"цензурой"},{"source":"3.1_uncensored_library","target":"wiki:ru:Net-арт","type":"external","label":"Net.art"},{"source":"3.1_uncensored_library","target":"1.3_participatory_art","type":"internal","label":"Партиципаторное искусство и телевещание"},{"source":"3.1_uncensored_library","target":"3.2_surveillance_art","type":"internal","label":"Искусство против надзора (Surveillance Art)"},{"source":"3.1_uncensored_library","target":"README","type":"internal","label":"Портал 3: Медиаактивизм, OSINT и Цифровое сопротив"},{"source":"3.1_uncensored_library","target":"3.3_deepfake_art","type":"internal","label":"Дипфейк-арт и Синтетическая сатира"},{"source":"3.1_uncensored_library","target":"1.1_hole_in_space","type":"internal","label":"Hole in Space (1980)"},{"source":"3.1_uncensored_library","target":"1.2_nam_june_paik","type":"internal","label":"Нам Джун Пайк и концепция электронного суперхайвея"},{"source":"3.1_uncensored_library","target":"broken:что_такое_информационная_и_медиаграмотность.md","type":"broken","label":"Что такое информационная и медиаграмотность"},{"source":"3.2_surveillance_art","target":"wiki:en:Media_activism","type":"external","label":"медиаактивизма"},{"source":"3.2_surveillance_art","target":"wiki:ru:Распознавание_лиц","type":"external","label":"распознавания лиц"},{"source":"3.2_surveillance_art","target":"wiki:ru:Биометрия","type":"external","label":"биометрические"},{"source":"3.2_surveillance_art","target":"wiki:en:Surveillance_art","type":"external","label":"Surveillance art"},{"source":"3.2_surveillance_art","target":"wiki:ru:Агентство_национальной_безопасности","type":"external","label":"АНБ"},{"source":"3.2_surveillance_art","target":"wiki:en:Adam_Harvey_(artist","type":"external","label":"Адам Харви"},{"source":"3.2_surveillance_art","target":"wiki:en:Trevor_Paglen","type":"external","label":"Тревор Паглен"},{"source":"3.2_surveillance_art","target":"README","type":"internal","label":"Портал 3: Медиаактивизм, OSINT и Цифровое сопротив"},{"source":"3.2_surveillance_art","target":"3.1_uncensored_library","type":"internal","label":"Игровой хактивизм (The Uncensored Library)"},{"source":"3.2_surveillance_art","target":"3.3_deepfake_art","type":"internal","label":"Дипфейк-арт и Синтетическая сатира"},{"source":"3.2_surveillance_art","target":"wiki:ru:Хактивизм","type":"external","label":"Хактивизм"},{"source":"3.2_surveillance_art","target":"broken:приватность_и_цифровой_след.md","type":"broken","label":"Приватность и цифровой след"},{"source":"3.2_surveillance_art","target":"broken:что_такое_информационная_и_медиаграмотность.md","type":"broken","label":"Что такое информационная и медиаграмотность"},{"source":"3.3_deepfake_art","target":"wiki:ru:Дипфейк","type":"external","label":"дипфейк"},{"source":"3.3_deepfake_art","target":"wiki:ru:Манипуляция_в_СМИ","type":"external","label":"медиаманипуляции"},{"source":"3.3_deepfake_art","target":"wiki:ru:Постправда","type":"external","label":"постправды"},{"source":"3.3_deepfake_art","target":"wiki:ru:Генеративно-состязательная_сеть","type":"external","label":"генеративно-состязательных сетях"},{"source":"3.3_deepfake_art","target":"ext:sheffdocfest.com","type":"external","label":"Sheffield Doc/Fest"},{"source":"3.3_deepfake_art","target":"wiki:en:Welcome_to_Chechnya","type":"external","label":"Welcome to Chechnya"},{"source":"3.3_deepfake_art","target":"ext:contentauthenticity.org","type":"external","label":"Content Authenticity Initiative, CAI"},{"source":"3.3_deepfake_art","target":"README","type":"internal","label":"Портал 3: Медиаактивизм, OSINT и Цифровое сопротив"},{"source":"3.3_deepfake_art","target":"3.1_uncensored_library","type":"internal","label":"Игровой хактивизм (The Uncensored Library)"},{"source":"3.3_deepfake_art","target":"3.2_surveillance_art","type":"internal","label":"Искусство против надзора (Surveillance Art)"},{"source":"3.3_deepfake_art","target":"6.1_prompt_art","type":"internal","label":"Промпт-арт (Лингвистическое искусство)"},{"source":"3.3_deepfake_art","target":"6.2_latent_space","type":"internal","label":"Латентное пространство и Феномен Loab"},{"source":"3.3_deepfake_art","target":"wiki:en:Diffusion_model","type":"external","label":"Диффузионные модели"},{"source":"3.3_deepfake_art","target":"broken:дезинформация_и_фейки.md","type":"broken","label":"Дезинформация и фейки"},{"source":"3.3_deepfake_art","target":"broken:манипуляции_и_пропаганда.md","type":"broken","label":"Манипуляции и пропаганда"},{"source":"3.3_deepfake_art","target":"broken:проверка_фото_на_манипуляции.md","type":"broken","label":"Как проверить фото на манипуляции"},{"source":"3.3_deepfake_art","target":"broken:оценка_качества_изображений_и_видео.md","type":"broken","label":"Оценка качества изображений и видео"},{"source":"3.3_deepfake_art","target":"broken:критическое_мышление_в_онлайн_среде.md","type":"broken","label":"Критическое мышление в онлайн-среде"},{"source":"4.1_post_internet","target":"wiki:ru:Медиаискусство","type":"external","label":"медиаискусстве"},{"source":"4.1_post_internet","target":"wiki:en:Post-Internet","type":"external","label":"постинтернет"},{"source":"4.1_post_internet","target":"wiki:ru:Net-арт","type":"external","label":"Net.art"},{"source":"4.1_post_internet","target":"wiki:en:Generative_art","type":"external","label":"генеративным искусством"},{"source":"4.1_post_internet","target":"wiki:ru:Глитч-арт","type":"external","label":"глитч-арт"},{"source":"4.1_post_internet","target":"wiki:en:Phygital","type":"external","label":"фиджитал"},{"source":"4.1_post_internet","target":"4.2_ar_monumentalism","type":"internal","label":"AR-монументализма"},{"source":"4.1_post_internet","target":"README","type":"internal","label":"Портал 4: Пост-цифровая эпоха и Новая материальнос"},{"source":"4.1_post_internet","target":"4.3_cyborg_art","type":"internal","label":"Киборг-арт и Пост-цифровая телесность"},{"source":"4.1_post_internet","target":"4.4_bio_art","type":"internal","label":"Био-арт: ДНК как программный код"},{"source":"4.1_post_internet","target":"4.5_algorithmic_craft","type":"internal","label":"Алгоритмический крафт и 3D-печать"},{"source":"4.2_ar_monumentalism","target":"wiki:ru:Медиаискусство","type":"external","label":"медиаискусства"},{"source":"4.2_ar_monumentalism","target":"wiki:ru:Дополненная_реальность","type":"external","label":"дополненной реальности"},{"source":"4.2_ar_monumentalism","target":"wiki:en:Public_art","type":"external","label":"публичного искусства"},{"source":"4.2_ar_monumentalism","target":"ext:www.blasttheory.co.uk","type":"external","label":"Blast Theory"},{"source":"4.2_ar_monumentalism","target":"wiki:en:Nancy_Baker_Cahill","type":"external","label":"Нэнси Бейкер Кэхилл"},{"source":"4.2_ar_monumentalism","target":"ext:4thwall.app","type":"external","label":"4th Wall"},{"source":"4.2_ar_monumentalism","target":"ext:acuteart.com","type":"external","label":"Acute Art"},{"source":"4.2_ar_monumentalism","target":"ext:www.serpentinegalleries.org","type":"external","label":"Serpentine Galleries"},{"source":"4.2_ar_monumentalism","target":"ext:artivive.com","type":"external","label":"Artivive"},{"source":"4.2_ar_monumentalism","target":"wiki:en:Phygital","type":"external","label":"фиджитала"},{"source":"4.2_ar_monumentalism","target":"README","type":"internal","label":"Портал 4: Пост-цифровая эпоха и Новая материальнос"},{"source":"4.2_ar_monumentalism","target":"4.1_post_internet","type":"internal","label":"От Постинтернета к Фиджиталу"},{"source":"4.2_ar_monumentalism","target":"4.3_cyborg_art","type":"internal","label":"Киборг-арт и Пост-цифровая телесность"},{"source":"4.2_ar_monumentalism","target":"4.4_bio_art","type":"internal","label":"Био-арт: ДНК как программный код"},{"source":"4.2_ar_monumentalism","target":"4.5_algorithmic_craft","type":"internal","label":"Алгоритмический крафт и 3D-печать"},{"source":"4.3_cyborg_art","target":"wiki:ru:Постгуманизм","type":"external","label":"постгуманизма"},{"source":"4.3_cyborg_art","target":"wiki:en:A_Cyborg_Manifesto","type":"external","label":"Манифест киборга"},{"source":"4.3_cyborg_art","target":"wiki:en:Donna_Haraway","type":"external","label":"Донны Харауэй"},{"source":"4.3_cyborg_art","target":"wiki:ru:Киборг","type":"external","label":"киборга"},{"source":"4.3_cyborg_art","target":"wiki:en:Neil_Harbisson","type":"external","label":"Нил Харбиссон"},{"source":"4.3_cyborg_art","target":"wiki:en:Stelarc","type":"external","label":"Стелак"},{"source":"4.3_cyborg_art","target":"wiki:ru:Перформанс","type":"external","label":"перформансов"},{"source":"4.3_cyborg_art","target":"wiki:en:Moon_Ribas","type":"external","label":"Moon Ribas"},{"source":"4.3_cyborg_art","target":"ext:www.cyborgfoundation.com","type":"external","label":"Cyborg Foundation"},{"source":"4.3_cyborg_art","target":"README","type":"internal","label":"Портал 4: Пост-цифровая эпоха и Новая материальнос"},{"source":"4.3_cyborg_art","target":"4.1_post_internet","type":"internal","label":"От Постинтернета к Фиджиталу"},{"source":"4.3_cyborg_art","target":"4.2_ar_monumentalism","type":"internal","label":"AR-монументализм"},{"source":"4.3_cyborg_art","target":"4.4_bio_art","type":"internal","label":"Био-арт: ДНК как программный код"},{"source":"4.3_cyborg_art","target":"4.5_algorithmic_craft","type":"internal","label":"Алгоритмический крафт и 3D-печать"},{"source":"4.3_cyborg_art","target":"wiki:ru:Медиаискусство","type":"external","label":"Медиаискусство"},{"source":"4.4_bio_art","target":"wiki:ru:Генная_инженерия","type":"external","label":"генную инженерию"},{"source":"4.4_bio_art","target":"wiki:en:Bio_art","type":"external","label":"биоарт"},{"source":"4.4_bio_art","target":"wiki:ru:Постгуманизм","type":"external","label":"постгуманизма"},{"source":"4.4_bio_art","target":"wiki:ru:ДНК","type":"external","label":"ДНК"},{"source":"4.4_bio_art","target":"wiki:en:Eduardo_Kac","type":"external","label":"Эдуардо Кац"},{"source":"4.4_bio_art","target":"wiki:en:Transgenic_art","type":"external","label":"трансгенного искусства"},{"source":"4.4_bio_art","target":"ext:ars.electronica.art","type":"external","label":"Ars Electronica"},{"source":"4.4_bio_art","target":"wiki:ru:Мицелий","type":"external","label":"Мицелий"},{"source":"4.4_bio_art","target":"ext:ecovative.com","type":"external","label":"Ecovative Design"},{"source":"4.4_bio_art","target":"ext:www.symbiotica.uwa.edu.au","type":"external","label":"SymbioticA"},{"source":"4.4_bio_art","target":"README","type":"internal","label":"Портал 4: Пост-цифровая эпоха и Новая материальнос"},{"source":"4.4_bio_art","target":"4.1_post_internet","type":"internal","label":"От Постинтернета к Фиджиталу"},{"source":"4.4_bio_art","target":"4.2_ar_monumentalism","type":"internal","label":"AR-монументализм"},{"source":"4.4_bio_art","target":"4.3_cyborg_art","type":"internal","label":"Киборг-арт и Пост-цифровая телесность"},{"source":"4.4_bio_art","target":"4.5_algorithmic_craft","type":"internal","label":"Алгоритмический крафт и 3D-печать"},{"source":"4.4_bio_art","target":"wiki:en:Generative_art","type":"external","label":"Генеративное искусство"},{"source":"4.4_bio_art","target":"wiki:ru:Медиаискусство","type":"external","label":"Медиаискусство"},{"source":"4.5_algorithmic_craft","target":"wiki:ru:3D-печать","type":"external","label":"3D-печати"},{"source":"4.5_algorithmic_craft","target":"wiki:en:Generative_art","type":"external","label":"генеративного искусства"},{"source":"4.5_algorithmic_craft","target":"wiki:en:Parametric_design","type":"external","label":"параметрического проектирования"},{"source":"4.5_algorithmic_craft","target":"ext:www.grasshopper3d.com","type":"external","label":"Grasshopper"},{"source":"4.5_algorithmic_craft","target":"ext:processing.org","type":"external","label":"Processing"},{"source":"4.5_algorithmic_craft","target":"wiki:en:Neri_Oxman","type":"external","label":"Нери Оксман"},{"source":"4.5_algorithmic_craft","target":"wiki:ru:Биомиметика","type":"external","label":"биомиметики"},{"source":"4.5_algorithmic_craft","target":"ext:reprap.org","type":"external","label":"RepRap"},{"source":"4.5_algorithmic_craft","target":"ext:www.thingiverse.com","type":"external","label":"Thingiverse"},{"source":"4.5_algorithmic_craft","target":"ext:openscad.org","type":"external","label":"OpenSCAD"},{"source":"4.5_algorithmic_craft","target":"wiki:ru:Хадид,_Заха","type":"external","label":"Заха Хадид"},{"source":"4.5_algorithmic_craft","target":"ext:www.zaha-hadid.com","type":"external","label":"Zaha Hadid Architects (ZHA)"},{"source":"4.5_algorithmic_craft","target":"ext:big.dk","type":"external","label":"Bjarke Ingels Group (BIG)"},{"source":"4.5_algorithmic_craft","target":"README","type":"internal","label":"Портал 4: Пост-цифровая эпоха и Новая материальнос"},{"source":"4.5_algorithmic_craft","target":"4.1_post_internet","type":"internal","label":"От Постинтернета к Фиджиталу"},{"source":"4.5_algorithmic_craft","target":"4.2_ar_monumentalism","type":"internal","label":"AR-монументализм"},{"source":"4.5_algorithmic_craft","target":"4.3_cyborg_art","type":"internal","label":"Киборг-арт и Пост-цифровая телесность"},{"source":"4.5_algorithmic_craft","target":"4.4_bio_art","type":"internal","label":"Био-арт: ДНК как программный код"},{"source":"4.5_algorithmic_craft","target":"5.3_refik_anadol","type":"internal","label":"Рефик Анадол и Архитектура Big Data"},{"source":"5.1_nn_visualization","target":"wiki:ru:Медиаискусство","type":"external","label":"медиаискусства"},{"source":"5.1_nn_visualization","target":"wiki:ru:Искусственная_нейронная_сеть","type":"external","label":"нейронной сети"},{"source":"5.1_nn_visualization","target":"ext:microscope.openai.com","type":"external","label":"OpenAI Microscope"},{"source":"5.1_nn_visualization","target":"wiki:en:Generative_art","type":"external","label":"генеративного искусства"},{"source":"5.1_nn_visualization","target":"wiki:en:DeepDream","type":"external","label":"DeepDream"},{"source":"5.1_nn_visualization","target":"ext:ars.electronica.art","type":"external","label":"Ars Electronica"},{"source":"5.1_nn_visualization","target":"ext:sonarplusd.com","type":"external","label":"Sonar+D"},{"source":"5.1_nn_visualization","target":"README","type":"internal","label":"Портал 5: Лабораторное искусство и Эстетика алгори"},{"source":"5.1_nn_visualization","target":"5.2_art_residencies","type":"internal","label":"Арт-резиденции при IT-гигантах"},{"source":"5.1_nn_visualization","target":"5.3_refik_anadol","type":"internal","label":"Рефик Анадол и Архитектура Big Data"},{"source":"5.1_nn_visualization","target":"5.4_mario_klingemann","type":"internal","label":"Марио Клингеманн и генеративные портреты"},{"source":"5.1_nn_visualization","target":"5.5_yandex_neural","type":"internal","label":"Нейронная оборона (Яндекс)"},{"source":"5.1_nn_visualization","target":"6.2_latent_space","type":"internal","label":"Латентное пространство и Феномен Loab"},{"source":"5.2_art_residencies","target":"wiki:ru:Медиаискусство","type":"external","label":"медиаискусства"},{"source":"5.2_art_residencies","target":"wiki:en:Experiments_in_Art_and_Technology","type":"external","label":"Experiments in Art and Technology"},{"source":"5.2_art_residencies","target":"wiki:en:Bell_Labs","type":"external","label":"Bell Labs"},{"source":"5.2_art_residencies","target":"wiki:en:Google_Arts_%26_Culture","type":"external","label":"Google Arts & Culture"},{"source":"5.2_art_residencies","target":"5.3_refik_anadol","type":"internal","label":"Рефиком Анадолом"},{"source":"5.2_art_residencies","target":"ext:magenta.tensorflow.org","type":"external","label":"«Magenta»"},{"source":"5.2_art_residencies","target":"5.4_mario_klingemann","type":"internal","label":"Марио Клингеманн и генеративные портреты"},{"source":"5.2_art_residencies","target":"wiki:en:MIT_Media_Lab","type":"external","label":"MIT Media Lab"},{"source":"5.2_art_residencies","target":"README","type":"internal","label":"Портал 5: Лабораторное искусство и Эстетика алгори"},{"source":"5.2_art_residencies","target":"5.1_nn_visualization","type":"internal","label":"Визуализация нейросетей (OpenAI Microscope)"},{"source":"5.2_art_residencies","target":"5.5_yandex_neural","type":"internal","label":"Нейронная оборона (Яндекс)"},{"source":"5.3_refik_anadol","target":"wiki:ru:Медиаискусство","type":"external","label":"медиахудожник"},{"source":"5.3_refik_anadol","target":"wiki:ru:Большие_данные","type":"external","label":"больших данных"},{"source":"5.3_refik_anadol","target":"wiki:ru:Генеративно-состязательная_сеть","type":"external","label":"генеративно-состязательной сети"},{"source":"5.3_refik_anadol","target":"wiki:ru:Музей_современного_искусства_(Нью-Йорк","type":"external","label":"Музея современного искусства (MoMA)"},{"source":"5.3_refik_anadol","target":"ext:refikanadol.com","type":"external","label":"Refik Anadol Studio"},{"source":"5.3_refik_anadol","target":"README","type":"internal","label":"Портал 5: Лабораторное искусство и Эстетика алгори"},{"source":"5.3_refik_anadol","target":"5.1_nn_visualization","type":"internal","label":"Визуализация нейросетей (OpenAI Microscope)"},{"source":"5.3_refik_anadol","target":"5.2_art_residencies","type":"internal","label":"Арт-резиденции при IT-гигантах"},{"source":"5.3_refik_anadol","target":"5.4_mario_klingemann","type":"internal","label":"Марио Клингеманн и генеративные портреты"},{"source":"5.3_refik_anadol","target":"5.5_yandex_neural","type":"internal","label":"Нейронная оборона (Яндекс)"},{"source":"5.3_refik_anadol","target":"4.5_algorithmic_craft","type":"internal","label":"Алгоритмический крафт"},{"source":"5.3_refik_anadol","target":"6.1_prompt_art","type":"internal","label":"Промпт-арт (Лингвистическое искусство)"},{"source":"5.3_refik_anadol","target":"wiki:en:Refik_Anadol","type":"external","label":"Рефик Анадол"},{"source":"5.4_mario_klingemann","target":"wiki:en:Generative_art","type":"external","label":"генеративного искусства"},{"source":"5.4_mario_klingemann","target":"wiki:ru:Генеративно-состязательная_сеть","type":"external","label":"генеративно-состязательных сетей"},{"source":"5.4_mario_klingemann","target":"wiki:ru:Sotheby%27s","type":"external","label":"Sotheby's"},{"source":"5.4_mario_klingemann","target":"ext:ars.electronica.art","type":"external","label":"Ars Electronica"},{"source":"5.4_mario_klingemann","target":"ext:zkm.de","type":"external","label":"ZKM Center for Art and Media"},{"source":"5.4_mario_klingemann","target":"ext:www.barbican.org.uk","type":"external","label":"Barbican Centre"},{"source":"5.4_mario_klingemann","target":"5.2_art_residencies","type":"internal","label":"арт-резиденций при IT-гигантах"},{"source":"5.4_mario_klingemann","target":"5.1_nn_visualization","type":"internal","label":"визуализации нейросетей"},{"source":"5.4_mario_klingemann","target":"5.3_refik_anadol","type":"internal","label":"Рефик Анадол"},{"source":"5.4_mario_klingemann","target":"ext:botto.com","type":"external","label":"Botto"},{"source":"5.4_mario_klingemann","target":"wiki:en:Decentralized_autonomous_organization","type":"external","label":"децентрализованная автономная организация"},{"source":"5.4_mario_klingemann","target":"wiki:ru:Невзаимозаменяемый_токен","type":"external","label":"NFT"},{"source":"5.4_mario_klingemann","target":"README","type":"internal","label":"Портал 5: Лабораторное искусство и Эстетика алгори"},{"source":"5.4_mario_klingemann","target":"5.5_yandex_neural","type":"internal","label":"Нейронная оборона (Яндекс)"},{"source":"5.4_mario_klingemann","target":"6.1_prompt_art","type":"internal","label":"Промпт-арт (Лингвистическое искусство)"},{"source":"5.4_mario_klingemann","target":"6.2_latent_space","type":"internal","label":"Латентное пространство и Феномен Loab"},{"source":"5.5_yandex_neural","target":"wiki:ru:Яндекс","type":"external","label":"Яндекса"},{"source":"5.5_yandex_neural","target":"wiki:ru:Долгая_краткосрочная_память","type":"external","label":"LSTM"},{"source":"5.5_yandex_neural","target":"wiki:ru:Летов,_Егор_Фёдорович","type":"external","label":"Егора Летова"},{"source":"5.5_yandex_neural","target":"wiki:ru:Гражданская_оборона_(группа","type":"external","label":"«Гражданская оборона»"},{"source":"5.5_yandex_neural","target":"wiki:en:Generative_art","type":"external","label":"генеративное искусство"},{"source":"5.5_yandex_neural","target":"wiki:ru:Интеллектуальная_собственность","type":"external","label":"интеллектуальной собственности"},{"source":"5.5_yandex_neural","target":"6.4_holly_herndon","type":"internal","label":"цифрового клонирования голоса"},{"source":"5.5_yandex_neural","target":"5.4_mario_klingemann","type":"internal","label":"Марио Клингеманном"},{"source":"5.5_yandex_neural","target":"5.2_art_residencies","type":"internal","label":"арт-резиденций при IT-гигантах"},{"source":"5.5_yandex_neural","target":"README","type":"internal","label":"Портал 5: Лабораторное искусство и Эстетика алгори"},{"source":"5.5_yandex_neural","target":"5.1_nn_visualization","type":"internal","label":"Визуализация нейросетей (OpenAI Microscope)"},{"source":"5.5_yandex_neural","target":"5.3_refik_anadol","type":"internal","label":"Рефик Анадол и Архитектура Big Data"},{"source":"6.1_prompt_art","target":"wiki:ru:Исходный_код","type":"external","label":"код"},{"source":"6.1_prompt_art","target":"wiki:ru:Экфрасис","type":"external","label":"экфрасисы"},{"source":"6.1_prompt_art","target":"wiki:ru:Конкретная_поэзия","type":"external","label":"Конкретная поэзия"},{"source":"6.1_prompt_art","target":"wiki:ru:УЛИПО","type":"external","label":"OULIPO"},{"source":"6.1_prompt_art","target":"wiki:en:Flarf_poetry","type":"external","label":"flarf"},{"source":"6.1_prompt_art","target":"wiki:en:Prompt_engineering","type":"external","label":"Промпт-инжиниринг"},{"source":"6.1_prompt_art","target":"ext:www.aiva.ai","type":"external","label":"AIVA"},{"source":"6.1_prompt_art","target":"ext:www.midjourney.com","type":"external","label":"Midjourney"},{"source":"6.1_prompt_art","target":"ext:openai.com","type":"external","label":"DALL-E"},{"source":"6.1_prompt_art","target":"ext:chatgpt.com","type":"external","label":"ChatGPT"},{"source":"6.1_prompt_art","target":"wiki:ru:Хайку","type":"external","label":"хайку"},{"source":"6.1_prompt_art","target":"ext:promptbase.com","type":"external","label":"PromptBase"},{"source":"6.1_prompt_art","target":"ext:lexica.art","type":"external","label":"Lexica"},{"source":"6.1_prompt_art","target":"ext:stability.ai","type":"external","label":"Stability AI"},{"source":"6.1_prompt_art","target":"6.2_latent_space","type":"internal","label":"Латентное пространство и Феномен Loab"},{"source":"6.1_prompt_art","target":"6.3_ai_simulations","type":"internal","label":"ИИ-симуляции и Иэн Ченг"},{"source":"6.1_prompt_art","target":"6.4_holly_herndon","type":"internal","label":"Цифровое клонирование голоса (Холли Херндон / Spaw"},{"source":"6.1_prompt_art","target":"6.5_eliza_effect","type":"internal","label":"Эффект Элизы в современном искусстве"},{"source":"6.1_prompt_art","target":"README","type":"internal","label":"Портал 6: Эпоха LLM, Соавторство с машиной и Новые"},{"source":"6.1_prompt_art","target":"5.3_refik_anadol","type":"internal","label":"Рефик Анадол и Архитектура Big Data"},{"source":"6.1_prompt_art","target":"5.4_mario_klingemann","type":"internal","label":"Марио Клингеманн и генеративные портреты"},{"source":"6.1_prompt_art","target":"wiki:en:Generative_art","type":"external","label":"Генеративное искусство"},{"source":"6.1_prompt_art","target":"broken:авторское_право_и_честное_использование.md","type":"broken","label":"Авторское право и честное использование"},{"source":"6.1_prompt_art","target":"broken:алгоритмы_и_пузырь_фильтров.md","type":"broken","label":"Алгоритмы и пузырь фильтров"},{"source":"6.2_latent_space","target":"6.1_prompt_art","type":"internal","label":"Промпт-арт (Лингвистическое искусство)"},{"source":"6.2_latent_space","target":"6.3_ai_simulations","type":"internal","label":"ИИ-симуляции и Иэн Ченг"},{"source":"6.2_latent_space","target":"6.4_holly_herndon","type":"internal","label":"Цифровое клонирование голоса (Холли Херндон / Spaw"},{"source":"6.2_latent_space","target":"6.5_eliza_effect","type":"internal","label":"Эффект Элизы в современном искусстве"},{"source":"6.2_latent_space","target":"README","type":"internal","label":"Портал 6: Эпоха LLM, Соавторство с машиной и Новые"},{"source":"6.2_latent_space","target":"5.4_mario_klingemann","type":"internal","label":"Марио Клингеманн и генеративные портреты"},{"source":"6.2_latent_space","target":"5.1_nn_visualization","type":"internal","label":"Визуализация нейросетей (OpenAI Microscope)"},{"source":"6.2_latent_space","target":"wiki:en:Latent_space","type":"external","label":"Латентное пространство"},{"source":"6.2_latent_space","target":"wiki:en:Diffusion_model","type":"external","label":"Диффузионные модели"},{"source":"6.3_ai_simulations","target":"ext:www.serpentinegalleries.org","type":"external","label":"Serpentine Gallery"},{"source":"6.3_ai_simulations","target":"ext:www.teamlab.art","type":"external","label":"teamLab"},{"source":"6.3_ai_simulations","target":"6.1_prompt_art","type":"internal","label":"Промпт-арт (Лингвистическое искусство)"},{"source":"6.3_ai_simulations","target":"6.2_latent_space","type":"internal","label":"Латентное пространство и Феномен Loab"},{"source":"6.3_ai_simulations","target":"6.4_holly_herndon","type":"internal","label":"Цифровое клонирование голоса (Холли Херндон / Spaw"},{"source":"6.3_ai_simulations","target":"6.5_eliza_effect","type":"internal","label":"Эффект Элизы в современном искусстве"},{"source":"6.3_ai_simulations","target":"README","type":"internal","label":"Портал 6: Эпоха LLM, Соавторство с машиной и Новые"},{"source":"6.3_ai_simulations","target":"5.4_mario_klingemann","type":"internal","label":"Марио Клингеманн и генеративные портреты"},{"source":"6.3_ai_simulations","target":"5.3_refik_anadol","type":"internal","label":"Рефик Анадол и Архитектура Big Data"},{"source":"6.3_ai_simulations","target":"wiki:en:Generative_art","type":"external","label":"Генеративное искусство"},{"source":"6.4_holly_herndon","target":"ext:holly.plus","type":"external","label":"Holly+"},{"source":"6.4_holly_herndon","target":"ext:www.crypton.co.jp","type":"external","label":"Hatsune Miku"},{"source":"6.4_holly_herndon","target":"ext:www.vocaloid.com","type":"external","label":"Vocaloid"},{"source":"6.4_holly_herndon","target":"ext:elevenlabs.io","type":"external","label":"ElevenLabs"},{"source":"6.4_holly_herndon","target":"6.1_prompt_art","type":"internal","label":"Промпт-арт (Лингвистическое искусство)"},{"source":"6.4_holly_herndon","target":"6.2_latent_space","type":"internal","label":"Латентное пространство и Феномен Loab"},{"source":"6.4_holly_herndon","target":"6.3_ai_simulations","type":"internal","label":"ИИ-симуляции и Иэн Ченг"},{"source":"6.4_holly_herndon","target":"6.5_eliza_effect","type":"internal","label":"Эффект Элизы в современном искусстве"},{"source":"6.4_holly_herndon","target":"README","type":"internal","label":"Портал 6: Эпоха LLM, Соавторство с машиной и Новые"},{"source":"6.4_holly_herndon","target":"3.3_deepfake_art","type":"internal","label":"Дипфейк-арт и Синтетическая сатира"},{"source":"6.4_holly_herndon","target":"5.5_yandex_neural","type":"internal","label":"Нейронная оборона (Яндекс)"},{"source":"6.4_holly_herndon","target":"wiki:en:Generative_art","type":"external","label":"Генеративное искусство"},{"source":"6.4_holly_herndon","target":"broken:авторское_право_и_честное_использование.md","type":"broken","label":"Авторское право и честное использование"},{"source":"6.4_holly_herndon","target":"broken:цифровая_репутация.md","type":"broken","label":"Цифровая репутация"},{"source":"6.5_eliza_effect","target":"ext:replika.com","type":"external","label":"Replika"},{"source":"6.5_eliza_effect","target":"wiki:en:Turing_test","type":"external","label":"Тест Тьюринга"},{"source":"6.5_eliza_effect","target":"6.1_prompt_art","type":"internal","label":"Промпт-арт (Лингвистическое искусство)"},{"source":"6.5_eliza_effect","target":"6.2_latent_space","type":"internal","label":"Латентное пространство и Феномен Loab"},{"source":"6.5_eliza_effect","target":"6.3_ai_simulations","type":"internal","label":"ИИ-симуляции и Иэн Ченг"},{"source":"6.5_eliza_effect","target":"6.4_holly_herndon","type":"internal","label":"Цифровое клонирование голоса (Холли Херндон / Spaw"},{"source":"6.5_eliza_effect","target":"README","type":"internal","label":"Портал 6: Эпоха LLM, Соавторство с машиной и Новые"},{"source":"6.5_eliza_effect","target":"1.3_participatory_art","type":"internal","label":"Партиципаторное искусство и телевещание"},{"source":"6.5_eliza_effect","target":"wiki:en:Nettime","type":"external","label":"Почтовые рассылки как арт-пространство (Nettime)"},{"source":"6.5_eliza_effect","target":"wiki:en:ELIZA_effect","type":"external","label":"Эффект Элизы"},{"source":"6.5_eliza_effect","target":"broken:критическое_мышление_в_онлайн_среде.md","type":"broken","label":"Критическое мышление в онлайн-среде"},{"source":"6.5_eliza_effect","target":"broken:цифровая_репутация.md","type":"broken","label":"Цифровая репутация"}],"portals":[{"id":0,"label":"Главная","color":"#F59E0B"},{"id":1,"label":"Телекоммуникационное искусство","color":"#06B6D4"},{"id":2,"label":"Net.art","color":"#3B82F6"},{"id":3,"label":"Медиаактивизм и OSINT","color":"#F97316"},{"id":4,"label":"Пост-цифровая эпоха","color":"#8B5CF6"},{"id":5,"label":"Лабораторное искусство","color":"#10B981"},{"id":6,"label":"Эпоха LLM","color":"#EC4899"}]};
+
+// ── setup ──────────────────────────────────────────────────────────────────
+const svg = d3.select("#svg");
+const container = svg.append("g");
+const tooltip = document.getElementById("tooltip");
+const infoTitle = document.getElementById("info-title");
+const infoBody  = document.getElementById("info-body");
+
+// arrow markers
+["internal","external","wiki","broken"].forEach(t => {
+  const color = t === "internal" ? "#6366f1" : t === "broken" ? "#ef4444" : "#374151";
+  svg.append("defs").append("marker")
+    .attr("id", `arrow-${t}`)
+    .attr("viewBox", "0 -4 8 8")
+    .attr("refX", 18).attr("refY", 0)
+    .attr("markerWidth", 6).attr("markerHeight", 6)
+    .attr("orient", "auto")
+    .append("path").attr("d","M0,-4L8,0L0,4").attr("fill", color).attr("opacity", 0.7);
+});
+
+// zoom
+const zoom = d3.zoom().scaleExtent([0.1, 8]).on("zoom", e => container.attr("transform", e.transform));
+svg.call(zoom);
+
+// ── radial + sector layout ──────────────────────────────────────────────────
+// Ring 0 (center):  README
+// Ring 1 (r≈260):   articles directly linked from README  → grouped by portal sector
+// Ring 2 (r≈490):   articles 2nd-level                   → same portal sectors
+// Ring 3 (r≈740):   external / wiki / broken             → free radial
+const RING_R = { 0: 0, 1: 260, 2: 490, 3: 740 };
+
+// Portal angular sectors: 6 portals arranged in hexagon, portal 1 at top, clockwise
+const PORTAL_ANGLE = {
+  1: -Math.PI / 2,        // top (270°)
+  2: -Math.PI / 6,        // top-right (330°)
+  3:  Math.PI / 6,        // right (30°)
+  4:  Math.PI / 2,        // bottom (90°)
+  5:  5 * Math.PI / 6,    // bottom-left (150°)
+  6: -5 * Math.PI / 6,    // top-left (210°)
+};
+
+// BFS from README over internal links to assign ring depth per article
+function computeRingDepths() {
+  const depths = { README: 0 };
+  const queue = ["README"];
+  const adj = {};
+  DATA.nodes.forEach(n => { adj[n.id] = []; });
+  DATA.links.forEach(l => {
+    if (l.type !== "internal") return;
+    const sid = l.source.id || l.source;
+    const tid = l.target.id || l.target;
+    adj[sid].push(tid);
+    adj[tid].push(sid);
+  });
+  while (queue.length) {
+    const cur = queue.shift();
+    for (const nb of (adj[cur] || [])) {
+      if (!(nb in depths)) { depths[nb] = depths[cur] + 1; queue.push(nb); }
+    }
+  }
+  return depths;
+}
+const ringDepths = computeRingDepths();
+
+function nodeRing(d) {
+  if (d.type === "readme") return 0;
+  if (d.type === "article") return (ringDepths[d.id] ?? 99) <= 1 ? 1 : 2;
+  return 3;
+}
+
+// Compute target (x, y) for each node given canvas center (cx, cy)
+function computeTargets(cx, cy) {
+  DATA.nodes.forEach(n => {
+    if (n.type === "readme") {
+      n._tx = cx; n._ty = cy;
+    } else if (n.type === "article") {
+      const r     = RING_R[nodeRing(n)];
+      const angle = PORTAL_ANGLE[n.portal] ?? 0;
+      n._tx = cx + Math.cos(angle) * r;
+      n._ty = cy + Math.sin(angle) * r;
+    } else {
+      // external/wiki/broken: angular target not needed, radial force handles them
+      n._tx = cx; n._ty = cy;
+    }
+  });
+}
+
+// ── state ──────────────────────────────────────────────────────────────────
+let showInternal = true;
+let showExternal = false;
+let showBroken   = false;
+let showLabels   = true;
+let activePorts  = new Set([-1, 0, 1, 2, 3, 4, 5, 6]);
+let searchTerm   = "";
+let selectedNode = null;
+let pathMode        = false;
+let pathSource      = null;
+let pathAllowReadme = false;
+
+// ── portal filter UI ───────────────────────────────────────────────────────
+const pfDiv = document.getElementById("portal-filters");
+DATA.portals.forEach(p => {
+  const el = document.createElement("div");
+  el.className = "portal-item active";
+  el.dataset.portal = p.id;
+  el.innerHTML = `<span class="portal-dot" style="background:${p.color}"></span>${p.label}`;
+  el.addEventListener("click", () => {
+    const pid = +el.dataset.portal;
+    if (activePorts.has(pid)) { activePorts.delete(pid); el.classList.remove("active"); }
+    else { activePorts.add(pid); el.classList.add("active"); }
+    restart();
+  });
+  pfDiv.appendChild(el);
+});
+
+// ── helpers ────────────────────────────────────────────────────────────────
+function nodeRadius(d) {
+  if (d.type === "readme") return 22;
+  if (d.type === "article") return 10 + d.in * 1.2;
+  if (d.type === "wiki")    return 6  + d.in * 0.8;
+  return 7;
+}
+
+function nodeStroke(d) {
+  if (d.type === "readme")  return "#F59E0B";
+  if (d.type === "article") return d.color;
+  if (d.type === "wiki")    return d.color;
+  return "#6B7280";
+}
+
+function nodeFill(d) {
+  const c = nodeStroke(d);
+  return c + "33";  // transparent fill
+}
+
+function isVisible(d) {
+  if (d.type === "article" || d.type === "readme") {
+    if (!activePorts.has(d.portal)) return false;
+  }
+  if ((d.type === "wiki" || d.type === "external") && !showExternal) return false;
+  if (d.type === "broken" && !showBroken) return false;
+  return true;
+}
+
+function linkVisible(l) {
+  if (!isVisible(nodeById[l.source.id || l.source])) return false;
+  if (!isVisible(nodeById[l.target.id || l.target])) return false;
+  if (l.type === "internal" && !showInternal) return false;
+  if ((l.type === "external" || l.type === "wiki") && !showExternal) return false;
+  if (l.type === "broken" && !showBroken) return false;
+  return true;
+}
+
+const nodeById = Object.fromEntries(DATA.nodes.map(n => [n.id, n]));
+
+// ── simulation ─────────────────────────────────────────────────────────────
+const simulation = d3.forceSimulation()
+  .force("link", d3.forceLink().id(d => d.id).distance(d =>
+      d.type === "internal" ? 130 : 160).strength(0.12))
+  .force("charge", d3.forceManyBody().strength(d =>
+      d.type === "article" || d.type === "readme" ? -450 : -60))
+  .force("center", d3.forceCenter())
+  .force("collide", d3.forceCollide().radius(d => nodeRadius(d) + 16).strength(0.85))
+  // portal-sector force: pull articles/readme to their (angle × ring) target position
+  .force("sector-x", d3.forceX(d => d._tx ?? 0).strength(d =>
+      d.type === "readme" ? 0.9 : d.type === "article" ? 0.1 : 0))
+  .force("sector-y", d3.forceY(d => d._ty ?? 0).strength(d =>
+      d.type === "readme" ? 0.9 : d.type === "article" ? 0.1 : 0))
+  // radial force only for external/wiki/broken (keeps them in outer ring)
+  .force("radial", d3.forceRadial(RING_R[3], 0, 0).strength(d =>
+      (d.type === "wiki" || d.type === "external" || d.type === "broken") ? 0.4 : 0))
+  .velocityDecay(0.62)
+  .alphaDecay(0.025);
+
+// ── render ─────────────────────────────────────────────────────────────────
+let linkSel, nodeSel;
+
+function restart() {
+  const visNodes = DATA.nodes.filter(isVisible);
+  const visIds   = new Set(visNodes.map(n => n.id));
+  const visLinks = DATA.links.filter(l => {
+    const sid = l.source.id || l.source;
+    const tid = l.target.id || l.target;
+    return visIds.has(sid) && visIds.has(tid) && linkVisible(l);
+  });
+
+  // seed initial positions near each node's sector target
+  visNodes.forEach(n => {
+    if (n.x == null) {
+      n.x = (n._tx ?? 0) + (Math.random() - 0.5) * 60;
+      n.y = (n._ty ?? 0) + (Math.random() - 0.5) * 60;
+    }
+  });
+
+  // links
+  linkSel = container.selectAll(".link")
+    .data(visLinks, d => `${d.source.id||d.source}-${d.target.id||d.target}-${d.type}`)
+    .join(
+      enter => enter.append("line")
+        .attr("class", d => `link ${d.type}`)
+        .attr("marker-end", d => `url(#arrow-${d.type})`),
+      update => update.attr("class", d => `link ${d.type}`)
+        .attr("marker-end", d => `url(#arrow-${d.type})`),
+      exit => exit.remove()
+    );
+
+  // nodes
+  nodeSel = container.selectAll(".node")
+    .data(visNodes, d => d.id)
+    .join(
+      enter => {
+        const g = enter.append("g").attr("class", "node").call(
+          d3.drag()
+            .on("start", dragstart)
+            .on("drag",  dragged)
+            .on("end",   dragend));
+
+        g.append("circle")
+          .attr("r", nodeRadius)
+          .attr("fill", nodeFill)
+          .attr("stroke", nodeStroke)
+          .on("click", (e, d) => { e.stopPropagation(); selectNode(d); })
+          .on("mouseenter", (e, d) => showTooltip(e, d))
+          .on("mousemove",  (e)    => moveTooltip(e))
+          .on("mouseleave", ()     => hideTooltip());
+
+        g.append("text")
+          .attr("dx", d => nodeRadius(d) + 4)
+          .attr("dy", "0.35em")
+          .text(d => d.short)
+          .style("display", showLabels ? null : "none");
+
+        return g;
+      },
+      update => {
+        update.select("circle")
+          .attr("r", nodeRadius)
+          .attr("fill", nodeFill)
+          .attr("stroke", nodeStroke);
+        update.select("text")
+          .attr("dx", d => nodeRadius(d) + 4)
+          .text(d => d.short)
+          .style("display", showLabels ? null : "none");
+        return update;
+      },
+      exit => exit.remove()
+    );
+
+  simulation.nodes(visNodes);
+  simulation.force("link").links(visLinks);
+  simulation.alpha(0.3).restart();
+  updateStats(visNodes, visLinks);
+}
+
+simulation.on("tick", () => {
+  if (linkSel) linkSel
+    .attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+    .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+  if (nodeSel) nodeSel
+    .attr("transform", d => `translate(${d.x},${d.y})`);
+});
+
+// ── drag ───────────────────────────────────────────────────────────────────
+function dragstart(e, d) {
+  if (!e.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x; d.fy = d.y;
+}
+function dragged(e, d)  { d.fx = e.x; d.fy = e.y; }
+function dragend(e, d)  {
+  if (!e.active) simulation.alphaTarget(0);
+  d.fx = null; d.fy = null;
+}
+
+// ── selection & highlight ──────────────────────────────────────────────────
+svg.on("click", () => {
+  selectedNode = null;
+  if (!pathMode) { clearHighlight(); clearInfo(); }
+  else { pathSource = null; clearHighlight(); clearInfo(); pathStatus.textContent = "Нажмите на первую статью (A)"; }
+});
+
+function selectNode(d) {
+  if (pathMode) { handlePathClick(d); return; }
+  selectedNode = d;
+  highlightNeighbors(d);
+  showInfo(d);
+}
+
+function highlightNeighbors(d) {
+  if (!nodeSel || !linkSel) return;
+  const neighbors = new Set([d.id]);
+  linkSel.each(l => {
+    const sid = l.source.id || l.source;
+    const tid = l.target.id || l.target;
+    if (sid === d.id) neighbors.add(tid);
+    if (tid === d.id) neighbors.add(sid);
+  });
+  nodeSel.classed("dimmed",      n => !neighbors.has(n.id))
+         .classed("highlighted", n => n.id === d.id);
+  // only direct edges visible; all others invisible
+  linkSel
+    .classed("highlighted", l => {
+      const sid = l.source.id || l.source;
+      const tid = l.target.id || l.target;
+      return sid === d.id || tid === d.id;
+    })
+    .classed("bg-dimmed", l => {
+      const sid = l.source.id || l.source;
+      const tid = l.target.id || l.target;
+      return sid !== d.id && tid !== d.id;
+    });
+}
+
+function clearHighlight() {
+  if (nodeSel) nodeSel
+    .classed("dimmed",      false)
+    .classed("highlighted", false)
+    .classed("path-source", false)
+    .classed("path-target", false)
+    .classed("path-mid",    false);
+  if (linkSel) linkSel
+    .classed("highlighted", false)
+    .classed("bg-dimmed",   false)
+    .classed("path-link",   false);
+}
+
+// ── BFS pathfinding ─────────────────────────────────────────────────────────
+// excludeSet: set of node IDs to skip as intermediate nodes (not src/tgt)
+function bfs(srcId, tgtId, excludeSet = new Set()) {
+  const adj = {};
+  DATA.nodes.forEach(n => { adj[n.id] = []; });
+  // only traverse link types that are currently rendered (match visibility flags)
+  DATA.links.forEach(l => {
+    if ((l.type === "external" || l.type === "wiki") && !showExternal) return;
+    if (l.type === "broken" && !showBroken) return;
+    if (l.type === "internal" && !showInternal) return;
+    const sid = l.source.id || l.source;
+    const tid = l.target.id || l.target;
+    adj[sid].push({ to: tid, link: l });
+    adj[tid].push({ to: sid, link: l }); // undirected for pathfinding
+  });
+
+  const prev = { [srcId]: null };
+  const prevLink = {};
+  const queue = [srcId];
+  while (queue.length) {
+    const cur = queue.shift();
+    if (cur === tgtId) break;
+    for (const { to, link } of (adj[cur] || [])) {
+      if (!(to in prev) && (to === tgtId || !excludeSet.has(to))) {
+        prev[to] = cur;
+        prevLink[to] = link;
+        queue.push(to);
+      }
+    }
+  }
+  if (!(tgtId in prev)) return null;
+
+  const pathNodes = [];
+  const pathLinks = new Set();
+  let cur = tgtId;
+  while (cur !== srcId) {
+    pathNodes.push(cur);
+    pathLinks.add(prevLink[cur]);
+    cur = prev[cur];
+  }
+  pathNodes.push(srcId);
+  return { nodes: new Set(pathNodes), links: pathLinks, ordered: [...pathNodes].reverse() };
+}
+
+// ── path mode ───────────────────────────────────────────────────────────────
+const pathStatus = document.getElementById("path-status");
+const btnPath    = document.getElementById("btn-path");
+
+btnPath.addEventListener("click", () => {
+  pathMode = !pathMode;
+  pathSource = null;
+  clearHighlight();
+  clearInfo();
+  if (pathMode) {
+    btnPath.textContent = "✕ Выйти из режима пути";
+    btnPath.style.borderColor = "#22c55e";
+    btnPath.style.color = "#22c55e";
+    pathStatus.textContent = "Нажмите на первую статью (A)";
+    pathStatus.style.color = "#22c55e";
+  } else {
+    btnPath.textContent = "⬡ Включить режим пути";
+    btnPath.style.borderColor = "#3a3f5c";
+    btnPath.style.color = "#94a3b8";
+    pathStatus.textContent = "Режим выключен";
+    pathStatus.style.color = "#475569";
+  }
+});
+
+function handlePathClick(d) {
+  if (!pathSource) {
+    pathSource = d;
+    clearHighlight();
+    nodeSel.classed("path-source", n => n.id === d.id);
+    pathStatus.textContent = `A: ${d.short} — нажмите на B`;
+    infoTitle.textContent = `Путь из: ${d.short}`;
+    infoTitle.style.color = "#22c55e";
+    infoBody.innerHTML = `<div class="stat" style="color:#64748b">Нажмите на вторую статью</div>`;
+  } else if (d.id === pathSource.id) {
+    pathSource = null;
+    clearHighlight(); clearInfo();
+    pathStatus.textContent = "Нажмите на первую статью (A)";
+  } else {
+    const excludeSet = pathAllowReadme ? new Set() : new Set(["README"]);
+    let result = bfs(pathSource.id, d.id, excludeSet);
+    let viaReadme = false;
+    if (!result && !pathAllowReadme) {
+      // fallback: try with README
+      result = bfs(pathSource.id, d.id, new Set());
+      viaReadme = !!result;
+    }
+    clearHighlight();
+    if (result) {
+      nodeSel
+        .classed("dimmed",      n => !result.nodes.has(n.id))
+        .classed("path-source", n => n.id === pathSource.id)
+        .classed("path-target", n => n.id === d.id)
+        .classed("path-mid",    n => result.nodes.has(n.id) && n.id !== pathSource.id && n.id !== d.id);
+      linkSel
+        .classed("path-link",  l => result.links.has(l))
+        .classed("bg-dimmed",  l => !result.links.has(l));
+      const steps = result.nodes.size - 1;
+      const viaNote = viaReadme ? " (через README)" : "";
+      infoTitle.textContent = `Путь найден: ${steps} ${steps === 1 ? "шаг" : steps < 5 ? "шага" : "шагов"}${viaNote}`;
+      infoTitle.style.color = viaReadme ? "#f59e0b" : "#22c55e";
+      infoBody.innerHTML = result.ordered.map(id => {
+        const n = nodeById[id];
+        const bullet = id === pathSource.id ? "🟢" : id === d.id ? "🟡" : "⚪";
+        return `<div class="stat">${bullet} <span class="chip" style="border-left:3px solid ${n?.color||"#333"}">${n?.short||id}</span></div>`;
+      }).join("");
+      pathStatus.textContent = `${result.ordered.length} узлов в пути`;
+    } else {
+      infoTitle.textContent = "Путь не найден";
+      infoTitle.style.color = "#ef4444";
+      infoBody.innerHTML = `<div class="stat" style="color:#64748b">Нет пути между статьями по внутренним ссылкам</div>`;
+      pathStatus.textContent = "Нет пути — выберите другие статьи";
+    }
+    pathSource = null;
+    pathStatus.style.color = "#475569";
+  }
+}
+
+// ── info panel ─────────────────────────────────────────────────────────────
+function showInfo(d) {
+  infoTitle.textContent = d.label;
+  infoTitle.style.color = d.color || "#f1f5f9";
+
+  const outLinks = DATA.links.filter(l => (l.source.id||l.source) === d.id);
+  const inLinks  = DATA.links.filter(l => (l.target.id||l.target) === d.id);
+
+  let html = "";
+  if (d.type === "article" || d.type === "readme") {
+    html += `<div class="stat">📄 <b>Файл:</b> ${d.file || "—"}</div>`;
+    html += `<div class="stat">🔗 Входящих: <b>${d.in}</b> / Исходящих: <b>${d.out}</b></div>`;
+    if (d.portal >= 0) {
+      const pname = DATA.portals.find(p => p.id === d.portal)?.label || "";
+      html += `<div class="stat">🗂 <b>${pname}</b></div>`;
+    }
+  } else if (d.type === "wiki" || d.type === "external") {
+    html += `<div class="stat">🌐 <a href="${d.url||"#"}" target="_blank" style="color:#6366f1">${d.url||d.domain}</a></div>`;
+    html += `<div class="stat">Упоминается: <b>${d.in}</b> раз</div>`;
+  }
+
+  // list out-links
+  if (outLinks.length) {
+    html += `<div class="stat" style="margin-top:8px;color:#475569;font-size:11px">ССЫЛКИ ОТСЮДА (${outLinks.length})</div>`;
+    outLinks.slice(0, 8).forEach(l => {
+      const tid = l.target.id || l.target;
+      const tn = nodeById[tid];
+      const name = tn ? tn.short : tid;
+      html += `<span class="chip" style="border-left:3px solid ${tn?.color||'#333'}">${name}</span>`;
+    });
+    if (outLinks.length > 8) html += `<span class="chip">+${outLinks.length - 8} ещё</span>`;
+  }
+
+  // list in-links
+  if (inLinks.length) {
+    html += `<div class="stat" style="margin-top:8px;color:#475569;font-size:11px">ССЫЛКИ СЮДА (${inLinks.length})</div>`;
+    inLinks.slice(0, 8).forEach(l => {
+      const sid = l.source.id || l.source;
+      const sn = nodeById[sid];
+      const name = sn ? sn.short : sid;
+      html += `<span class="chip" style="border-left:3px solid ${sn?.color||'#333'}">${name}</span>`;
+    });
+    if (inLinks.length > 8) html += `<span class="chip">+${inLinks.length - 8} ещё</span>`;
+  }
+
+  infoBody.innerHTML = html;
+}
+
+function clearInfo() {
+  infoTitle.textContent = "Нажмите на узел";
+  infoTitle.style.color = "#475569";
+  infoBody.innerHTML = "";
+}
+
+// ── tooltip ────────────────────────────────────────────────────────────────
+function showTooltip(e, d) {
+  tooltip.style.opacity = "1";
+  tooltip.innerHTML = `<strong>${d.label}</strong>
+    <span>${d.type === "article" ? "Статья · Портал " + d.portal :
+           d.type === "wiki"     ? "Wikipedia · " + (d.lang === "en" ? "EN" : "RU") :
+           d.type === "external" ? "Внешний ресурс" :
+           d.type === "readme"   ? "Главная страница" : d.type}
+    </span>
+    <span style="margin-top:4px;display:block">→ ${d.out}  ← ${d.in}</span>`;
+  moveTooltip(e);
+}
+function moveTooltip(e) {
+  const r = document.getElementById("canvas").getBoundingClientRect();
+  let x = e.clientX - r.left + 14, y = e.clientY - r.top + 14;
+  if (x + 270 > r.width)  x -= 280;
+  if (y + 90  > r.height) y -= 100;
+  tooltip.style.left = x + "px";
+  tooltip.style.top  = y + "px";
+}
+function hideTooltip() { tooltip.style.opacity = "0"; }
+
+// ── search ─────────────────────────────────────────────────────────────────
+document.getElementById("search").addEventListener("input", e => {
+  searchTerm = e.target.value.toLowerCase().trim();
+  if (!nodeSel) return;
+  if (!searchTerm) { clearHighlight(); return; }
+  const match = new Set();
+  DATA.nodes.forEach(n => {
+    if ((n.label||"").toLowerCase().includes(searchTerm) ||
+        (n.domain||"").toLowerCase().includes(searchTerm)) {
+      match.add(n.id);
+    }
+  });
+  const neighbors = new Set(match);
+  DATA.links.forEach(l => {
+    const sid = l.source.id||l.source, tid = l.target.id||l.target;
+    if (match.has(sid)) neighbors.add(tid);
+    if (match.has(tid)) neighbors.add(sid);
+  });
+  nodeSel.classed("dimmed",      n => !neighbors.has(n.id))
+         .classed("highlighted", n => match.has(n.id));
+  linkSel.classed("highlighted", l => {
+    return match.has(l.source.id||l.source) || match.has(l.target.id||l.target);
+  });
+});
+
+// ── toggle controls ────────────────────────────────────────────────────────
+document.getElementById("tog-internal"   ).addEventListener("change", e => { showInternal = e.target.checked; restart(); });
+document.getElementById("tog-external"   ).addEventListener("change", e => { showExternal = e.target.checked; restart(); });
+document.getElementById("tog-broken"     ).addEventListener("change", e => { showBroken   = e.target.checked; restart(); });
+document.getElementById("tog-readme-path").addEventListener("change", e => { pathAllowReadme = e.target.checked; });
+document.getElementById("tog-labels"     ).addEventListener("change", e => {
+  showLabels = e.target.checked;
+  if (nodeSel) nodeSel.select("text").style("display", showLabels ? null : "none");
+});
+
+// ── stats bar ──────────────────────────────────────────────────────────────
+function updateStats(nodes, links) {
+  const articles  = nodes.filter(n => n.type === "article" || n.type === "readme").length;
+  const wikis     = nodes.filter(n => n.type === "wiki").length;
+  const externals = nodes.filter(n => n.type === "external").length;
+  document.getElementById("stats").textContent =
+    `${articles} статей · ${wikis} вики · ${externals} сайтов · ${links.length} связей`;
+}
+
+// ── center on resize ───────────────────────────────────────────────────────
+function recenter() {
+  const { width, height } = document.getElementById("canvas").getBoundingClientRect();
+  const cx = width / 2, cy = height / 2;
+  simulation.force("center", d3.forceCenter(cx, cy));
+  computeTargets(cx, cy);
+  simulation.force("sector-x").x(d => d._tx ?? cx);
+  simulation.force("sector-y").y(d => d._ty ?? cy);
+  simulation.force("radial").x(cx).y(cy);
+  // pin README to canvas center
+  const rn = DATA.nodes.find(n => n.id === "README");
+  if (rn) { rn.fx = cx; rn.fy = cy; }
+  svg.attr("viewBox", `0 0 ${width} ${height}`);
+  simulation.alpha(0.3).restart();
+}
+window.addEventListener("resize", recenter);
+
+// ── init ───────────────────────────────────────────────────────────────────
+recenter();
+restart();
+</script>
+</body>
+</html>
