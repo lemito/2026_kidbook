@@ -1,304 +1,306 @@
-{
-  "section": "8.1_self_understanding",
-  "topic": "Синдром самозванца на новой работе",
-  "author_group": "Группа ...",
-  "members": [
-    "Гуляев Андрей",
-    "Лапин Данил",
-    "Болдинова Валерия",
-    "Фоменко Артем",
-    "Суровегин Никита",
-    "Малеев Владислав"
-  ],
-  "concepts": [
-    {
-      "id": "8.1_self_understanding/impostor_syndrome",
-      "description": "О понятии синдрома самозванца: что это такое, как он был открыт и почему так широко распространён среди специалистов.",
-      "lemmas": [
-        "синдром самозванца",
-        "самозванец",
-        "феномен самозванца",
-        "impostor syndrome",
-        "чувство некомпетентности"
-      ],
-      "name": "impostor_syndrome",
-      "file": "8.1_self_understanding/articles/impostor_syndrome.md",
-      "wikidata_id": "Q1073568",
-      "author": "Гуляев Андрей",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/history_of_impostor_syndrome",
-      "description": "Об истории изучения синдрома самозванца: исследования Клэнс и Аймс 1978 года, последующие работы и современный взгляд науки на явление.",
-      "lemmas": [
-        "история синдрома самозванца",
-        "Клэнс",
-        "Аймс",
-        "психологическое исследование",
-        "феномен"
-      ],
-      "name": "history_of_impostor_syndrome",
-      "file": "8.1_self_understanding/articles/history_of_impostor_syndrome.md",
-      "wikidata_id": "Q1073568",
-      "author": "Гуляев Андрей",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/types_of_impostor_syndrome",
-      "description": "О пяти типах синдрома самозванца по Валери Янг: перфекционист, супергерой, природный гений, солист, эксперт.",
-      "lemmas": [
-        "виды синдрома самозванца",
-        "типы самозванца",
-        "перфекционист",
-        "супергерой",
-        "природный гений",
-        "эксперт"
-      ],
-      "name": "types_of_impostor_syndrome",
-      "file": "8.1_self_understanding/articles/types_of_impostor_syndrome.md",
-      "wikidata_id": "Q1073568",
-      "author": "Гуляев Андрей",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/causes",
-      "description": "О причинах возникновения синдрома самозванца: психологические, социальные и ситуативные факторы, провоцирующие неуверенность в себе.",
-      "lemmas": [
-        "причины синдрома самозванца",
-        "неуверенность в себе",
-        "тревожность",
-        "страх разоблачения",
-        "психологические установки"
-      ],
-      "name": "causes",
-      "file": "8.1_self_understanding/articles/causes.md",
-      "wikidata_id": "Q1073568",
-      "author": "Лапин Данил",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/perfectionism",
-      "description": "О связи перфекционизма и синдрома самозванца: как завышенные стандарты к себе подпитывают ощущение недостаточности и страх ошибки.",
-      "lemmas": [
-        "перфекционизм",
-        "завышенные требования",
-        "страх ошибки",
-        "идеализм",
-        "самокритика"
-      ],
-      "name": "perfectionism",
-      "file": "8.1_self_understanding/articles/perfectionism.md",
-      "wikidata_id": "Q1121749",
-      "author": "Лапин Данил",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/family_influence",
-      "description": "О роли семьи и воспитания в формировании синдрома самозванца: как ранние установки, сравнения в детстве и стиль похвалы влияют на взрослую самооценку.",
-      "lemmas": [
-        "семья и воспитание",
-        "детские установки",
-        "родители",
-        "стиль воспитания",
-        "похвала"
-      ],
-      "name": "family_influence",
-      "file": "8.1_self_understanding/articles/family_influence.md",
-      "wikidata_id": "Q8436",
-      "author": "Лапин Данил",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/manifestations",
-      "description": "О том, как синдром самозванца проявляется на новой работе: типичные мысли, поведение, эмоциональные реакции в первые месяцы.",
-      "lemmas": [
-        "проявления синдрома самозванца",
-        "новая работа",
-        "тревога",
-        "страх провала",
-        "избегание"
-      ],
-      "name": "manifestations",
-      "file": "8.1_self_understanding/articles/manifestations.md",
-      "wikidata_id": "Q1073568",
-      "author": "Болдинова Валерия",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/self_esteem",
-      "description": "О взаимосвязи самооценки и синдрома самозванца: как низкая и нестабильная самооценка усиливает сомнения в собственной компетентности.",
-      "lemmas": [
-        "самооценка",
-        "самовосприятие",
-        "неуверенность",
-        "адекватная самооценка",
-        "самоценность"
-      ],
-      "name": "self_esteem",
-      "file": "8.1_self_understanding/articles/self_esteem.md",
-      "wikidata_id": "Q10981881",
-      "author": "Болдинова Валерия",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/high_achievers",
-      "description": "О том, почему синдром самозванца особенно часто встречается у высокодостигающих людей: парадокс успеха и неверия в него.",
-      "lemmas": [
-        "высокодостигающие люди",
-        "успешные люди",
-        "достижения",
-        "парадокс успеха",
-        "синдром отличника"
-      ],
-      "name": "high_achievers",
-      "file": "8.1_self_understanding/articles/high_achievers.md",
-      "wikidata_id": "Q1073568",
-      "author": "Болдинова Валерия",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/workplace_adaptation",
-      "description": "Об адаптации на новом месте работы: этапы, психологические трудности и то, как синдром самозванца мешает этому процессу.",
-      "lemmas": [
-        "адаптация на работе",
-        "период адаптации",
-        "испытательный срок",
-        "вхождение в коллектив",
-        "новый сотрудник"
-      ],
-      "name": "workplace_adaptation",
-      "file": "8.1_self_understanding/articles/workplace_adaptation.md",
-      "wikidata_id": "Q3249551",
-      "author": "Фоменко Артем",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/feedback",
-      "description": "Об обратной связи на работе и о том, как люди с синдромом самозванца воспринимают критику и похвалу иначе, чем остальные.",
-      "lemmas": [
-        "обратная связь",
-        "фидбэк",
-        "критика",
-        "похвала",
-        "оценка работы"
-      ],
-      "name": "feedback",
-      "file": "8.1_self_understanding/articles/feedback.md",
-      "wikidata_id": "Q179024",
-      "author": "Фоменко Артем",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/social_comparison",
-      "description": "О склонности сравнивать себя с коллегами и о том, как это сравнение усиливает или ослабляет синдром самозванца.",
-      "lemmas": [
-        "сравнение с другими",
-        "социальное сравнение",
-        "коллеги",
-        "зависть",
-        "ориентир"
-      ],
-      "name": "social_comparison",
-      "file": "8.1_self_understanding/articles/social_comparison.md",
-      "wikidata_id": "Q7553",
-      "author": "Фоменко Артем",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/overcoming",
-      "description": "О способах преодоления синдрома самозванца: практические стратегии, которые помогают изменить отношение к себе и своим достижениям.",
-      "lemmas": [
-        "преодоление синдрома самозванца",
-        "работа с синдромом",
-        "стратегии",
-        "самопомощь",
-        "изменение мышления"
-      ],
-      "name": "overcoming",
-      "file": "8.1_self_understanding/articles/overcoming.md",
-      "wikidata_id": "Q1073568",
-      "author": "Суровегин Никита",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/cbt_techniques",
-      "description": "О когнитивно-поведенческих техниках работы с синдромом самозванца: как выявлять и оспаривать автоматические негативные мысли.",
-      "lemmas": [
-        "КПТ",
-        "когнитивно-поведенческая терапия",
-        "автоматические мысли",
-        "когнитивные искажения",
-        "рефрейминг"
-      ],
-      "name": "cbt_techniques",
-      "file": "8.1_self_understanding/articles/cbt_techniques.md",
-      "wikidata_id": "Q1147152",
-      "author": "Суровегин Никита",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/mentorship",
-      "description": "О роли наставника и поддержки коллег в преодолении синдрома самозванца: как внешняя опора помогает укрепить профессиональную идентичность.",
-      "lemmas": [
-        "наставник",
-        "ментор",
-        "наставничество",
-        "поддержка коллег",
-        "профессиональное сообщество"
-      ],
-      "name": "mentorship",
-      "file": "8.1_self_understanding/articles/mentorship.md",
-      "wikidata_id": "Q188775",
-      "author": "Суровегин Никита",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/professional_growth",
-      "description": "О связи синдрома самозванца и профессионального роста: как осознание феномена может стать точкой опоры для развития карьеры.",
-      "lemmas": [
-        "профессиональный рост",
-        "карьера",
-        "развитие",
-        "компетентность",
-        "профессиональная идентичность"
-      ],
-      "name": "professional_growth",
-      "file": "8.1_self_understanding/articles/professional_growth.md",
-      "wikidata_id": "Q2534109",
-      "author": "Малеев Владислав",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/when_to_seek_help",
-      "description": "О том, когда синдром самозванца требует помощи специалиста: признаки, при которых самостоятельной работы недостаточно.",
-      "lemmas": [
-        "психолог",
-        "психотерапевт",
-        "обращение за помощью",
-        "психологическая помощь",
-        "тревожное расстройство"
-      ],
-      "name": "when_to_seek_help",
-      "file": "8.1_self_understanding/articles/when_to_seek_help.md",
-      "wikidata_id": "Q1147152",
-      "author": "Малеев Владислав",
-      "article_llm": ""
-    },
-    {
-      "id": "8.1_self_understanding/self_confidence",
-      "description": "Об уверенности в себе как навыке, который можно развивать: связь с синдромом самозванца и конкретные практики для укрепления самовосприятия.",
-      "lemmas": [
-        "уверенность в себе",
-        "самоуважение",
-        "самоэффективность",
-        "вера в себя",
-        "ассертивность"
-      ],
-      "name": "self_confidence",
-      "file": "8.1_self_understanding/articles/self_confidence.md",
-      "wikidata_id": "Q177719",
-      "author": "Малеев Владислав",
-      "article_llm": ""
-    }
-  ]
-}
+[
+  {
+    "section": "8.1_self_understanding",
+    "topic": "Синдром самозванца на новой работе",
+    "author_group": "Группа ...",
+    "members": [
+      "Гуляев Андрей",
+      "Лапин Данил",
+      "Болдинова Валерия",
+      "Фоменко Артем",
+      "Суровегин Никита",
+      "Малеев Владислав"
+    ],
+    "concepts": [
+      {
+        "id": "8.1_self_understanding/impostor_syndrome",
+        "description": "О понятии синдрома самозванца: что это такое, как он был открыт и почему так широко распространён среди специалистов.",
+        "lemmas": [
+          "синдром самозванца",
+          "самозванец",
+          "феномен самозванца",
+          "impostor syndrome",
+          "чувство некомпетентности"
+        ],
+        "name": "impostor_syndrome",
+        "file": "8.1_self_understanding/articles/impostor_syndrome.md",
+        "wikidata_id": "Q1073568",
+        "author": "Гуляев Андрей",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/history_of_impostor_syndrome",
+        "description": "Об истории изучения синдрома самозванца: исследования Клэнс и Аймс 1978 года, последующие работы и современный взгляд науки на явление.",
+        "lemmas": [
+          "история синдрома самозванца",
+          "Клэнс",
+          "Аймс",
+          "психологическое исследование",
+          "феномен"
+        ],
+        "name": "history_of_impostor_syndrome",
+        "file": "8.1_self_understanding/articles/history_of_impostor_syndrome.md",
+        "wikidata_id": "Q1073568",
+        "author": "Гуляев Андрей",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/types_of_impostor_syndrome",
+        "description": "О пяти типах синдрома самозванца по Валери Янг: перфекционист, супергерой, природный гений, солист, эксперт.",
+        "lemmas": [
+          "виды синдрома самозванца",
+          "типы самозванца",
+          "перфекционист",
+          "супергерой",
+          "природный гений",
+          "эксперт"
+        ],
+        "name": "types_of_impostor_syndrome",
+        "file": "8.1_self_understanding/articles/types_of_impostor_syndrome.md",
+        "wikidata_id": "Q1073568",
+        "author": "Гуляев Андрей",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/causes",
+        "description": "О причинах возникновения синдрома самозванца: психологические, социальные и ситуативные факторы, провоцирующие неуверенность в себе.",
+        "lemmas": [
+          "причины синдрома самозванца",
+          "неуверенность в себе",
+          "тревожность",
+          "страх разоблачения",
+          "психологические установки"
+        ],
+        "name": "causes",
+        "file": "8.1_self_understanding/articles/causes.md",
+        "wikidata_id": "Q1073568",
+        "author": "Лапин Данил",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/perfectionism",
+        "description": "О связи перфекционизма и синдрома самозванца: как завышенные стандарты к себе подпитывают ощущение недостаточности и страх ошибки.",
+        "lemmas": [
+          "перфекционизм",
+          "завышенные требования",
+          "страх ошибки",
+          "идеализм",
+          "самокритика"
+        ],
+        "name": "perfectionism",
+        "file": "8.1_self_understanding/articles/perfectionism.md",
+        "wikidata_id": "Q1121749",
+        "author": "Лапин Данил",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/family_influence",
+        "description": "О роли семьи и воспитания в формировании синдрома самозванца: как ранние установки, сравнения в детстве и стиль похвалы влияют на взрослую самооценку.",
+        "lemmas": [
+          "семья и воспитание",
+          "детские установки",
+          "родители",
+          "стиль воспитания",
+          "похвала"
+        ],
+        "name": "family_influence",
+        "file": "8.1_self_understanding/articles/family_influence.md",
+        "wikidata_id": "Q8436",
+        "author": "Лапин Данил",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/manifestations",
+        "description": "О том, как синдром самозванца проявляется на новой работе: типичные мысли, поведение, эмоциональные реакции в первые месяцы.",
+        "lemmas": [
+          "проявления синдрома самозванца",
+          "новая работа",
+          "тревога",
+          "страх провала",
+          "избегание"
+        ],
+        "name": "manifestations",
+        "file": "8.1_self_understanding/articles/manifestations.md",
+        "wikidata_id": "Q1073568",
+        "author": "Болдинова Валерия",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/self_esteem",
+        "description": "О взаимосвязи самооценки и синдрома самозванца: как низкая и нестабильная самооценка усиливает сомнения в собственной компетентности.",
+        "lemmas": [
+          "самооценка",
+          "самовосприятие",
+          "неуверенность",
+          "адекватная самооценка",
+          "самоценность"
+        ],
+        "name": "self_esteem",
+        "file": "8.1_self_understanding/articles/self_esteem.md",
+        "wikidata_id": "Q10981881",
+        "author": "Болдинова Валерия",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/high_achievers",
+        "description": "О том, почему синдром самозванца особенно часто встречается у высокодостигающих людей: парадокс успеха и неверия в него.",
+        "lemmas": [
+          "высокодостигающие люди",
+          "успешные люди",
+          "достижения",
+          "парадокс успеха",
+          "синдром отличника"
+        ],
+        "name": "high_achievers",
+        "file": "8.1_self_understanding/articles/high_achievers.md",
+        "wikidata_id": "Q1073568",
+        "author": "Болдинова Валерия",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/workplace_adaptation",
+        "description": "Об адаптации на новом месте работы: этапы, психологические трудности и то, как синдром самозванца мешает этому процессу.",
+        "lemmas": [
+          "адаптация на работе",
+          "период адаптации",
+          "испытательный срок",
+          "вхождение в коллектив",
+          "новый сотрудник"
+        ],
+        "name": "workplace_adaptation",
+        "file": "8.1_self_understanding/articles/workplace_adaptation.md",
+        "wikidata_id": "Q3249551",
+        "author": "Фоменко Артем",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/feedback",
+        "description": "Об обратной связи на работе и о том, как люди с синдромом самозванца воспринимают критику и похвалу иначе, чем остальные.",
+        "lemmas": [
+          "обратная связь",
+          "фидбэк",
+          "критика",
+          "похвала",
+          "оценка работы"
+        ],
+        "name": "feedback",
+        "file": "8.1_self_understanding/articles/feedback.md",
+        "wikidata_id": "Q179024",
+        "author": "Фоменко Артем",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/social_comparison",
+        "description": "О склонности сравнивать себя с коллегами и о том, как это сравнение усиливает или ослабляет синдром самозванца.",
+        "lemmas": [
+          "сравнение с другими",
+          "социальное сравнение",
+          "коллеги",
+          "зависть",
+          "ориентир"
+        ],
+        "name": "social_comparison",
+        "file": "8.1_self_understanding/articles/social_comparison.md",
+        "wikidata_id": "Q7553",
+        "author": "Фоменко Артем",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/overcoming",
+        "description": "О способах преодоления синдрома самозванца: практические стратегии, которые помогают изменить отношение к себе и своим достижениям.",
+        "lemmas": [
+          "преодоление синдрома самозванца",
+          "работа с синдромом",
+          "стратегии",
+          "самопомощь",
+          "изменение мышления"
+        ],
+        "name": "overcoming",
+        "file": "8.1_self_understanding/articles/overcoming.md",
+        "wikidata_id": "Q1073568",
+        "author": "Суровегин Никита",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/cbt_techniques",
+        "description": "О когнитивно-поведенческих техниках работы с синдромом самозванца: как выявлять и оспаривать автоматические негативные мысли.",
+        "lemmas": [
+          "КПТ",
+          "когнитивно-поведенческая терапия",
+          "автоматические мысли",
+          "когнитивные искажения",
+          "рефрейминг"
+        ],
+        "name": "cbt_techniques",
+        "file": "8.1_self_understanding/articles/cbt_techniques.md",
+        "wikidata_id": "Q1147152",
+        "author": "Суровегин Никита",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/mentorship",
+        "description": "О роли наставника и поддержки коллег в преодолении синдрома самозванца: как внешняя опора помогает укрепить профессиональную идентичность.",
+        "lemmas": [
+          "наставник",
+          "ментор",
+          "наставничество",
+          "поддержка коллег",
+          "профессиональное сообщество"
+        ],
+        "name": "mentorship",
+        "file": "8.1_self_understanding/articles/mentorship.md",
+        "wikidata_id": "Q188775",
+        "author": "Суровегин Никита",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/professional_growth",
+        "description": "О связи синдрома самозванца и профессионального роста: как осознание феномена может стать точкой опоры для развития карьеры.",
+        "lemmas": [
+          "профессиональный рост",
+          "карьера",
+          "развитие",
+          "компетентность",
+          "профессиональная идентичность"
+        ],
+        "name": "professional_growth",
+        "file": "8.1_self_understanding/articles/professional_growth.md",
+        "wikidata_id": "Q2534109",
+        "author": "Малеев Владислав",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/when_to_seek_help",
+        "description": "О том, когда синдром самозванца требует помощи специалиста: признаки, при которых самостоятельной работы недостаточно.",
+        "lemmas": [
+          "психолог",
+          "психотерапевт",
+          "обращение за помощью",
+          "психологическая помощь",
+          "тревожное расстройство"
+        ],
+        "name": "when_to_seek_help",
+        "file": "8.1_self_understanding/articles/when_to_seek_help.md",
+        "wikidata_id": "Q1147152",
+        "author": "Малеев Владислав",
+        "article_llm": ""
+      },
+      {
+        "id": "8.1_self_understanding/self_confidence",
+        "description": "Об уверенности в себе как навыке, который можно развивать: связь с синдромом самозванца и конкретные практики для укрепления самовосприятия.",
+        "lemmas": [
+          "уверенность в себе",
+          "самоуважение",
+          "самоэффективность",
+          "вера в себя",
+          "ассертивность"
+        ],
+        "name": "self_confidence",
+        "file": "8.1_self_understanding/articles/self_confidence.md",
+        "wikidata_id": "Q177719",
+        "author": "Малеев Владислав",
+        "article_llm": ""
+      }
+    ]
+  }
+]
