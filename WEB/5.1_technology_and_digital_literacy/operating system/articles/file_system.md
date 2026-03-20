@@ -155,3 +155,8 @@ sequenceDiagram
 * [[operating_system|Операционная система]] 
 * [[memory_management|Управление памятью]] 
 * [[HAL|Слой аппаратных абстракций]]
+
+---
+
+**Автор**: [Воронухин Никита](https://github.com/DeZtrOiD)
+**LLM - Qwen3.5-Plus**
