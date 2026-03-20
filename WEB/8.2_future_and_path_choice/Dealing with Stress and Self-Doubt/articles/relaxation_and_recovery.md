@@ -76,7 +76,7 @@
 - сделать пару приседаний или наклонов
 
 Даже 2–3 минуты движения помогают почувствовать себя бодрее.  
-Если захочешь, можно потом почитать материал [sport_and_energy](../../../3.1_healthy/Sleep,_nutrition,_and_adolescent_energy/sport_and_energy.md) — там тема движения и энергии раскрыта подробнее.
+Если захочешь, можно потом почитать материал [sport_and_energy](../../../3.1_healthy%20lifestyle/Sleep,%20nutrition,%20and%20adolescent%20energy/articles/sport_and_energy.md) — там тема движения и энергии раскрыта подробнее.
 
 ---
 
@@ -169,14 +169,14 @@
 - делать вечер спокойнее
 - проветривать комнату
 
-Можно почитать про сон вот тут: [evening_rituals_sleep_fast](../../../3.1_healthy/Sleep,_nutrition,_and_adolescent_energy/articles/evening_rituals_sleep_fast.md) и [gadgets_blue_light_sleep](../../../3.1_healthy/Sleep,_nutrition,_and_adolescent_energy/gadgets_blue_light_sleep.md).
+Можно почитать про сон вот тут: [evening_rituals_sleep_fast](../../../3.1_healthy%20lifestyle/Sleep,%20nutrition,%20and%20adolescent%20energy/articles/evening_rituals_sleep_fast.md) и [gadgets_blue_light_sleep](../../../3.1_healthy%20lifestyle/Sleep,%20nutrition,%20and%20adolescent%20energy/articles/gadgets_blue_light_sleep.md).
 
 ### Вода и еда 💧🍎
 
 Когда человек мало пьёт воды или пропускает еду, усталость может чувствоваться сильнее.  
 Иногда плохое самочувствие связано не только с эмоциями, но и с тем, что организму просто не хватает сил.
 
-Если хочешь, по этой теме ещё можно посмотреть вот тут - [drinking_regime](../../../3.1_healthy/Sleep,_nutrition,_and_adolescent_energy/articles/drinking_regime.md).
+Если хочешь, по этой теме ещё можно посмотреть вот тут - [drinking_regime](../../../3.1_healthy%20lifestyle/Sleep,%20nutrition,%20and%20adolescent%20energy/articles/drinking_regime.md).
 
 ### Перерывы 🕒
 
