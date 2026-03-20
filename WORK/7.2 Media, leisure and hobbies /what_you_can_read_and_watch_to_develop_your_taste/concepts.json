@@ -1,6 +1,6 @@
 [
   {
-    "section": "7.2_leisure",
+    "section": "7.2 Media, leisure and hobbies ",
     "topic": "Что можно читать и смотреть для развития вкуса",
     "author_group": "Команда 671",
     "members": [
@@ -10,83 +10,83 @@
     ],
     "concepts": [
       {
-        "id": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/aesthetics_and_taste",
+        "id": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/aesthetics_and_taste",
         "description": "О роли эстетики в формировании вкуса и восприятии художественной формы.",
         "lemmas": ["эстетика", "вкус", "искусство", "восприятие", "форма", "гармония"],
         "name": "Эстетика и развитие вкуса",
-        "file": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/aesthetics_and_taste.md",
+        "file": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/aesthetics_and_taste.md",
         "wikidata_id": "Q35986",
         "author": "Коробейников Даниил"
       },
       {
-        "id": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/psychology_of_taste",
+        "id": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/psychology_of_taste",
         "description": "О психологических механизмах формирования вкуса и влиянии опыта.",
         "lemmas": ["психология", "вкус", "восприятие", "предпочтения", "опыт"],
         "name": "Психология вкуса",
-        "file": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/psychology_of_taste.md",
+        "file": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/psychology_of_taste.md",
         "wikidata_id": "Q9418",
         "author": "Коробейников Даниил"
       },
       {
-        "id": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/thinking_and_taste",
+        "id": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/thinking_and_taste",
         "description": "Связь мышления и вкуса, роль анализа и осмысления.",
         "lemmas": ["мышление", "вкус", "анализ", "сравнение", "осмысление"],
         "name": "Мышление как основа вкуса",
-        "file": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/thinking_and_taste.md",
+        "file": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/thinking_and_taste.md",
         "wikidata_id": "Q450",
         "author": "Коробейников Даниил"
       },
       {
-        "id": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/z1",
+        "id": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/z1",
         "description": "Обзор фильмов и режиссёров, формирующих вкус в кино.",
         "lemmas": ["кино", "режиссеры", "фильмы", "вкус", "киноязык"],
         "name": "Фильмы и режиссёры, формирующие вкус в кино",
-        "file": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/z1.md",
+        "file": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/z1.md",
         "wikidata_id": "Q11424",
         "author": "Брянцев Алексей"
       },
       {
-        "id": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/z2",
+        "id": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/z2",
         "description": "Основы осознанного просмотра и анализа кино.",
         "lemmas": ["кино", "анализ", "монтаж", "визуальный язык"],
         "name": "Как смотреть кино осознанно: основы анализа фильма",
-        "file": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/z2.md",
+        "file": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/z2.md",
         "wikidata_id": "Q24862",
         "author": "Брянцев Алексей"
       },
       {
-        "id": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/z3",
+        "id": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/z3",
         "description": "Подборка фильмов для развития насмотренности.",
         "lemmas": ["фильмы", "насмотренность", "жанры", "кино"],
         "name": "Подборка фильмов для развития насмотренности",
-        "file": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/z3.md",
+        "file": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/z3.md",
         "wikidata_id": "Q24869",
         "author": "Брянцев Алексей"
       },
       {
-        "id": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/Music-and-taste-development",
+        "id": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/Music-and-taste-development",
         "description": "О влиянии музыки на формирование вкуса и восприятие звучания.",
         "lemmas": ["музыка", "вкус", "ритм", "мелодия", "восприятие"],
         "name": "Музыка и развитие вкуса",
-        "file": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/Music-and-taste-development.md",
+        "file": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/Music-and-taste-development.md",
         "wikidata_id": "Q638",
         "author": "Ткаченко Никита"
       },
       {
-        "id": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/Listen-to-the-music-correctly",
+        "id": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/Listen-to-the-music-correctly",
         "description": "Методы внимательного и осознанного слушания музыки.",
         "lemmas": ["музыка", "слушание", "анализ", "концентрация"],
         "name": "Практика внимательного слушания музыки",
-        "file": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/Listen-to-the-music-correctly.md",
+        "file": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/Listen-to-the-music-correctly.md",
         "wikidata_id": "Q638",
         "author": "Ткаченко Никита"
       },
       {
-        "id": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/Repeat-listening",
+        "id": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/Repeat-listening",
         "description": "Роль повторного прослушивания в развитии музыкального восприятия.",
         "lemmas": ["музыка", "повтор", "слушание", "восприятие", "память"],
         "name": "Повторное прослушивание как способ развития музыкального вкуса",
-        "file": "WEB/7.2_leisure/what_you_can_read_and_watch_to_develop_your_taste/articles/Repeat-listening.md",
+        "file": "WEB/7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/Repeat-listening.md",
         "wikidata_id": "Q638",
         "author": "Ткаченко Никита"
       }
