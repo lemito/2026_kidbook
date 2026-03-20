@@ -150,3 +150,8 @@ flowchart LR
 * [[file_system|Файловые системы]]
 * [[operating_system|Операционные системы]]
 * [[memory_management|Управление памятью]]
+
+---
+
+**Автор**: [Воронухин Никита](https://github.com/DeZtrOiD)
+**LLM - ChatGPT-5.2**
