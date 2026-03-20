@@ -1,5 +1,11 @@
 # Валютный курс
 
+[![Доллар США](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fopen.er-api.com%2Fv6%2Flatest%2FUSD&query=%24.rates.RUB&label=%24%20USD%2FRUB&suffix=%20RUB&color=blue)](https://open.er-api.com/v6/latest/USD)
+[![Иена](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fopen.er-api.com%2Fv6%2Flatest%2FJPY&query=%24.rates.RUB&label=JPY%2FRUB&suffix=%20RUB&color=blue)](https://open.er-api.com/v6/latest/JPY)
+[![Фунт](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fopen.er-api.com%2Fv6%2Flatest%2FGBP&query=%24.rates.RUB&label=GBP%2FRUB&suffix=%20RUB&color=blue)](https://open.er-api.com/v6/latest/GBP)
+[![Юань](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fopen.er-api.com%2Fv6%2Flatest%2FCNY&query=%24.rates.RUB&label=CNY%2FRUB&suffix=%20RUB&color=blue)](https://open.er-api.com/v6/latest/CNY)
+[![Евро](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fopen.er-api.com%2Fv6%2Flatest%2FEUR&query=%24.rates.RUB&label=EUR%2FRUB&suffix=%20RUB&color=blue)](https://open.er-api.com/v6/latest/EUR)
+
 **Валютный курс** — это цена одной валюты, выраженная в другой валюте. Через тему валютного курса удобно понять сразу несколько важных вещей: почему меняются цены на импортные товары, как связаны деньги разных стран, зачем государствам нужен [Центральный банк](./tsentralnyy_bank.md) и почему рядом со словом «курс» так часто стоят темы [Девальвация](./devalvatsiya.md), [Инфляция, дефляция и нулевая инфляция](./inflyatsiya_deflyatsiya_i_nulevaya_inflyatsiya.md), [Доллар США](./dollar_ssha.md), [Евро](./evro.md), [Китайский юань](./kitayskiy_yuan.md) и [Резервная валюта](./rezervnaya_valyuta.md).
 
 Валютный курс важен не только для банков и экономистов. Он влияет на стоимость поездок, онлайн-покупок, импортной техники, топлива, лекарств и даже на то, насколько выгодно стране продавать свои товары за рубеж. Поэтому это одна из центральных тем вашей базы знаний по мировой экономике.
