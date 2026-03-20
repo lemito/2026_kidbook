@@ -81,3 +81,8 @@ TLB — это маленькая записная книжка, которая 
 
 *   [Физическая память](physical_memory.md)
 *   [Виртуальная память](virtual_memory.md)
+
+---
+
+**Автор**: [Жаворонков Никита](https://github.com/Supertos)
+**LLM - Qwen3.5-Plus**
