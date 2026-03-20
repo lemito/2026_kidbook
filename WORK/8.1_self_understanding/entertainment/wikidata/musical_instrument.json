@@ -1,0 +1,141 @@
+{
+  "concept_id": "musical_instrument",
+  "title": "Музыкальный инструмент",
+  "wikidata_id": "Q34379",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q34379",
+  "info": {
+    "label": "музыкальный инструмент",
+    "description": "предметы, с помощью которых извлекаются различные музыкальные, а также немузыкальные неорганизованные звуки",
+    "aliases": "instrument, music instrument, instrument (music), instrument in music"
+  },
+  "subclasses": [
+    {
+      "qid": "Q11404",
+      "label": "барабан",
+      "description": "семейство ударных музыкальных инструментов"
+    },
+    {
+      "qid": "Q12639",
+      "label": "идиофон",
+      "description": "музыкальный инструмент"
+    },
+    {
+      "qid": "Q46384",
+      "label": "микрофон",
+      "description": "устройство для преобразовывания звука в электрический сигнал"
+    },
+    {
+      "qid": "Q47369",
+      "label": "арфа",
+      "description": "щипковый музыкальный инструмент"
+    },
+    {
+      "qid": "Q52954",
+      "label": "клавишные",
+      "description": "класс музыкальных инструментов, которые имеют клавиши"
+    },
+    {
+      "qid": "Q76239",
+      "label": "цитра",
+      "description": "щипковый струнный музыкальный инструмент"
+    },
+    {
+      "qid": "Q104363",
+      "label": "наковальня",
+      "description": "metalworking tool"
+    },
+    {
+      "qid": "Q105738",
+      "label": "электрофон",
+      "description": "класс музыкальных инструментов, использующих электричество"
+    },
+    {
+      "qid": "Q131765",
+      "label": "мультимедиа",
+      "description": "content that uses a combination of different content forms"
+    },
+    {
+      "qid": "Q133163",
+      "label": "ударный музыкальный инструмент",
+      "description": "семейство музыкальных инструментов"
+    },
+    {
+      "qid": "Q133506",
+      "label": "Телармониум",
+      "description": "Тип электрического органа"
+    },
+    {
+      "qid": "Q178812",
+      "label": "Колокола",
+      "description": "musical instruments in the percussion family"
+    },
+    {
+      "qid": "Q183932",
+      "label": "кастаньеты",
+      "description": "percussion instrument"
+    },
+    {
+      "qid": "Q190172",
+      "label": "тарелка",
+      "description": "ударный музыкальный инструмент"
+    },
+    {
+      "qid": "Q191823",
+      "label": "клавикорд",
+      "description": "stringed keyboard musical instrument"
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q167126",
+      "label": "кобза",
+      "description": "украинский традиционный музыкальный инструмент"
+    },
+    {
+      "qid": "Q180733",
+      "label": "лютня",
+      "description": "струнный музыкальный инструмент"
+    },
+    {
+      "qid": "Q623509",
+      "label": "Ребаб",
+      "description": "струнный смычковый инструмент"
+    },
+    {
+      "qid": "Q645977",
+      "label": "комуз",
+      "description": "струнный инструмент"
+    },
+    {
+      "qid": "Q726306",
+      "label": "эрху",
+      "description": "Chinese two-stringed musical instrument"
+    },
+    {
+      "qid": "Q733370",
+      "label": "валиха",
+      "description": "мадагаскарский народный струнный щипковый музыкальный инструмент"
+    },
+    {
+      "qid": "Q810551",
+      "label": "bass saxophone",
+      "description": "large low-pitched wind instrument"
+    },
+    {
+      "qid": "Q816793",
+      "label": "bendir",
+      "description": "wooden frame drum of North Africa and Southwest Asia"
+    },
+    {
+      "qid": "Q865832",
+      "label": "Birotron",
+      "description": "Tape replay keyboard"
+    },
+    {
+      "qid": "Q1133096",
+      "label": "ronroco",
+      "description": "plucked string instrument of the charango family"
+    }
+  ],
+  "properties": {}
+}

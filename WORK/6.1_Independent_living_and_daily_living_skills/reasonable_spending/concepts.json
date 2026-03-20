@@ -1,0 +1,389 @@
+{
+  "section": "6.1 Самостоятельная жизнь и бытовые навыки",
+  "topic": "Как разумно тратить деньги",
+  "author_group": "Команда 57",
+  "members": [
+    "Алимов Ирфан",
+    "Венгер Ирина",
+    "Моисеев Кирилл",
+    "Тараскаев Давид",
+    "Шмотова Александра"
+  ],
+  "concepts": [
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/budget",
+      "description": "О планировании личных денег: сколько приходит, на что тратится и какую часть лучше отложить.",
+      "lemmas": [
+        "бюджет",
+        "планирование",
+        "план трат",
+        "личный бюджет",
+        "распределение денег",
+        "контроль расходов",
+        "финансовая дисциплина"
+      ],
+      "name": "Бюджет",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/budget.md",
+      "wikidata_id": "Q41263",
+      "author": "Команда 57",
+      "aliases": [
+        "бюджет",
+        "бюджета",
+        "бюджету",
+        "бюджетом",
+        "бюджете"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/income",
+      "description": "О денежных поступлениях ребенка: карманных деньгах, подарках и других суммах, которые можно учитывать и планировать.",
+      "lemmas": [
+        "доход",
+        "денежные поступления",
+        "источник дохода",
+        "карманные деньги",
+        "подарочные деньги",
+        "регулярный доход"
+      ],
+      "name": "Доход",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/income.md",
+      "wikidata_id": "Q1527264",
+      "author": "Команда 57",
+      "aliases": [
+        "доход",
+        "дохода",
+        "доходу",
+        "доходом",
+        "доходе",
+        "доходы",
+        "доходов"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/expense",
+      "description": "О тратах на учебу, еду, транспорт, развлечения и о том, почему расходы важно замечать и записывать.",
+      "lemmas": [
+        "расход",
+        "траты",
+        "оплата",
+        "обязательные траты",
+        "лишние покупки",
+        "учет трат",
+        "расходы"
+      ],
+      "name": "Расход",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/expense.md",
+      "wikidata_id": "Q28754054",
+      "author": "Команда 57",
+      "aliases": [
+        "расход",
+        "расхода",
+        "расходу",
+        "расходом",
+        "расходе",
+        "расходы",
+        "расходов"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/need",
+      "description": "О том, как отличать действительно нужные вещи от необязательных и почему сначала важно закрывать базовые нужды.",
+      "lemmas": [
+        "потребность",
+        "необходимость",
+        "приоритетная покупка",
+        "базовые нужды",
+        "обязательные вещи",
+        "важное сначала"
+      ],
+      "name": "Потребность",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/need.md",
+      "wikidata_id": "Q190258",
+      "author": "Команда 57",
+      "aliases": [
+        "потребность",
+        "потребности",
+        "потребностью",
+        "потребностях"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want",
+      "description": "О желаниях и приятных покупках, которые можно отложить, если сначала нужно потратить деньги на важное.",
+      "lemmas": [
+        "желание",
+        "хочу",
+        "приятная покупка",
+        "необязательные траты",
+        "развлечения",
+        "выбор хочу или надо"
+      ],
+      "name": "Желание",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md",
+      "wikidata_id": "Q241625",
+      "author": "Команда 57",
+      "aliases": [
+        "желание",
+        "желания",
+        "желанием",
+        "желаний"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/savings",
+      "description": "О деньгах, которые откладывают на будущую цель или на непредвиденные случаи, а не тратят сразу.",
+      "lemmas": [
+        "накопления",
+        "сбережения",
+        "копить",
+        "копилка",
+        "финансовый резерв",
+        "отложенные деньги",
+        "долгосрочный план"
+      ],
+      "name": "Накопления",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/savings.md",
+      "wikidata_id": "Q1629885",
+      "author": "Команда 57",
+      "aliases": [
+        "накопления",
+        "накоплений",
+        "накоплениям",
+        "накоплениями"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/financial_goal",
+      "description": "О финансовой цели: желаемой покупке или сумме, для которой заранее определяют срок и план накоплений.",
+      "lemmas": [
+        "финансовая цель",
+        "цель",
+        "срок",
+        "целевая сумма",
+        "пошаговый план",
+        "достижение",
+        "мотивация"
+      ],
+      "name": "Финансовая цель",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/financial_goal.md",
+      "wikidata_id": "Q2120150",
+      "author": "Команда 57",
+      "aliases": [
+        "финансовая цель",
+        "финансовой целью",
+        "цель",
+        "цели",
+        "целью",
+        "целей"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/price",
+      "description": "О цене товара или услуги и о том, как смотреть на ценник осознанно, а не только на яркую скидку.",
+      "lemmas": [
+        "цена",
+        "стоимость",
+        "ценник",
+        "цена товара",
+        "дороже дешевле",
+        "выбор по цене",
+        "проверка цен"
+      ],
+      "name": "Цена",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/price.md",
+      "wikidata_id": "Q160151",
+      "author": "Команда 57",
+      "aliases": [
+        "цена",
+        "цены",
+        "цене",
+        "цену",
+        "ценой",
+        "цен"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/discount",
+      "description": "О скидках, акциях и о том, почему сниженная цена полезна только тогда, когда вещь действительно нужна.",
+      "lemmas": [
+        "скидка",
+        "акция",
+        "снижение цены",
+        "процент",
+        "выгода",
+        "проверка до скидки",
+        "ложная выгода"
+      ],
+      "name": "Скидка",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/discount.md",
+      "wikidata_id": "Q291046",
+      "author": "Команда 57",
+      "aliases": [
+        "скидка",
+        "скидки",
+        "скидке",
+        "скидку",
+        "скидкой",
+        "скидок"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/comparison",
+      "description": "О сравнении товаров по цене, качеству и другим признакам перед покупкой, чтобы выбрать лучший вариант.",
+      "lemmas": [
+        "сравнение",
+        "сопоставление",
+        "варианты",
+        "критерии выбора",
+        "характеристики",
+        "лучшее предложение"
+      ],
+      "name": "Сравнение",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/comparison.md",
+      "wikidata_id": "Q1720648",
+      "author": "Команда 57",
+      "aliases": [
+        "сравнение",
+        "сравнения",
+        "сравнении",
+        "сравнением"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/quality",
+      "description": "О надежности, удобстве и долговечности вещи и о том, почему качество важно учитывать вместе с ценой.",
+      "lemmas": [
+        "качество",
+        "надежность",
+        "долговечность",
+        "безопасность",
+        "удобство",
+        "проверка отзывов",
+        "цена и качество"
+      ],
+      "name": "Качество",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/quality.md",
+      "wikidata_id": "Q185957",
+      "author": "Команда 57",
+      "aliases": [
+        "качество",
+        "качества",
+        "качестве",
+        "качеством"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/receipt",
+      "description": "О чеке как подтверждении покупки, которое помогает помнить траты, проверять оплату и возвращать товар при необходимости.",
+      "lemmas": [
+        "чек",
+        "квитанция",
+        "подтверждение оплаты",
+        "дата покупки",
+        "сумма",
+        "контроль расходов",
+        "гарантия и возврат"
+      ],
+      "name": "Чек",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/receipt.md",
+      "wikidata_id": "Q80042",
+      "author": "Команда 57",
+      "aliases": [
+        "чек",
+        "чека",
+        "чеку",
+        "чеком",
+        "чеке",
+        "чеки",
+        "чеков"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/pocket_money",
+      "description": "О карманных деньгах как регулярной сумме на личные траты, с которой удобно учиться финансовой самостоятельности.",
+      "lemmas": [
+        "карманные деньги",
+        "личные расходы",
+        "регулярная сумма",
+        "самостоятельность",
+        "детский бюджет",
+        "ответственное поведение"
+      ],
+      "name": "Карманные деньги",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/pocket_money.md",
+      "wikidata_id": "Q2364815",
+      "author": "Команда 57",
+      "aliases": [
+        "карманные деньги",
+        "карманных денег",
+        "карманными деньгами"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/cash",
+      "description": "О купюрах и монетах, которыми платят без карты, и о том, почему наличные помогают лучше замечать остаток денег.",
+      "lemmas": [
+        "наличные",
+        "бумажные деньги",
+        "монеты",
+        "оплата наличными",
+        "получить сдачу",
+        "остаток денег"
+      ],
+      "name": "Наличные",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/cash.md",
+      "wikidata_id": "Q693464",
+      "author": "Команда 57",
+      "aliases": [
+        "наличные",
+        "наличных",
+        "наличными"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/bank_card",
+      "description": "О банковской карте как средстве безналичной оплаты и о правилах безопасного использования карты и ее данных.",
+      "lemmas": [
+        "банковская карта",
+        "безналичная оплата",
+        "пин-код",
+        "защита данных",
+        "история операций",
+        "списание денег"
+      ],
+      "name": "Банковская карта",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/bank_card.md",
+      "wikidata_id": "Q806806",
+      "author": "Команда 57",
+      "aliases": [
+        "банковская карта",
+        "банковской картой",
+        "банковской карты",
+        "карта",
+        "карты",
+        "картой"
+      ]
+    },
+    {
+      "id": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/impulse_purchase",
+      "description": "О спонтанной покупке без обдумывания, которая часто возникает из-за эмоций и мешает следовать плану трат.",
+      "lemmas": [
+        "импульсивная покупка",
+        "спонтанная трата",
+        "эмоциональное решение",
+        "соблазн",
+        "неплановая покупка",
+        "правило паузы"
+      ],
+      "name": "Импульсивная покупка",
+      "file": "WEB/6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/impulse_purchase.md",
+      "wikidata_id": "Q1622385",
+      "author": "Команда 57",
+      "aliases": [
+        "импульсивная покупка",
+        "импульсивной покупкой",
+        "импульсивные покупки"
+      ]
+    }
+  ]
+}

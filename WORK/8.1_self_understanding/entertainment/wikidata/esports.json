@@ -1,0 +1,121 @@
+{
+  "concept_id": "esports",
+  "title": "Киберспорт",
+  "wikidata_id": "Q300920",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q300920",
+  "info": {
+    "label": "киберспорт",
+    "description": "игровые соревнования с использованием компьютерных технологий",
+    "aliases": "компьютерный спорт, электронный спорт"
+  },
+  "subclasses": [
+    {
+      "qid": "Q326704",
+      "label": "Q326704",
+      "description": "серия компьютерных игр"
+    },
+    {
+      "qid": "Q1417032",
+      "label": "симулятор гонок",
+      "description": "жанр компьютерных гонок, приближенных к реальности"
+    },
+    {
+      "qid": "Q12774667",
+      "label": "Progaming",
+      "description": "activity in e-sports"
+    },
+    {
+      "qid": "Q50967494",
+      "label": "simracer",
+      "description": "esporting occupation"
+    },
+    {
+      "qid": "Q60107291",
+      "label": "киберспорт в Казахстане",
+      "description": ""
+    },
+    {
+      "qid": "Q65080238",
+      "label": "Pokémon competitive play",
+      "description": "player versus player battles that take place using the Pokémon video games"
+    },
+    {
+      "qid": "Q109974882",
+      "label": "VALORANT Champions",
+      "description": "esports tournament"
+    },
+    {
+      "qid": "Q111244873",
+      "label": "Кибервелоспорт",
+      "description": "велоспорт"
+    },
+    {
+      "qid": "Q111787403",
+      "label": "Q111787403",
+      "description": ""
+    },
+    {
+      "qid": "Q115526660",
+      "label": "Bigetron Esports",
+      "description": "Indonesian esports organization"
+    },
+    {
+      "qid": "Q115538935",
+      "label": "Alter Ego Esports",
+      "description": "Indonesian esports organization"
+    },
+    {
+      "qid": "Q117545994",
+      "label": "Q117545994",
+      "description": ""
+    },
+    {
+      "qid": "Q123651949",
+      "label": "e-Motorsports",
+      "description": ""
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q56239592",
+      "label": "Heir",
+      "description": "esports tournament"
+    },
+    {
+      "qid": "Q67328602",
+      "label": "Capture the flag",
+      "description": "Game with focus on information security and hacking"
+    },
+    {
+      "qid": "Q100978450",
+      "label": "Mongolian Esport Association",
+      "description": "association esport non-governing body in Mongolia"
+    },
+    {
+      "qid": "Q109360808",
+      "label": "Q109360808",
+      "description": ""
+    },
+    {
+      "qid": "Q111170062",
+      "label": "Esailing Team World Championship",
+      "description": "ESports tournament"
+    },
+    {
+      "qid": "Q112144412",
+      "label": "киберспортивная дисциплина",
+      "description": "компьютерная игра, по которой проводятся профессиональные соревнования"
+    },
+    {
+      "qid": "Q112252260",
+      "label": "Q112252260",
+      "description": ""
+    },
+    {
+      "qid": "Q130552906",
+      "label": "NIBUCHAN-PIONSHIPS",
+      "description": ""
+    }
+  ],
+  "properties": {}
+}

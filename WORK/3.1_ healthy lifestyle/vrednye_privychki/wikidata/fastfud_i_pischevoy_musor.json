@@ -1,0 +1,52 @@
+{
+  "qid": "Q223557",
+  "label_ru": "физическое тело",
+  "label_en": "physical object",
+  "description_ru": "совокупность масс, рассматриваемая как единое целое",
+  "description_en": "singular aggregation of tangible substance(s) such as matter or radiation, with overall properties",
+  "url": "https://www.wikidata.org/wiki/Q223557",
+  "relations": {
+    "has_part": [
+      {
+        "qid": "Q28732711",
+        "label": "субстанция"
+      }
+    ],
+    "part_of": [
+      {
+        "qid": "Q1454986",
+        "label": "физическая система"
+      }
+    ],
+    "subclass_of": [
+      {
+        "qid": "Q53617407",
+        "label": "материальная сущность"
+      },
+      {
+        "qid": "Q4406616",
+        "label": "конкретный объект"
+      }
+    ],
+    "instance_of": [
+      {
+        "qid": "Q124711104",
+        "label": "класс BFO"
+      },
+      {
+        "qid": "Q104086571",
+        "label": "класс первого порядка"
+      },
+      {
+        "qid": "Q100724091",
+        "label": "физический термин"
+      },
+      {
+        "qid": "Q96251598",
+        "label": "тип объекта"
+      }
+    ]
+  },
+  "concept_name": "Фастфуд и пищевой мусор",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/fastfud_i_pischevoy_musor.md"
+}

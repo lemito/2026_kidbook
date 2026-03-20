@@ -1,0 +1,96 @@
+{
+  "qid": "Q170304",
+  "label_ru": "дофамин",
+  "label_en": "dopamine",
+  "description_ru": "химическое вещество",
+  "description_en": "organic chemical that functions both as a hormone and a neurotransmitter",
+  "url": "https://www.wikidata.org/wiki/Q170304",
+  "relations": {
+    "has_part": [
+      {
+        "qid": "Q629",
+        "label": "кислород"
+      },
+      {
+        "qid": "Q627",
+        "label": "азот"
+      },
+      {
+        "qid": "Q623",
+        "label": "углерод"
+      }
+    ],
+    "part_of": [
+      {
+        "qid": "Q22290490",
+        "label": "dopamine secretion"
+      },
+      {
+        "qid": "Q22290488",
+        "label": "dopamine uptake"
+      },
+      {
+        "qid": "Q22273210",
+        "label": "response to dopamine"
+      },
+      {
+        "qid": "Q21106739",
+        "label": "cellular response to dopamine"
+      },
+      {
+        "qid": "Q14916295",
+        "label": "dopamine biosynthetic process from tyrosine"
+      },
+      {
+        "qid": "Q14865368",
+        "label": "dopamine transport"
+      },
+      {
+        "qid": "Q14865365",
+        "label": "dopamine binding"
+      },
+      {
+        "qid": "Q14865364",
+        "label": "dopamine:sodium symporter activity"
+      },
+      {
+        "qid": "Q14863653",
+        "label": "dopamine catabolic process"
+      },
+      {
+        "qid": "Q14862273",
+        "label": "dopamine metabolic process"
+      },
+      {
+        "qid": "Q14862258",
+        "label": "dopamine uptake involved in synaptic transmission"
+      },
+      {
+        "qid": "Q14862246",
+        "label": "dopamine biosynthetic process"
+      },
+      {
+        "qid": "Q14819847",
+        "label": "synaptic transmission, dopaminergic"
+      }
+    ],
+    "subclass_of": [
+      {
+        "qid": "Q109189047",
+        "label": "phenethylamine alkaloid"
+      },
+      {
+        "qid": "Q271663",
+        "label": "Катехоламины"
+      }
+    ],
+    "instance_of": [
+      {
+        "qid": "Q113145171",
+        "label": "тип химического объекта"
+      }
+    ]
+  },
+  "concept_name": "Дофаминовая петля",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/Dopamine.md"
+}

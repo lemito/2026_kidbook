@@ -1,0 +1,126 @@
+{
+  "concept_id": "musical_genre",
+  "title": "Музыкальный жанр",
+  "wikidata_id": "Q188451",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q188451",
+  "info": {
+    "label": "музыкальный жанр",
+    "description": "род музыки, музыкальных произведений, отличающийся особыми, только ему свойственными стилистическими признаками",
+    "aliases": "жанр музыки"
+  },
+  "subclasses": [
+    {
+      "qid": "Q1521426",
+      "label": "gharana",
+      "description": "system of social organisation of linking musicians or dancers by lineage, apprentices or a particular musical style in the Indian subcontinent"
+    },
+    {
+      "qid": "Q1786517",
+      "label": "пало",
+      "description": "flamenco term used to group different traditional musical forms"
+    },
+    {
+      "qid": "Q3177825",
+      "label": "game piece",
+      "description": "concept in experimental music"
+    },
+    {
+      "qid": "Q20643324",
+      "label": "жанр оперы",
+      "description": "тип театральных жанров"
+    },
+    {
+      "qid": "Q21006644",
+      "label": "перекрёстный музыкальный жанр",
+      "description": "музыкальный жанр, происходящий из смешения двух других жанров"
+    },
+    {
+      "qid": "Q96195030",
+      "label": "жанр джаза",
+      "description": "Wikidata metaclass"
+    },
+    {
+      "qid": "Q96200402",
+      "label": "жанр электронной музыки",
+      "description": "метакласс Викиданных"
+    },
+    {
+      "qid": "Q105635529",
+      "label": "жанр блюза",
+      "description": "Wikidata metaclass"
+    },
+    {
+      "qid": "Q106621729",
+      "label": "жанр фолк-музыки",
+      "description": "Wikidata metaclass"
+    },
+    {
+      "qid": "Q106628249",
+      "label": "world music genre",
+      "description": "Wikidata metaclass"
+    },
+    {
+      "qid": "Q107975727",
+      "label": "жанр рока",
+      "description": "Wikidata metaclass"
+    },
+    {
+      "qid": "Q117021501",
+      "label": "музыка по инструменту",
+      "description": "Wikidata metaclass"
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q1344",
+      "label": "опера",
+      "description": "жанр музыкально-драматического искусства"
+    },
+    {
+      "qid": "Q2743",
+      "label": "мюзикл",
+      "description": "музыкальный театральный жанр"
+    },
+    {
+      "qid": "Q3071",
+      "label": "панк-рок",
+      "description": "жанр рок-музыки"
+    },
+    {
+      "qid": "Q3858",
+      "label": "музыка Израиля",
+      "description": "музыкальная культура Израиля"
+    },
+    {
+      "qid": "Q4797",
+      "label": "conjunto",
+      "description": "mix of traditional Mexican music and European polkas"
+    },
+    {
+      "qid": "Q6010",
+      "label": "рэп",
+      "description": "ритмичное чтение речитатива, основа жанра хип-хоп"
+    },
+    {
+      "qid": "Q7749",
+      "label": "рок-н-ролл",
+      "description": "музыкальный жанр"
+    },
+    {
+      "qid": "Q8341",
+      "label": "джаз",
+      "description": "музыкальный жанр"
+    },
+    {
+      "qid": "Q8361",
+      "label": "музыка эпохи барокко",
+      "description": "период развития классической музыки"
+    },
+    {
+      "qid": "Q9730",
+      "label": "классическая музыка",
+      "description": "образцовые музыкальные произведения, золотой фонд мировой музыкальной культуры"
+    }
+  ],
+  "properties": {}
+}

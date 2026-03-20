@@ -1,0 +1,96 @@
+{
+  "concept_id": "classical_music",
+  "title": "Классическая музыка",
+  "wikidata_id": "Q9730",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q9730",
+  "info": {
+    "label": "классическая музыка",
+    "description": "образцовые музыкальные произведения, золотой фонд мировой музыкальной культуры",
+    "aliases": "классика, западная классическая музыка, музыкальная классика"
+  },
+  "subclasses": [
+    {
+      "qid": "Q1344",
+      "label": "опера",
+      "description": "жанр музыкально-драматического искусства"
+    },
+    {
+      "qid": "Q8361",
+      "label": "музыка эпохи барокко",
+      "description": "период развития классической музыки"
+    },
+    {
+      "qid": "Q17723",
+      "label": "музыка эпохи классицизма",
+      "description": "период в развитии европейской музыки приблизительно между 1750 и 1820 годами"
+    },
+    {
+      "qid": "Q131269",
+      "label": "соната",
+      "description": "тип музыкального произведения, обычно для сольного инструмента или небольшого инструментального ансамбля"
+    },
+    {
+      "qid": "Q133926",
+      "label": "Tafelmusik",
+      "description": "term used since the mid-16th century for music played at feasts and banquets"
+    },
+    {
+      "qid": "Q140544",
+      "label": "токката",
+      "description": "musical form"
+    },
+    {
+      "qid": "Q174873",
+      "label": "кантата",
+      "description": "тип музыкального произведения"
+    },
+    {
+      "qid": "Q181014",
+      "label": "фуга",
+      "description": "музыкальная форма, являющаяся наивысшим достижением полифонической музыки"
+    },
+    {
+      "qid": "Q188285",
+      "label": "мотет",
+      "description": "вокальное многоголосное произведение полифонического склада"
+    },
+    {
+      "qid": "Q189201",
+      "label": "камерная музыка",
+      "description": "музыка, исполняемая небольшим коллективом музыкантов или вокалистов"
+    },
+    {
+      "qid": "Q193217",
+      "label": "мадригал",
+      "description": "secular vocal music composition of the Renaissance and early Baroque eras"
+    },
+    {
+      "qid": "Q194172",
+      "label": "ноктюрн",
+      "description": "форма классического музыкального произведения"
+    },
+    {
+      "qid": "Q201405",
+      "label": "музыка эпохи Возрождения",
+      "description": "европейская музыка в XV-XVII веках"
+    },
+    {
+      "qid": "Q202287",
+      "label": "увертюра",
+      "description": "тип музыкального произведения"
+    },
+    {
+      "qid": "Q207591",
+      "label": "музыка эпохи романтизма",
+      "description": "период в истории музыки"
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q133926",
+      "label": "Tafelmusik",
+      "description": "term used since the mid-16th century for music played at feasts and banquets"
+    }
+  ],
+  "properties": {}
+}

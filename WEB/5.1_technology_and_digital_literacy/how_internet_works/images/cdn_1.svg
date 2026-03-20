@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <!-- Background -->
+  <rect width="900" height="700" fill="#ffffff"/>
+  
+  <!-- Divider line -->
+  <line x1="50" y1="350" x2="850" y2="350" stroke="#cccccc" stroke-width="2" stroke-dasharray="8,8"/>
+  
+  <!-- Zone labels -->
+  <text x="450" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#333333">Без CDN</text>
+  <text x="450" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#333333">С CDN</text>
+  
+  <!-- Arrow marker definitions -->
+  <defs>
+    <marker id="arrowRed" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#E53935"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#2196F3"/>
+    </marker>
+    <marker id="arrowDashed" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#666666"/>
+    </marker>
+  </defs>
+  
+  <!-- === TOP SECTION: Without CDN === -->
+  
+  <!-- Origin Server circle -->
+  <circle cx="200" cy="175" r="55" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+  <text x="200" y="170" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#333333">Origin</text>
+  <text x="200" y="187" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#333333">Server</text>
+  <text x="200" y="250" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666666">Нью-Йорк</text>
+  
+  <!-- User icon (simple circle + rectangle) -->
+  <circle cx="700" cy="165" r="20" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+  <rect x="685" y="185" width="30" height="35" fill="#ffffff" stroke="#333333" stroke-width="2" rx="3"/>
+  <text x="700" y="250" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666666">Владивосток</text>
+  
+  <!-- Long red arrow -->
+  <line x1="255" y1="175" x2="680" y2="175" stroke="#E53935" stroke-width="3" marker-end="url(#arrowRed)"/>
+  <text x="467" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#E53935">Медленно</text>
+  <text x="467" y="178" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#E53935">(latency &gt; 200мс)</text>
+  
+  <!-- === BOTTOM SECTION: With CDN === -->
+  
+  <!-- Origin Server circle -->
+  <circle cx="200" cy="525" r="55" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+  <text x="200" y="520" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#333333">Origin</text>
+  <text x="200" y="537" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#333333">Server</text>
+  <text x="200" y="595" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666666">Нью-Йорк</text>
+  
+  <!-- Edge Server rectangle (blue) -->
+  <rect x="520" y="495" width="130" height="60" fill="#2196F3" stroke="#1976D2" stroke-width="2" rx="5"/>
+  <text x="585" y="525" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Edge</text>
+  <text x="585" y="542" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Server</text>
+  
+  <!-- User icon -->
+  <circle cx="700" cy="515" r="20" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+  <rect x="685" y="535" width="30" height="35" fill="#ffffff" stroke="#333333" stroke-width="2" rx="3"/>
+  <text x="700" y="595" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666666">Владивосток</text>
+  
+  <!-- Short blue arrow (Edge to User) -->
+  <line x1="650" y1="525" x2="680" y2="525" stroke="#2196F3" stroke-width="3" marker-end="url(#arrowBlue)"/>
+  <text x="665" y="510" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#2196F3">Быстро</text>
+  <text x="665" y="527" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#2196F3">(&lt; 20мс)</text>
+  
+  <!-- Dashed arrow (Origin to Edge - sync) -->
+  <path d="M 250 500 Q 385 450 520 500" fill="none" stroke="#666666" stroke-width="2" stroke-dasharray="6,4" marker-end="url(#arrowDashed)"/>
+  <text x="385" y="440" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666666">Синхронизация</text>
+</svg>

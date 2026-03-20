@@ -1,0 +1,30 @@
+{
+  "qid": "Q154",
+  "label_ru": "алкогольный напиток",
+  "label_en": "alcoholic beverage",
+  "description_ru": "напитки, имеющие в своем составе этиловый спирт",
+  "description_en": "drink containing alcohols, typically ethanol",
+  "url": "https://www.wikidata.org/wiki/Q154",
+  "relations": {
+    "has_part": [
+      {
+        "qid": "Q153",
+        "label": "этанол"
+      }
+    ],
+    "subclass_of": [
+      {
+        "qid": "Q40050",
+        "label": "напиток"
+      }
+    ],
+    "instance_of": [
+      {
+        "qid": "Q116861721",
+        "label": "тип напитка"
+      }
+    ]
+  },
+  "concept_name": "Алкоголь и подростки",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/alcohol.md"
+}

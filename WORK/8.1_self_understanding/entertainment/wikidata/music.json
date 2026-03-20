@@ -1,0 +1,126 @@
+{
+  "concept_id": "music",
+  "title": "Музыка",
+  "wikidata_id": "Q638",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q638",
+  "info": {
+    "label": "музыка",
+    "description": "искусство, средство воплощения художественных образов",
+    "aliases": "musical art"
+  },
+  "subclasses": [
+    {
+      "qid": "Q11895763",
+      "label": "сочинение музыки",
+      "description": "действие или процесс создания или написания музыки; искусство создания музыки"
+    },
+    {
+      "qid": "Q32165901",
+      "label": "Q32165901",
+      "description": ""
+    },
+    {
+      "qid": "Q49017950",
+      "label": "музыкальная запись",
+      "description": "physical or digital record of a musical performance that can then be played back, or reproduced"
+    },
+    {
+      "qid": "Q62906332",
+      "label": "развлекательная музыка",
+      "description": "music term, classification; part of a music classification scheme developed by collecting societies"
+    },
+    {
+      "qid": "Q122228584",
+      "label": "Q122228584",
+      "description": ""
+    },
+    {
+      "qid": "Q131289526",
+      "label": "Yugoslavian hardcore punk",
+      "description": "yugoslavian hardcore punk"
+    },
+    {
+      "qid": "Q131313719",
+      "label": "Q131313719",
+      "description": ""
+    },
+    {
+      "qid": "Q132134966",
+      "label": "Q132134966",
+      "description": ""
+    },
+    {
+      "qid": "Q137373865",
+      "label": "popularization of music",
+      "description": ""
+    },
+    {
+      "qid": "Q137425722",
+      "label": "music and literature",
+      "description": ""
+    },
+    {
+      "qid": "Q137485769",
+      "label": "music and society",
+      "description": ""
+    },
+    {
+      "qid": "Q138314144",
+      "label": "Q138314144",
+      "description": ""
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q135235923",
+      "label": "Non Living Thing",
+      "description": "2021 song by Sarkodie ft. Oxlade"
+    },
+    {
+      "qid": "Q135235924",
+      "label": "Labadi",
+      "description": "2022 song by Sarkodie ft. King Promise"
+    },
+    {
+      "qid": "Q135235925",
+      "label": "She Bad",
+      "description": "2022 song by Sarkodie ft. Oxlade"
+    },
+    {
+      "qid": "Q135235926",
+      "label": "Cougar",
+      "description": "2022 song by Sarkodie ft. Lojay"
+    },
+    {
+      "qid": "Q135235927",
+      "label": "Forever",
+      "description": "2022 song by Sarkodie ft. Kranium"
+    },
+    {
+      "qid": "Q135235928",
+      "label": "Better Days",
+      "description": "2022 song by Sarkodie ft. Bnxn"
+    },
+    {
+      "qid": "Q136511540",
+      "label": "3 Little Words",
+      "description": "religious music from Brazil"
+    },
+    {
+      "qid": "Q136537606",
+      "label": "Naira Marley",
+      "description": "Song by Zinoleesky"
+    },
+    {
+      "qid": "Q136542394",
+      "label": "Happy Day",
+      "description": "Nigerian music"
+    },
+    {
+      "qid": "Q137205651",
+      "label": "Q137205651",
+      "description": ""
+    }
+  ],
+  "properties": {}
+}

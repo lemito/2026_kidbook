@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="Arial, sans-serif">
+  <rect width="760" height="340" fill="#f8f9fa" rx="12"/>
+
+  <text x="380" y="34" text-anchor="middle" font-size="17" font-weight="bold" fill="#222">UDP vs TCP в онлайн-играх</text>
+
+  <!-- UDP column -->
+  <rect x="40" y="55" width="320" height="260" rx="10" fill="#fff7f0" stroke="#e67e22" stroke-width="2"/>
+  <rect x="40" y="55" width="320" height="44" rx="10" fill="#e67e22"/>
+  <text x="200" y="83" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">🚀 UDP — быстрый</text>
+
+  <text x="60" y="122" font-size="12" fill="#333">✅ Нет рукопожатия — данные сразу летят</text>
+  <text x="60" y="146" font-size="12" fill="#333">✅ Маленький заголовок — всего 8 байт</text>
+  <text x="60" y="170" font-size="12" fill="#333">✅ Потерял пакет? Не страшно — придёт новый</text>
+  <text x="60" y="194" font-size="12" fill="#333">❌ Нет гарантии доставки</text>
+  <text x="60" y="218" font-size="12" fill="#333">❌ Пакеты могут прийти не по порядку</text>
+
+  <rect x="60" y="238" width="280" height="56" rx="8" fill="#fff0e0"/>
+  <text x="200" y="258" text-anchor="middle" font-size="11" font-weight="bold" fill="#c0392b">Используется для:</text>
+  <text x="200" y="276" text-anchor="middle" font-size="11" fill="#555">позиции игроков, выстрелы,</text>
+  <text x="200" y="292" text-anchor="middle" font-size="11" fill="#555">движение, голосовой чат (RTP)</text>
+
+  <!-- TCP column -->
+  <rect x="400" y="55" width="320" height="260" rx="10" fill="#f0f4ff" stroke="#4a90d9" stroke-width="2"/>
+  <rect x="400" y="55" width="320" height="44" rx="10" fill="#4a90d9"/>
+  <text x="560" y="83" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">📬 TCP — надёжный</text>
+
+  <text x="420" y="122" font-size="12" fill="#333">✅ Гарантия доставки каждого пакета</text>
+  <text x="420" y="146" font-size="12" fill="#333">✅ Пакеты приходят по порядку</text>
+  <text x="420" y="170" font-size="12" fill="#333">✅ Потерял пакет? Отправит снова</text>
+  <text x="420" y="194" font-size="12" fill="#333">❌ Нужно рукопожатие перед стартом</text>
+  <text x="420" y="218" font-size="12" fill="#333">❌ Заголовок 20+ байт, чуть медленнее</text>
+
+  <rect x="420" y="238" width="280" height="56" rx="8" fill="#e8f0ff"/>
+  <text x="560" y="258" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a5276">Используется для:</text>
+  <text x="560" y="276" text-anchor="middle" font-size="11" fill="#555">вход в аккаунт, чат, покупки,</text>
+  <text x="560" y="292" text-anchor="middle" font-size="11" fill="#555">загрузка карты, WebSocket</text>
+</svg>

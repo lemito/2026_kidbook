@@ -1,0 +1,28 @@
+{
+  "qid": "Q12140",
+  "label_ru": "лекарственное средство",
+  "label_en": "medication",
+  "description_ru": "вещество или смесь в виде лекарственной формы",
+  "description_en": "substance used to diagnose, cure, treat, or prevent disease",
+  "url": "https://www.wikidata.org/wiki/Q12140",
+  "relations": {
+    "part_of": [
+      {
+        "qid": "Q13107184",
+        "label": "аптека"
+      }
+    ],
+    "subclass_of": [
+      {
+        "qid": "Q12034612",
+        "label": "лекарственный препарат"
+      },
+      {
+        "qid": "Q8386",
+        "label": "биологически активные вещества"
+      }
+    ]
+  },
+  "concept_name": "Мифы о «лёгких» наркотиках",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/myths_about_soft_drugs.md"
+}

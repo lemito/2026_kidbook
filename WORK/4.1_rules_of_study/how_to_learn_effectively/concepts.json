@@ -1,0 +1,151 @@
+[
+  {
+    "section": "4.1 Как учиться эффективно и с удовольствием",
+    "topic": "Эффективное обучение",
+    "author_group": "33",
+    "members": [
+      "Сидоров Дмитрий",
+      "Таланкин Кирилл",
+      "Магомедов Эдуард",
+      "Лизунов Кирилл",
+      "Павлов Олег"
+    ],
+    "concepts": [
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/learning_goals",
+        "description": "Как ставить правильные цели обучения и формулировать задачи для достижения успеха",
+        "lemmas": ["цели обучения", "постановка целей", "задачи", "планирование", "результат", "успех в учёбе", "целеполагание"],
+        "name": "Learning goals",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/learning_goals.md",
+        "wikidata_id": "Q1494068",
+        "author": "Сидоров Дмитрий"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/learning_styles",
+        "description": "Индивидуальные стили обучения: визуалы, аудиалы, кинестетики и как найти свой подход",
+        "lemmas": ["стили обучения", "визуал", "аудиал", "кинестетик", "индивидуальный подход", "восприятие информации", "когнитивные стили"],
+        "name": "Learning styles",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/learning_styles.md",
+        "wikidata_id": "Q1197056",
+        "author": "Сидоров Дмитрий"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/time_management",
+        "description": "Управление временем при обучении: тайм-менеджмент, планирование и баланс между учёбой и отдыхом",
+        "lemmas": ["тайм-менеджмент", "управление временем", "планирование", "учеба", "отдых", "баланс", "организация времени"],
+        "name": "Time management for learning",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/time_management.md",
+        "wikidata_id": "Q1072005",
+        "author": "Сидоров Дмитрий"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/growth_mindset",
+        "description": "Мышление роста: как верить в свои способности и развиваться через преодоление трудностей",
+        "lemmas": ["мышление роста", "развитие", "способности", "трудности", "прогресс", "уверенность", "growth mindset"],
+        "name": "Growth mindset",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/growth_mindset.md",
+        "wikidata_id": "Q1989664",
+        "author": "Таланкин Кирилл"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/curiosity",
+        "description": "Любопытство как двигатель обучения: как сохранять интерес и задавать правильные вопросы",
+        "lemmas": ["любопытство", "интерес", "вопросы", "познание", "удивление", "исследование", "любознательность"],
+        "name": "Curiosity in learning",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md",
+        "wikidata_id": "Q131005",
+        "author": "Таланкин Кирилл"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/learning_from_mistakes",
+        "description": "Учиться на ошибках: как превращать неудачи в возможности для роста",
+        "lemmas": ["ошибки", "неудачи", "опыт", "рост", "анализ ошибок", "улучшение", "обучение через ошибки"],
+        "name": "Learning from mistakes",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/learning_from_mistakes.md",
+        "wikidata_id": "Q1054052",
+        "author": "Таланкин Кирилл"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/gamification",
+        "description": "Геймификация обучения: как превратить учёбу в увлекательную игру",
+        "lemmas": ["геймификация", "игра", "обучение", "мотивация", "интерес", "баллы", "достижения", "игрофикация"],
+        "name": "Gamification of learning",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/gamification.md",
+        "wikidata_id": "Q1699526",
+        "author": "Магомедов Эдуард"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/peer_learning",
+        "description": "Обучение в группе: как учиться вместе с друзьями и одноклассниками",
+        "lemmas": ["групповое обучение", "друзья", "одноклассники", "совместная учёба", "взаимопомощь", "команда", "peer learning"],
+        "name": "Peer learning",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/peer_learning.md",
+        "wikidata_id": "Q7193318",
+        "author": "Магомедов Эдуард"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/teaching_others",
+        "description": "Учить других — лучший способ учиться самому: метод Фейнмана и его преимущества",
+        "lemmas": ["обучение других", "метод Фейнмана", "объяснение", "понимание", "закрепление знаний", "преподавание"],
+        "name": "Teaching others",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/teaching_others.md",
+        "wikidata_id": "Q559130",
+        "author": "Магомедов Эдуард"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/learning_environment",
+        "description": "Организация пространства для учёбы: как создать удобное место для занятий",
+        "lemmas": ["место для учёбы", "рабочее пространство", "организация", "комфорт", "порядок", "атмосфера", "учебное место"],
+        "name": "Learning environment",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/learning_environment.md",
+        "wikidata_id": "Q1137670",
+        "author": "Лизунов Кирилл"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/digital_tools",
+        "description": "Цифровые инструменты для обучения: приложения, сервисы и онлайн-ресурсы",
+        "lemmas": ["цифровые инструменты", "приложения", "онлайн-ресурсы", "технологии", "сервисы", "помощники", "EdTech"],
+        "name": "Digital learning tools",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/digital_tools.md",
+        "wikidata_id": "Q581684",
+        "author": "Лизунов Кирилл"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/reading_skills",
+        "description": "Навыки эффективного чтения: как читать быстрее и понимать лучше",
+        "lemmas": ["чтение", "скорочтение", "понимание", "текст", "конспектирование", "выделение главного", "эффективное чтение"],
+        "name": "Effective reading skills",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md",
+        "wikidata_id": "Q7962",
+        "author": "Лизунов Кирилл"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/note_taking",
+        "description": "Искусство конспектирования: методы записи информации для лучшего запоминания",
+        "lemmas": ["конспектирование", "записи", "методы", "карты ума", "корнелл", "структура", "ведение заметок"],
+        "name": "Note-taking methods",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md",
+        "wikidata_id": "Q209729",
+        "author": "Павлов Олег"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/breaks_and_rest",
+        "description": "Важность перерывов и отдыха: почему нельзя учиться без остановки",
+        "lemmas": ["перерывы", "отдых", "усталость", "продуктивность", "здоровье", "режим", "восстановление"],
+        "name": "Breaks and rest",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/breaks_and_rest.md",
+        "wikidata_id": "Q1047016",
+        "author": "Павлов Олег"
+      },
+      {
+        "id": "WEB/4.1_rules_of_study/how_to_learn_effectively/self_reflection",
+        "description": "Самоанализ и рефлексия: как оценивать свой прогресс и корректировать подход",
+        "lemmas": ["самоанализ", "рефлексия", "прогресс", "оценка", "корректировка", "развитие", "метапознание"],
+        "name": "Self-reflection in learning",
+        "file": "WEB/4.1_rules_of_study/how_to_learn_effectively/articles/self_reflection.md",
+        "wikidata_id": "Q11089007",
+        "author": "Павлов Олег"
+      }
+    ]
+  }
+]

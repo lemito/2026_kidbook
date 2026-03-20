@@ -1,0 +1,32 @@
+{
+  "qid": "Q860861",
+  "label_ru": "скульптура",
+  "label_en": "sculpture",
+  "description_ru": "трехмерное произведение искусства",
+  "description_en": "three-dimensional work of art",
+  "url": "https://www.wikidata.org/wiki/Q860861",
+  "relations": {
+    "subclass_of": [
+      {
+        "qid": "Q35459920",
+        "label": "трёхмерный объект"
+      },
+      {
+        "qid": "Q8205328",
+        "label": "искусственный физический объект"
+      },
+      {
+        "qid": "Q4502142",
+        "label": "произведение изобразительного искусства"
+      }
+    ],
+    "instance_of": [
+      {
+        "qid": "Q116474095",
+        "label": "вид произведения искусства"
+      }
+    ]
+  },
+  "concept_name": "Лудомания",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/ludomania.md"
+}

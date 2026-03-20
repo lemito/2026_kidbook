@@ -1,0 +1,18 @@
+{
+  "qid": "Q2739434",
+  "label_ru": "Mesosemia mamilia",
+  "label_en": "Mesosemia mamilia",
+  "description_ru": "вид насекомых",
+  "description_en": "species of insect",
+  "url": "https://www.wikidata.org/wiki/Q2739434",
+  "relations": {
+    "instance_of": [
+      {
+        "qid": "Q16521",
+        "label": "таксон"
+      }
+    ]
+  },
+  "concept_name": "Как зависимость меняет личность",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/how_addiction_changes_personality.md"
+}

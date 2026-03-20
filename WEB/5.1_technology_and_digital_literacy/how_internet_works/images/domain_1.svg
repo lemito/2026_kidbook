@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <!-- Background -->
+  <rect width="900" height="600" fill="#ffffff"/>
+  
+  <!-- Vertical dotted line dividing zones -->
+  <line x1="450" y1="50" x2="450" y2="550" stroke="#cccccc" stroke-width="2" stroke-dasharray="8,8"/>
+  
+  <!-- Left zone header -->
+  <text x="225" y="40" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333333">Технический адрес</text>
+  
+  <!-- Right zone header -->
+  <text x="675" y="40" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333333">Человеческий адрес</text>
+  
+  <!-- Left side: IP address block (blue) -->
+  <rect x="100" y="80" width="250" height="100" fill="#2196F3" stroke="#1976D2" stroke-width="2" rx="8"/>
+  <text x="225" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#ffffff">IP-адрес</text>
+  
+  <!-- Arrow down from IP block -->
+  <line x1="225" y1="180" x2="225" y2="230" stroke="#666666" stroke-width="2" marker-end="url(#arrowGray)"/>
+  
+  <!-- IP example block -->
+  <rect x="125" y="240" width="200" height="70" fill="#ffffff" stroke="#2196F3" stroke-width="2" rx="5"/>
+  <text x="225" y="280" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#333333">173.22.5.90</text>
+  
+  <!-- Caption under IP -->
+  <text x="225" y="340" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666666">Координаты</text>
+  <text x="225" y="360" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666666">(для компьютеров)</text>
+  
+  <!-- Right side: Domain block (gray) -->
+  <rect x="550" y="80" width="250" height="100" fill="#9E9E9E" stroke="#757575" stroke-width="2" rx="8"/>
+  <text x="675" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#ffffff">Домен</text>
+  
+  <!-- Arrow down from Domain block -->
+  <line x1="675" y1="180" x2="675" y2="230" stroke="#666666" stroke-width="2" marker-end="url(#arrowGray)"/>
+  
+  <!-- Domain example block -->
+  <rect x="575" y="240" width="200" height="70" fill="#ffffff" stroke="#9E9E9E" stroke-width="2" rx="5"/>
+  <text x="675" y="280" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#333333">MY-SITE.COM</text>
+  
+  <!-- Caption under Domain -->
+  <text x="675" y="340" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666666">Вывеска</text>
+  <text x="675" y="360" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666666">(для людей)</text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowGray" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#666666"/>
+    </marker>
+  </defs>
+  
+  <!-- DNS connection arrow (horizontal, between zones) -->
+  <line x1="380" y1="450" x2="520" y2="450" stroke="#2196F3" stroke-width="3" marker-end="url(#arrowBlue)"/>
+  <line x1="520" y1="450" x2="380" y2="450" stroke="#2196F3" stroke-width="3" marker-end="url(#arrowBlue)"/>
+  
+  <defs>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#2196F3"/>
+    </marker>
+  </defs>
+  
+  <!-- DNS label -->
+  <rect x="405" y="420" width="90" height="60" fill="#2196F3" stroke="#1976D2" stroke-width="2" rx="5"/>
+  <text x="450" y="455" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#ffffff">DNS</text>
+  
+  <!-- Optional: Equals sign alternative -->
+  <!-- <text x="450" y="465" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#2196F3">=</text> -->
+</svg>

@@ -1,0 +1,141 @@
+{
+  "concept_id": "cinema",
+  "title": "Кинематограф",
+  "wikidata_id": "Q5398426",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q5398426",
+  "info": {
+    "label": "телесериал",
+    "description": "набор передач, объединённых последовательным сюжетом или общим замыслом",
+    "aliases": "сериал, сериалы, многосерийный фильм, мини-сериал, телевизионный сериал, многосерийный телевизионный фильм, многосерийный телефильм"
+  },
+  "subclasses": [
+    {
+      "qid": "Q23653",
+      "label": "сериал-антология",
+      "description": "radio or television series that presents a different story and a different set of characters in each episode"
+    },
+    {
+      "qid": "Q178840",
+      "label": "семейный телесериал",
+      "description": "television series depicting family life"
+    },
+    {
+      "qid": "Q343782",
+      "label": "экшен-сериал",
+      "description": "телевизионный жанр"
+    },
+    {
+      "qid": "Q482612",
+      "label": "корейский телесериал",
+      "description": "вид телевизионной продукции"
+    },
+    {
+      "qid": "Q526877",
+      "label": "веб-сериал",
+      "description": "видео-сериал, передаваемый через Интернет"
+    },
+    {
+      "qid": "Q662197",
+      "label": "Вечерничек",
+      "description": "Czech and Slovak evening child television show"
+    },
+    {
+      "qid": "Q1366112",
+      "label": "драматический сериал",
+      "description": "телевизионный жанр"
+    },
+    {
+      "qid": "Q1566423",
+      "label": "wheel series",
+      "description": "genre of television series"
+    },
+    {
+      "qid": "Q1676730",
+      "label": "telecollege",
+      "description": "adult education offer"
+    },
+    {
+      "qid": "Q3942390",
+      "label": "State of Origin series",
+      "description": "annual rugby league competition between Australian states, also broadcast as a television series"
+    },
+    {
+      "qid": "Q3951815",
+      "label": "sceneggiato",
+      "description": "television genre"
+    },
+    {
+      "qid": "Q4783297",
+      "label": "Arab television drama",
+      "description": "Arabic-language TV melodrama"
+    },
+    {
+      "qid": "Q5455086",
+      "label": "fishing television series",
+      "description": "genre of television programs"
+    },
+    {
+      "qid": "Q7050677",
+      "label": "нордический рождественский календарь",
+      "description": "radio or television genre"
+    },
+    {
+      "qid": "Q7724161",
+      "label": "мыльный телесериал",
+      "description": "жанр телесериалов; ежедневные или еженедельные серии не имеют самостоятельного сюжета, так как сюжетные линии растянуты на множество блоков, производство начинается быстро и продолжается пока у зрителей остаётся интерес в сериалу"
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q494",
+      "label": "Мир Бикмана",
+      "description": "детская познавательная телепередача"
+    },
+    {
+      "qid": "Q723",
+      "label": "Копы-новобранцы",
+      "description": "канадско-американский телесериал"
+    },
+    {
+      "qid": "Q961",
+      "label": "Ставка больше, чем жизнь",
+      "description": "польский приключенческий сериал (1967—1968)"
+    },
+    {
+      "qid": "Q990",
+      "label": "Четыре танкиста и собака",
+      "description": "польский телевизионный сериал"
+    },
+    {
+      "qid": "Q1077",
+      "label": "Звёздный путь: Оригинальный сериал",
+      "description": "научно-фантастический телевизионный сериал"
+    },
+    {
+      "qid": "Q1079",
+      "label": "Во все тяжкие",
+      "description": "американский телесериал 2008—2013 годов"
+    },
+    {
+      "qid": "Q2085",
+      "label": "Твин Пикс",
+      "description": "американский телесериал 1990 года"
+    },
+    {
+      "qid": "Q2293",
+      "label": "Чак",
+      "description": "американский комедийный телесериал"
+    },
+    {
+      "qid": "Q2744",
+      "label": "Секретные материалы",
+      "description": "американский научно-фантастический сериал"
+    },
+    {
+      "qid": "Q2748",
+      "label": "Гримм",
+      "description": "сериал"
+    }
+  ],
+  "properties": {}
+}

@@ -1,0 +1,141 @@
+{
+  "concept_id": "animation",
+  "title": "Мультфильм",
+  "wikidata_id": "Q202866",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q202866",
+  "info": {
+    "label": "мультфильм",
+    "description": "серия движущихся картинок",
+    "aliases": "мульт, мультик, анимационный фильм, м/ф, мультипликационное кино, мультипликационные фильмы, рисованный фильм"
+  },
+  "subclasses": [
+    {
+      "qid": "Q332564",
+      "label": "абстрактный мультфильм",
+      "description": "film genre"
+    },
+    {
+      "qid": "Q547760",
+      "label": "animatic",
+      "description": "animated comic, or cross between animation and a storyboard"
+    },
+    {
+      "qid": "Q3249257",
+      "label": "взрослая анимация",
+      "description": "жанр мультипликации"
+    },
+    {
+      "qid": "Q4373044",
+      "label": "порномультфильм",
+      "description": "portrayal of illustrated or animated fictional cartoon characters in erotic or sexual situations"
+    },
+    {
+      "qid": "Q4765076",
+      "label": "документальный анимационный фильм",
+      "description": "жанр кино, сочетающий документальность с анимацией"
+    },
+    {
+      "qid": "Q6017399",
+      "label": "independent animation",
+      "description": "animated media produced outside the major industry"
+    },
+    {
+      "qid": "Q13377551",
+      "label": "мультфильм СССР",
+      "description": ""
+    },
+    {
+      "qid": "Q17517379",
+      "label": "короткометражный мультфильм",
+      "description": "небольшой по длительности мультфильм"
+    },
+    {
+      "qid": "Q18089587",
+      "label": "мультфильм в покадровой технике",
+      "description": "анимационный фильм, снятый в технике stop-motion"
+    },
+    {
+      "qid": "Q18648407",
+      "label": "animated webtoon",
+      "description": "animated film"
+    },
+    {
+      "qid": "Q20089346",
+      "label": "научно-фантастический мультфильм",
+      "description": "science fiction work in animation"
+    },
+    {
+      "qid": "Q20650540",
+      "label": "аниме-фильм",
+      "description": "японский анимационный фильм или в стиле японского аниме"
+    },
+    {
+      "qid": "Q25110269",
+      "label": "анимационно-игровой фильм",
+      "description": "кинематографический жанр, который сочетает в себе игровое кино с анимацией"
+    },
+    {
+      "qid": "Q28968258",
+      "label": "компьютерный мультфильм",
+      "description": "мультфильм, изготовленный на компьютере"
+    },
+    {
+      "qid": "Q28968511",
+      "label": "рисованный мультфильм",
+      "description": "анимационный фильм, полностью выполненный в технике рисования"
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q4447",
+      "label": "Гадкий я",
+      "description": "мультфильм 2010 года"
+    },
+    {
+      "qid": "Q17708",
+      "label": "The Plot of the Fuma Clan",
+      "description": "анимационный фильм по манге"
+    },
+    {
+      "qid": "Q19090",
+      "label": "Робин Гуд",
+      "description": "мультфильм 1973 года"
+    },
+    {
+      "qid": "Q25733",
+      "label": "Барби и Щелкунчик",
+      "description": "2001 CGI-animated film"
+    },
+    {
+      "qid": "Q28891",
+      "label": "Ральф",
+      "description": "мультфильм 2012 года"
+    },
+    {
+      "qid": "Q29355",
+      "label": "Белка и Стрелка. Звёздные собаки",
+      "description": "2010 animated film directed by Svyatoslav Ushakov and Inna Evlannikova"
+    },
+    {
+      "qid": "Q30568",
+      "label": "Барби и дракон",
+      "description": "Анимационный фэнтезийный фильм 2002 года от Mattel"
+    },
+    {
+      "qid": "Q30937",
+      "label": "Фантазия 2000",
+      "description": "полнометражный музыкальный мультфильм Walt Disney Feature Animation 1999 года"
+    },
+    {
+      "qid": "Q35951",
+      "label": "Ледниковый период 4: Континентальный дрейф",
+      "description": "полнометражный компьютерный мультфильм производства США 2012 года"
+    },
+    {
+      "qid": "Q36092",
+      "label": "Лило и Стич",
+      "description": "Полнометражный анимационный фильм студии Уолта Диснея"
+    }
+  ],
+  "properties": {}
+}

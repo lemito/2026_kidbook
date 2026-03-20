@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" font-family="Arial, sans-serif">
+  <rect width="760" height="420" fill="#1a1a2e" rx="12"/>
+  <text x="380" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#e0e0ff">Инкапсуляция: как данные «одеваются» по уровням</text>
+
+  <!-- Level: Application -->
+  <rect x="220" y="48" width="320" height="48" rx="6" fill="#8e44ad"/>
+  <text x="380" y="68" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">Приложение (браузер, игра)</text>
+  <text x="380" y="86" text-anchor="middle" font-size="11" fill="#e8ccff">[ ДАННЫЕ: «Привет, мир!» ]</text>
+
+  <text x="380" y="112" text-anchor="middle" font-size="16" fill="#555">↓ транспортный уровень добавляет порты</text>
+
+  <!-- Level: Transport -->
+  <rect x="140" y="120" width="480" height="48" rx="6" fill="#4a90d9"/>
+  <rect x="140" y="120" width="90" height="48" rx="6" fill="#2471a3"/>
+  <text x="185" y="140" text-anchor="middle" font-size="10" font-weight="bold" fill="#fff">TCP/UDP</text>
+  <text x="185" y="156" text-anchor="middle" font-size="9" fill="#cce4ff">заголовок</text>
+  <text x="450" y="148" text-anchor="middle" font-size="11" fill="#fff">[ ДАННЫЕ ]</text>
+
+  <text x="380" y="184" text-anchor="middle" font-size="16" fill="#555">↓ сетевой уровень добавляет IP-адреса</text>
+
+  <!-- Level: Network -->
+  <rect x="60" y="192" width="640" height="48" rx="6" fill="#27ae60"/>
+  <rect x="60" y="192" width="90" height="48" rx="6" fill="#1e8449"/>
+  <text x="105" y="212" text-anchor="middle" font-size="10" font-weight="bold" fill="#fff">IP</text>
+  <text x="105" y="228" text-anchor="middle" font-size="9" fill="#ccffdd">заголовок</text>
+  <rect x="150" y="192" width="90" height="48" fill="#2471a3" opacity="0.8"/>
+  <text x="195" y="212" text-anchor="middle" font-size="9" fill="#fff">TCP/UDP</text>
+  <text x="195" y="228" text-anchor="middle" font-size="9" fill="#cce4ff">заголовок</text>
+  <text x="490" y="220" text-anchor="middle" font-size="11" fill="#fff">[ ДАННЫЕ ]</text>
+
+  <text x="380" y="256" text-anchor="middle" font-size="16" fill="#555">↓ канальный уровень добавляет MAC-адреса</text>
+
+  <!-- Level: Data Link -->
+  <rect x="20" y="264" width="720" height="56" rx="6" fill="#e67e22"/>
+  <rect x="20" y="264" width="90" height="56" rx="6" fill="#ca6f1e"/>
+  <text x="65" y="286" text-anchor="middle" font-size="10" font-weight="bold" fill="#fff">Ethernet</text>
+  <text x="65" y="302" text-anchor="middle" font-size="9" fill="#ffe0cc">заголовок</text>
+  <rect x="110" y="264" width="80" height="56" fill="#1e8449" opacity="0.8"/>
+  <text x="150" y="286" text-anchor="middle" font-size="9" fill="#fff">IP</text>
+  <text x="150" y="302" text-anchor="middle" font-size="9" fill="#ccffdd">загол.</text>
+  <rect x="190" y="264" width="80" height="56" fill="#2471a3" opacity="0.8"/>
+  <text x="230" y="286" text-anchor="middle" font-size="9" fill="#fff">TCP/UDP</text>
+  <text x="230" y="302" text-anchor="middle" font-size="9" fill="#cce4ff">загол.</text>
+  <text x="460" y="296" text-anchor="middle" font-size="11" fill="#fff">[ ДАННЫЕ ]</text>
+  <rect x="680" y="264" width="60" height="56" rx="6" fill="#ca6f1e"/>
+  <text x="710" y="286" text-anchor="middle" font-size="9" fill="#fff">конец</text>
+  <text x="710" y="302" text-anchor="middle" font-size="9" fill="#ffe0cc">кадра</text>
+
+  <!-- Bottom notes -->
+  <text x="380" y="348" text-anchor="middle" font-size="11" fill="#aaa">На каждом уровне данные «заворачиваются» в новый конверт</text>
+  <text x="380" y="366" text-anchor="middle" font-size="11" fill="#aaa">Получатель снимает заголовки в обратном порядке</text>
+
+  <!-- Legend -->
+  <rect x="60" y="385" width="14" height="14" rx="3" fill="#8e44ad"/>
+  <text x="82" y="397" font-size="10" fill="#ccc">Приложение</text>
+  <rect x="180" y="385" width="14" height="14" rx="3" fill="#4a90d9"/>
+  <text x="202" y="397" font-size="10" fill="#ccc">Транспортный</text>
+  <rect x="320" y="385" width="14" height="14" rx="3" fill="#27ae60"/>
+  <text x="342" y="397" font-size="10" fill="#ccc">Сетевой (IP)</text>
+  <rect x="440" y="385" width="14" height="14" rx="3" fill="#e67e22"/>
+  <text x="462" y="397" font-size="10" fill="#ccc">Канальный (Ethernet)</text>
+</svg>

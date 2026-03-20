@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+  <!-- Background -->
+  <rect width="1200" height="700" fill="#ffffff"/>
+  
+  <!-- Vertical lines for participants -->
+  <line x1="100" y1="100" x2="100" y2="650" stroke="#333333" stroke-width="2"/>
+  <line x1="350" y1="100" x2="350" y2="650" stroke="#333333" stroke-width="2"/>
+  <line x1="600" y1="100" x2="600" y2="650" stroke="#333333" stroke-width="2"/>
+  <line x1="850" y1="100" x2="850" y2="650" stroke="#333333" stroke-width="2"/>
+  <line x1="1100" y1="100" x2="1100" y2="650" stroke="#333333" stroke-width="2"/>
+  
+  <!-- Participant headers (simple boxes, no icons) -->
+  <rect x="20" y="20" width="160" height="50" fill="#ffffff" stroke="#333333" stroke-width="2" rx="5"/>
+  <text x="100" y="50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333333">Пользователь</text>
+  
+  <rect x="280" y="20" width="140" height="50" fill="#ffffff" stroke="#333333" stroke-width="2" rx="5"/>
+  <text x="350" y="45" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333333">Кеш ПК</text>
+  
+  <rect x="520" y="20" width="160" height="50" fill="#ffffff" stroke="#333333" stroke-width="2" rx="5"/>
+  <text x="600" y="45" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333333">DNS-резолвер</text>
+  
+  <rect x="770" y="20" width="160" height="50" fill="#ffffff" stroke="#333333" stroke-width="2" rx="5"/>
+  <text x="850" y="40" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#333333">Корневой</text>
+  <text x="850" y="57" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#333333">сервер</text>
+  
+  <rect x="1020" y="20" width="160" height="50" fill="#ffffff" stroke="#333333" stroke-width="2" rx="5"/>
+  <text x="1100" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333333">Авторитативный</text>
+  <text x="1100" y="57" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333333">сервер</text>
+  
+  <!-- Arrow marker definitions -->
+  <defs>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#2196F3"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#4CAF50"/>
+    </marker>
+  </defs>
+  
+  <!-- Step numbers circles (positioned above arrows) -->
+  <circle cx="225" cy="135" r="16" fill="#2196F3" stroke="#1976D2" stroke-width="2"/>
+  <text x="225" y="142" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+  
+  <circle cx="350" cy="195" r="16" fill="#2196F3" stroke="#1976D2" stroke-width="2"/>
+  <text x="350" y="202" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+  
+  <circle cx="725" cy="255" r="16" fill="#2196F3" stroke="#1976D2" stroke-width="2"/>
+  <text x="725" y="262" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+  
+  <circle cx="850" cy="355" r="16" fill="#4CAF50" stroke="#388E3C" stroke-width="2"/>
+  <text x="850" y="362" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+  
+  <circle cx="850" cy="415" r="16" fill="#2196F3" stroke="#1976D2" stroke-width="2"/>
+  <text x="850" y="422" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+  
+  <circle cx="850" cy="475" r="16" fill="#4CAF50" stroke="#388E3C" stroke-width="2"/>
+  <text x="850" y="482" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+  
+  <circle cx="350" cy="555" r="16" fill="#4CAF50" stroke="#388E3C" stroke-width="2"/>
+  <text x="350" y="562" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+  
+  <!-- Step 1: Пользователь -> Кеш ПК -->
+  <line x1="100" y1="180" x2="350" y2="180" stroke="#2196F3" stroke-width="2.5" marker-end="url(#arrowBlue)"/>
+  <text x="225" y="170" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333333">? IP yandex.ru</text>
+  
+  <!-- Step 2: Пользователь -> DNS-резолвер -->
+  <line x1="100" y1="240" x2="600" y2="240" stroke="#2196F3" stroke-width="2.5" marker-end="url(#arrowBlue)"/>
+  <text x="350" y="230" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="#333333">Не знаю. Найди.</text>
+  
+  <!-- Step 3a: DNS-резолвер -> Корневой сервер -->
+  <line x1="600" y1="300" x2="850" y2="300" stroke="#2196F3" stroke-width="2.5" marker-end="url(#arrowBlue)"/>
+  <text x="725" y="290" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="#333333">Где IP?</text>
+  
+  <!-- Step 3b: Корневой сервер -> DNS-резолвер (ответ) -->
+  <line x1="850" y1="380" x2="600" y2="380" stroke="#4CAF50" stroke-width="2.5" marker-end="url(#arrowGreen)"/>
+  <text x="725" y="400" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="#333333">Иди к .ru</text>
+  
+  <!-- Step 4a: DNS-резолвер -> Авторитативный сервер -->
+  <line x1="600" y1="440" x2="1100" y2="440" stroke="#2196F3" stroke-width="2.5" marker-end="url(#arrowBlue)"/>
+  <text x="850" y="430" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="#333333">Где IP yandex.ru?</text>
+  
+  <!-- Step 4b: Авторитативный сервер -> DNS-резолвер (ответ) -->
+  <line x1="1100" y1="500" x2="600" y2="500" stroke="#4CAF50" stroke-width="2.5" marker-end="url(#arrowGreen)"/>
+  <text x="850" y="520" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="#333333">Вот IP: 77....</text>
+  
+  <!-- Step 5: DNS-резолвер -> Пользователь -->
+  <line x1="600" y1="580" x2="100" y2="580" stroke="#4CAF50" stroke-width="2.5" marker-end="url(#arrowGreen)"/>
+  <text x="350" y="570" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333333">IP: 77.88.55.242</text>
+</svg>

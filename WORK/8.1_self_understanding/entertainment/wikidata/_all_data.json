@@ -1,0 +1,1796 @@
+{
+  "computer_game": {
+    "concept_id": "computer_game",
+    "title": "Компьютерная игра",
+    "wikidata_id": "Q7889",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7889",
+    "info": {
+      "label": "компьютерная игра",
+      "description": "электронная игра, которая предусматривает взаимодействие с пользовательским интерфейсом для создания визуальной обратной связи на видеоустройстве, таком как экран телевизора или монитор компьютера",
+      "aliases": "видеоигра"
+    },
+    "subclasses": [
+      {
+        "qid": "Q85422949",
+        "label": "компьютерная игра с ЛГБТ-персонажем",
+        "description": "жанр компьютерных игр"
+      },
+      {
+        "qid": "Q85637992",
+        "label": "DRM free video game",
+        "description": "video game that does not have a DRM solution or its DRM solution is removed"
+      },
+      {
+        "qid": "Q86607071",
+        "label": "retro video game",
+        "description": "generic term for video games originating from a previous era"
+      },
+      {
+        "qid": "Q87741364",
+        "label": "игра для виртуальной реальности",
+        "description": "жанр компьютерных игр"
+      },
+      {
+        "qid": "Q88306017",
+        "label": "special edition video game",
+        "description": ""
+      },
+      {
+        "qid": "Q89691527",
+        "label": "Xbox Original",
+        "description": "video games originally released for the Xbox and emulated to be playable on the Xbox 360"
+      },
+      {
+        "qid": "Q90181054",
+        "label": "эпизод компьютерной игры",
+        "description": "part of an episodic video game"
+      },
+      {
+        "qid": "Q104438884",
+        "label": "утерянная видеоигра",
+        "description": "video game produced some time in the past of which no surviving copies or accessible downloads are known to exist"
+      },
+      {
+        "qid": "Q104880818",
+        "label": "asset flip",
+        "description": "poor-quality video game developed using pre-made assets"
+      },
+      {
+        "qid": "Q106542313",
+        "label": "NSFW video game",
+        "description": "video game that have been marked as 'Not safe for work' (NSFW)"
+      },
+      {
+        "qid": "Q107486718",
+        "label": "безымянная компьютерная игра",
+        "description": "игровой проект, разработка или анонс которого был подтверждён, но кодовое или точное название неизвестно"
+      },
+      {
+        "qid": "Q109115381",
+        "label": "криптоигра",
+        "description": "игра с блокчейном"
+      },
+      {
+        "qid": "Q110817849",
+        "label": "компьютерная игра с пластилиновой анимацией",
+        "description": ""
+      },
+      {
+        "qid": "Q110948671",
+        "label": "vanilla game",
+        "description": "an unmodified version of a video game"
+      },
+      {
+        "qid": "Q111223304",
+        "label": "перезапуск компьютерной игры",
+        "description": "компьютерная игра, имеющая самостоятельную сюжетную линию, игнорирующую события предыдущих произведений"
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q55216",
+        "label": "LEGO Star Wars: The Video Game",
+        "description": "компьютерная игра 2005 года"
+      },
+      {
+        "qid": "Q55217",
+        "label": "Star Wars Episode I: Racer",
+        "description": "компьютерная игра 1999 года"
+      },
+      {
+        "qid": "Q55219",
+        "label": "Star Wars: Bounty Hunter",
+        "description": "компьютерная игра 2002 года"
+      },
+      {
+        "qid": "Q55223",
+        "label": "Star Wars: Racer Arcade",
+        "description": "компьютерная игра 2000 года"
+      },
+      {
+        "qid": "Q55225",
+        "label": "Star Wars: Starfighter",
+        "description": "компьютерная игра 2001 года"
+      },
+      {
+        "qid": "Q55227",
+        "label": "Star Wars: Super Bombad Racing",
+        "description": "компьютерная игра 2001 года"
+      },
+      {
+        "qid": "Q55228",
+        "label": "LEGO Star Wars III: The Clone Wars",
+        "description": "компьютерная игра 2011 года"
+      },
+      {
+        "qid": "Q55229",
+        "label": "Star Wars: Jedi Starfighter",
+        "description": "компьютерная игра 2002 года"
+      },
+      {
+        "qid": "Q55232",
+        "label": "Star Wars: The Clone Wars",
+        "description": "компьютерная игра 2002 года"
+      },
+      {
+        "qid": "Q55237",
+        "label": "Star Wars: Republic Commando: Order 66",
+        "description": "компьютерная игра 2005 года"
+      }
+    ],
+    "properties": {}
+  },
+  "board_game": {
+    "concept_id": "board_game",
+    "title": "Настольная игра",
+    "wikidata_id": "Q131436",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q131436",
+    "info": {
+      "label": "настольная игра с полем",
+      "description": "подкласс настольных игр",
+      "aliases": "игра на специальной доске"
+    },
+    "subclasses": [
+      {
+        "qid": "Q11413",
+        "label": "го",
+        "description": "стратегическая настольная игра"
+      },
+      {
+        "qid": "Q17243",
+        "label": "Монополия",
+        "description": "экономическая и стратегическая настольная игра для двух и более человек"
+      },
+      {
+        "qid": "Q204454",
+        "label": "18XX",
+        "description": "board games based on 19th century railroads"
+      },
+      {
+        "qid": "Q267989",
+        "label": "манкала",
+        "description": "type of count-and-capture games"
+      },
+      {
+        "qid": "Q788553",
+        "label": "настольная игра немецкого стиля",
+        "description": "широкий класс настольных игр, сформировавшийся в Германии к концу XX века"
+      },
+      {
+        "qid": "Q1099522",
+        "label": "Игра-ходилка",
+        "description": "large category of board games in which the object is to be the first to move all one's pieces to the end of a track"
+      },
+      {
+        "qid": "Q1182245",
+        "label": "дедуктивная игра",
+        "description": ""
+      },
+      {
+        "qid": "Q1344436",
+        "label": "Entdecker",
+        "description": "Table top game by Klaus Teuber"
+      },
+      {
+        "qid": "Q1472906",
+        "label": "Sugoroku",
+        "description": "board game"
+      },
+      {
+        "qid": "Q1548611",
+        "label": "Game of the Goose",
+        "description": "board game"
+      },
+      {
+        "qid": "Q1637382",
+        "label": "Псы и Шакалы",
+        "description": "древнеегипетская настольная игра"
+      },
+      {
+        "qid": "Q1783817",
+        "label": "кооперативная настольная игра",
+        "description": "category of board games where players work together in order to achieve a goal"
+      },
+      {
+        "qid": "Q2642425",
+        "label": "Нарды",
+        "description": "Настольная игра для двух игроков на специальной доске"
+      },
+      {
+        "qid": "Q2796140",
+        "label": "вариант шашек",
+        "description": "вариант шашечной игры"
+      },
+      {
+        "qid": "Q4457048",
+        "label": "Тибетское го",
+        "description": "Tibetan style of Go"
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q718",
+        "label": "шахматы",
+        "description": "настольная игра и вид спорта"
+      },
+      {
+        "qid": "Q1293",
+        "label": "шашки",
+        "description": "игра для двух игроков на многоклеточной доске"
+      },
+      {
+        "qid": "Q1871",
+        "label": "Дипломатия",
+        "description": "настольная стратегическая игра"
+      },
+      {
+        "qid": "Q11411",
+        "label": "короткие нарды",
+        "description": "разновидность игры в нарды"
+      },
+      {
+        "qid": "Q12263",
+        "label": "маджонг",
+        "description": "китайская азартная игра"
+      },
+      {
+        "qid": "Q12541",
+        "label": "Риск",
+        "description": "board game"
+      },
+      {
+        "qid": "Q17243",
+        "label": "Монополия",
+        "description": "экономическая и стратегическая настольная игра для двух и более человек"
+      },
+      {
+        "qid": "Q17245",
+        "label": "Cluedo",
+        "description": "настольная игра 1949 года"
+      },
+      {
+        "qid": "Q17247",
+        "label": "Абалон",
+        "description": "1987 board game"
+      },
+      {
+        "qid": "Q17250",
+        "label": "Trivial pursuit",
+        "description": "Разновидность игр-викторин"
+      }
+    ],
+    "properties": {}
+  },
+  "educational_game": {
+    "concept_id": "educational_game",
+    "title": "Образовательная игра",
+    "wikidata_id": "Q1141778",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1141778",
+    "info": {
+      "label": "Чемпионат Италии по футболу (Серия D)",
+      "description": "highest Italian non-professional association football league",
+      "aliases": "Serie D football"
+    },
+    "subclasses": [],
+    "instances": [],
+    "properties": {}
+  },
+  "esports": {
+    "concept_id": "esports",
+    "title": "Киберспорт",
+    "wikidata_id": "Q300920",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q300920",
+    "info": {
+      "label": "киберспорт",
+      "description": "игровые соревнования с использованием компьютерных технологий",
+      "aliases": "компьютерный спорт, электронный спорт"
+    },
+    "subclasses": [
+      {
+        "qid": "Q326704",
+        "label": "Q326704",
+        "description": "серия компьютерных игр"
+      },
+      {
+        "qid": "Q1417032",
+        "label": "симулятор гонок",
+        "description": "жанр компьютерных гонок, приближенных к реальности"
+      },
+      {
+        "qid": "Q12774667",
+        "label": "Progaming",
+        "description": "activity in e-sports"
+      },
+      {
+        "qid": "Q50967494",
+        "label": "simracer",
+        "description": "esporting occupation"
+      },
+      {
+        "qid": "Q60107291",
+        "label": "киберспорт в Казахстане",
+        "description": ""
+      },
+      {
+        "qid": "Q65080238",
+        "label": "Pokémon competitive play",
+        "description": "player versus player battles that take place using the Pokémon video games"
+      },
+      {
+        "qid": "Q109974882",
+        "label": "VALORANT Champions",
+        "description": "esports tournament"
+      },
+      {
+        "qid": "Q111244873",
+        "label": "Кибервелоспорт",
+        "description": "велоспорт"
+      },
+      {
+        "qid": "Q111787403",
+        "label": "Q111787403",
+        "description": ""
+      },
+      {
+        "qid": "Q115526660",
+        "label": "Bigetron Esports",
+        "description": "Indonesian esports organization"
+      },
+      {
+        "qid": "Q115538935",
+        "label": "Alter Ego Esports",
+        "description": "Indonesian esports organization"
+      },
+      {
+        "qid": "Q117545994",
+        "label": "Q117545994",
+        "description": ""
+      },
+      {
+        "qid": "Q123651949",
+        "label": "e-Motorsports",
+        "description": ""
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q56239592",
+        "label": "Heir",
+        "description": "esports tournament"
+      },
+      {
+        "qid": "Q67328602",
+        "label": "Capture the flag",
+        "description": "Game with focus on information security and hacking"
+      },
+      {
+        "qid": "Q100978450",
+        "label": "Mongolian Esport Association",
+        "description": "association esport non-governing body in Mongolia"
+      },
+      {
+        "qid": "Q109360808",
+        "label": "Q109360808",
+        "description": ""
+      },
+      {
+        "qid": "Q111170062",
+        "label": "Esailing Team World Championship",
+        "description": "ESports tournament"
+      },
+      {
+        "qid": "Q112144412",
+        "label": "киберспортивная дисциплина",
+        "description": "компьютерная игра, по которой проводятся профессиональные соревнования"
+      },
+      {
+        "qid": "Q112252260",
+        "label": "Q112252260",
+        "description": ""
+      },
+      {
+        "qid": "Q130552906",
+        "label": "NIBUCHAN-PIONSHIPS",
+        "description": ""
+      }
+    ],
+    "properties": {}
+  },
+  "gamification": {
+    "concept_id": "gamification",
+    "title": "Геймификация",
+    "wikidata_id": "Q1145661",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1145661",
+    "info": {
+      "label": "NGC 6418",
+      "description": "галактика в созвездии Дракон",
+      "aliases": ""
+    },
+    "subclasses": [],
+    "instances": [],
+    "properties": {}
+  },
+  "film": {
+    "concept_id": "film",
+    "title": "Фильм",
+    "wikidata_id": "Q11424",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11424",
+    "info": {
+      "label": "фильм",
+      "description": "совокупность движущихся изображений, связанных единым сюжетом",
+      "aliases": "кино, кинофильм, лента"
+    },
+    "subclasses": [
+      {
+        "qid": "Q24862",
+        "label": "короткометражный фильм",
+        "description": "формат кинофильма"
+      },
+      {
+        "qid": "Q24865",
+        "label": "среднеметражный фильм",
+        "description": "фильм средней длины"
+      },
+      {
+        "qid": "Q24869",
+        "label": "полнометражный фильм",
+        "description": "формат кинофильма"
+      },
+      {
+        "qid": "Q130232",
+        "label": "драматический фильм",
+        "description": "жанр кинематографа"
+      },
+      {
+        "qid": "Q157443",
+        "label": "комедийный фильм",
+        "description": "жанр кино, характеризующийся юмористическим или сатирическим подходом"
+      },
+      {
+        "qid": "Q185867",
+        "label": "нуар",
+        "description": "кинематографический термин, применяемый к голливудским криминальным драмам 1940—1950 годов"
+      },
+      {
+        "qid": "Q188473",
+        "label": "боевик",
+        "description": "киножанр"
+      },
+      {
+        "qid": "Q202866",
+        "label": "мультфильм",
+        "description": "серия движущихся картинок"
+      },
+      {
+        "qid": "Q219557",
+        "label": "культовый фильм",
+        "description": "фильм, ставший объектом почитания у сплочённой группы поклонников"
+      },
+      {
+        "qid": "Q226730",
+        "label": "немое кино",
+        "description": "разновидность кинофильмов, не имеющих звукового сопровождения"
+      },
+      {
+        "qid": "Q229390",
+        "label": "3D-фильм",
+        "description": "stereoscopic film"
+      },
+      {
+        "qid": "Q304538",
+        "label": "Heimatfilm",
+        "description": "film genre"
+      },
+      {
+        "qid": "Q319221",
+        "label": "приключенческий фильм",
+        "description": "жанр кино"
+      },
+      {
+        "qid": "Q336144",
+        "label": "фильм-антология",
+        "description": "художественный фильм, состоящий из двух или более короткометражных фильмов, часто связанных только одной общей темой, местом действия или общим событием"
+      },
+      {
+        "qid": "Q369747",
+        "label": "военный фильм",
+        "description": "исторический художественный фильм, реконструирующий события реально происходившей войны или сражения, амуницию, оружие, приёмы и организацию боя"
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q372",
+        "label": "We Live in Public",
+        "description": "документальный фильм США 2009 года"
+      },
+      {
+        "qid": "Q593",
+        "label": "Неприкасаемые",
+        "description": "французcкий криминальный фильм Оливье Маршаля 2011 года"
+      },
+      {
+        "qid": "Q595",
+        "label": "1+1",
+        "description": "французский трагикомедийный фильм 2011 года"
+      },
+      {
+        "qid": "Q1365",
+        "label": "Отнесённые необыкновенной судьбой в лазурное море в августе",
+        "description": "итальянский кинофильм 1974 года"
+      },
+      {
+        "qid": "Q2201",
+        "label": "Пипец",
+        "description": "фильм Мэттью Вона 2010 года"
+      },
+      {
+        "qid": "Q2345",
+        "label": "12 разгневанных мужчин",
+        "description": "фильм 1957 года"
+      },
+      {
+        "qid": "Q2875",
+        "label": "Унесённые ветром",
+        "description": "американский фильм 1939 года, лауреат премии «Оскар»"
+      },
+      {
+        "qid": "Q3092",
+        "label": "Человек на распутье",
+        "description": "британский фильм (1953)"
+      },
+      {
+        "qid": "Q3187",
+        "label": "Тяжёлая ночь в Джерико",
+        "description": "американский фильм 1967 года"
+      },
+      {
+        "qid": "Q3208",
+        "label": "Чужеродное вторжение",
+        "description": "американский фильм ужасов 2008 года"
+      }
+    ],
+    "properties": {}
+  },
+  "animation": {
+    "concept_id": "animation",
+    "title": "Мультфильм",
+    "wikidata_id": "Q202866",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q202866",
+    "info": {
+      "label": "мультфильм",
+      "description": "серия движущихся картинок",
+      "aliases": "мульт, мультик, анимационный фильм, м/ф, мультипликационное кино, мультипликационные фильмы, рисованный фильм"
+    },
+    "subclasses": [
+      {
+        "qid": "Q332564",
+        "label": "абстрактный мультфильм",
+        "description": "film genre"
+      },
+      {
+        "qid": "Q547760",
+        "label": "animatic",
+        "description": "animated comic, or cross between animation and a storyboard"
+      },
+      {
+        "qid": "Q3249257",
+        "label": "взрослая анимация",
+        "description": "жанр мультипликации"
+      },
+      {
+        "qid": "Q4373044",
+        "label": "порномультфильм",
+        "description": "portrayal of illustrated or animated fictional cartoon characters in erotic or sexual situations"
+      },
+      {
+        "qid": "Q4765076",
+        "label": "документальный анимационный фильм",
+        "description": "жанр кино, сочетающий документальность с анимацией"
+      },
+      {
+        "qid": "Q6017399",
+        "label": "independent animation",
+        "description": "animated media produced outside the major industry"
+      },
+      {
+        "qid": "Q13377551",
+        "label": "мультфильм СССР",
+        "description": ""
+      },
+      {
+        "qid": "Q17517379",
+        "label": "короткометражный мультфильм",
+        "description": "небольшой по длительности мультфильм"
+      },
+      {
+        "qid": "Q18089587",
+        "label": "мультфильм в покадровой технике",
+        "description": "анимационный фильм, снятый в технике stop-motion"
+      },
+      {
+        "qid": "Q18648407",
+        "label": "animated webtoon",
+        "description": "animated film"
+      },
+      {
+        "qid": "Q20089346",
+        "label": "научно-фантастический мультфильм",
+        "description": "science fiction work in animation"
+      },
+      {
+        "qid": "Q20650540",
+        "label": "аниме-фильм",
+        "description": "японский анимационный фильм или в стиле японского аниме"
+      },
+      {
+        "qid": "Q25110269",
+        "label": "анимационно-игровой фильм",
+        "description": "кинематографический жанр, который сочетает в себе игровое кино с анимацией"
+      },
+      {
+        "qid": "Q28968258",
+        "label": "компьютерный мультфильм",
+        "description": "мультфильм, изготовленный на компьютере"
+      },
+      {
+        "qid": "Q28968511",
+        "label": "рисованный мультфильм",
+        "description": "анимационный фильм, полностью выполненный в технике рисования"
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q4447",
+        "label": "Гадкий я",
+        "description": "мультфильм 2010 года"
+      },
+      {
+        "qid": "Q17708",
+        "label": "The Plot of the Fuma Clan",
+        "description": "анимационный фильм по манге"
+      },
+      {
+        "qid": "Q19090",
+        "label": "Робин Гуд",
+        "description": "мультфильм 1973 года"
+      },
+      {
+        "qid": "Q25733",
+        "label": "Барби и Щелкунчик",
+        "description": "2001 CGI-animated film"
+      },
+      {
+        "qid": "Q28891",
+        "label": "Ральф",
+        "description": "мультфильм 2012 года"
+      },
+      {
+        "qid": "Q29355",
+        "label": "Белка и Стрелка. Звёздные собаки",
+        "description": "2010 animated film directed by Svyatoslav Ushakov and Inna Evlannikova"
+      },
+      {
+        "qid": "Q30568",
+        "label": "Барби и дракон",
+        "description": "Анимационный фэнтезийный фильм 2002 года от Mattel"
+      },
+      {
+        "qid": "Q30937",
+        "label": "Фантазия 2000",
+        "description": "полнометражный музыкальный мультфильм Walt Disney Feature Animation 1999 года"
+      },
+      {
+        "qid": "Q35951",
+        "label": "Ледниковый период 4: Континентальный дрейф",
+        "description": "полнометражный компьютерный мультфильм производства США 2012 года"
+      },
+      {
+        "qid": "Q36092",
+        "label": "Лило и Стич",
+        "description": "Полнометражный анимационный фильм студии Уолта Диснея"
+      }
+    ],
+    "properties": {}
+  },
+  "documentary": {
+    "concept_id": "documentary",
+    "title": "Документальный фильм",
+    "wikidata_id": "Q93204",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q93204",
+    "info": {
+      "label": "документальный фильм",
+      "description": "кинофильм, который снимает реальность",
+      "aliases": "кинорепортаж, д/ф, док.фильм, док/ф, документальное кино, документальные фильмы, неигровое кино"
+    },
+    "subclasses": [
+      {
+        "qid": "Q459435",
+        "label": "мокьюментари",
+        "description": "жанр кино"
+      },
+      {
+        "qid": "Q472637",
+        "label": "документальная фантастика",
+        "description": "жанр кино"
+      },
+      {
+        "qid": "Q596138",
+        "label": "образовательный фильм",
+        "description": "film genre"
+      },
+      {
+        "qid": "Q819652",
+        "label": "горный фильм",
+        "description": "жанр кинематографа"
+      },
+      {
+        "qid": "Q1092621",
+        "label": "синема верите",
+        "description": "style of documentary filmmaking"
+      },
+      {
+        "qid": "Q1234018",
+        "label": "docutainment",
+        "description": "show genre"
+      },
+      {
+        "qid": "Q1271310",
+        "label": "Kulturfilm",
+        "description": "film genre in Germany"
+      },
+      {
+        "qid": "Q1323308",
+        "label": "Direct Cinema",
+        "description": "film genre"
+      },
+      {
+        "qid": "Q1352102",
+        "label": "свободное кино",
+        "description": "British documentary film movement"
+      },
+      {
+        "qid": "Q1371394",
+        "label": "этнографический фильм",
+        "description": "film genre"
+      },
+      {
+        "qid": "Q1464369",
+        "label": "behind-the-scenes",
+        "description": "документальный фильм о создании фильма"
+      },
+      {
+        "qid": "Q1474387",
+        "label": "мондо",
+        "description": "поджанр документального кино, эксплуатирующий сенсационные темы и явления"
+      },
+      {
+        "qid": "Q1480924",
+        "label": "вид из кабины",
+        "description": ""
+      },
+      {
+        "qid": "Q1760864",
+        "label": "документальный фильм о природе",
+        "description": "film and television genre"
+      },
+      {
+        "qid": "Q2084909",
+        "label": "phantom ride",
+        "description": "early genre of film"
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q4337196",
+        "label": "Трагедия в Катынском лесу",
+        "description": ""
+      },
+      {
+        "qid": "Q5981070",
+        "label": "Q5981070",
+        "description": "novel by Antonio Santa Ana"
+      },
+      {
+        "qid": "Q12393425",
+        "label": "Q12393425",
+        "description": ""
+      },
+      {
+        "qid": "Q65308311",
+        "label": "Q65308311",
+        "description": ""
+      },
+      {
+        "qid": "Q65308434",
+        "label": "Q65308434",
+        "description": ""
+      },
+      {
+        "qid": "Q123312552",
+        "label": "Q123312552",
+        "description": "documentary written and directed by Frédérique Lantieri"
+      },
+      {
+        "qid": "Q132047235",
+        "label": "Being Frank: The Chris Sievey Story",
+        "description": "2019 documentary"
+      },
+      {
+        "qid": "Q134301762",
+        "label": "Heading for Glory",
+        "description": ""
+      },
+      {
+        "qid": "Q134319689",
+        "label": "Q134319689",
+        "description": ""
+      },
+      {
+        "qid": "Q134524522",
+        "label": "Россия. Кремль. Путин. 25 лет",
+        "description": "документальный фильм о Владимире Путине"
+      }
+    ],
+    "properties": {}
+  },
+  "cinema": {
+    "concept_id": "cinema",
+    "title": "Кинематограф",
+    "wikidata_id": "Q5398426",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5398426",
+    "info": {
+      "label": "телесериал",
+      "description": "набор передач, объединённых последовательным сюжетом или общим замыслом",
+      "aliases": "сериал, сериалы, многосерийный фильм, мини-сериал, телевизионный сериал, многосерийный телевизионный фильм, многосерийный телефильм"
+    },
+    "subclasses": [
+      {
+        "qid": "Q23653",
+        "label": "сериал-антология",
+        "description": "radio or television series that presents a different story and a different set of characters in each episode"
+      },
+      {
+        "qid": "Q178840",
+        "label": "семейный телесериал",
+        "description": "television series depicting family life"
+      },
+      {
+        "qid": "Q343782",
+        "label": "экшен-сериал",
+        "description": "телевизионный жанр"
+      },
+      {
+        "qid": "Q482612",
+        "label": "корейский телесериал",
+        "description": "вид телевизионной продукции"
+      },
+      {
+        "qid": "Q526877",
+        "label": "веб-сериал",
+        "description": "видео-сериал, передаваемый через Интернет"
+      },
+      {
+        "qid": "Q662197",
+        "label": "Вечерничек",
+        "description": "Czech and Slovak evening child television show"
+      },
+      {
+        "qid": "Q1366112",
+        "label": "драматический сериал",
+        "description": "телевизионный жанр"
+      },
+      {
+        "qid": "Q1566423",
+        "label": "wheel series",
+        "description": "genre of television series"
+      },
+      {
+        "qid": "Q1676730",
+        "label": "telecollege",
+        "description": "adult education offer"
+      },
+      {
+        "qid": "Q3942390",
+        "label": "State of Origin series",
+        "description": "annual rugby league competition between Australian states, also broadcast as a television series"
+      },
+      {
+        "qid": "Q3951815",
+        "label": "sceneggiato",
+        "description": "television genre"
+      },
+      {
+        "qid": "Q4783297",
+        "label": "Arab television drama",
+        "description": "Arabic-language TV melodrama"
+      },
+      {
+        "qid": "Q5455086",
+        "label": "fishing television series",
+        "description": "genre of television programs"
+      },
+      {
+        "qid": "Q7050677",
+        "label": "нордический рождественский календарь",
+        "description": "radio or television genre"
+      },
+      {
+        "qid": "Q7724161",
+        "label": "мыльный телесериал",
+        "description": "жанр телесериалов; ежедневные или еженедельные серии не имеют самостоятельного сюжета, так как сюжетные линии растянуты на множество блоков, производство начинается быстро и продолжается пока у зрителей остаётся интерес в сериалу"
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q494",
+        "label": "Мир Бикмана",
+        "description": "детская познавательная телепередача"
+      },
+      {
+        "qid": "Q723",
+        "label": "Копы-новобранцы",
+        "description": "канадско-американский телесериал"
+      },
+      {
+        "qid": "Q961",
+        "label": "Ставка больше, чем жизнь",
+        "description": "польский приключенческий сериал (1967—1968)"
+      },
+      {
+        "qid": "Q990",
+        "label": "Четыре танкиста и собака",
+        "description": "польский телевизионный сериал"
+      },
+      {
+        "qid": "Q1077",
+        "label": "Звёздный путь: Оригинальный сериал",
+        "description": "научно-фантастический телевизионный сериал"
+      },
+      {
+        "qid": "Q1079",
+        "label": "Во все тяжкие",
+        "description": "американский телесериал 2008—2013 годов"
+      },
+      {
+        "qid": "Q2085",
+        "label": "Твин Пикс",
+        "description": "американский телесериал 1990 года"
+      },
+      {
+        "qid": "Q2293",
+        "label": "Чак",
+        "description": "американский комедийный телесериал"
+      },
+      {
+        "qid": "Q2744",
+        "label": "Секретные материалы",
+        "description": "американский научно-фантастический сериал"
+      },
+      {
+        "qid": "Q2748",
+        "label": "Гримм",
+        "description": "сериал"
+      }
+    ],
+    "properties": {}
+  },
+  "vfx": {
+    "concept_id": "vfx",
+    "title": "Спецэффекты",
+    "wikidata_id": "Q180985",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q180985",
+    "info": {
+      "label": "Lovedale",
+      "description": "страница значений",
+      "aliases": ""
+    },
+    "subclasses": [],
+    "instances": [],
+    "properties": {}
+  },
+  "music": {
+    "concept_id": "music",
+    "title": "Музыка",
+    "wikidata_id": "Q638",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q638",
+    "info": {
+      "label": "музыка",
+      "description": "искусство, средство воплощения художественных образов",
+      "aliases": "musical art"
+    },
+    "subclasses": [
+      {
+        "qid": "Q11895763",
+        "label": "сочинение музыки",
+        "description": "действие или процесс создания или написания музыки; искусство создания музыки"
+      },
+      {
+        "qid": "Q32165901",
+        "label": "Q32165901",
+        "description": ""
+      },
+      {
+        "qid": "Q49017950",
+        "label": "музыкальная запись",
+        "description": "physical or digital record of a musical performance that can then be played back, or reproduced"
+      },
+      {
+        "qid": "Q62906332",
+        "label": "развлекательная музыка",
+        "description": "music term, classification; part of a music classification scheme developed by collecting societies"
+      },
+      {
+        "qid": "Q122228584",
+        "label": "Q122228584",
+        "description": ""
+      },
+      {
+        "qid": "Q131289526",
+        "label": "Yugoslavian hardcore punk",
+        "description": "yugoslavian hardcore punk"
+      },
+      {
+        "qid": "Q131313719",
+        "label": "Q131313719",
+        "description": ""
+      },
+      {
+        "qid": "Q132134966",
+        "label": "Q132134966",
+        "description": ""
+      },
+      {
+        "qid": "Q137373865",
+        "label": "popularization of music",
+        "description": ""
+      },
+      {
+        "qid": "Q137425722",
+        "label": "music and literature",
+        "description": ""
+      },
+      {
+        "qid": "Q137485769",
+        "label": "music and society",
+        "description": ""
+      },
+      {
+        "qid": "Q138314144",
+        "label": "Q138314144",
+        "description": ""
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q135235923",
+        "label": "Non Living Thing",
+        "description": "2021 song by Sarkodie ft. Oxlade"
+      },
+      {
+        "qid": "Q135235924",
+        "label": "Labadi",
+        "description": "2022 song by Sarkodie ft. King Promise"
+      },
+      {
+        "qid": "Q135235925",
+        "label": "She Bad",
+        "description": "2022 song by Sarkodie ft. Oxlade"
+      },
+      {
+        "qid": "Q135235926",
+        "label": "Cougar",
+        "description": "2022 song by Sarkodie ft. Lojay"
+      },
+      {
+        "qid": "Q135235927",
+        "label": "Forever",
+        "description": "2022 song by Sarkodie ft. Kranium"
+      },
+      {
+        "qid": "Q135235928",
+        "label": "Better Days",
+        "description": "2022 song by Sarkodie ft. Bnxn"
+      },
+      {
+        "qid": "Q136511540",
+        "label": "3 Little Words",
+        "description": "religious music from Brazil"
+      },
+      {
+        "qid": "Q136537606",
+        "label": "Naira Marley",
+        "description": "Song by Zinoleesky"
+      },
+      {
+        "qid": "Q136542394",
+        "label": "Happy Day",
+        "description": "Nigerian music"
+      },
+      {
+        "qid": "Q137205651",
+        "label": "Q137205651",
+        "description": ""
+      }
+    ],
+    "properties": {}
+  },
+  "musical_instrument": {
+    "concept_id": "musical_instrument",
+    "title": "Музыкальный инструмент",
+    "wikidata_id": "Q34379",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q34379",
+    "info": {
+      "label": "музыкальный инструмент",
+      "description": "предметы, с помощью которых извлекаются различные музыкальные, а также немузыкальные неорганизованные звуки",
+      "aliases": "instrument, music instrument, instrument (music), instrument in music"
+    },
+    "subclasses": [
+      {
+        "qid": "Q11404",
+        "label": "барабан",
+        "description": "семейство ударных музыкальных инструментов"
+      },
+      {
+        "qid": "Q12639",
+        "label": "идиофон",
+        "description": "музыкальный инструмент"
+      },
+      {
+        "qid": "Q46384",
+        "label": "микрофон",
+        "description": "устройство для преобразовывания звука в электрический сигнал"
+      },
+      {
+        "qid": "Q47369",
+        "label": "арфа",
+        "description": "щипковый музыкальный инструмент"
+      },
+      {
+        "qid": "Q52954",
+        "label": "клавишные",
+        "description": "класс музыкальных инструментов, которые имеют клавиши"
+      },
+      {
+        "qid": "Q76239",
+        "label": "цитра",
+        "description": "щипковый струнный музыкальный инструмент"
+      },
+      {
+        "qid": "Q104363",
+        "label": "наковальня",
+        "description": "metalworking tool"
+      },
+      {
+        "qid": "Q105738",
+        "label": "электрофон",
+        "description": "класс музыкальных инструментов, использующих электричество"
+      },
+      {
+        "qid": "Q131765",
+        "label": "мультимедиа",
+        "description": "content that uses a combination of different content forms"
+      },
+      {
+        "qid": "Q133163",
+        "label": "ударный музыкальный инструмент",
+        "description": "семейство музыкальных инструментов"
+      },
+      {
+        "qid": "Q133506",
+        "label": "Телармониум",
+        "description": "Тип электрического органа"
+      },
+      {
+        "qid": "Q178812",
+        "label": "Колокола",
+        "description": "musical instruments in the percussion family"
+      },
+      {
+        "qid": "Q183932",
+        "label": "кастаньеты",
+        "description": "percussion instrument"
+      },
+      {
+        "qid": "Q190172",
+        "label": "тарелка",
+        "description": "ударный музыкальный инструмент"
+      },
+      {
+        "qid": "Q191823",
+        "label": "клавикорд",
+        "description": "stringed keyboard musical instrument"
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q167126",
+        "label": "кобза",
+        "description": "украинский традиционный музыкальный инструмент"
+      },
+      {
+        "qid": "Q180733",
+        "label": "лютня",
+        "description": "струнный музыкальный инструмент"
+      },
+      {
+        "qid": "Q623509",
+        "label": "Ребаб",
+        "description": "струнный смычковый инструмент"
+      },
+      {
+        "qid": "Q645977",
+        "label": "комуз",
+        "description": "струнный инструмент"
+      },
+      {
+        "qid": "Q726306",
+        "label": "эрху",
+        "description": "Chinese two-stringed musical instrument"
+      },
+      {
+        "qid": "Q733370",
+        "label": "валиха",
+        "description": "мадагаскарский народный струнный щипковый музыкальный инструмент"
+      },
+      {
+        "qid": "Q810551",
+        "label": "bass saxophone",
+        "description": "large low-pitched wind instrument"
+      },
+      {
+        "qid": "Q816793",
+        "label": "bendir",
+        "description": "wooden frame drum of North Africa and Southwest Asia"
+      },
+      {
+        "qid": "Q865832",
+        "label": "Birotron",
+        "description": "Tape replay keyboard"
+      },
+      {
+        "qid": "Q1133096",
+        "label": "ronroco",
+        "description": "plucked string instrument of the charango family"
+      }
+    ],
+    "properties": {}
+  },
+  "musical_genre": {
+    "concept_id": "musical_genre",
+    "title": "Музыкальный жанр",
+    "wikidata_id": "Q188451",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q188451",
+    "info": {
+      "label": "музыкальный жанр",
+      "description": "род музыки, музыкальных произведений, отличающийся особыми, только ему свойственными стилистическими признаками",
+      "aliases": "жанр музыки"
+    },
+    "subclasses": [
+      {
+        "qid": "Q1521426",
+        "label": "gharana",
+        "description": "system of social organisation of linking musicians or dancers by lineage, apprentices or a particular musical style in the Indian subcontinent"
+      },
+      {
+        "qid": "Q1786517",
+        "label": "пало",
+        "description": "flamenco term used to group different traditional musical forms"
+      },
+      {
+        "qid": "Q3177825",
+        "label": "game piece",
+        "description": "concept in experimental music"
+      },
+      {
+        "qid": "Q20643324",
+        "label": "жанр оперы",
+        "description": "тип театральных жанров"
+      },
+      {
+        "qid": "Q21006644",
+        "label": "перекрёстный музыкальный жанр",
+        "description": "музыкальный жанр, происходящий из смешения двух других жанров"
+      },
+      {
+        "qid": "Q96195030",
+        "label": "жанр джаза",
+        "description": "Wikidata metaclass"
+      },
+      {
+        "qid": "Q96200402",
+        "label": "жанр электронной музыки",
+        "description": "метакласс Викиданных"
+      },
+      {
+        "qid": "Q105635529",
+        "label": "жанр блюза",
+        "description": "Wikidata metaclass"
+      },
+      {
+        "qid": "Q106621729",
+        "label": "жанр фолк-музыки",
+        "description": "Wikidata metaclass"
+      },
+      {
+        "qid": "Q106628249",
+        "label": "world music genre",
+        "description": "Wikidata metaclass"
+      },
+      {
+        "qid": "Q107975727",
+        "label": "жанр рока",
+        "description": "Wikidata metaclass"
+      },
+      {
+        "qid": "Q117021501",
+        "label": "музыка по инструменту",
+        "description": "Wikidata metaclass"
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q1344",
+        "label": "опера",
+        "description": "жанр музыкально-драматического искусства"
+      },
+      {
+        "qid": "Q2743",
+        "label": "мюзикл",
+        "description": "музыкальный театральный жанр"
+      },
+      {
+        "qid": "Q3071",
+        "label": "панк-рок",
+        "description": "жанр рок-музыки"
+      },
+      {
+        "qid": "Q3858",
+        "label": "музыка Израиля",
+        "description": "музыкальная культура Израиля"
+      },
+      {
+        "qid": "Q4797",
+        "label": "conjunto",
+        "description": "mix of traditional Mexican music and European polkas"
+      },
+      {
+        "qid": "Q6010",
+        "label": "рэп",
+        "description": "ритмичное чтение речитатива, основа жанра хип-хоп"
+      },
+      {
+        "qid": "Q7749",
+        "label": "рок-н-ролл",
+        "description": "музыкальный жанр"
+      },
+      {
+        "qid": "Q8341",
+        "label": "джаз",
+        "description": "музыкальный жанр"
+      },
+      {
+        "qid": "Q8361",
+        "label": "музыка эпохи барокко",
+        "description": "период развития классической музыки"
+      },
+      {
+        "qid": "Q9730",
+        "label": "классическая музыка",
+        "description": "образцовые музыкальные произведения, золотой фонд мировой музыкальной культуры"
+      }
+    ],
+    "properties": {}
+  },
+  "classical_music": {
+    "concept_id": "classical_music",
+    "title": "Классическая музыка",
+    "wikidata_id": "Q9730",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q9730",
+    "info": {
+      "label": "классическая музыка",
+      "description": "образцовые музыкальные произведения, золотой фонд мировой музыкальной культуры",
+      "aliases": "классика, западная классическая музыка, музыкальная классика"
+    },
+    "subclasses": [
+      {
+        "qid": "Q1344",
+        "label": "опера",
+        "description": "жанр музыкально-драматического искусства"
+      },
+      {
+        "qid": "Q8361",
+        "label": "музыка эпохи барокко",
+        "description": "период развития классической музыки"
+      },
+      {
+        "qid": "Q17723",
+        "label": "музыка эпохи классицизма",
+        "description": "период в развитии европейской музыки приблизительно между 1750 и 1820 годами"
+      },
+      {
+        "qid": "Q131269",
+        "label": "соната",
+        "description": "тип музыкального произведения, обычно для сольного инструмента или небольшого инструментального ансамбля"
+      },
+      {
+        "qid": "Q133926",
+        "label": "Tafelmusik",
+        "description": "term used since the mid-16th century for music played at feasts and banquets"
+      },
+      {
+        "qid": "Q140544",
+        "label": "токката",
+        "description": "musical form"
+      },
+      {
+        "qid": "Q174873",
+        "label": "кантата",
+        "description": "тип музыкального произведения"
+      },
+      {
+        "qid": "Q181014",
+        "label": "фуга",
+        "description": "музыкальная форма, являющаяся наивысшим достижением полифонической музыки"
+      },
+      {
+        "qid": "Q188285",
+        "label": "мотет",
+        "description": "вокальное многоголосное произведение полифонического склада"
+      },
+      {
+        "qid": "Q189201",
+        "label": "камерная музыка",
+        "description": "музыка, исполняемая небольшим коллективом музыкантов или вокалистов"
+      },
+      {
+        "qid": "Q193217",
+        "label": "мадригал",
+        "description": "secular vocal music composition of the Renaissance and early Baroque eras"
+      },
+      {
+        "qid": "Q194172",
+        "label": "ноктюрн",
+        "description": "форма классического музыкального произведения"
+      },
+      {
+        "qid": "Q201405",
+        "label": "музыка эпохи Возрождения",
+        "description": "европейская музыка в XV-XVII веках"
+      },
+      {
+        "qid": "Q202287",
+        "label": "увертюра",
+        "description": "тип музыкального произведения"
+      },
+      {
+        "qid": "Q207591",
+        "label": "музыка эпохи романтизма",
+        "description": "период в истории музыки"
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q133926",
+        "label": "Tafelmusik",
+        "description": "term used since the mid-16th century for music played at feasts and banquets"
+      }
+    ],
+    "properties": {}
+  },
+  "song": {
+    "concept_id": "song",
+    "title": "Песня",
+    "wikidata_id": "Q7366",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7366",
+    "info": {
+      "label": "песня",
+      "description": "музыкальное произведение, предназначенное для исполнения человеческим голосом",
+      "aliases": "гина"
+    },
+    "subclasses": [
+      {
+        "qid": "Q177771",
+        "label": "Трен (жанр)",
+        "description": "song, hymn or poem of mourning"
+      },
+      {
+        "qid": "Q178122",
+        "label": "ария",
+        "description": "тип музыкального сочинения"
+      },
+      {
+        "qid": "Q261434",
+        "label": "fight song",
+        "description": "song associated with a sports team and military conflicts"
+      },
+      {
+        "qid": "Q318894",
+        "label": "evening song",
+        "description": "a poem type of \"the end of the day\""
+      },
+      {
+        "qid": "Q319448",
+        "label": "Schnitzelbank",
+        "description": "short verses, usually performed rhythmically or singingly with humorous context"
+      },
+      {
+        "qid": "Q380233",
+        "label": "песня о любви",
+        "description": "type of song dealing with love"
+      },
+      {
+        "qid": "Q484692",
+        "label": "гимн",
+        "description": "песенный жанр"
+      },
+      {
+        "qid": "Q493169",
+        "label": "детская песня",
+        "description": "композиция, задуманная для детей"
+      },
+      {
+        "qid": "Q499042",
+        "label": "дисс",
+        "description": "song type produced to verbally attack another person"
+      },
+      {
+        "qid": "Q600094",
+        "label": "пеан",
+        "description": "song or poem expressing triumph or thanksgiving"
+      },
+      {
+        "qid": "Q608862",
+        "label": "музыка в японской анимации",
+        "description": "music created for use in Japanese animation series"
+      },
+      {
+        "qid": "Q661651",
+        "label": "show tune",
+        "description": "song originally written as part of the score of a work of musical theatre; music genre"
+      },
+      {
+        "qid": "Q686027",
+        "label": "эпиталама",
+        "description": "a song or poem celebrating a wedding"
+      },
+      {
+        "qid": "Q744327",
+        "label": "йойк",
+        "description": "традиционное песнопение саамов"
+      },
+      {
+        "qid": "Q758422",
+        "label": "альборада",
+        "description": "песня (музыкальное произведение) на тему утра, утреннего расставания с возлюбленной"
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q15654",
+        "label": "Oxygen",
+        "description": "2006 song recorded by Marie Serneholt"
+      },
+      {
+        "qid": "Q19976",
+        "label": "Somewhere I Belong",
+        "description": "первый сингл со второго альбома Meteora группы Linkin Park."
+      },
+      {
+        "qid": "Q19977",
+        "label": "Lying from You",
+        "description": "2004 song by Linkin Park"
+      },
+      {
+        "qid": "Q19990",
+        "label": "Iridescent",
+        "description": "2011 song by Linkin Park"
+      },
+      {
+        "qid": "Q19993",
+        "label": "Runaway",
+        "description": "2000 song by Linkin Park"
+      },
+      {
+        "qid": "Q21096",
+        "label": "I Don't Give a Fuck",
+        "description": "1991 song by Tupac Shakur"
+      },
+      {
+        "qid": "Q21100",
+        "label": "Both of Us",
+        "description": "песня исполнителя B.o.B"
+      },
+      {
+        "qid": "Q23061",
+        "label": "Professional Griefers",
+        "description": "2012 song by deadmau5 and Gerard Way"
+      },
+      {
+        "qid": "Q23072",
+        "label": "Ghosts 'n' Stuff",
+        "description": "песня Дедмауса и Роба Свайра"
+      },
+      {
+        "qid": "Q25936",
+        "label": "BINGO!",
+        "description": "2007 single by AKB48"
+      }
+    ],
+    "properties": {}
+  },
+  "entertainment": {
+    "concept_id": "entertainment",
+    "title": "Развлечение",
+    "wikidata_id": "Q173799",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q173799",
+    "info": {
+      "label": "развлечение",
+      "description": "проведение свободного времени для удовольствия",
+      "aliases": "досуг, забава, потеха, развлечения, утеха"
+    },
+    "subclasses": [
+      {
+        "qid": "Q638",
+        "label": "музыка",
+        "description": "искусство, средство воплощения художественных образов"
+      },
+      {
+        "qid": "Q696169",
+        "label": "культурная анимация",
+        "description": "social movement to expand familiarity with art to the masses"
+      },
+      {
+        "qid": "Q1153173",
+        "label": "игровое обучение",
+        "description": "media that aims to teach viewers academic and social concepts"
+      },
+      {
+        "qid": "Q1187283",
+        "label": "интерактивные развлечения",
+        "description": "entertainment form"
+      },
+      {
+        "qid": "Q1190039",
+        "label": "спортивное представление",
+        "description": "theatrical competition; spectacle which presents an ostensibly competitive event using a high level of theatrical flourish and extravagant presentation, with the purpose of entertaining an audience"
+      },
+      {
+        "qid": "Q1355413",
+        "label": "dinner theater",
+        "description": "theatrical genre"
+      },
+      {
+        "qid": "Q1369650",
+        "label": "профессиональный спорт",
+        "description": "деятельность, которая за счёт высокой зрелищности состязаний даёт коммерческую выгоду"
+      },
+      {
+        "qid": "Q1594437",
+        "label": "ночная жизнь",
+        "description": "entertainment occurring at night"
+      },
+      {
+        "qid": "Q1814638",
+        "label": "light entertainment",
+        "description": "term used to describe certain entertaining forms of art, music"
+      },
+      {
+        "qid": "Q2000218",
+        "label": "Поход по кабакам",
+        "description": "act of drinking in multiple pubs or bars in a single night"
+      },
+      {
+        "qid": "Q2566774",
+        "label": "вертушка",
+        "description": "вращающийся объект"
+      },
+      {
+        "qid": "Q2945285",
+        "label": "family entertainment center",
+        "description": "small amusement park marketed towards families"
+      },
+      {
+        "qid": "Q4887449",
+        "label": "benefit performance",
+        "description": "type of live entertainment which is undertaken for a cause"
+      },
+      {
+        "qid": "Q7094126",
+        "label": "Online social entertainment",
+        "description": ""
+      },
+      {
+        "qid": "Q21065894",
+        "label": "Нолливуд",
+        "description": "sobriquet of Nigerian cinema"
+      }
+    ],
+    "instances": [
+      {
+        "qid": "Q259037",
+        "label": "народные гулянья",
+        "description": "moveable amusement park"
+      },
+      {
+        "qid": "Q300920",
+        "label": "киберспорт",
+        "description": "игровые соревнования с использованием компьютерных технологий"
+      },
+      {
+        "qid": "Q547870",
+        "label": "Травля зверей на арене",
+        "description": "кровавая древнеримская забава"
+      },
+      {
+        "qid": "Q590870",
+        "label": "кинематограф",
+        "description": "совокупность теле- и кинопродукции"
+      },
+      {
+        "qid": "Q1993264",
+        "label": "De Mounties",
+        "description": ""
+      },
+      {
+        "qid": "Q3833169",
+        "label": "Lion Network",
+        "description": "Italian television show"
+      },
+      {
+        "qid": "Q4200434",
+        "label": "Имхонет",
+        "description": ""
+      },
+      {
+        "qid": "Q4805327",
+        "label": "Ashleigh and Pudsey",
+        "description": "British dog trick act"
+      },
+      {
+        "qid": "Q4861992",
+        "label": "барнштурминг",
+        "description": "Развлекательные полёты на самолётах, образ жизни странствующего пилота"
+      },
+      {
+        "qid": "Q4880209",
+        "label": "Universal Monsters LiveRock And Roll Show",
+        "description": "amusement park live show"
+      }
+    ],
+    "properties": {}
+  },
+  "media_literacy": {
+    "concept_id": "media_literacy",
+    "title": "Медиаграмотность",
+    "wikidata_id": "Q1004817",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1004817",
+    "info": {
+      "label": "Монпеза",
+      "description": "коммуна во Франции, департамент Жер",
+      "aliases": "Montpézat"
+    },
+    "subclasses": [],
+    "instances": [],
+    "properties": {}
+  }
+}

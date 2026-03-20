@@ -1,0 +1,141 @@
+{
+  "concept_id": "documentary",
+  "title": "Документальный фильм",
+  "wikidata_id": "Q93204",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q93204",
+  "info": {
+    "label": "документальный фильм",
+    "description": "кинофильм, который снимает реальность",
+    "aliases": "кинорепортаж, д/ф, док.фильм, док/ф, документальное кино, документальные фильмы, неигровое кино"
+  },
+  "subclasses": [
+    {
+      "qid": "Q459435",
+      "label": "мокьюментари",
+      "description": "жанр кино"
+    },
+    {
+      "qid": "Q472637",
+      "label": "документальная фантастика",
+      "description": "жанр кино"
+    },
+    {
+      "qid": "Q596138",
+      "label": "образовательный фильм",
+      "description": "film genre"
+    },
+    {
+      "qid": "Q819652",
+      "label": "горный фильм",
+      "description": "жанр кинематографа"
+    },
+    {
+      "qid": "Q1092621",
+      "label": "синема верите",
+      "description": "style of documentary filmmaking"
+    },
+    {
+      "qid": "Q1234018",
+      "label": "docutainment",
+      "description": "show genre"
+    },
+    {
+      "qid": "Q1271310",
+      "label": "Kulturfilm",
+      "description": "film genre in Germany"
+    },
+    {
+      "qid": "Q1323308",
+      "label": "Direct Cinema",
+      "description": "film genre"
+    },
+    {
+      "qid": "Q1352102",
+      "label": "свободное кино",
+      "description": "British documentary film movement"
+    },
+    {
+      "qid": "Q1371394",
+      "label": "этнографический фильм",
+      "description": "film genre"
+    },
+    {
+      "qid": "Q1464369",
+      "label": "behind-the-scenes",
+      "description": "документальный фильм о создании фильма"
+    },
+    {
+      "qid": "Q1474387",
+      "label": "мондо",
+      "description": "поджанр документального кино, эксплуатирующий сенсационные темы и явления"
+    },
+    {
+      "qid": "Q1480924",
+      "label": "вид из кабины",
+      "description": ""
+    },
+    {
+      "qid": "Q1760864",
+      "label": "документальный фильм о природе",
+      "description": "film and television genre"
+    },
+    {
+      "qid": "Q2084909",
+      "label": "phantom ride",
+      "description": "early genre of film"
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q4337196",
+      "label": "Трагедия в Катынском лесу",
+      "description": ""
+    },
+    {
+      "qid": "Q5981070",
+      "label": "Q5981070",
+      "description": "novel by Antonio Santa Ana"
+    },
+    {
+      "qid": "Q12393425",
+      "label": "Q12393425",
+      "description": ""
+    },
+    {
+      "qid": "Q65308311",
+      "label": "Q65308311",
+      "description": ""
+    },
+    {
+      "qid": "Q65308434",
+      "label": "Q65308434",
+      "description": ""
+    },
+    {
+      "qid": "Q123312552",
+      "label": "Q123312552",
+      "description": "documentary written and directed by Frédérique Lantieri"
+    },
+    {
+      "qid": "Q132047235",
+      "label": "Being Frank: The Chris Sievey Story",
+      "description": "2019 documentary"
+    },
+    {
+      "qid": "Q134301762",
+      "label": "Heading for Glory",
+      "description": ""
+    },
+    {
+      "qid": "Q134319689",
+      "label": "Q134319689",
+      "description": ""
+    },
+    {
+      "qid": "Q134524522",
+      "label": "Россия. Кремль. Путин. 25 лет",
+      "description": "документальный фильм о Владимире Путине"
+    }
+  ],
+  "properties": {}
+}

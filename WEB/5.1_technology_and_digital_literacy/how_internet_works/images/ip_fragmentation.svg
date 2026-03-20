@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" font-family="Arial, sans-serif">
+  <rect width="760" height="260" fill="#f8f9fa" rx="12"/>
+  <text x="380" y="28" text-anchor="middle" font-size="16" font-weight="bold" fill="#222">IP-фрагментация: когда пакет слишком большой</text>
+
+  <!-- Big packet -->
+  <rect x="20" y="50" width="160" height="60" rx="8" fill="#4a90d9"/>
+  <text x="100" y="76" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">📦 Пакет</text>
+  <text x="100" y="96" text-anchor="middle" font-size="11" fill="#cce4ff">4000 байт</text>
+
+  <!-- Arrow in -->
+  <defs>
+    <marker id="arr2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#555"/>
+    </marker>
+  </defs>
+  <line x1="182" y1="80" x2="218" y2="80" stroke="#555" stroke-width="2" marker-end="url(#arr2)"/>
+
+  <!-- Router -->
+  <rect x="220" y="44" width="150" height="72" rx="10" fill="#fff" stroke="#e67e22" stroke-width="2"/>
+  <text x="295" y="68" text-anchor="middle" font-size="12" font-weight="bold" fill="#e67e22">🔀 Роутер</text>
+  <text x="295" y="86" text-anchor="middle" font-size="10" fill="#888">MTU: 1500 байт</text>
+  <text x="295" y="104" text-anchor="middle" font-size="10" fill="#c0392b" font-weight="bold">«Не пролезет!»</text>
+
+  <!-- Arrow out -->
+  <line x1="372" y1="80" x2="408" y2="80" stroke="#555" stroke-width="2" marker-end="url(#arr2)"/>
+
+  <!-- Fragments -->
+  <rect x="410" y="44" width="150" height="44" rx="6" fill="#27ae60"/>
+  <text x="485" y="62" text-anchor="middle" font-size="11" font-weight="bold" fill="#fff">Фрагмент 1</text>
+  <text x="485" y="78" text-anchor="middle" font-size="10" fill="#ccffdd">байты 0–1479</text>
+
+  <rect x="570" y="44" width="170" height="44" rx="6" fill="#27ae60" opacity="0.85"/>
+  <text x="655" y="62" text-anchor="middle" font-size="11" font-weight="bold" fill="#fff">Фрагмент 2</text>
+  <text x="655" y="78" text-anchor="middle" font-size="10" fill="#ccffdd">байты 1480–2959</text>
+
+  <rect x="490" y="98" width="160" height="44" rx="6" fill="#27ae60" opacity="0.7"/>
+  <text x="570" y="116" text-anchor="middle" font-size="11" font-weight="bold" fill="#fff">Фрагмент 3</text>
+  <text x="570" y="132" text-anchor="middle" font-size="10" fill="#ccffdd">байты 2960–3999</text>
+
+  <!-- Reassembly box -->
+  <rect x="20" y="158" width="720" height="72" rx="10" fill="#fff" stroke="#8e44ad" stroke-width="2"/>
+  <text x="380" y="180" text-anchor="middle" font-size="13" font-weight="bold" fill="#8e44ad">🔧 Сборка у получателя</text>
+  <text x="380" y="200" text-anchor="middle" font-size="11" fill="#555">Каждый фрагмент несёт в заголовке: смещение (offset) и флаг «ещё есть» (MF)</text>
+  <text x="380" y="218" text-anchor="middle" font-size="11" fill="#555">Получатель собирает части по смещениям и восстанавливает исходный пакет</text>
+
+  <text x="380" y="250" text-anchor="middle" font-size="10" fill="#aaa">MTU (Maximum Transmission Unit) — макс. размер блока для канала. Ethernet = 1500 байт.</text>
+</svg>

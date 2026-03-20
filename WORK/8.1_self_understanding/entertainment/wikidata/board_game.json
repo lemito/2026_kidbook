@@ -1,0 +1,141 @@
+{
+  "concept_id": "board_game",
+  "title": "Настольная игра",
+  "wikidata_id": "Q131436",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q131436",
+  "info": {
+    "label": "настольная игра с полем",
+    "description": "подкласс настольных игр",
+    "aliases": "игра на специальной доске"
+  },
+  "subclasses": [
+    {
+      "qid": "Q11413",
+      "label": "го",
+      "description": "стратегическая настольная игра"
+    },
+    {
+      "qid": "Q17243",
+      "label": "Монополия",
+      "description": "экономическая и стратегическая настольная игра для двух и более человек"
+    },
+    {
+      "qid": "Q204454",
+      "label": "18XX",
+      "description": "board games based on 19th century railroads"
+    },
+    {
+      "qid": "Q267989",
+      "label": "манкала",
+      "description": "type of count-and-capture games"
+    },
+    {
+      "qid": "Q788553",
+      "label": "настольная игра немецкого стиля",
+      "description": "широкий класс настольных игр, сформировавшийся в Германии к концу XX века"
+    },
+    {
+      "qid": "Q1099522",
+      "label": "Игра-ходилка",
+      "description": "large category of board games in which the object is to be the first to move all one's pieces to the end of a track"
+    },
+    {
+      "qid": "Q1182245",
+      "label": "дедуктивная игра",
+      "description": ""
+    },
+    {
+      "qid": "Q1344436",
+      "label": "Entdecker",
+      "description": "Table top game by Klaus Teuber"
+    },
+    {
+      "qid": "Q1472906",
+      "label": "Sugoroku",
+      "description": "board game"
+    },
+    {
+      "qid": "Q1548611",
+      "label": "Game of the Goose",
+      "description": "board game"
+    },
+    {
+      "qid": "Q1637382",
+      "label": "Псы и Шакалы",
+      "description": "древнеегипетская настольная игра"
+    },
+    {
+      "qid": "Q1783817",
+      "label": "кооперативная настольная игра",
+      "description": "category of board games where players work together in order to achieve a goal"
+    },
+    {
+      "qid": "Q2642425",
+      "label": "Нарды",
+      "description": "Настольная игра для двух игроков на специальной доске"
+    },
+    {
+      "qid": "Q2796140",
+      "label": "вариант шашек",
+      "description": "вариант шашечной игры"
+    },
+    {
+      "qid": "Q4457048",
+      "label": "Тибетское го",
+      "description": "Tibetan style of Go"
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q718",
+      "label": "шахматы",
+      "description": "настольная игра и вид спорта"
+    },
+    {
+      "qid": "Q1293",
+      "label": "шашки",
+      "description": "игра для двух игроков на многоклеточной доске"
+    },
+    {
+      "qid": "Q1871",
+      "label": "Дипломатия",
+      "description": "настольная стратегическая игра"
+    },
+    {
+      "qid": "Q11411",
+      "label": "короткие нарды",
+      "description": "разновидность игры в нарды"
+    },
+    {
+      "qid": "Q12263",
+      "label": "маджонг",
+      "description": "китайская азартная игра"
+    },
+    {
+      "qid": "Q12541",
+      "label": "Риск",
+      "description": "board game"
+    },
+    {
+      "qid": "Q17243",
+      "label": "Монополия",
+      "description": "экономическая и стратегическая настольная игра для двух и более человек"
+    },
+    {
+      "qid": "Q17245",
+      "label": "Cluedo",
+      "description": "настольная игра 1949 года"
+    },
+    {
+      "qid": "Q17247",
+      "label": "Абалон",
+      "description": "1987 board game"
+    },
+    {
+      "qid": "Q17250",
+      "label": "Trivial pursuit",
+      "description": "Разновидность игр-викторин"
+    }
+  ],
+  "properties": {}
+}

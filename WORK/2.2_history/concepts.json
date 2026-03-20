@@ -1,0 +1,356 @@
+[
+  {
+    "section": "2.2. История, страны и мир вокруг",
+    "subsection": "История России и стран ближнего зарубежья",
+    "topic": "История России и стран ближнего зарубежья",
+    "author_group": "Команда 2",
+    "members": [
+      "Тихомиров Максим",
+      "Рахматуллина Олеся",
+      "Юхнёв Арсений",
+      "Махов Даниил",
+      "Юрченко Анна",
+      "Баулкин Данир"
+    ],
+    "concepts": [
+      {
+        "id": "Kievan_Rus",
+        "label": "Становление Киевской Руси",
+        "name": "Становление Киевской Руси",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/Kievan_Rus.md",
+        "description": "История становления Киевской Руси от Рюрика до крещения",
+        "lemmas": [
+          "племена",
+          "Рюрик",
+          "Вещий Олег",
+          "Ольга",
+          "Владимир",
+          "религия",
+          "православие"
+        ],
+        "wikidata_id": "Q1108445",
+        "author": "Тихомиров Максим"
+      },
+      {
+        "id": "feudal_fragmentation",
+        "label": "Феодальная раздробленность на Руси",
+        "name": "Феодальная раздробленность на Руси",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/feudal_fragmentation.md",
+        "description": "Феодальная раздробленность на Руси, основные княжества",
+        "lemmas": [
+          "феодальная раздробленность",
+          "княжества",
+          "Владимиро-Суздальско княжество",
+          "Новгородское княжество",
+          "республика",
+          "Полоцкое княжество",
+          "Галицко-Волынское княжество"
+        ],
+        "wikidata_id": "Q1977215",
+        "author": "Махов Даниил"
+      },
+      {
+        "id": "The_Ice_Battle",
+        "label": "Ледовое побоище: битва на Чудском озере",
+        "name": "Ледовое побоище: битва на Чудском озере",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/The_Ice_Battle.md",
+        "description": "Александр Невский и Ледовое побоище",
+        "lemmas": [
+          "Александр Невский",
+          "Ледовое побоище",
+          "рыцари",
+          "Тевтонский орден",
+          "Псков",
+          "Новгород",
+          "Чудское озеро"
+        ],
+        "wikidata_id": "Q14689",
+        "author": "Юрченко Анна"
+      },
+      {
+        "id": "Third_Rome",
+        "label": "Москва - Третий Рим",
+        "name": "Москва - Третий Рим",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/Third_Rome.md",
+        "description": "Становление Московского княжества, Куликовская битва, Иван Грозный",
+        "lemmas": [
+          "Москва",
+          "Дмитрий Донской",
+          "Куликовская битва",
+          "Иван III",
+          "Стояние на реке Угре",
+          "царь",
+          "Иван Грозный"
+        ],
+        "wikidata_id": "Q1194333",
+        "author": "Юхнёв Арсений"
+      },
+      {
+        "id": "time_of_troubles",
+        "label": "Смутное время и начало династии Романовых",
+        "name": "Смутное время и начало династии Романовых",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/time_of_troubles.md",
+        "description": "Смутное время, причины, события. Первые Романовых",
+        "lemmas": [
+          "Смутное время",
+          "Борис Годунов",
+          "голод",
+          "Василий Шуйский",
+          "Лжедмитрий II",
+          "Семибоярщина",
+          "ополчение",
+          "Минин",
+          "Пожарский",
+          "Романовы",
+          "Земский собор",
+          "Михаил Федорович",
+          "Алексей Михайлович",
+          "Федор III",
+          "Иван V"
+        ],
+        "wikidata_id": "Q94080",
+        "author": "Баулкин Данир"
+      },
+      {
+        "id": "Peter_the_Great",
+        "label": "Петр Первый",
+        "name": "Петр Первый",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/Peter_the_Great.md",
+        "description": "Петр Первый, Северная война, основание Санкт-Петербурга",
+        "lemmas": [
+          "Петр Первый",
+          "Северная война",
+          "Санкт-Петербург"
+        ],
+        "wikidata_id": "Q8479",
+        "author": "Юрченко Анна"
+      },
+      {
+        "id": "XVIII_century_of_Russian_Empire",
+        "label": "Эпоха дворцовых переворотов",
+        "name": "Эпоха дворцовых переворотов",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/XVIII_century_of_Russian_Empire.md",
+        "description": "Дворцовые перевороты, правители Российской империи",
+        "lemmas": [
+          "Екатерина I",
+          "Петр II",
+          "Анна Иоановна",
+          "Иван VI",
+          "Елизавета Петровна",
+          "Петр III",
+          "Екатерина II Великая",
+          "Павел I"
+        ],
+        "wikidata_id": "Q4204714",
+        "author": "Баулкин Данир"
+      },
+      {
+        "id": "Catherine_II_of_Russia",
+        "label": "Екатерина II Великая",
+        "name": "Екатерина II Великая",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/Catherine_II_of_Russia.md",
+        "description": "Правление Екатерины II",
+        "lemmas": [
+          "Екатерина II Великая",
+          "просвещенный абсолютизм",
+          "золотой век дворянства",
+          "крестьяне",
+          "Пугачёвщина",
+          "Турция",
+          "Польша",
+          "Крым"
+        ],
+        "wikidata_id": "Q36450",
+        "author": "Баулкин Данир"
+      },
+      {
+        "id": "XIX_century_of_Russian_Empire",
+        "label": "XIX век Российской Империи",
+        "name": "XIX век Российской Империи",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/XIX_century_of_Russian_Empire.md",
+        "description": "Российская Империя в XIX веке, восстание декабристов, пути политического развития России, Кавказ, Средняя Азия",
+        "lemmas": [
+          "Восстание декабристов",
+          "западники",
+          "славянофилы",
+          "реформы Александра II",
+          "Кавказ",
+          "Средняя Азия"
+        ],
+        "wikidata_id": "Q34266",
+        "author": "Юхнёв Арсений"
+      },
+      {
+        "id": "USSR",
+        "label": "История СССР",
+        "name": "История СССР",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/USSR.md",
+        "description": "История СССР",
+        "lemmas": [
+          "гражданская война",
+          "СССР",
+          "Сталин",
+          "Ленин",
+          "большевики"
+        ],
+        "wikidata_id": "Q15180",
+        "author": "Юхнёв Арсений"
+      },
+      {
+        "id": "Great_Patriotic_War",
+        "label": "Великая Отечественная война",
+        "name": "Великая Отечественная война",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/Great_Patriotic_War.md",
+        "description": "Великая Отечественная война: причины, этапы, события",
+        "lemmas": [
+          "Вторая Мировая война",
+          "Блокада Ленинграда",
+          "Битва за Москву",
+          "Битва за Сталинград",
+          "Курская битва"
+        ],
+        "wikidata_id": "Q19896779",
+        "author": "Тихомиров Максим"
+      },
+      {
+        "id": "Baltic_states",
+        "label": "История Прибалтики",
+        "name": "История Прибалтики",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/Baltic_states.md",
+        "description": "История Прибалтики, вхождение в состав России",
+        "lemmas": [
+          "племена",
+          "Эстония",
+          "Латвия",
+          "рыцари",
+          "Северная война",
+          "Литва",
+          "Александр I"
+        ],
+        "wikidata_id": "Q39731",
+        "author": "Юрченко Анна"
+      },
+      {
+        "id": "volga",
+        "label": "История Поволжья",
+        "name": "История Поволжья",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/volga.md",
+        "description": "История Поволжья",
+        "lemmas": [
+          "Золотая орда",
+          "Волжская Булгария",
+          "Казанское ханство",
+          "Астраханское ханство"
+        ],
+        "wikidata_id": "Q1634214",
+        "author": "Рахматуллина Олеся"
+      },
+      {
+        "id": "siberia",
+        "label": "История Сибири",
+        "name": "История Сибири",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/siberia.md",
+        "description": "История Сибири",
+        "lemmas": [
+          "Сибирское ханство",
+          "кочевники",
+          "Золотая орда",
+          "Поход Ермака",
+          "казаки",
+          "Транссибирская магистраль"
+        ],
+        "wikidata_id": "Q5428",
+        "author": "Рахматуллина Олеся"
+      },
+      {
+        "id": "belarus",
+        "label": "История Беларуси",
+        "name": "История Беларуси",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/belarus.md",
+        "description": "История Беларуси",
+        "lemmas": [
+          "славяне",
+          "балты",
+          "Речь Посполитая",
+          "Великое Княжество Литовское",
+          "Великая Отечественная война",
+          "БССР"
+        ],
+        "wikidata_id": "Q275396",
+        "author": "Рахматуллина Олеся"
+      },
+      {
+        "id": "Patriotic_War",
+        "label": "Отечественная война 1812 года",
+        "name": "Отечественная война 1812 года",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/Patriotic_War.md",
+        "description": "Отечественная война 1812 года: причины, этапы, события",
+        "lemmas": [
+          "Наполеон Бонапарт",
+          "Бородинское сражение",
+          "Михаил Кутузов"
+        ],
+        "wikidata_id": "Q179250",
+        "author": "Тихомиров Максим"
+      },
+      {
+        "id": "Moscow",
+        "label": "История Московского княжества",
+        "name": "История Московского княжества",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/Moscow.md",
+        "description": "История Московского княжества: этапы, события, князья",
+        "lemmas": [
+          "Юрий Долгорукий",
+          "Дмитрий Донской",
+          "Иван Калита",
+          "Золотая орда",
+          "Татаро-Монгольское нашествие",
+          "Куликовская битва",
+          "Василий I",
+          "Василий II",
+          "Иван III",
+          "Стояние на реке Угре"
+        ],
+        "wikidata_id": "Q338434",
+        "author": "Махов Даниил"
+      },
+      {
+        "id": "history_of_Central_Asia",
+        "label": "История стран Центральной Азии",
+        "name": "История стран Центральной Азии",
+        "dir": "WEB/2.2_society/history/articles",
+        "file": "WEB/2.2_society/history/articles/history_of_Central_Asia.md",
+        "description": "История Центральной Азии: этапы, страны",
+        "lemmas": [
+          "Тюрки",
+          "Ислам",
+          "Золотая орда",
+          "Казахстан",
+          "Узбекистан",
+          "Киргизия",
+          "Таджикистан",
+          "Туркменистан"
+        ],
+        "wikidata_id": "Q635111",
+        "author": "Махов Даниил"
+      }
+    ]
+  }
+]

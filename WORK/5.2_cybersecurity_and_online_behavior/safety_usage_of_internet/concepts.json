@@ -1,0 +1,254 @@
+﻿{
+    "section": "5.2. Кибербезопасность и поведение в сети",
+    "topic": "Как безопасно пользоваться интернетом",
+    "author_group": "Команда 67",
+    "members": [
+        "Ермеков Георгий",
+        "Земсков Павел",
+        "Руснак Александр",
+        "Фокин Леонид",
+        "Хныченко Артём"
+    ],
+    "concepts": [
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/what_is_internet_and_why_be_careful",
+            "description": "Объяснение, что такое интернет, зачем он нужен, чем полезен и почему в сети важно быть осторожным.",
+            "lemmas": [
+                "интернет",
+                "сеть",
+                "онлайн",
+                "безопасность",
+                "осторожность",
+                "правила"
+            ],
+            "name": "Что такое интернет и почему в нём нужна осторожность",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/what_is_internet_and_why_be_careful.md",
+            "wikidata_id": "Q14594699",
+            "author": "Руснак Александр"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/personal_data_not_for_everyone",
+            "description": "Какие сведения о человеке считаются личными данными, почему их нельзя раздавать всем подряд и как беречь свою приватность.",
+            "lemmas": [
+                "личные данные",
+                "приватность",
+                "имя",
+                "адрес",
+                "телефон",
+                "защита данных"
+            ],
+            "name": "Какие личные данные нельзя раздавать всем подряд",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/personal_data_not_for_everyone.md",
+            "wikidata_id": "Q3702971",
+            "author": "Хныченко Артём"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/good_password_and_storage",
+            "description": "Как придумать надёжный пароль, почему нельзя использовать простые комбинации и где безопасно хранить пароли.",
+            "lemmas": [
+                "пароль",
+                "надёжный пароль",
+                "длинный пароль",
+                "хранение пароля",
+                "взлом",
+                "защита аккаунта"
+            ],
+            "name": "Как придумать хороший пароль и где его хранить",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/good_password_and_storage.md",
+            "wikidata_id": "Q161157",
+            "author": "Фокин Леонид"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/two_factor_protection",
+            "description": "Что такое двухфакторная защита, как она работает и почему дополнительная проверка помогает защитить аккаунт.",
+            "lemmas": [
+                "двухфакторная защита",
+                "подтверждение входа",
+                "код",
+                "аккаунт",
+                "защита входа",
+                "авторизация"
+            ],
+            "name": "Что такое двухфакторная защита и зачем она нужна",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/two_factor_protection.md",
+            "wikidata_id": "Q17086335",
+            "author": "Ермеков Георгий"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/how_to_recognize_suspicious_site",
+            "description": "По каким признакам можно заметить опасный или поддельный сайт и почему нельзя без проверки вводить на нём свои данные.",
+            "lemmas": [
+                "подозрительный сайт",
+                "сайт",
+                "адрес сайта",
+                "подделка",
+                "фишинг",
+                "проверка"
+            ],
+            "name": "Как распознать подозрительный сайт",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/how_to_recognize_suspicious_site.md",
+            "wikidata_id": "Q109924251",
+            "author": "Земсков Павел"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/dangerous_links_and_attachments",
+            "description": "Почему опасно переходить по случайным ссылкам и открывать незнакомые вложения, как распознавать ловушки мошенников.",
+            "lemmas": [
+                "ссылка",
+                "вложение",
+                "фишинг",
+                "письмо",
+                "мошенничество",
+                "опасность"
+            ],
+            "name": "Опасные ссылки и вложения: почему нельзя нажимать всё подряд",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/dangerous_links_and_attachments.md",
+            "wikidata_id": "Q135005",
+            "author": "Хныченко Артём"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/what_are_viruses_and_how_they_spread",
+            "description": "Что такое компьютерные вирусы и другие вредоносные программы, как они попадают на устройство и чем могут навредить.",
+            "lemmas": [
+                "вирус",
+                "вредоносная программа",
+                "малварь",
+                "заражение устройства",
+                "антивирус",
+                "угроза"
+            ],
+            "name": "Что такое вирусы и как они попадают на устройство",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/what_are_viruses_and_how_they_spread.md",
+            "wikidata_id": "Q14001",
+            "author": "Руснак Александр"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/safe_downloads_games_programs_apps",
+            "description": "Как безопасно скачивать игры, программы и приложения, почему важно пользоваться официальными магазинами и проверенными сайтами.",
+            "lemmas": [
+                "скачивание",
+                "приложение",
+                "игра",
+                "программа",
+                "официальный магазин",
+                "безопасная установка"
+            ],
+            "name": "Как безопасно скачивать игры, программы и приложения",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/safe_downloads_games_programs_apps.md",
+            "wikidata_id": "Q20755684",
+            "author": "Фокин Леонид"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/social_networks_and_messengers_safety",
+            "description": "Какие правила помогают безопасно общаться в соцсетях и мессенджерах, защищать профиль и не попадать в неприятные ситуации.",
+            "lemmas": [
+                "социальные сети",
+                "мессенджеры",
+                "профиль",
+                "настройки приватности",
+                "переписка",
+                "безопасное общение"
+            ],
+            "name": "Безопасность в социальных сетях и мессенджерах",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/social_networks_and_messengers_safety.md",
+            "wikidata_id": "Q202833",
+            "author": "Ермеков Георгий"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/internet_scammers_and_tricks",
+            "description": "Кто такие интернет-мошенники, какие уловки они используют и как не попасться на обман в сети.",
+            "lemmas": [
+                "интернет-мошенники",
+                "обман",
+                "мошенничество",
+                "развод",
+                "фальшивый приз",
+                "уловки"
+            ],
+            "name": "Кто такие интернет-мошенники и как они обманывают людей",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/internet_scammers_and_tricks.md",
+            "wikidata_id": "Q1668020",
+            "author": "Земсков Павел"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/cyberbullying_what_to_do",
+            "description": "Что такое кибербуллинг, как распознать травлю в интернете и куда обращаться за помощью, если тебя обижают.",
+            "lemmas": [
+                "кибербуллинг",
+                "травля",
+                "оскорбления",
+                "жалоба",
+                "помощь взрослого",
+                "блокировка"
+            ],
+            "name": "Кибербуллинг: что делать, если в интернете обижают",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/cyberbullying_what_to_do.md",
+            "wikidata_id": "Q494348",
+            "author": "Фокин Леонид"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/communicating_with_strangers_online",
+            "description": "Как вести себя при общении с незнакомцами в интернете, какие темы нельзя обсуждать и когда стоит прекратить разговор.",
+            "lemmas": [
+                "незнакомцы",
+                "общение в интернете",
+                "личные данные",
+                "осторожность",
+                "переписка",
+                "опасный собеседник"
+            ],
+            "name": "Как общаться с незнакомцами в интернете",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/communicating_with_strangers_online.md",
+            "wikidata_id": "Q14594699",
+            "author": "Руснак Александр"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/fake_information_and_fact_checking",
+            "description": "Что такое фейки и ложная информация, почему нельзя верить всему сразу и как проверять сомнительные сообщения.",
+            "lemmas": [
+                "фейк",
+                "ложная информация",
+                "проверка фактов",
+                "источник",
+                "новость",
+                "критическое мышление"
+            ],
+            "name": "Фейки и ложная информация: как проверять то, что прочитал",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/fake_information_and_fact_checking.md",
+            "wikidata_id": "Q28549308",
+            "author": "Хныченко Артём"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/digital_footprint",
+            "description": "Что такое цифровой след, какие действия оставляют информацию о человеке в сети и почему важно думать о том, что остаётся после публикаций, лайков и сообщений.",
+            "lemmas": [
+                "цифровой след",
+                "приватность",
+                "персональные данные",
+                "публикации",
+                "лайки",
+                "цифровая репутация"
+            ],
+            "name": "Цифровой след: что интернет знает о тебе",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/digital_footprint.md",
+            "wikidata_id": "Q845916",
+            "author": "Фокин Леонид"
+        },
+        {
+            "id": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/safe_online_shopping",
+            "description": "Как безопасно покупать товары в интернете, по каким признакам проверять интернет-магазин и почему ребёнку нельзя оплачивать покупки на незнакомых сайтах без взрослого.",
+            "lemmas": [
+                "онлайн-покупки",
+                "интернет-магазин",
+                "оплата картой",
+                "мошенничество",
+                "поддельный магазин",
+                "проверка сайта"
+            ],
+            "name": "Безопасные онлайн-покупки: как не потерять деньги",
+            "file": "WEB/5.2_cybersecurity_and_online_behavior/safety_usage_of_internet/articles/safe_online_shopping.md",
+            "wikidata_id": "Q212930",
+            "author": "Ермеков Георгий"
+        }
+    ]
+}

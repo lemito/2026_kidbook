@@ -1,0 +1,18 @@
+{
+  "qid": "Q56828378",
+  "label_ru": "",
+  "label_en": "Customs Tariff (Federation of Rhodesia and Nyasaland Preference) (No. 2) 1960",
+  "description_ru": "",
+  "description_en": "Act of the Parliament of Australia",
+  "url": "https://www.wikidata.org/wiki/Q56828378",
+  "relations": {
+    "instance_of": [
+      {
+        "qid": "Q56731284",
+        "label": "Act of the Parliament of Australia"
+      }
+    ]
+  },
+  "concept_name": "Зависимость от компьютерных игр",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/computer_games.md"
+}

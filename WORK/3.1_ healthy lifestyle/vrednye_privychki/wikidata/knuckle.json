@@ -1,0 +1,22 @@
+{
+  "qid": "Q241790",
+  "label_ru": "Куш",
+  "label_en": "Kingdom of Kush",
+  "description_ru": "древнее царство, существовавшее в северной части территории современного Судана (Нубии) с IX или VIII века до н. э. по IV век",
+  "description_en": "c. 1070 BCE – c. CE 350 / kingdom in Nubia (modern-day Sudan), northeast Africa",
+  "url": "https://www.wikidata.org/wiki/Q241790",
+  "relations": {
+    "instance_of": [
+      {
+        "qid": "Q3024240",
+        "label": "историческое государство"
+      },
+      {
+        "qid": "Q417175",
+        "label": "царство/королевство"
+      }
+    ]
+  },
+  "concept_name": "Щёлканье суставами",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/knuckle.md"
+}

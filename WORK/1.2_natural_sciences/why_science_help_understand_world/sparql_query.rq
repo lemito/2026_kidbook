@@ -1,0 +1,73 @@
+# SPARQL-запрос для построения графа знаний по теме
+# «Естественные науки и исследование природы»
+# Источник: Wikidata Query Service — https://query.wikidata.org/
+# Используется для визуализации связей между понятиями раздела.
+#
+# Запрос возвращает рёбра графа (item -> target) по шести типам связей:
+#   P31  — instance of (является экземпляром)
+#   P279 — subclass of  (подкласс)
+#   P361 — part of      (часть чего-то)
+#   P1269 — facet of    (аспект чего-то)
+#   P2578 — studied by  (изучается чем)
+#   P1552 — has characteristic (обладает характеристикой)
+
+#defaultView:Graph
+SELECT DISTINCT ?item ?itemLabel ?target ?targetLabel ?edgeLabel WHERE {
+  VALUES ?item {
+    wd:Q336        # наука
+    wd:Q42240      # исследование
+    wd:Q7991       # естественные науки
+    wd:Q5769081    # экспериментальная наука
+    wd:Q413        # физика
+    wd:Q8008       # науки о Земле
+    wd:Q188847     # науки об окружающей среде
+    wd:Q864928     # науки о жизни
+    wd:Q420        # биология
+    wd:Q101965     # эксперимент
+    wd:Q118563234  # исследовательская работа
+    wd:Q7860       # природа
+    wd:Q14632398   # физическая наука
+    wd:Q1195766    # космические науки
+    wd:Q46857      # научный метод
+    wd:Q3455898    # закономерности в природе
+    wd:Q2329       # химия
+    wd:Q7239       # организм
+  }
+
+  VALUES ?target {
+    wd:Q336
+    wd:Q42240
+    wd:Q7991
+    wd:Q5769081
+    wd:Q413
+    wd:Q8008
+    wd:Q188847
+    wd:Q864928
+    wd:Q420
+    wd:Q101965
+    wd:Q118563234
+    wd:Q7860
+    wd:Q14632398
+    wd:Q1195766
+    wd:Q46857
+    wd:Q3455898
+    wd:Q2329
+    wd:Q7239
+  }
+
+  VALUES (?prop ?wdtProp) {
+    (wd:P31   wdt:P31)
+    (wd:P279  wdt:P279)
+    (wd:P361  wdt:P361)
+    (wd:P1269 wdt:P1269)
+    (wd:P2578 wdt:P2578)
+    (wd:P1552 wdt:P1552)
+  }
+
+  ?item ?wdtProp ?target .
+  FILTER(?item != ?target)
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+  BIND(?propLabel AS ?edgeLabel)
+}
+ORDER BY ?itemLabel ?targetLabel

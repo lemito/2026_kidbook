@@ -1,0 +1,242 @@
+[
+  {
+    "section": "5.2_cybersecurity",
+    "topic": "C++ programming for beginners",
+    "author_group": "Team 52",
+    "members": [
+      "Руслан Юнусов",
+      "Иван Леу",
+      "Кривошапкин Егор",
+      "Тарасов Егор",
+      "Велиев Рауф"
+    ],
+    "concepts": [
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/introduction",
+        "name": "Введение в C++: Твой первый код",
+        "description": "Узнаем историю одного из самых мощных языков в мире, настроим компьютер для работы и заставим его поздороваться с миром с помощью команды Hello World.",
+        "lemmas": [
+          "язык",
+          "компилятор",
+          "код",
+          "программирование"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/1_introduction.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_1_introduction.png",
+        "wikidata_id": "Q2407",
+        "author": "Руслан Юнусов"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/syntax",
+        "name": "Структура программы: Из чего состоит код",
+        "description": "Разбираем скелет программы: зачем нужны заголовочные файлы, что такое главная функция main и зачем в конце каждой мысли ставить точку с запятой.",
+        "lemmas": [
+          "main",
+          "директива",
+          "синтаксис",
+          "блок"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/2_syntax.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_2_syntax.png",
+        "wikidata_id": "Q7248435",
+        "author": "Руслан Юнусов"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/variables",
+        "name": "Переменные и типы данных: Коробочки для памяти",
+        "description": "Представь, что память — это склад с коробками. Учимся подбирать правильные коробки для целых чисел, букв и дробных чисел.",
+        "lemmas": [
+          "int",
+          "double",
+          "char",
+          "bool",
+          "переменная"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/3_variables.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_3_variables.png",
+        "wikidata_id": "Q190087",
+        "author": "Руслан Юнусов"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/io",
+        "name": "Ввод и вывод данных: Общение с компьютером",
+        "description": "Учим компьютер слушать нас через клавиатуру и отвечать нам на экране с помощью команд cin и cout.",
+        "lemmas": [
+          "iostream",
+          "cin",
+          "cout",
+          "поток"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/4_io.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_4_io.png",
+        "wikidata_id": "Q105599763",
+        "author": "Велиев Рауф"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/operators",
+        "name": "Операторы в C++: Магические инструменты",
+        "description": "Складываем, вычитаем и сравниваем данные. Узнаем, как проверить, кто сильнее, и как увеличить уровень героя на единицу одним символом.",
+        "lemmas": [
+          "арифметика",
+          "логика",
+          "сравнение",
+          "инкремент"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/5_operators.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_5_operators.png",
+        "wikidata_id": "Q1078424",
+        "author": "Иван Леу"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/control_flow",
+        "name": "Условные конструкции: Выбор пути",
+        "description": "Научим программу принимать решения. Если герой наступил в лаву — отнимаем жизнь, если нашел аптечку — лечим.",
+        "lemmas": [
+          "if",
+          "else",
+          "switch",
+          "условие"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/6_control_flow.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_6_control_flow.png",
+        "wikidata_id": "Q2984985",
+        "author": "Кривошапкин Егор"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/loops",
+        "name": "Циклы: Роботы-повторители",
+        "description": "Зачем писать одну команду сто раз, если можно зациклить компьютер? Учимся строить стены в игре и перебирать списки за доли секунды.",
+        "lemmas": [
+          "for",
+          "while",
+          "итерация",
+          "повторение"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/7_loops.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_7_loops.png",
+        "wikidata_id": "Q8868615",
+        "author": "Кривошапкин Егор"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/functions",
+        "name": "Функции: Твои персональные помощники",
+        "description": "Создаем свои собственные команды. Пишем код один раз и вызываем его из любого места программы, как заклинание из книги.",
+        "lemmas": [
+          "аргумент",
+          "return",
+          "прототип",
+          "модульность"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/8_functions.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_8_functions.png",
+        "wikidata_id": "Q15810910",
+        "author": "Иван Леу"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/scopes",
+        "name": "Область видимости: Где живут переменные?",
+        "description": "Узнаем, почему переменная из одной комнаты-функции не видна в другой и как работают глобальные звезды-переменные.",
+        "lemmas": [
+          "scope",
+          "локальная",
+          "глобальная",
+          "static"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/9_scopes.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_9_scopes.png",
+        "wikidata_id": "Q2407",
+        "author": "Иван Леу"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/arrays",
+        "name": "Массивы: Длинные поезда данных",
+        "description": "Учимся хранить целые списки вещей в одной переменной. Как пронумеровать вагоны и не выпасть из поезда при поиске данных.",
+        "lemmas": [
+          "array",
+          "индекс",
+          "память",
+          "список"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/10_arrays.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_10_arrays.png",
+        "wikidata_id": "Q186152",
+        "author": "Велиев Рауф"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/pointers",
+        "name": "Указатели и ссылки: Карта памяти",
+        "description": "Самая важная тема! Учимся работать не с самими данными, а с их адресами, чтобы передавать огромные сундуки информации мгновенно.",
+        "lemmas": [
+          "pointer",
+          "reference",
+          "адрес",
+          "память"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/11_pointers.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_11_pointers.png",
+        "wikidata_id": "Q118155",
+        "author": "Кривошапкин Егор"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/strings",
+        "name": "Строки: Работа с текстом",
+        "description": "Как объединять слова, считать буквы в имени и искать секретные послания внутри длинных предложений.",
+        "lemmas": [
+          "string",
+          "текст",
+          "конкатенация",
+          "метод"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/12_strings.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_12_strings.md",
+        "wikidata_id": "Q7623901",
+        "author": "Тарасов Егор"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/struct",
+        "name": "Структуры: Создаем своего персонажа",
+        "description": "Учимся объединять разные данные (имя, здоровье, сила) в один новый тип. Теперь твой герой — это не просто набор цифр!",
+        "lemmas": [
+          "struct",
+          "объект",
+          "поле",
+          "тип"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/13_struct.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_13_struct.md",
+        "wikidata_id": "Q1164699",
+        "author": "Тарасов Егор"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/dynamicMemory",
+        "name": "Динамическая память: Гибкий склад",
+        "description": "Узнаем, как запрашивать у компьютера дополнительное место во время работы и зачем нужно всегда возвращать его обратно оператором delete.",
+        "lemmas": [
+          "new",
+          "delete",
+          "heap",
+          "утечка"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/14_dynamic_memory.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_14_dynamic_memory.md",
+        "wikidata_id": "Q1050390",
+        "author": "Тарасов Егор"
+      },
+      {
+        "id": "5.2_cybersecurity/cpp_fundamentals/stl",
+        "name": "Векторы и STL: Будущее программиста",
+        "description": "Знакомимся с «умными» массивами, которые сами умеют расти и уменьшаться. Основы стандартной библиотеки шаблонов.",
+        "lemmas": [
+          "vector",
+          "STL",
+          "контейнер",
+          "шаблон"
+        ],
+        "file": "WEB/5.2_cybersecurity/cpp_fundamentals/15_stl.md",
+        "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_15_stl.md",
+        "wikidata_id": "Q741235",
+        "author": "Велиев Рауф"
+      }
+    ]
+  }
+]

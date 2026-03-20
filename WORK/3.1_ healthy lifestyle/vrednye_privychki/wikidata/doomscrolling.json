@@ -1,0 +1,18 @@
+{
+  "qid": "Q97210710",
+  "label_ru": "",
+  "label_en": "Karlıova earthquake of 2020",
+  "description_ru": "",
+  "description_en": "5.8-magnitude earthquake that struck Bingöl in eastern Turkey on June 14, 2020",
+  "url": "https://www.wikidata.org/wiki/Q97210710",
+  "relations": {
+    "instance_of": [
+      {
+        "qid": "Q7944",
+        "label": "землетрясение"
+      }
+    ]
+  },
+  "concept_name": "Думскроллинг",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/Doomscrolling.md"
+}

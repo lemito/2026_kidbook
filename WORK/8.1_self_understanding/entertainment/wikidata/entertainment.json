@@ -1,0 +1,141 @@
+{
+  "concept_id": "entertainment",
+  "title": "Развлечение",
+  "wikidata_id": "Q173799",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q173799",
+  "info": {
+    "label": "развлечение",
+    "description": "проведение свободного времени для удовольствия",
+    "aliases": "досуг, забава, потеха, развлечения, утеха"
+  },
+  "subclasses": [
+    {
+      "qid": "Q638",
+      "label": "музыка",
+      "description": "искусство, средство воплощения художественных образов"
+    },
+    {
+      "qid": "Q696169",
+      "label": "культурная анимация",
+      "description": "social movement to expand familiarity with art to the masses"
+    },
+    {
+      "qid": "Q1153173",
+      "label": "игровое обучение",
+      "description": "media that aims to teach viewers academic and social concepts"
+    },
+    {
+      "qid": "Q1187283",
+      "label": "интерактивные развлечения",
+      "description": "entertainment form"
+    },
+    {
+      "qid": "Q1190039",
+      "label": "спортивное представление",
+      "description": "theatrical competition; spectacle which presents an ostensibly competitive event using a high level of theatrical flourish and extravagant presentation, with the purpose of entertaining an audience"
+    },
+    {
+      "qid": "Q1355413",
+      "label": "dinner theater",
+      "description": "theatrical genre"
+    },
+    {
+      "qid": "Q1369650",
+      "label": "профессиональный спорт",
+      "description": "деятельность, которая за счёт высокой зрелищности состязаний даёт коммерческую выгоду"
+    },
+    {
+      "qid": "Q1594437",
+      "label": "ночная жизнь",
+      "description": "entertainment occurring at night"
+    },
+    {
+      "qid": "Q1814638",
+      "label": "light entertainment",
+      "description": "term used to describe certain entertaining forms of art, music"
+    },
+    {
+      "qid": "Q2000218",
+      "label": "Поход по кабакам",
+      "description": "act of drinking in multiple pubs or bars in a single night"
+    },
+    {
+      "qid": "Q2566774",
+      "label": "вертушка",
+      "description": "вращающийся объект"
+    },
+    {
+      "qid": "Q2945285",
+      "label": "family entertainment center",
+      "description": "small amusement park marketed towards families"
+    },
+    {
+      "qid": "Q4887449",
+      "label": "benefit performance",
+      "description": "type of live entertainment which is undertaken for a cause"
+    },
+    {
+      "qid": "Q7094126",
+      "label": "Online social entertainment",
+      "description": ""
+    },
+    {
+      "qid": "Q21065894",
+      "label": "Нолливуд",
+      "description": "sobriquet of Nigerian cinema"
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q259037",
+      "label": "народные гулянья",
+      "description": "moveable amusement park"
+    },
+    {
+      "qid": "Q300920",
+      "label": "киберспорт",
+      "description": "игровые соревнования с использованием компьютерных технологий"
+    },
+    {
+      "qid": "Q547870",
+      "label": "Травля зверей на арене",
+      "description": "кровавая древнеримская забава"
+    },
+    {
+      "qid": "Q590870",
+      "label": "кинематограф",
+      "description": "совокупность теле- и кинопродукции"
+    },
+    {
+      "qid": "Q1993264",
+      "label": "De Mounties",
+      "description": ""
+    },
+    {
+      "qid": "Q3833169",
+      "label": "Lion Network",
+      "description": "Italian television show"
+    },
+    {
+      "qid": "Q4200434",
+      "label": "Имхонет",
+      "description": ""
+    },
+    {
+      "qid": "Q4805327",
+      "label": "Ashleigh and Pudsey",
+      "description": "British dog trick act"
+    },
+    {
+      "qid": "Q4861992",
+      "label": "барнштурминг",
+      "description": "Развлекательные полёты на самолётах, образ жизни странствующего пилота"
+    },
+    {
+      "qid": "Q4880209",
+      "label": "Universal Monsters LiveRock And Roll Show",
+      "description": "amusement park live show"
+    }
+  ],
+  "properties": {}
+}

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450">
+  <!-- Фон -->
+  <rect width="1000" height="450" fill="#ffffff"/>
+  
+  <!-- Заголовок -->
+  <text x="500" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#333333">blog.it-wiki.ru</text>
+  
+  <!-- Блок .ru (самый правый) -->
+  <rect x="750" y="100" width="180" height="100" fill="#1976D2" stroke="#0D47A1" stroke-width="2" rx="10"/>
+  <text x="840" y="150" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#ffffff">".ru"</text>
+  <text x="840" y="180" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff">Домен 1-го уровня</text>
+  <text x="840" y="198" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff">(TLD)</text>
+  
+  <!-- Блок it-wiki -->
+  <rect x="520" y="100" width="180" height="100" fill="#42A5F5" stroke="#1976D2" stroke-width="2" rx="10"/>
+  <text x="610" y="150" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#ffffff">it-wiki</text>
+  <text x="610" y="180" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff">Домен 2-го уровня</text>
+  <text x="610" y="198" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff">(Основное имя)</text>
+  
+  <!-- Блок blog -->
+  <rect x="290" y="100" width="180" height="100" fill="#90CAF9" stroke="#42A5F5" stroke-width="2" rx="10"/>
+  <text x="380" y="155" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#333333">blog</text>
+  <text x="380" y="180" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333333">Поддомен 3-го уровня</text>
+  
+  <!-- Блок ... (пунктирный, самый левый) -->
+  <rect x="60" y="100" width="180" height="100" fill="#E3F2FD" stroke="#90CAF9" stroke-width="2" rx="10" stroke-dasharray="5,5"/>
+  <text x="150" y="155" font-family="Arial, sans-serif" font-size="32" text-anchor="middle" fill="#333333">...</text>
+  <text x="150" y="180" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="#333333">Поддомены 4-го+</text>
+  <text x="150" y="198" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="#333333">уровней</text>
+  
+  <!-- Точки между блоками -->
+  <circle cx="730" cy="150" r="5" fill="#333333"/>
+  <circle cx="500" cy="150" r="5" fill="#333333"/>
+  <circle cx="270" cy="150" r="5" fill="#333333"/>
+  
+  <!-- Большая стрелка иерархии -->
+  <defs>
+    <marker id="arrowheadHierarchy" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto">
+      <polygon points="0 0, 12 6, 0 12" fill="#333333"/>
+    </marker>
+  </defs>
+  <line x1="840" y1="250" x2="150" y2="250" stroke="#333333" stroke-width="3" marker-end="url(#arrowheadHierarchy)"/>
+  <text x="495" y="280" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#333333">Иерархия (читать справа налево)</text>
+</svg>

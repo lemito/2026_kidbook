@@ -1,0 +1,804 @@
+[
+  {
+    "section": "5.1_technology_and_digital_literacy",
+    "topic": "how_internet_works",
+    "author_group": "KidBook",
+    "members": [
+      "Григорян Арсений",
+      "Коростин Никита",
+      "Коваль Метэ",
+      "Сетраков Федор",
+      "Коваленко Денис",
+      "Гула Дмитрий",
+      "Горячев Александр"
+    ],
+    "concepts": [
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/http_https/http_https",
+        "name": "HTTP и HTTPS",
+        "description": "Протокол передачи данных между браузером и сервером; HTTP — открытый, HTTPS — зашифрованный",
+        "lemmas": [
+          "HTTP",
+          "HTTPS",
+          "протокол",
+          "браузер",
+          "сервер",
+          "запрос",
+          "ответ",
+          "шифрование",
+          "замочек"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md",
+        "wikidata_id": "Q44484",
+        "author": "Коростин Никита"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/http_https/http_request",
+        "name": "HTTP-запрос",
+        "description": "Сообщение, которое браузер отправляет серверу, чтобы получить страницу или данные",
+        "lemmas": [
+          "запрос",
+          "HTTP-запрос",
+          "GET",
+          "POST",
+          "метод"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md",
+        "wikidata_id": "Q4344724",
+        "author": "Коростин Никита"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/http_https/http_response",
+        "name": "HTTP-ответ",
+        "description": "Ответ сервера на запрос браузера, содержащий статус и данные",
+        "lemmas": [
+          "ответ",
+          "HTTP-ответ",
+          "статус",
+          "заголовок"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md",
+        "wikidata_id": "Q37846548",
+        "author": "Коростин Никита"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/http_https/status_code",
+        "name": "Код статуса HTTP",
+        "description": "Трёхзначное число в ответе сервера, сообщающее об успехе или ошибке (200, 404, 500...)",
+        "lemmas": [
+          "код статуса",
+          "404",
+          "200",
+          "500",
+          "ошибка",
+          "статус"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md",
+        "wikidata_id": "Q110861089",
+        "author": "Коростин Никита"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/http_https/tls_ssl",
+        "name": "TLS / SSL",
+        "description": "Протокол шифрования, который защищает данные в HTTPS-соединении",
+        "lemmas": [
+          "TLS",
+          "SSL",
+          "шифрование",
+          "безопасность",
+          "сертификат"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md",
+        "wikidata_id": "Q206494",
+        "author": "Коростин Никита"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/http_https/certificate",
+        "name": "Цифровой сертификат",
+        "description": "Электронный «паспорт» сайта, подтверждающий его подлинность; выдаётся удостоверяющим центром",
+        "lemmas": [
+          "сертификат",
+          "SSL-сертификат",
+          "удостоверяющий центр",
+          "CA",
+          "HTTPS"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md",
+        "wikidata_id": "Q274758",
+        "author": "Коростин Никита"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/http_https/tls",
+        "name": "TLS и шифрование",
+        "description": "Подстатья: как работает протокол TLS — симметричное и асимметричное шифрование, рукопожатие, цифровые сертификаты",
+        "lemmas": [
+          "TLS",
+          "SSL",
+          "шифрование",
+          "рукопожатие",
+          "handshake",
+          "ключ",
+          "асимметричное шифрование",
+          "симметричное шифрование",
+          "Let's Encrypt"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/tls.md",
+        "wikidata_id": "Q206494",
+        "author": "Коростин Никита"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/http_https/cookies",
+        "name": "Cookies (куки)",
+        "description": "Подстатья: что такое cookies, зачем нужны, как работают, виды (сессионные, постоянные, сторонние), безопасность",
+        "lemmas": [
+          "cookies",
+          "куки",
+          "cookie",
+          "сессия",
+          "session_id",
+          "Set-Cookie",
+          "корзина",
+          "авторизация",
+          "слежка"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/cookies.md",
+        "wikidata_id": "Q178995",
+        "author": "Коростин Никита"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/ip_mac/mac_address",
+        "name": "MAC-адрес",
+        "description": "Уникальный физический адрес сетевой карты, зашитый на заводе; используется внутри локальной сети",
+        "lemmas": [
+          "MAC-адрес",
+          "MAC",
+          "физический адрес",
+          "сетевая карта",
+          "OUI"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/ip_mac/ip_and_mac.md",
+        "wikidata_id": "Q20484",
+        "author": "Коваленко Денис"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/ip_mac/ip_address",
+        "name": "IP-адрес",
+        "description": "Сетевой адрес устройства, выдаваемый при подключении; бывает IPv4 и IPv6",
+        "lemmas": [
+          "IP-адрес",
+          "IP",
+          "IPv4",
+          "IPv6",
+          "адрес"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/ip_mac/ip_and_mac.md",
+        "wikidata_id": "Q11135",
+        "author": "Коваленко Денис"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/ip_mac/arp",
+        "name": "ARP",
+        "description": "Протокол разрешения адресов: позволяет узнать MAC-адрес устройства по его IP-адресу",
+        "lemmas": [
+          "ARP",
+          "ARP-запрос",
+          "ARP-кэш",
+          "разрешение адресов"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/ip_mac/ip_and_mac.md",
+        "wikidata_id": "Q15171",
+        "author": "Коваленко Денис"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/ip_mac/dhcp",
+        "name": "DHCP",
+        "description": "Протокол автоматической выдачи IP-адресов устройствам при подключении к сети",
+        "lemmas": [
+          "DHCP",
+          "динамический адрес",
+          "выдача адреса"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/ip_mac/ip_and_mac.md",
+        "wikidata_id": "Q11166",
+        "author": "Коваленко Денис"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/ip_mac/nat",
+        "name": "NAT",
+        "description": "Трансляция сетевых адресов: позволяет многим устройствам выходить в интернет через один публичный IP",
+        "lemmas": [
+          "NAT",
+          "трансляция адресов",
+          "приватный адрес",
+          "публичный адрес"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/ip_mac/nat.md",
+        "wikidata_id": "Q11182",
+        "author": "Коваленко Денис"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/ip_mac/how_to_find_address",
+        "name": "Как узнать свой IP и MAC-адрес",
+        "description": "Пошаговая инструкция для Windows, macOS и Linux: как найти публичный IP, локальный IP и MAC-адрес",
+        "lemmas": [
+          "узнать IP",
+          "узнать MAC",
+          "ipconfig",
+          "ifconfig",
+          "whatismyip",
+          "arp -a"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/ip_mac/how_to_find_address.md",
+        "wikidata_id": "Q11135",
+        "author": "Коваленко Денис"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/tcp_udp/tcp_udp",
+        "name": "TCP и UDP",
+        "description": "О двух протоколах транспортного уровня модели OSI: надёжной доставке через TCP с установкой соединения и быстрой передаче через UDP без гарантий. Рассматриваются 3-way handshake, пакеты, порты, сокеты и области применения каждого протокола.",
+        "lemmas": [
+          "TCP",
+          "UDP",
+          "протокол",
+          "транспортный уровень",
+          "пакет",
+          "порт",
+          "сокет",
+          "соединение",
+          "handshake",
+          "рукопожатие",
+          "трёхстороннее рукопожатие",
+          "надёжная доставка",
+          "датаграмма",
+          "онлайн-игры",
+          "видеозвонок",
+          "стриминг",
+          "RFC 793",
+          "RFC 768",
+          "RFC 9293",
+          "OSI",
+          "Transmission Control Protocol",
+          "User Datagram Protocol",
+          "лаги",
+          "QUIC",
+          "SYN",
+          "ACK",
+          "DHCP"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/tcp_udp/tcp_udp.md",
+        "wikidata_id": "Q8803",
+        "related_wikidata": [
+          "Q11163",
+          "Q209372",
+          "Q81414",
+          "Q548838",
+          "Q1771161",
+          "Q727896",
+          "Q7265601"
+        ],
+        "author": "Горячев Александр"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/tcp_udp/online_games",
+        "name": "Как работает онлайн-игра изнутри",
+        "description": "О том, как устроены онлайн-игры с точки зрения сети: игровой сервер, tick rate, использование UDP для позиций и выстрелов, TCP для входа и покупок, WebSocket для постоянного канала, пинг и лаги, особенности MMO и протокол QUIC.",
+        "lemmas": [
+          "онлайн-игра",
+          "игровой сервер",
+          "tick rate",
+          "тик-рейт",
+          "пинг",
+          "латентность",
+          "лаги",
+          "телепортация",
+          "UDP",
+          "TCP",
+          "WebSocket",
+          "RTP",
+          "QUIC",
+          "MMO",
+          "многопользовательская игра",
+          "балансировщик нагрузки",
+          "client-side prediction",
+          "предсказание движения",
+          "CS2",
+          "Valorant",
+          "Minecraft",
+          "World of Warcraft",
+          "выстрел",
+          "пакет"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/tcp_udp/online_games.md",
+        "wikidata_id": "Q116634",
+        "related_wikidata": [
+          "Q862490",
+          "Q6895044",
+          "Q11163",
+          "Q8803",
+          "Q859938",
+          "Q321213",
+          "Q7265601"
+        ],
+        "author": "Горячев Александр"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/tcp_udp/packet",
+        "name": "Что такое пакет и как данные делятся на части",
+        "description": "О том, как данные разбиваются на пакеты для передачи по сети: структура пакета (заголовок и полезная нагрузка), инкапсуляция по уровням модели OSI, IP-фрагментация и MTU, роль протоколов TCP, UDP и IP в доставке пакетов.",
+        "lemmas": [
+          "пакет",
+          "сетевой пакет",
+          "packet",
+          "PDU",
+          "SDU",
+          "заголовок",
+          "полезная нагрузка",
+          "payload",
+          "инкапсуляция",
+          "encapsulation",
+          "фрагментация",
+          "IP-фрагментация",
+          "MTU",
+          "модель OSI",
+          "сетевой уровень",
+          "транспортный уровень",
+          "IP",
+          "TCP",
+          "UDP",
+          "датаграмма",
+          "блок данных протокола"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/tcp_udp/packet.md",
+        "wikidata_id": "Q214111",
+        "related_wikidata": [
+          "Q2634565",
+          "Q1758093",
+          "Q1172449",
+          "Q1332338",
+          "Q208074",
+          "Q209372",
+          "Q93312",
+          "Q8795",
+          "Q8803",
+          "Q11163"
+        ],
+        "author": "Горячев Александр"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/history/internet_history",
+        "name": "История интернета",
+        "description": "Обзор истории интернета: от ARPANET до наших дней, сеть, протоколы, IP, DNS, HTTP, Wi-Fi",
+        "lemmas": [
+          "история интернета",
+          "интернет",
+          "сеть",
+          "ARPANET",
+          "протокол",
+          "TCP/IP",
+          "WWW"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/history/internet_history.md",
+        "wikidata_id": "Q75",
+        "author": "Гула Дмитрий"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/history/arpanet",
+        "name": "ARPANET",
+        "description": "Первая в истории компьютерная сеть (1969), пакетная передача, IMP, распределённая сеть",
+        "lemmas": [
+          "ARPANET",
+          "ARPA",
+          "пакетная передача",
+          "пакет",
+          "IMP",
+          "маршрутизатор",
+          "распределённая сеть",
+          "Ликлайдер",
+          "Робертс"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/history/arpanet.md",
+        "wikidata_id": "Q177524",
+        "author": "Гула Дмитрий"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/history/internet_at_home",
+        "name": "Как интернет пришёл в каждый дом",
+        "description": "Подстатья: модемы, провайдеры, BBS, браузеры, Wi-Fi, соцсети — путь из лабораторий в дома",
+        "lemmas": [
+          "модем",
+          "провайдер",
+          "BBS",
+          "браузер",
+          "Mosaic",
+          "Netscape",
+          "Internet Explorer",
+          "Chrome",
+          "Wi-Fi",
+          "соцсети",
+          "AOL"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/history/internet_at_home.md",
+        "wikidata_id": "Q6368",
+        "author": "Гула Дмитрий"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/dns/dns",
+        "name": "DNS",
+        "description": "Система доменных имён — глобальная 'телефонная книга' интернета, переводящая доменные имена в IP-адреса",
+        "lemmas": [
+          "DNS",
+          "система доменных имён",
+          "доменное имя",
+          "резолвер",
+          "корневой сервер",
+          "авторитативный сервер",
+          "TTL",
+          "кеш DNS"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/dns.md",
+        "wikidata_id": "Q8767",
+        "author": "Сетраков Федор"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/dns/domain",
+        "name": "Домен",
+        "description": "Уникальное имя сайта в интернете, арендуемое у регистратора; связывает понятный адрес с IP-адресом сервера",
+        "lemmas": [
+          "домен",
+          "доменное имя",
+          "поддомен",
+          "субдомен",
+          "TLD",
+          "зона",
+          "регистратор",
+          "WHOIS",
+          "NS-запись"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/domains.md",
+        "wikidata_id": "Q32635",
+        "author": "Сетраков Федор"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/dns/tld",
+        "name": "Домен верхнего уровня (TLD)",
+        "description": "Последняя часть доменного имени (.ru, .com, .org), указывающая на страну или тип организации",
+        "lemmas": [
+          "TLD",
+          "домен верхнего уровня",
+          ".ru",
+          ".com",
+          ".org",
+          "зона",
+          "gTLD"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/domains.md",
+        "wikidata_id": "Q14296",
+        "author": "Сетраков Федор"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/dns/dns_record",
+        "name": "DNS-запись",
+        "description": "Запись в базе DNS, связывающая домен с адресом или другой информацией (A, AAAA, CNAME, MX, TXT)",
+        "lemmas": [
+          "DNS-запись",
+          "A-запись",
+          "AAAA",
+          "CNAME",
+          "MX",
+          "TXT",
+          "запись DNS"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/dns.md",
+        "wikidata_id": "Q56098605",
+        "author": "Сетраков Федор"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/dns/icann",
+        "name": "ICANN",
+        "description": "Организация, управляющая корневыми DNS-серверами и распределением доменных зон верхнего уровня",
+        "lemmas": [
+          "ICANN",
+          "регистратор",
+          "корневой сервер"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/dns.md",
+        "wikidata_id": "Q485750",
+        "author": "Сетраков Федор"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/dns/cdn",
+        "name": "CDN",
+        "description": "Сеть доставки контента — группа серверов по всему миру, хранящих копии файлов сайта для быстрой отдачи пользователям",
+        "lemmas": [
+          "CDN",
+          "сеть доставки контента",
+          "Edge-сервер",
+          "Origin",
+          "кеш",
+          "latency",
+          "задержка",
+          "Cloudflare",
+          "Akamai"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/cdn.md",
+        "wikidata_id": "Q72588",
+        "author": "Сетраков Федор"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/dns/ddos",
+        "name": "DDoS-атака",
+        "description": "Атака на сервер лавиной мусорных запросов с целью вывести его из строя",
+        "lemmas": [
+          "DDoS",
+          "DDoS-атака",
+          "атака",
+          "трафик",
+          "защита"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/dns/cdn.md",
+        "wikidata_id": "Q17329819",
+        "author": "Сетраков Федор"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/wifi/wifi_basics",
+        "name": "Wi-Fi и локальная сеть",
+        "description": "Обзорная статья о физическом подключении устройств. Рассказывает о разнице между домашней (LAN) и мировой (WAN) сетью, роли роутера и истории появления беспроводной связи.",
+        "lemmas": [
+          "Wi-Fi",
+          "Вай-фай",
+          "локальная сеть",
+          "LAN",
+          "домашняя сеть",
+          "проводное соединение",
+          "Ethernet",
+          "интернет",
+          "Глобальная сеть",
+          "WAN",
+          "беспроводная связь",
+          "радиоволны",
+          "Хеди Ламарр"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/wifi/wifi.md",
+        "wikidata_id": "Q29643",
+        "author": "Коваль Метэ"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/wifi/router",
+        "name": "Роутер и точка доступа",
+        "description": "Техническое описание устройств, направляющих трафик. Разбор работы маршрутизатора как 'мозга' сети и точек доступа как расширителей зоны покрытия.",
+        "lemmas": [
+          "роутер",
+          "маршрутизатор",
+          "точка доступа",
+          "Access Point",
+          "репитер",
+          "повторитель",
+          "антенна",
+          "прошивка",
+          "Mesh-система",
+          "сигнал",
+          "усиление"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/wifi/router.md",
+        "wikidata_id": "Q5318",
+        "author": "Коваль Метэ"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/wifi/radio_physics",
+        "name": "Радиочастоты и помехи",
+        "description": "Объяснение физики Wi-Fi: разница между частотами 2.4 ГГц и 5 ГГц, влияние стен, микроволновок и соседских сетей на качество интернета.",
+        "lemmas": [
+          "частота",
+          "ГГц",
+          "радиоканал",
+          "помехи",
+          "затухание",
+          "диапазон",
+          "длина волны",
+          "электромагнитное излучение",
+          "канал Wi-Fi"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/wifi/radio.md",
+        "wikidata_id": "Q193228",
+        "author": "Коваль Метэ"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/wifi/mobile_vs_wifi",
+        "name": "Мобильный интернет (4G/5G)",
+        "description": "Сравнение Wi-Fi с технологиями сотовой связи. Плюсы и минусы мобильного интернета, дальность вышек связи и энергопотребление смартфонов.",
+        "lemmas": [
+          "4G",
+          "5G",
+          "LTE",
+          "мобильный интернет",
+          "сотовая связь",
+          "базовая станция",
+          "вышка",
+          "сим-карта",
+          "сотовый оператор"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/wifi/wifi_vs_mobile_net.md",
+        "wikidata_id": "Q1043805",
+        "author": "Коваль Метэ"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/wifi/wifi_security",
+        "name": "Безопасность Wi-Fi",
+        "description": "Основы защиты беспроводных сетей. Что такое пароли WPA2/WPA3, почему опасны открытые сети в кафе и как работает шифрование данных в воздухе.",
+        "lemmas": [
+          "пароль",
+          "шифрование",
+          "WPA2",
+          "WPA3",
+          "защита",
+          "безопасная сеть",
+          "взлом",
+          "хакер",
+          "открытый Wi-Fi",
+          "авторизация"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/wifi/security.md",
+        "wikidata_id": "Q1655812",
+        "author": "Коваль Метэ"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/web_basics/cdn",
+        "name": "CDN",
+        "description": "Content Delivery Network — сеть серверов по всему миру, которая отдаёт контент с ближайшего к пользователю узла",
+        "lemmas": [
+          "CDN",
+          "сеть доставки контента",
+          "Cloudflare",
+          "Akamai",
+          "кеширование контента"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/server.md",
+        "wikidata_id": "Q72588",
+        "author": "Григорян Арсений"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/web_basics/cloud",
+        "name": "Облачные серверы",
+        "description": "Виртуальные серверы в дата-центрах крупных компаний (AWS, Google Cloud, Azure), предоставляемые в аренду",
+        "lemmas": [
+          "облако",
+          "облачные вычисления",
+          "AWS",
+          "Google Cloud",
+          "Azure",
+          "Yandex Cloud",
+          "хостинг"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/server.md",
+        "wikidata_id": "Q483639",
+        "author": "Григорян Арсений"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/web_basics/what_happens",
+        "name": "Что происходит, когда открываешь сайт",
+        "description": "Обзорная статья: полный путь запроса от ввода URL до отображения страницы — DNS, TCP, HTTP, рендеринг",
+        "lemmas": [
+          "открыть сайт",
+          "URL",
+          "путь запроса",
+          "как работает интернет",
+          "что происходит"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/what_happens.md",
+        "wikidata_id": "Q35127",
+        "author": "Григорян Арсений"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/web_basics/url",
+        "name": "URL",
+        "description": "Адрес ресурса в интернете, состоящий из протокола, домена и пути (например, https://example.com/page)",
+        "lemmas": [
+          "URL",
+          "адрес сайта",
+          "ссылка",
+          "протокол",
+          "домен",
+          "путь"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/what_happens.md",
+        "wikidata_id": "Q42253",
+        "author": "Григорян Арсений"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/web_basics/browser",
+        "name": "Браузер",
+        "description": "Программа для просмотра веб-страниц: запрашивает страницы по HTTP, разбирает HTML/CSS/JS и отображает их на экране",
+        "lemmas": [
+          "браузер",
+          "Chrome",
+          "Firefox",
+          "Safari",
+          "Edge",
+          "Opera"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/browser.md",
+        "wikidata_id": "Q6368",
+        "author": "Григорян Арсений"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/web_basics/rendering_engine",
+        "name": "Движок рендеринга",
+        "description": "Компонент браузера, который превращает HTML и CSS в изображение на экране; примеры: Blink, WebKit, Gecko",
+        "lemmas": [
+          "движок рендеринга",
+          "рендеринг",
+          "Blink",
+          "WebKit",
+          "Gecko",
+          "DOM",
+          "CSSOM",
+          "layout",
+          "paint"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/browser.md",
+        "wikidata_id": "Q373442",
+        "author": "Григорян Арсений"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/web_basics/dom",
+        "name": "DOM",
+        "description": "Document Object Model — дерево элементов веб-страницы, которое строит браузер из HTML-кода",
+        "lemmas": [
+          "DOM",
+          "Document Object Model",
+          "дерево элементов",
+          "дерево документа"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/browser.md",
+        "wikidata_id": "Q2093",
+        "author": "Григорян Арсений"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/web_basics/javascript_engine",
+        "name": "JavaScript-движок",
+        "description": "Компонент браузера, который исполняет JavaScript-код; самый известный — V8 от Google",
+        "lemmas": [
+          "JavaScript-движок",
+          "V8",
+          "SpiderMonkey",
+          "JavaScriptCore",
+          "JS-движок"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/browser.md",
+        "wikidata_id": "Q591919",
+        "author": "Григорян Арсений"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/web_basics/web_server",
+        "name": "Веб-сервер",
+        "description": "Программа или компьютер, принимающий HTTP-запросы и отдающий страницы браузеру; примеры: Nginx, Apache",
+        "lemmas": [
+          "веб-сервер",
+          "сервер",
+          "Nginx",
+          "Apache",
+          "HTTP-сервер",
+          "хостинг"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/server.md",
+        "wikidata_id": "Q11288",
+        "author": "Григорян Арсений"
+      },
+      {
+        "id": "5.1_technology_and_digital_literacy/how_internet_works/web_basics/data_center",
+        "name": "Дата-центр",
+        "description": "Специализированное здание для размещения серверов с бесперебойным питанием, охлаждением и охраной",
+        "lemmas": [
+          "дата-центр",
+          "ЦОД",
+          "data center",
+          "серверная",
+          "серверная стойка"
+        ],
+        "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/server.md",
+        "wikidata_id": "Q671224",
+        "author": "Григорян Арсений"
+      }
+    ]
+  }
+]

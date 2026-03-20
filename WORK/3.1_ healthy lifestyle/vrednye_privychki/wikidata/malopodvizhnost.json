@@ -1,0 +1,18 @@
+{
+  "qid": "Q1349194",
+  "label_ru": "Теодор Регедзиньский",
+  "label_en": "Teodor Regedziński",
+  "description_ru": "польский шахматист",
+  "description_en": "Polish chess player (1894–1954)",
+  "url": "https://www.wikidata.org/wiki/Q1349194",
+  "relations": {
+    "instance_of": [
+      {
+        "qid": "Q5",
+        "label": "человек"
+      }
+    ]
+  },
+  "concept_name": "Малоподвижный образ жизни",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/malopodvizhnost.md"
+}

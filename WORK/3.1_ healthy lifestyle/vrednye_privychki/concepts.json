@@ -1,0 +1,195 @@
+[{
+  "section": "3.1_healthy lifestyle",
+  "topic": "Вредные привычки",
+  "author_group": "Команда 777",
+  "members": [
+    "Гуляев Антон",
+    "Дмитрий Марьин",
+    "Воробьев Глеб",
+    "Аксельрод Анастасия",
+    "Мустафаев Алим",
+    "Пономарев Артем"
+  ],
+  "concepts": [
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/smoking",
+      "name": "Курение",
+      "description": "О вреде курения для здоровья, механизме никотиновой зависимости и пассивном курении.",
+      "lemmas": ["курение", "табак", "никотин", "сигарета", "табакокурение", "дым", "пассивное курение"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/smoking.md",
+      "wikidata_id": "Q662860",
+      "author": "Дмитрий Марьин",
+      "article_llm": "OpenRouter"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/alcohol",
+      "name": "Алкоголь и подростки",
+      "description": "О влиянии алкоголя на растущий организм подростка, рисках и формировании привычки.",
+      "lemmas": ["алкоголь", "спиртное", "пиво", "опьянение", "алкоголизм", "спирт"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/alcohol.md",
+      "wikidata_id": "Q154",
+      "author": "Дмитрий Марьин",
+      "article_llm": "OpenRouter"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/energetiki",
+      "name": "Энергетические напитки",
+      "description": "О составе энергетиков, кофеиновом краше, влиянии на сердце и формировании зависимости.",
+      "lemmas": ["энергетик", "энергетический напиток", "кофеин", "таурин", "бодрость", "кофеиновый краш"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/energetiki.md",
+      "wikidata_id": "Q30574535",
+      "author": "Воробьев Глеб",
+      "article_llm": "Claude (Anthropic)"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/myths_about_soft_drugs",
+      "name": "Мифы о «лёгких» наркотиках",
+      "description": "Разбор мифов о «лёгких» наркотиках, механизм привыкания, опасность спайсов и солей.",
+      "lemmas": ["наркотик", "наркотики", "лёгкие наркотики", "марихуана", "спайс", "соль", "травка", "психоактивное вещество"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/myths_about_soft_drugs.md",
+      "wikidata_id": "Q12140",
+      "author": "Аксельрод Анастасия",
+      "article_llm": "DeepSeek"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/overdose",
+      "name": "Передозировка",
+      "description": "Что происходит с телом при передозировке: остановка дыхания, удар по сердцу, перегрев, отказ почек.",
+      "lemmas": ["передозировка", "отравление", "доза", "остановка сердца", "кома"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/overdose.md",
+      "wikidata_id": "Q1347065",
+      "author": "Аксельрод Анастасия",
+      "article_llm": "DeepSeek"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/dopamine",
+      "name": "Дофаминовая петля",
+      "description": "О нейромедиаторе дофамине, механизме «петли предвкушения» и истощении рецепторов.",
+      "lemmas": ["дофамин", "дофаминовая петля", "нейромедиатор", "предвкушение", "награда", "рецептор"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/Dopamine.md",
+      "wikidata_id": "Q170304",
+      "author": "Гуляев Антон",
+      "article_llm": "Gemini 3, Nano Banana 2"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/how_addiction_changes_personality",
+      "name": "Как зависимость меняет личность",
+      "description": "История подростка Димы: от эксперимента до зависимости, этапы разрушения личности.",
+      "lemmas": ["зависимость", "аддикция", "ангедония", "ломка", "привыкание", "реабилитация"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/how_addiction_changes_personality.md",
+      "wikidata_id": "Q2739434",
+      "author": "Аксельрод Анастасия",
+      "article_llm": "DeepSeek"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/social_media",
+      "name": "Зависимость от соцсетей и FoMO",
+      "description": "О синдроме упущенной выгоды (FoMO), ловушке «идеальной витрины» и цифровом детоксе.",
+      "lemmas": ["социальные сети", "соцсети", "FoMO", "лайк", "подписчик", "фильтр", "цифровой детокс"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/Social_media.md",
+      "wikidata_id": "Q202833",
+      "author": "Гуляев Антон",
+      "article_llm": "Gemini 3, Nano Banana 2"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/doomscrolling",
+      "name": "Думскроллинг",
+      "description": "О навязчивом чтении плохих новостей, влиянии кортизола на здоровье и цифровой гигиене.",
+      "lemmas": ["думскроллинг", "скроллинг", "плохие новости", "кортизол", "тревога", "лента новостей"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/Doomscrolling.md",
+      "wikidata_id": "Q97210710",
+      "author": "Гуляев Антон",
+      "article_llm": ""
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/computer_games",
+      "name": "Зависимость от компьютерных игр",
+      "description": "О признаках игровой зависимости, причинах формирования и способах профилактики.",
+      "lemmas": ["компьютерные игры", "игровая зависимость", "геймер", "лутбокс", "онлайн-игра"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/computer_games.md",
+      "wikidata_id": "Q56828378",
+      "author": "Дмитрий Марьин",
+      "article_llm": "OpenRouter"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/ludomania",
+      "name": "Лудомания",
+      "description": "О видах игровой зависимости (азартные игры, лутбоксы, крипто-гемблинг), последствиях и лечении.",
+      "lemmas": ["лудомания", "азартные игры", "гемблинг", "казино", "ставки", "игровой автомат", "беттинг"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/ludomania.md",
+      "wikidata_id": "Q860861",
+      "author": "Мустафаев Алим",
+      "article_llm": "DeepSeek"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/shopogolizm",
+      "name": "Шопоголизм и импульсивные покупки",
+      "description": "Об ониомании, маркетинговых ловушках, дофаминовой механике покупок и рассрочках.",
+      "lemmas": ["шопоголизм", "ониомания", "импульсивная покупка", "маркетплейс", "распродажа", "скидка"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/shopogolizm.md",
+      "wikidata_id": "Q1140705",
+      "author": "Воробьев Глеб",
+      "article_llm": "Claude (Anthropic)"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/fastfud_i_pischevoy_musor",
+      "name": "Фастфуд и пищевой мусор",
+      "description": "Об усилителях вкуса, формуле «соль + сахар + жир», глутамате натрия и влиянии на мозг подростка.",
+      "lemmas": ["фастфуд", "пищевой мусор", "глутамат", "чипсы", "газировка", "джанк-фуд", "переедание"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/fastfud_i_pischevoy_musor.md",
+      "wikidata_id": "Q223557",
+      "author": "Воробьев Глеб",
+      "article_llm": "Claude (Anthropic)"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/malopodvizhnost",
+      "name": "Малоподвижный образ жизни",
+      "description": "О последствиях гиподинамии, влиянии на осанку, сердце и настроение.",
+      "lemmas": ["гиподинамия", "малоподвижность", "сидячий образ жизни", "физическая активность", "осанка"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/malopodvizhnost.md",
+      "wikidata_id": "Q1349194",
+      "author": "Пономарев Артем",
+      "article_llm": "Claude (Anthropic)"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/nedosypanie",
+      "name": "Недосыпание",
+      "description": "О хроническом недосыпании, его отличии от бессонницы и влиянии на организм подростка.",
+      "lemmas": ["недосыпание", "недосып", "сон", "бессонница", "мелатонин", "режим сна"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/nedosypanie.md",
+      "wikidata_id": "Q15070482",
+      "author": "Пономарев Артем",
+      "article_llm": "Claude (Anthropic)"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/knuckle",
+      "name": "Щёлканье суставами",
+      "description": "О физиологии хруста суставов, мифах об артрите и опасности хруста шеей.",
+      "lemmas": ["хруст суставов", "щёлканье", "суставы", "артрит", "кавитация"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/knuckle.md",
+      "wikidata_id": "Q241790",
+      "author": "Мустафаев Алим",
+      "article_llm": "DeepSeek"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/nailbiting",
+      "name": "Онихофагия (грызение ногтей)",
+      "description": "О формах онихофагии, физических и психологических последствиях и методах борьбы.",
+      "lemmas": ["онихофагия", "грызение ногтей", "ногти", "нервная привычка"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/nailbiting.md",
+      "wikidata_id": "Q225378",
+      "author": "Мустафаев Алим",
+      "article_llm": "DeepSeek"
+    },
+    {
+      "id": "3.1_healthy_lifestyle/vrednye_privychki/profilaktika",
+      "name": "Профилактика вредных привычек",
+      "description": "О методах профилактики, формировании полезных привычек и навыке отказа.",
+      "lemmas": ["профилактика", "полезная привычка", "навык отказа", "здоровый образ жизни", "ЗОЖ"],
+      "file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/profilaktika.md",
+      "wikidata_id": "",
+      "author": "Пономарев Артем",
+      "article_llm": "Claude (Anthropic)"
+    }
+  ]
+}]

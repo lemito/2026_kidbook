@@ -1,0 +1,179 @@
+[{
+  "section": "2.1 Общество и взаимодействие людей",
+  "topic": "Почему важно понимать причинно-следственные связи",
+  "author_group": "Команда 9",
+  "members": [
+    "Погожев Максим",
+    "Зарецкая Анастасия",
+    "Терентьев Михаил",
+    "Екатерина Афанасьева",
+    "Слесарчук Василий"
+  ],
+  "concepts": [
+    {
+      "id": "causality_base",
+      "label": "Причинность",
+      "name": "Причинность: фундамент логики",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/causality_base.md",
+      "description": "Базовое определение связи между событием (причиной) и результатом (следствием).",
+      "lemmas": ["причина", "следствие", "связь", "логика", "закономерность", "детерминизм", "событие", "результат"],
+      "wikidata_id": "Q179289",
+      "author": "Погожев Максим"
+    },
+    {
+      "id": "personal_choice",
+      "label": "Личный выбор",
+      "name": "Выбор и его плоды",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/personal_choice.md",
+      "description": "Как осознание последствий собственных действий формирует жизненный путь индивида.",
+      "lemmas": ["выбор", "действие", "последствие", "решение", "воля", "автономия", "жизненный путь"],
+      "wikidata_id": "Q9476",
+      "author": "Погожев Максим"
+    },
+    {
+      "id": "responsibility",
+      "label": "Ответственность",
+      "name": "Этическая ответственность",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/responsibility.md",
+      "description": "Моральный аспект понимания того, что каждое социальное действие имеет отдаленный эффект.",
+      "lemmas": ["ответственность", "этика", "мораль", "долг", "совесть", "поступок", "вина", "заслуга"],
+      "wikidata_id": "Q18378906",
+      "author": "Погожев Максим"
+    },
+    {
+      "id": "empathy_causality",
+      "label": "Эмпатия",
+      "name": "Эмпатия как анализ чувств",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/empathy_causality.md",
+      "description": "Понимание причин чужого поведения через сопереживание и контекст.",
+      "lemmas": ["эмпатия", "чувства", "психология", "понимание", "эмоции", "сопереживание", "реакция"],
+      "wikidata_id": "Q182263",
+      "author": "Зарецкая Анастасия"
+    },
+    {
+      "id": "conflict_roots",
+      "label": "Конфликт",
+      "name": "Корни социальных конфликтов",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/conflict_roots.md",
+      "description": "Анализ скрытых причин ссор и войн: от недопонимания до несовпадения интересов.",
+      "lemmas": ["конфликт", "противоречие", "агрессия", "переговоры", "медиация", "недопонимание", "интересы"],
+      "wikidata_id": "Q127595118",
+      "author": "Зарецкая Анастасия"
+    },
+    {
+      "id": "trust_predictability",
+      "label": "Доверие",
+      "name": "Доверие и предсказуемость",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/trust_predictability.md",
+      "description": "Как предсказуемость реакций (понятная причинность) строит крепкие социальные связи.",
+      "lemmas": ["доверие", "надежность", "ожидания", "репутация", "социальный капитал", "безопасность"],
+      "wikidata_id": "Q56912054",
+      "author": "Зарецкая Анастасия"
+    },
+    {
+      "id": "false_connections",
+      "label": "Ложные связи",
+      "name": "Ложные связи и манипуляция",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/false_connections.md",
+      "description": "Как подмена причин и следствий используется для управления общественным мнением.",
+      "lemmas": ["манипуляция", "пропаганда", "фейк", "когнитивные искажения", "ложь", "внушение"],
+      "wikidata_id": "Q85655695",
+      "author": "Терентьев Михаил"
+    },
+    {
+      "id": "why_rules_work",
+      "label": "Социальные нормы",
+      "name": "Почему правила работают",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/why_rules_work.md",
+      "description": "Общественный договор: понимание того, зачем нужны ограничения для общего блага.",
+      "lemmas": ["нормы", "правила", "традиции", "культура", "общество", "санкции", "порядок"],
+      "wikidata_id": "Q205665",
+      "author": "Терентьев Михаил"
+    },
+    {
+      "id": "law_and_inevitability",
+      "label": "Правосудие",
+      "name": "Закон и неотвратимость",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/law_and_inevitability.md",
+      "description": "Юридическая ответственность как строгая система 'действие — наказание'.",
+      "lemmas": ["закон", "суд", "наказание", "кодекс", "преступление", "правосудие", "справедливость"],
+      "wikidata_id": "Q116214335",
+      "author": "Терентьев Михаил"
+    },
+    {
+      "id": "lessons_of_history",
+      "label": "История",
+      "name": "Уроки истории",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/lessons_of_history.md",
+      "description": "Анализ исторических ошибок как способ избежать повторения негативных следствий в будущем.",
+      "lemmas": ["история", "опыт", "прошлое", "цикличность", "реформы", "революция", "прогресс"],
+      "wikidata_id": "Q1412640",
+      "author": "Екатерина Афанасьева"
+    },
+    {
+      "id": "critical_thinking_in_education",
+      "label": "Образование",
+      "name": "Критическое мышление в образовании",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/critical_thinking_in_education.md",
+      "description": "Роль школы и университета в развитии способности видеть глубокие связи явлений.",
+      "lemmas": ["обучение", "наука", "анализ", "интеллект", "критическое мышление", "познание"],
+      "wikidata_id": "Q57461104",
+      "author": "Екатерина Афанасьева"
+    },
+    {
+      "id": "ecological_footprint",
+      "label": "Экология",
+      "name": "Экологический след",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md",
+      "description": "Как малые действия миллиардов людей приводят к глобальным изменениям климата.",
+      "lemmas": ["экология", "природа", "климат", "устойчивое развитие", "ресурсы", "потребление"],
+      "wikidata_id": "Q234173",
+      "author": "Екатерина Афанасьева"
+    },
+    {
+      "id": "economic_chains",
+      "label": "Экономика",
+      "name": "Экономические цепочки",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/economic_chains.md",
+      "description": "Спрос, предложение и кризисы: почему экономика — это сложная сеть причинностей.",
+      "lemmas": ["рынок", "деньги", "кризис", "спрос", "производство", "инфляция", "потребности"],
+      "wikidata_id": "Q105874141",
+      "author": "Слесарчук Василий"
+    },
+    {
+      "id": "ai_causality",
+      "label": "Алгоритмы",
+      "name": "ИИ и поиск причин",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/ai_causality.md",
+      "description": "Проблема черного ящика: почему ИИ важно не просто находить корреляции, а понимать причины.",
+      "lemmas": ["алгоритм", "машинное обучение", "данные", "корреляция", "прогнозирование", "нейросети"],
+      "wikidata_id": "Q131457635",
+      "author": "Слесарчук Василий"
+    },
+    {
+      "id": "future_planning",
+      "label": "Будущее",
+      "name": "Проектирование будущего",
+      "dir": "WEB/2.1_society/cause_and_effect_relationships/articles",
+      "file": "WEB/2.1_society/cause_and_effect_relationships/articles/future_planning.md",
+      "description": "Стратегическое планирование как высшая форма понимания причинно-следственных связей.",
+      "lemmas": ["будущее", "стратегия", "планирование", "прогноз", "цель", "инновации", "визионерство"],
+      "wikidata_id": "Q932522",
+      "author": "Слесарчук Василий"
+    }
+  ]
+}]

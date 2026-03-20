@@ -1,0 +1,141 @@
+{
+  "concept_id": "computer_game",
+  "title": "Компьютерная игра",
+  "wikidata_id": "Q7889",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q7889",
+  "info": {
+    "label": "компьютерная игра",
+    "description": "электронная игра, которая предусматривает взаимодействие с пользовательским интерфейсом для создания визуальной обратной связи на видеоустройстве, таком как экран телевизора или монитор компьютера",
+    "aliases": "видеоигра"
+  },
+  "subclasses": [
+    {
+      "qid": "Q85422949",
+      "label": "компьютерная игра с ЛГБТ-персонажем",
+      "description": "жанр компьютерных игр"
+    },
+    {
+      "qid": "Q85637992",
+      "label": "DRM free video game",
+      "description": "video game that does not have a DRM solution or its DRM solution is removed"
+    },
+    {
+      "qid": "Q86607071",
+      "label": "retro video game",
+      "description": "generic term for video games originating from a previous era"
+    },
+    {
+      "qid": "Q87741364",
+      "label": "игра для виртуальной реальности",
+      "description": "жанр компьютерных игр"
+    },
+    {
+      "qid": "Q88306017",
+      "label": "special edition video game",
+      "description": ""
+    },
+    {
+      "qid": "Q89691527",
+      "label": "Xbox Original",
+      "description": "video games originally released for the Xbox and emulated to be playable on the Xbox 360"
+    },
+    {
+      "qid": "Q90181054",
+      "label": "эпизод компьютерной игры",
+      "description": "part of an episodic video game"
+    },
+    {
+      "qid": "Q104438884",
+      "label": "утерянная видеоигра",
+      "description": "video game produced some time in the past of which no surviving copies or accessible downloads are known to exist"
+    },
+    {
+      "qid": "Q104880818",
+      "label": "asset flip",
+      "description": "poor-quality video game developed using pre-made assets"
+    },
+    {
+      "qid": "Q106542313",
+      "label": "NSFW video game",
+      "description": "video game that have been marked as 'Not safe for work' (NSFW)"
+    },
+    {
+      "qid": "Q107486718",
+      "label": "безымянная компьютерная игра",
+      "description": "игровой проект, разработка или анонс которого был подтверждён, но кодовое или точное название неизвестно"
+    },
+    {
+      "qid": "Q109115381",
+      "label": "криптоигра",
+      "description": "игра с блокчейном"
+    },
+    {
+      "qid": "Q110817849",
+      "label": "компьютерная игра с пластилиновой анимацией",
+      "description": ""
+    },
+    {
+      "qid": "Q110948671",
+      "label": "vanilla game",
+      "description": "an unmodified version of a video game"
+    },
+    {
+      "qid": "Q111223304",
+      "label": "перезапуск компьютерной игры",
+      "description": "компьютерная игра, имеющая самостоятельную сюжетную линию, игнорирующую события предыдущих произведений"
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q55216",
+      "label": "LEGO Star Wars: The Video Game",
+      "description": "компьютерная игра 2005 года"
+    },
+    {
+      "qid": "Q55217",
+      "label": "Star Wars Episode I: Racer",
+      "description": "компьютерная игра 1999 года"
+    },
+    {
+      "qid": "Q55219",
+      "label": "Star Wars: Bounty Hunter",
+      "description": "компьютерная игра 2002 года"
+    },
+    {
+      "qid": "Q55223",
+      "label": "Star Wars: Racer Arcade",
+      "description": "компьютерная игра 2000 года"
+    },
+    {
+      "qid": "Q55225",
+      "label": "Star Wars: Starfighter",
+      "description": "компьютерная игра 2001 года"
+    },
+    {
+      "qid": "Q55227",
+      "label": "Star Wars: Super Bombad Racing",
+      "description": "компьютерная игра 2001 года"
+    },
+    {
+      "qid": "Q55228",
+      "label": "LEGO Star Wars III: The Clone Wars",
+      "description": "компьютерная игра 2011 года"
+    },
+    {
+      "qid": "Q55229",
+      "label": "Star Wars: Jedi Starfighter",
+      "description": "компьютерная игра 2002 года"
+    },
+    {
+      "qid": "Q55232",
+      "label": "Star Wars: The Clone Wars",
+      "description": "компьютерная игра 2002 года"
+    },
+    {
+      "qid": "Q55237",
+      "label": "Star Wars: Republic Commando: Order 66",
+      "description": "компьютерная игра 2005 года"
+    }
+  ],
+  "properties": {}
+}

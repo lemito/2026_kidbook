@@ -1,0 +1,495 @@
+{
+    "head": {
+        "vars": [
+            "item",
+            "itemLabel",
+            "target",
+            "targetLabel",
+            "edgeLabel"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q420"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "биология"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7991"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "естественные науки"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q420"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "биология"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q864928"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "науки о жизни"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q420"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "биология"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7239"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "организм"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7991"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "естественные науки"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q336"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "наука"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7991"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "естественные науки"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7860"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "природа"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q42240"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "исследование"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q336"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "наука"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q42240"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "исследование"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q46857"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "научный метод"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q118563234"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "исследовательская работа"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q42240"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "исследование"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1195766"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "космические путешествия и исследования"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q336"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "наука"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q336"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "наука"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q42240"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "исследование"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q8008"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "науки о Земле"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7991"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "естественные науки"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q864928"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "науки о жизни"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7991"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "естественные науки"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q864928"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "науки о жизни"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7239"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "организм"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q188847"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "науки об окружающей среде"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q8008"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "науки о Земле"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q46857"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "научный метод"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q42240"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "исследование"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q46857"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "научный метод"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q336"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "наука"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7860"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "природа"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3455898"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "закономерности в природе"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q413"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "физика"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7991"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "естественные науки"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q413"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "физика"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q14632398"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "физические науки"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q14632398"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "физические науки"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7991"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "естественные науки"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2329"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "химия"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q14632398"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "физические науки"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q101965"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "эксперимент"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q118563234"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "исследовательская работа"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5769081"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "экспериментальная наука"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q336"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "наука"
+                }
+            },
+            {
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5769081"
+                },
+                "itemLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "экспериментальная наука"
+                },
+                "target": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q101965"
+                },
+                "targetLabel": {
+                    "xml:lang": "ru",
+                    "type": "literal",
+                    "value": "эксперимент"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,178 @@
+# Получение основных понятий по компьютерным играм
+SELECT ?item ?itemLabel ?itemDescription WHERE {
+  VALUES ?item {
+    wd:Q7889       # Видеоигра
+    wd:Q11410      # Игровой персонаж
+    wd:Q193622     # Жанр компьютерной игры
+    wd:Q210167     # Разработчик игр
+    wd:Q300004     # Киберспорт
+    wd:Q828057     # Игровая консоль
+    wd:Q180641     # Геймпад
+    wd:Q78987      # Электрогитара (контроллер Guitar Hero)
+    wd:Q12370      # Марио
+    wd:Q35230      # Minecraft
+    wd:Q83476      # Grand Theft Auto
+    wd:Q186781     # Косплей
+    wd:Q26898      # Интернет-мем
+    wd:Q216640     # Стратегия в реальном времени (RTS)
+    wd:Q828322     # Платформер
+    wd:Q230579     # Открытый мир (песочница)
+    wd:Q11422      # Злодей (в играх)
+    wd:Q368558     # Игровой композитор
+    wd:Q134621     # Художник компьютерных игр
+    wd:Q15127075   # Звук в компьютерных играх
+    wd:Q1074900    # Процессор
+    wd:Q5298       # 3D-моделирование
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+
+# Получение иерархии: подклассы игровых жанров и понятий
+SELECT ?item ?itemLabel ?superclass ?superclassLabel WHERE {
+  VALUES ?item {
+    wd:Q216640     # RTS (стратегия в реальном времени)
+    wd:Q83231      # Пошаговая стратегия
+    wd:Q828322     # Платформер
+    wd:Q239141     # Файтинг
+    wd:Q172980     # Гонки (жанр)
+    wd:Q230579     # Открытый мир (песочница)
+    wd:Q186781     # Косплей
+    wd:Q300004     # Киберспорт
+    wd:Q180641     # Геймпад
+    wd:Q820118     # Шлем виртуальной реальности
+    wd:Q1074900    # Процессор
+    wd:Q131761     # Оперативная память
+    wd:Q15127075   # Игровой звук
+    wd:Q11410      # Игровой персонаж
+    wd:Q12370      # Марио (как частный случай персонажа)
+  }
+  OPTIONAL { ?item wdt:P279 ?superclass. }   # P279 = подкласс
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+
+
+# Игровые консоли по странам производителям
+SELECT ?console ?consoleLabel ?manufacturer ?manufacturerLabel WHERE {
+  ?console wdt:P31 wd:Q828057;          # экземпляр = игровая консоль
+           wdt:P178 ?manufacturer.       # производитель
+  ?manufacturer wdt:P17 ?country.        # страна производителя
+  FILTER(?country IN (wd:Q30, wd:Q17, wd:Q145))  # США, Япония, Великобритания
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 20
+
+
+
+# Все поджанры стратегических игр
+SELECT ?genre ?genreLabel WHERE {
+  ?genre wdt:P279 wd:Q216640.      # подкласс RTS
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 10
+
+# Все поджанры экшен-игр
+SELECT ?genre ?genreLabel WHERE {
+  ?genre wdt:P279 wd:Q270948.      # подкласс экшен
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 10
+
+# Все типы игровых персонажей
+SELECT ?character ?characterLabel WHERE {
+  ?character wdt:P279 wd:Q11410.       # подкласс игрового персонажа
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 15
+
+# Все типы игровых злодеев (антагонистов)
+SELECT ?villain ?villainLabel WHERE {
+  ?villain wdt:P279 wd:Q11422.       # подкласс злодея
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 10
+
+
+# Конкретные игры и их разработчики
+SELECT ?game ?gameLabel ?developer ?developerLabel WHERE {
+  ?game wdt:P31 wd:Q7889;              # экземпляр = видеоигра
+        wdt:P178 ?developer.            # разработчик
+  VALUES ?game {
+    wd:Q35230      # Minecraft
+    wd:Q83476      # GTA
+    wd:Q194225     # Super Mario Bros.
+    wd:Q23555      # The Legend of Zelda
+    wd:Q1121658    # Civilization
+    wd:Q3282       # Doom
+    wd:Q334076     # Sonic the Hedgehog
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+
+# Известные игровые персонажи с описанием
+SELECT ?character ?characterLabel ?characterDescription ?game ?gameLabel WHERE {
+  VALUES ?character {
+    wd:Q12370      # Марио
+    wd:Q1150647    # Соник
+    wd:Q10072      # Лара Крофт
+    wd:Q180796     # Кратос (God of War)
+    wd:Q526869     # Мастер Чиф (Halo)
+    wd:Q10621      # Принц Персии
+    wd:Q19675      # Пакман
+    wd:Q49669      # Донки Конг
+    wd:Q317425     # Боузер
+    wd:Q1145681    # Солид Снейк
+    wd:Q49670      # Линк (Zelda)
+  }
+  OPTIONAL { ?character wdt:P144 ?game. }  # серия игр
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+
+
+#defaultView:Graph
+PREFIX gas: <http://www.bigdata.com/rdf/gas#>
+
+# Построение графа связей от "Видеоигры" через иерархию жанров
+SELECT DISTINCT ?item1 ?item1Label ?item2 ?item2Label WHERE {
+  {
+    SELECT ?item1 ?item2 WHERE {
+      SERVICE gas:service {
+        gas:program gas:gasClass "com.bigdata.rdf.graph.analytics.BFS" ;
+                    gas:in wd:Q7889 ;              # стартовая вершина – Видеоигра
+                    gas:traversalDirection "Forward" ;
+                    gas:out ?item1 ;
+                    gas:out1 ?depth1 ;
+                    gas:out2 ?item2 ;
+                    gas:linkType wdt:P31, wdt:P279 .  # экземпляр и подкласс
+      }
+    }
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 50
+
+# Игры для разных типов носителей
+SELECT ?game ?gameLabel ?platform ?platformLabel ?mediaType ?mediaTypeLabel WHERE {
+  ?game wdt:P31 wd:Q7889;
+        wdt:P400 ?platform;           # платформа
+        wdt:P437 ?mediaType.          # тип носителя
+  VALUES ?mediaType {
+    wd:Q193334    # Игровой картридж
+    wd:Q428529    # CD-ROM
+    wd:Q477223    # DVD
+    wd:Q14087     # Цифровая дистрибуция
+    wd:Q210171    # Игровой диск
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 30
+
+# Известные композиторы видеоигр
+SELECT ?composer ?composerLabel ?game ?gameLabel WHERE {
+  ?composer wdt:P106 wd:Q368558;       # род деятельности = игровой композитор
+            wdt:P144 ?game.             # работа над игрой
+  ?game wdt:P31 wd:Q7889.               # игра
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+LIMIT 20
+
+

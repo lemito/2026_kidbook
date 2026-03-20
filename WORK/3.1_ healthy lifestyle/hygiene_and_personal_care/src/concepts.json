@@ -1,0 +1,278 @@
+{
+  "section": "3.1 Здоровый образ жизни",
+  "topic": "Гигиена и уход за собой",
+  "author_group": "Команда 13",
+  "members": [
+    "Арсланов Ян",
+    "Бугренков Владимир",
+    "Королев Иван",
+    "Рожков Иван",
+    "Тремель Дмитрий"
+  ],
+  "concepts": [
+    {
+      "id": "handwashing",
+      "label": "Мытье рук",
+      "name": "Мытье рук",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/handwashing.md",
+      "description": "Твой главный щит против микробов.",
+      "lemmas": ["мытье рук", "умывание", "чистка зубов", "личное полотенце"],
+      "wikidata_id": "Q552461",
+      "author": "Бугренков Владимир"
+    },
+    {
+      "id": "shower",
+      "label": "Душ и ванна",
+      "name": "Душ и ванна",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/shower.md",
+      "description": "Как смыть с себя весь день и проснуться бодрым.",
+      "lemmas": ["прыщи и акне", "сон", "зубная щётка", "дезодорант"],
+      "wikidata_id": "Q7863",
+      "author": "Бугренков Владимир"
+    },
+    {
+      "id": "toothbrush",
+      "label": "Чистка зубов",
+      "name": "Чистка зубов",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/toothbrush.md",
+      "description": "Секрет белоснежной улыбки и свежего дыхания.",
+      "lemmas": ["стоматолог", "зубная нить", "водный баланс", "сон", "личное полотенце"],
+      "wikidata_id": "Q134205",
+      "author": "Бугренков Владимир"
+    },
+    {
+      "id": "water",
+      "label": "Водный баланс",
+      "name": "Водный баланс",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/water.md",
+      "description": "Зачем пить воду и как это помогает думать.",
+      "lemmas": ["прыщи и акне", "мытье рук"],
+      "wikidata_id": "Q4113990",
+      "author": "Бугренков Владимир"
+    }, 
+    {
+      "id": "sleep",
+      "label": "Здоровый сон",
+      "name": "Здоровый сон",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/sleep.md",
+      "description": "Почему ночью мозг перезагружается, а тело растет.",
+      "lemmas": ["душ", "уход за лицом", "питьевой режим", "постельное бельё"],
+      "wikidata_id": "Q35831",
+      "author": "Тремель Дмитрий"
+    },
+    {
+      "id": "sanitizer",
+      "label": "Антисептик для рук",
+      "name": "Антисептик для рук",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/sanitizer.md",
+      "description": "Что делать, если рядом нет мыла и воды.",
+      "lemmas": ["уход за лицом", "душ", "стрижка ногтей", "прыщи и акне", "мытье рук"],
+      "wikidata_id": "Q520181",
+      "author": "Тремель Дмитрий"
+    },
+    {
+      "id": "facewash",
+      "label": "Умывание лица",
+      "name": "Умывание лица",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/facewash.md",
+      "description": "Как правильно ухаживать за кожей с самого утра.",
+      "lemmas": ["мытье рук", "уход за лицом", "личное полотенце", "прыщи и акне", "солнцезащитное средство", "дерматолог"],
+      "wikidata_id": "Q11555797",
+      "author": "Арсланов Ян"
+    },
+    {
+      "id": "deodorant",
+      "label": "Дезодорант и запах",
+      "name": "Дезодорант и запах",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/deodorant.md",
+      "description": "Как победить неприятные запахи взросления.",
+      "lemmas": ["личное полотенце", "душ", "сон", "водный баланс"],
+      "wikidata_id": "Q309035",
+      "author": "Королев Иван"
+    },
+    {
+      "id": "haircare",
+      "label": "Уход за волосами",
+      "name": "Уход за волосами",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/haircare.md",
+      "description": "Шампуни, расчески и здоровье твоей прически.",
+      "lemmas": ["личное полотенце", "личная расческа", "дерматолог", "постельное бельё", "водный баланс", "душ"],
+      "wikidata_id": "Q3633540",
+      "author": "Королев Иван"
+    },
+    {
+      "id": "shaving",
+      "label": "Бритье",
+      "name": "Бритье",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/shaving.md",
+      "description": "Когда пора начинать и как делать это безопасно.",
+      "lemmas": ["личное полотенце", "душ и ванна", "дерматолог", "дезодорант", "прыщи и акне"],
+      "wikidata_id": "Q369570",
+      "author": "Арсланов Ян"
+    },
+    {
+      "id": "nails",
+      "label": "Стрижка ногтей",
+      "name": "Стрижка ногтей",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/nails.md",
+      "description": "Почему ногти требуют внимания каждую неделю.",
+      "lemmas": ["зубная щётка", "душ и ванна", "дерматолог", "мытье рук", "уход за обувью", "носки и запах ног"],
+      "wikidata_id": "Q3778909",
+      "author": "Тремель Дмитрий"
+    },
+    {
+      "id": "lip_care",
+      "label": "Стрижка ногтей",
+      "name": "Стрижка ногтей",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/lip_care.md",
+      "description": "Как спасти губы от ветра и мороза.",
+      "lemmas": ["дерматолог", "водный баланс", "сон", "солнцезащитное средство"],
+      "wikidata_id": "Q15173",
+      "author": "Тремель Дмитрий"
+    },
+    {
+      "id": "floss",
+      "label": "Зубная нить",
+      "name": "Зубная нить",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/floss.md",
+      "description": "Уборка в местах, куда не достает щетка.",
+      "lemmas": ["стоматолог", "чистка зубов"],
+      "wikidata_id": "Q849776",
+      "author": "Арсланов Ян"
+    },
+    {
+      "id": "acne",
+      "label": "Прыщи и акне",
+      "name": "Прыщи и акне",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/acne.md",
+      "description": "Почему они появляются и как с ними дружить (и бороться).",
+      "lemmas": ["сон", "мытье рук", "умывание лица", "постельное бельё", "дезодорант", "водный баланс", "душ и ванна"],
+      "wikidata_id": "Q79928",
+      "author": "Королев Иван"
+    },
+    {
+      "id": "sunscreen",
+      "label": "Защита от солнца",
+      "name": "Защита от солнца",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/sunscreen.md",
+      "description": "Твой невидимый зонтик от ожогов и старения.",
+      "lemmas": ["сон", "умывание лица", "бритьё", "прыщи и акне", "душ и ванна", "водный баланс"],
+      "wikidata_id": "Q827658",
+      "author": "Арсланов Ян"
+    },
+    {
+      "id": "comb",
+      "label": "Личная расческа",
+      "name": "Личная расческа",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/comb.md",
+      "description": "Почему этот предмет должен быть только твоим.",
+      "lemmas": ["постельное бельё", "зубная щётка", "личное полотенце", "прыщи и акне", "умывание лица", "уход за волосами"],
+      "wikidata_id": "Q23834",
+      "author": "Рожков Иван"
+    },
+    {
+      "id": "dentist",
+      "label": "Стоматолог",
+      "name": "Стоматолог",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/dentist.md",
+      "description": "Друг, который спасает от зубной боли.",
+      "lemmas": ["зубная нить", "зубная щётка", "водный баланс"],
+      "wikidata_id": "Q27349",
+      "author": "Арсланов Ян"
+    },
+    {
+      "id": "dermatologist",
+      "label": "Дерматолог",
+      "name": "Дерматолог",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/dermatologist.md",
+      "description": "Врач, который знает о твоей коже всё.",
+      "lemmas": ["умывание лица", "солнцезащитное средство", "носки и запах ног", "уход за обувью", "душ и ванна", "сон", "постельное бельё", "водный баланс"],
+      "wikidata_id": "Q2811291",
+      "author": "Рожков Иван "
+    },
+    {
+      "id": "clean_clothes",
+      "label": "Чистая одежда",
+      "name": "Чистая одежда",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/clean_clothes.md",
+      "description": "Опрятность, которая бросается в глаза.",
+      "lemmas": ["нижнее бельё", "дезодорант", "носки и запах ног", "душ и ванна"],
+      "wikidata_id": "Q107998880",
+      "author": "Рожков Иван "
+    },
+    {
+      "id": "underwear",
+      "label": "Нижнее белье",
+      "name": "Нижнее белье",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/underwear.md",
+      "description": "Самые важные правила личной гигиены.",
+      "lemmas": ["нижнее бельё", "душ и ванна"],
+      "wikidata_id": "Q198763",
+      "author": "Рожков Иван "
+    },
+    {
+      "id": "socks",
+      "label": "Носки и запах ног",
+      "name": "Носки и запах ног",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/socks.md",
+      "description": "Как сделать так, чтобы кроссовки не кусались.",
+      "lemmas": ["уход за обувью", "душ и ванна"],
+      "wikidata_id": "Q43663",
+      "author": "Рожков Иван "
+    },
+    {
+      "id": "shoes",
+      "label": "Уход за обувью",
+      "name": "Уход за обувью",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/shoes.md",
+      "description": "Чтобы любимые кеды служили долго и не пахли.",
+      "lemmas": ["антисептик для рук", "носки и запах ног", "дерматолог", "душ и ванна", "уход за обувью"],
+      "wikidata_id": "Q22676",
+      "author": "Тремель Дмитрий"
+    },
+     {
+      "id": "towel",
+      "label": "Личное полотенце",
+      "name": "Личное полотенце",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/towel.md",
+      "description": "Твоя территория сухости и чистоты.",
+      "lemmas": ["прыщи и акне", "умывание лица", "дерматолог", "душ и ванна", "бритьё"],
+      "wikidata_id": "Q131696",
+      "author": "Арсланов Ян"
+    },
+    {
+      "id": "bedding",
+      "label": "Постельное белье",
+      "name": "Постельное белье",
+      "dir": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles",
+      "file": "WEB/3.1_healthy lifestyle/hygiene_and_personal_care/articles/bedding.md",
+      "description": "Твоя территория сухости и чистоты.",
+      "lemmas": ["сон", "личное полотенце", "прыщи и акне", "душ и ванна", "чистка зубов"],
+      "wikidata_id": "Q1762457",
+      "author": "Королев Иван"
+    }
+  ]
+}

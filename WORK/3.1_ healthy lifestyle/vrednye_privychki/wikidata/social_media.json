@@ -1,0 +1,52 @@
+{
+  "qid": "Q202833",
+  "label_ru": "социальные медиа",
+  "label_en": "social media",
+  "description_ru": "вид массовой коммуникации посредством интернета",
+  "description_en": "virtual online communities",
+  "url": "https://www.wikidata.org/wiki/Q202833",
+  "relations": {
+    "subclass_of": [
+      {
+        "qid": "Q107307154",
+        "label": "виртуальное пространство"
+      },
+      {
+        "qid": "Q340169",
+        "label": "медиа"
+      }
+    ],
+    "instance_of": [
+      {
+        "qid": "Q121132955",
+        "label": "вид СМИ"
+      },
+      {
+        "qid": "Q8187769",
+        "label": "экономическая деятельность"
+      },
+      {
+        "qid": "Q2267705",
+        "label": "тема исследования"
+      },
+      {
+        "qid": "Q1047113",
+        "label": "специальность"
+      },
+      {
+        "qid": "Q483394",
+        "label": "жанр"
+      },
+      {
+        "qid": "Q340169",
+        "label": "медиа"
+      },
+      {
+        "qid": "Q268592",
+        "label": "отрасль экономики"
+      }
+    ]
+  },
+  "concept_name": "Зависимость от соцсетей и FoMO",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/Social_media.md"
+}

@@ -1,0 +1,50 @@
+{
+  "qid": "Q1347065",
+  "label_ru": "",
+  "label_en": "epiglottitis",
+  "description_ru": "",
+  "description_en": "inflammation of the epiglottis",
+  "url": "https://www.wikidata.org/wiki/Q1347065",
+  "relations": {
+    "has_cause": [
+      {
+        "qid": "Q1141979",
+        "label": "Гемофильная палочка"
+      }
+    ],
+    "subclass_of": [
+      {
+        "qid": "Q55083528",
+        "label": "supraglottitis"
+      },
+      {
+        "qid": "Q18558209",
+        "label": "заболевание верхних дыхательных путей"
+      },
+      {
+        "qid": "Q3508753",
+        "label": "воспалительное заболевание"
+      },
+      {
+        "qid": "Q12136",
+        "label": "болезнь"
+      }
+    ],
+    "instance_of": [
+      {
+        "qid": "Q112965645",
+        "label": "симптом или признак (класс)"
+      },
+      {
+        "qid": "Q112193867",
+        "label": "класс болезни"
+      },
+      {
+        "qid": "Q18123741",
+        "label": "инфекционное заболевание"
+      }
+    ]
+  },
+  "concept_name": "Передозировка",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/overdose.md"
+}

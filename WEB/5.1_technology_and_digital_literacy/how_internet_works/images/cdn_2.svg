@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 550">
+  <!-- Background -->
+  <rect width="1000" height="550" fill="#ffffff"/>
+  
+  <!-- Arrow marker definitions -->
+  <defs>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#2196F3"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#4CAF50"/>
+    </marker>
+  </defs>
+  
+  <!-- User Browser block (left) -->
+  <rect x="50" y="200" width="180" height="150" fill="#ffffff" stroke="#333333" stroke-width="2" rx="8"/>
+  <text x="140" y="270" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#333333">Браузер</text>
+  <text x="140" y="295" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666666">(Пользователь)</text>
+  
+  <!-- CDN Node block (top right) -->
+  <rect x="450" y="120" width="280" height="140" fill="#E3F2FD" stroke="#2196F3" stroke-width="2" rx="8"/>
+  <text x="590" y="175" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1976D2">CDN Node</text>
+  <text x="590" y="200" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333333">Картинки, Видео, CSS</text>
+  <text x="590" y="240" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#2196F3">Кеширование (быстро)</text>
+  
+  <!-- Origin Server block (bottom right) -->
+  <rect x="450" y="290" width="280" height="140" fill="#E8F5E9" stroke="#4CAF50" stroke-width="2" rx="8"/>
+  <text x="590" y="345" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2E7D32">Origin Server</text>
+  <text x="590" y="370" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333333">Профиль, Сообщения,</text>
+  <text x="590" y="388" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333333">Корзина</text>
+  <text x="590" y="420" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#4CAF50">Напрямую (медленно)</text>
+  
+  <!-- Blue arrow (static content) -->
+  <path d="M 230 230 Q 340 180 450 190" fill="none" stroke="#2196F3" stroke-width="3" marker-end="url(#arrowBlue)"/>
+  <text x="340" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2196F3">Статика</text>
+  
+  <!-- Green arrow (dynamic content) -->
+  <path d="M 230 320 Q 340 350 450 360" fill="none" stroke="#4CAF50" stroke-width="3" marker-end="url(#arrowGreen)"/>
+  <text x="340" y="375" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#4CAF50">Динамика</text>
+  
+  <!-- Legend (right side) -->
+  <rect x="800" y="180" width="170" height="120" fill="#fafafa" stroke="#cccccc" stroke-width="1" rx="5"/>
+  <text x="885" y="205" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333333">Легенда</text>
+  
+  <!-- Legend: Blue arrow -->
+  <line x1="820" y1="235" x2="860" y2="235" stroke="#2196F3" stroke-width="2.5" marker-end="url(#arrowBlue)"/>
+  <text x="885" y="240" font-family="Arial, sans-serif" font-size="12" text-anchor="start" fill="#333333">Статический</text>
+  <text x="885" y="255" font-family="Arial, sans-serif" font-size="12" text-anchor="start" fill="#333333">контент</text>
+  
+  <!-- Legend: Green arrow -->
+  <line x1="820" y1="280" x2="860" y2="280" stroke="#4CAF50" stroke-width="2.5" marker-end="url(#arrowGreen)"/>
+  <text x="885" y="285" font-family="Arial, sans-serif" font-size="12" text-anchor="start" fill="#333333">Динамический</text>
+  <text x="885" y="300" font-family="Arial, sans-serif" font-size="12" text-anchor="start" fill="#333333">контент</text>
+</svg>

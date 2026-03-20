@@ -1,0 +1,18 @@
+{
+  "qid": "Q225378",
+  "label_ru": "Эктор Санабрия",
+  "label_en": "Héctor Sanabria",
+  "description_ru": "мексиканский футболист",
+  "description_en": "Mexican footballer (1945–2024)",
+  "url": "https://www.wikidata.org/wiki/Q225378",
+  "relations": {
+    "instance_of": [
+      {
+        "qid": "Q5",
+        "label": "человек"
+      }
+    ]
+  },
+  "concept_name": "Онихофагия (грызение ногтей)",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/nailbiting.md"
+}

@@ -1,0 +1,279 @@
+[
+  {
+    "section": "6.1_Independent_living_and_daily_living_skills",
+    "topic": "Простая и безопасная готовка",
+    "author_group": "Команда 1337 \"Простая и безопасная готовка\"",
+    "members": [
+      "Венков Кирилл",
+      "Шиширин Владислав",
+      "Демин Иван",
+      "Лернер Феликс"
+    ],
+    "concepts": [
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/minimum_set_of_kitchen_utensils",
+        "description": "О минимальном наборе кухонного инвентаря для новичка: какие ножи, доски, посуда и мелкие инструменты действительно нужны, как выбирать качественные и безопасные предметы и как ухаживать за ними.",
+        "lemmas": [
+          "кухонный инвентарь",
+          "минимальный набор",
+          "нож",
+          "разделочная доска",
+          "кастрюля",
+          "сковорода",
+          "кухонная утварь",
+          "безопасность на кухне",
+          "выбор посуды",
+          "уход за посудой",
+          "хранение инвентаря",
+          "начинающий кулинар"
+        ],
+        "name": "minimum_set_of_kitchen_utensils",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/minimum_set_of_kitchen_utensils.md",
+        "wikidata_id": "Q8892",
+        "author": "Венков Кирилл"
+      },
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/organizing_workspace_in_kitchen",
+        "description": "О принципе mise en place и организации рабочего места на кухне: как заранее готовить продукты и инструменты, поддерживать порядок на столе и безопасно располагать ножи, горячую посуду и технику.",
+        "lemmas": [
+          "организация рабочего места",
+          "кухня",
+          "порядок на кухне",
+          "mise en place",
+          "мизансцена",
+          "зонирование кухни",
+          "рабочая поверхность",
+          "ножи",
+          "горячая посуда",
+          "кухонная техника",
+          "безопасность на кухне",
+          "привычки порядка"
+        ],
+        "name": "organizing_workspace_in_kitchen",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/organizing_workspace_in_kitchen.md",
+        "wikidata_id": "Q1938786",
+        "author": "Венков Кирилл"
+      },
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/safe_use_of_kitchen_appliances",
+        "description": "О безопасном использовании микроволновки, блендера и мультиварки: основные правила, типичные ошибки начинающих и способы избежать ожогов, порезов и задымления на кухне.",
+        "lemmas": [
+          "микроволновка",
+          "блендер",
+          "мультиварка",
+          "кухонная техника",
+          "безопасность",
+          "правила безопасности",
+          "типичные ошибки",
+          "ожоги",
+          "порезы",
+          "пожар",
+          "электробезопасность",
+          "инструкция по эксплуатации"
+        ],
+        "name": "safe_use_of_kitchen_appliances",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/safe_use_of_kitchen_appliances.md",
+        "wikidata_id": "Q127956",
+        "author": "Венков Кирилл"
+      },
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/kitchen_fire_safety",
+        "description": "О правилах пожарной безопасности на кухне: как предотвратить возгорание, каких ошибок избегать при готовке и что делать, если загорелось масло, техника или одежда.",
+        "lemmas": [
+          "пожарная безопасность",
+          "кухня",
+          "возгорание",
+          "горящее масло",
+          "сковорода",
+          "газовая плита",
+          "электроприборы",
+          "огнетушитель",
+          "правила эвакуации",
+          "номер 112",
+          "профилактика пожара",
+          "безопасная готовка"
+        ],
+        "name": "kitchen_fire_safety",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/kitchen_fire_safety.md",
+        "wikidata_id": "Q2997557",
+        "author": "Шиширин Владислав"
+      },
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/knife_safety",
+        "description": "О безопасной работе с кухонными ножами: правильный хват, техника нарезки, хранение и заточка лезвий, а также первая помощь при порезах.",
+        "lemmas": [
+          "безопасность ножа",
+          "кухонный нож",
+          "техника нарезки",
+          "хват когтей",
+          "острый нож",
+          "тупой нож",
+          "хранение ножей",
+          "заточка ножей",
+          "мусат",
+          "порез",
+          "первая помощь",
+          "безопасность на кухне"
+        ],
+        "name": "knife_safety",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/knife_safety.md",
+        "wikidata_id": "Q32489",
+        "author": "Шиширин Владислав"
+      },
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/safe_product_storage",
+        "description": "О безопасном хранении продуктов дома: температурные зоны холодильника, сроки годности, предотвращение перекрестного загрязнения и снижение риска пищевого отравления.",
+        "lemmas": [
+          "хранение продуктов",
+          "холодильник",
+          "температура хранения",
+          "срок годности",
+          "перекрестное загрязнение",
+          "сырое мясо",
+          "готовая еда",
+          "контейнер",
+          "пищевое отравление",
+          "безопасность еды",
+          "гигиена кухни",
+          "ревизия продуктов"
+        ],
+        "name": "safe_product_storage",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/safe_product_storage.md",
+        "wikidata_id": "Q11702361",
+        "author": "Шиширин Владислав"
+      },
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/10_must_know_recipes",
+        "description": "О десяти базовых блюдах, которые должен уметь готовить каждый: от яичницы и макарон до бульона и запеченной курицы, с простыми пошаговыми инструкциями для самостоятельной готовки.",
+        "lemmas": [
+          "базовые рецепты",
+          "простые блюда",
+          "домашняя готовка",
+          "яичница",
+          "макароны",
+          "гречка",
+          "куриный бульон",
+          "жареная картошка",
+          "запеченная курица",
+          "овсяная каша",
+          "овощной салат",
+          "оладьи"
+        ],
+        "name": "10_must_know_recipes",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/10_must_know_recipes.md",
+        "wikidata_id": "Q15964630",
+        "author": "Демин Иван"
+      },
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/cooking_techniques",
+        "description": "О базовых техниках тепловой обработки продуктов: варке, жарке, тушении и запекании, их температурных режимах, преимуществах и правильном применении в повседневной кулинарии.",
+        "lemmas": [
+          "тепловая обработка",
+          "варка",
+          "жарка",
+          "тушение",
+          "запекание",
+          "температура приготовления",
+          "реакция майяра",
+          "кулинарные техники",
+          "методы приготовления",
+          "приготовление пищи",
+          "основы кулинарии",
+          "сравнение методов"
+        ],
+        "name": "cooking_techniques",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/cooking_techniques.md",
+        "wikidata_id": "Q38695",
+        "author": "Демин Иван"
+      },
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/how_to_read_recipe",
+        "description": "О том, как правильно читать рецепт перед готовкой: проверять ингредиенты и инвентарь, понимать кулинарные термины, измерения, последовательность шагов и избегать типичных ошибок новичков.",
+        "lemmas": [
+          "рецепт",
+          "как читать рецепт",
+          "кулинарные термины",
+          "ингредиенты",
+          "инвентарь",
+          "единицы измерения",
+          "тайминг",
+          "последовательность шагов",
+          "типичные ошибки",
+          "кухонные весы",
+          "подготовка к готовке",
+          "чек лист"
+        ],
+        "name": "how_to_read_recipe",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/how_to_read_recipe.md",
+        "wikidata_id": "Q219239",
+        "author": "Демин Иван"
+      },
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/cooking_temperature",
+        "description": "О безопасной температуре приготовления продуктов: почему внешний вид блюда не гарантирует готовность, как правильно измерять внутреннюю температуру и какие значения снижают риск пищевого отравления.",
+        "lemmas": [
+          "температура приготовления",
+          "безопасная температура",
+          "внутренняя температура",
+          "кулинарный термометр",
+          "готовность мяса",
+          "курица 75",
+          "фарш 70",
+          "рыба 63",
+          "пищевые бактерии",
+          "термическая обработка",
+          "безопасность еды",
+          "пищевое отравление"
+        ],
+        "name": "cooking_temperature",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/cooking_temperature.md",
+        "wikidata_id": "Q909821",
+        "author": "Лернер Феликс"
+      },
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/hand_hygiene",
+        "description": "О гигиене рук и рабочей поверхности на кухне: когда и как правильно мыть руки, как обрабатывать доски и столешницы и как снизить риск переноса бактерий в готовую еду.",
+        "lemmas": [
+          "гигиена рук",
+          "мытье рук",
+          "20 секунд",
+          "бактерии",
+          "сальмонелла",
+          "кишечная палочка",
+          "рабочая поверхность",
+          "разделочная доска",
+          "чистота кухни",
+          "дезинфекция",
+          "профилактика отравления",
+          "безопасность еды"
+        ],
+        "name": "hand_hygiene",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/hand_hygiene.md",
+        "wikidata_id": "Q552461",
+        "author": "Лернер Феликс"
+      },
+      {
+        "id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/cross_contamination",
+        "description": "О перекрестном загрязнении продуктов на кухне: как бактерии переходят с сырого мяса на готовую еду через ножи, доски, руки и поверхности, и как этого избежать.",
+        "lemmas": [
+          "перекрестное загрязнение",
+          "контаминация",
+          "перенос бактерий",
+          "сырое мясо",
+          "готовая еда",
+          "раздельные доски",
+          "раздельные ножи",
+          "гигиена кухни",
+          "хранение в холодильнике",
+          "пищевое отравление",
+          "сальмонелла",
+          "профилактика заражения"
+        ],
+        "name": "cross_contamination",
+        "file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/cross_contamination.md",
+        "wikidata_id": "Q113574247",
+        "author": "Лернер Феликс"
+      }
+    ]
+  }
+]

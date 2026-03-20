@@ -1,0 +1,149 @@
+[{
+  "section": "3.1_healthy lifestyle",
+  "topic": "Sleep, nutrition, and adolescent energy",
+  "author_group": "902",
+  "members": [
+    "Ткаченко Елизавета",
+    "Титова Дарья",
+    "Симкина Дарина",
+    "Мельцова Вероника",
+    "Жмур Мария"
+  ],
+  "concepts": [
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О биологических причинах смещения режима сна у подростков, роли мелатонина, особенностях циркадных ритмов и способах адаптации к ранним подъемам.",
+      "lemmas": ["биология", "совы", "подростки", "мелатонин", "циркадные ритмы", "режим сна", "хронотип"],
+      "name": "Biology of night owls in teens",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/biology_of_night_owls_teens.md",
+      "wikidata_id": "Q208353",
+      "author": "Мельцова Вероника"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О важности полноценного завтрака для работы мозга, подборе продуктов для концентрации внимания и влиянии утреннего приема пищи на школьную успеваемость.",
+      "lemmas": ["завтрак", "мозг", "энергия", "питание", "когнитивные функции", "учеба", "глюкоза"],
+      "name": "Breakfast for the brain",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md",
+      "wikidata_id": "Q80973",
+      "author": "Ткаченко Елизавета"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О последствиях постоянной нехватки сна для физического здоровья и психики подростка, включая снижение иммунитета и эмоциональную нестабильность.",
+      "lemmas": ["недосып", "хроническая усталость", "здоровье", "иммунитет", "дефицит сна", "стресс", "бессонница"],
+      "name": "Chronic sleep deprivation",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md",
+      "wikidata_id": "Q61627659",
+      "author": "Ткаченко Елизавета"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О значении водного баланса для поддержания высокого уровня энергии, нормализации обмена веществ и правилах потребления воды в течение дня.",
+      "lemmas": ["вода", "питьевой режим", "гидратация", "обмен веществ", "энергия", "здоровье"],
+      "name": "Drinking regime",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/drinking_regime.md",
+      "wikidata_id": "Q128842490",
+      "author": "Титова Дарья"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О вечерних привычках и ритуалах, способствующих расслаблению нервной системы и быстрому погружению в глубокую фазу сна.",
+      "lemmas": ["вечерние ритуалы", "сон", "засыпание", "гигиена сна", "релаксация", "отдых"],
+      "name": "Evening rituals for fast sleep",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md",
+      "wikidata_id": "Q1364783",
+      "author": "Симкина Дарина"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О негативном влиянии синего света от экранов смартфонов на выработку гормона сна и методах цифровой гигиены перед отдыхом.",
+      "lemmas": ["гаджеты", "синий свет", "мелатонин", "экран", "бессонница", "цифровая гигиена"],
+      "name": "Gadgets and blue light sleep",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/gadgets_blue_light_sleep.md",
+      "wikidata_id": "Q1573329",
+      "author": "Мельцова Вероника"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О принципах выбора полезных перекусов в школе, которые помогают поддерживать сытость и бодрость без вреда для организма.",
+      "lemmas": ["перекусы", "школа", "здоровое питание", "продукты", "энергия", "ланч-бокс"],
+      "name": "Healthy school snacks",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/healthy_school_snacks.md",
+      "wikidata_id": "Q749316",
+      "author": "Симкина Дарина"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О методиках управления собственной энергией через грамотное планирование дня, баланс труда и отдыха для повышения личной эффективности.",
+      "lemmas": ["распорядок дня", "тайм-менеджмент", "планирование", "энергия", "продуктивность", "отдых"],
+      "name": "Ideal schedule and energy management",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/ideal_schedule_energy_management.md",
+      "wikidata_id": "Q1779504",
+      "author": "Симкина Дарина"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О роли незаменимых витаминов и минералов в период активного роста подростков и продуктах-источниках этих микронутриентов.",
+      "lemmas": ["микронутриенты", "витамины", "минералы", "рост", "развитие", "нутрициология"],
+      "name": "Micronutrients and teenagers",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md",
+      "wikidata_id": "Q531507",
+      "author": "Титова Дарья"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О связи качественного ночного сна с процессами запоминания информации и успешной сдачей школьных экзаменов.",
+      "lemmas": ["память", "сон", "успеваемость", "обучение", "мозг", "оценки"],
+      "name": "Sleep and memory grades",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md",
+      "wikidata_id": ["Q492", "Q35831"],
+      "author": "Мельцова Вероника"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О феномене социального джетлага, возникающего из-за разницы режимов в будни и выходные, и способах минимизации его последствий.",
+      "lemmas": ["социальный джетлаг", "режим дня", "выходные", "понедельник", "биологические часы"],
+      "name": "Social jetlag and Monday morning",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/social_jetlag_and_monday_morning.md",
+      "wikidata_id": "Q47094930",
+      "author": "Жмур Мария"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О влиянии регулярной физической активности на общий тонус организма, выработку эндорфинов и уровень жизненной энергии.",
+      "lemmas": ["спорт", "физическая активность", "энергия", "здоровье", "тренировки", "выносливость"],
+      "name": "Sport and energy",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sport_and_energy.md",
+      "wikidata_id": "Q21906",
+      "author": "Жмур Мария"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "Об особенностях пищевого поведения в стрессовых ситуациях, причинах эмоционального переедания и способах контроля аппетита.",
+      "lemmas": ["стресс", "еда", "эмоции", "переедание", "психология питания", "здоровье"],
+      "name": "Stress and food",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/stress_and_food.md",
+      "wikidata_id": "Q123414",
+      "author": "Жмур Мария"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "О механизме резких перепадов уровня сахара в крови после употребления сладостей и причинах последующего упадка сил.",
+      "lemmas": ["сахар", "глюкоза", "инсулин", "энергия", "сладости", "углеводы", "усталость"],
+      "name": "Sugar rollercoaster",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md",
+      "wikidata_id": "Q275157",
+      "author": "Ткаченко Елизавета"
+    },
+    {
+      "id": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles",
+      "description": "Об опасности энергетических напитков для нервной системы подростков, побочных эффектах кофеина и ложном чувстве бодрости.",
+      "lemmas": ["энергетики", "кофеин", "зависимость", "здоровье", "сердце", "вред"],
+      "name": "The energy trap",
+      "file": "WORK/3.1_healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md",
+      "wikidata_id": "Q30574535",
+      "author": "Титова Дарья"
+    }
+  ]
+}]

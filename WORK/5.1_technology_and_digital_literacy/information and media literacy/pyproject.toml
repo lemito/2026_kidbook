@@ -1,0 +1,8 @@
+[project]
+name = "kidbook-information-media-literacy"
+version = "0.1.0"
+description = "Topic-local article generation scripts for KidBook"
+requires-python = ">=3.13"
+dependencies = [
+    "openai>=2.26.0",
+]

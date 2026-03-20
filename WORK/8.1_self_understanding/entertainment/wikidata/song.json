@@ -1,0 +1,141 @@
+{
+  "concept_id": "song",
+  "title": "Песня",
+  "wikidata_id": "Q7366",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q7366",
+  "info": {
+    "label": "песня",
+    "description": "музыкальное произведение, предназначенное для исполнения человеческим голосом",
+    "aliases": "гина"
+  },
+  "subclasses": [
+    {
+      "qid": "Q177771",
+      "label": "Трен (жанр)",
+      "description": "song, hymn or poem of mourning"
+    },
+    {
+      "qid": "Q178122",
+      "label": "ария",
+      "description": "тип музыкального сочинения"
+    },
+    {
+      "qid": "Q261434",
+      "label": "fight song",
+      "description": "song associated with a sports team and military conflicts"
+    },
+    {
+      "qid": "Q318894",
+      "label": "evening song",
+      "description": "a poem type of \"the end of the day\""
+    },
+    {
+      "qid": "Q319448",
+      "label": "Schnitzelbank",
+      "description": "short verses, usually performed rhythmically or singingly with humorous context"
+    },
+    {
+      "qid": "Q380233",
+      "label": "песня о любви",
+      "description": "type of song dealing with love"
+    },
+    {
+      "qid": "Q484692",
+      "label": "гимн",
+      "description": "песенный жанр"
+    },
+    {
+      "qid": "Q493169",
+      "label": "детская песня",
+      "description": "композиция, задуманная для детей"
+    },
+    {
+      "qid": "Q499042",
+      "label": "дисс",
+      "description": "song type produced to verbally attack another person"
+    },
+    {
+      "qid": "Q600094",
+      "label": "пеан",
+      "description": "song or poem expressing triumph or thanksgiving"
+    },
+    {
+      "qid": "Q608862",
+      "label": "музыка в японской анимации",
+      "description": "music created for use in Japanese animation series"
+    },
+    {
+      "qid": "Q661651",
+      "label": "show tune",
+      "description": "song originally written as part of the score of a work of musical theatre; music genre"
+    },
+    {
+      "qid": "Q686027",
+      "label": "эпиталама",
+      "description": "a song or poem celebrating a wedding"
+    },
+    {
+      "qid": "Q744327",
+      "label": "йойк",
+      "description": "традиционное песнопение саамов"
+    },
+    {
+      "qid": "Q758422",
+      "label": "альборада",
+      "description": "песня (музыкальное произведение) на тему утра, утреннего расставания с возлюбленной"
+    }
+  ],
+  "instances": [
+    {
+      "qid": "Q15654",
+      "label": "Oxygen",
+      "description": "2006 song recorded by Marie Serneholt"
+    },
+    {
+      "qid": "Q19976",
+      "label": "Somewhere I Belong",
+      "description": "первый сингл со второго альбома Meteora группы Linkin Park."
+    },
+    {
+      "qid": "Q19977",
+      "label": "Lying from You",
+      "description": "2004 song by Linkin Park"
+    },
+    {
+      "qid": "Q19990",
+      "label": "Iridescent",
+      "description": "2011 song by Linkin Park"
+    },
+    {
+      "qid": "Q19993",
+      "label": "Runaway",
+      "description": "2000 song by Linkin Park"
+    },
+    {
+      "qid": "Q21096",
+      "label": "I Don't Give a Fuck",
+      "description": "1991 song by Tupac Shakur"
+    },
+    {
+      "qid": "Q21100",
+      "label": "Both of Us",
+      "description": "песня исполнителя B.o.B"
+    },
+    {
+      "qid": "Q23061",
+      "label": "Professional Griefers",
+      "description": "2012 song by deadmau5 and Gerard Way"
+    },
+    {
+      "qid": "Q23072",
+      "label": "Ghosts 'n' Stuff",
+      "description": "песня Дедмауса и Роба Свайра"
+    },
+    {
+      "qid": "Q25936",
+      "label": "BINGO!",
+      "description": "2007 single by AKB48"
+    }
+  ],
+  "properties": {}
+}

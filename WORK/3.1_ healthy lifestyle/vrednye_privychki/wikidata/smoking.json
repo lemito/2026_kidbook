@@ -1,0 +1,58 @@
+{
+  "qid": "Q662860",
+  "label_ru": "курение",
+  "label_en": "smoking",
+  "description_ru": "процесс вдыхания дыма от продуктов тления",
+  "description_en": "breathing in smoke after burning a substance and inhaling, done in order to be tasted and absorbed into the bloodstream",
+  "url": "https://www.wikidata.org/wiki/Q662860",
+  "relations": {
+    "has_effect": [
+      {
+        "qid": "Q199804",
+        "label": "хроническая обструктивная болезнь лёгких"
+      },
+      {
+        "qid": "Q188605",
+        "label": "эмфизема лёгких"
+      },
+      {
+        "qid": "Q47912",
+        "label": "рак лёгкого"
+      },
+      {
+        "qid": "Q12204",
+        "label": "туберкулёз"
+      },
+      {
+        "qid": "Q12192",
+        "label": "пневмония"
+      },
+      {
+        "qid": "Q12152",
+        "label": "инфаркт миокарда"
+      },
+      {
+        "qid": "Q1472",
+        "label": "болезнь Крона"
+      }
+    ],
+    "has_part": [
+      {
+        "qid": "Q7212330",
+        "label": "табакокурение"
+      }
+    ],
+    "subclass_of": [
+      {
+        "qid": "Q110207349",
+        "label": "наркомания"
+      },
+      {
+        "qid": "Q251777",
+        "label": "обычай"
+      }
+    ]
+  },
+  "concept_name": "Курение",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/smoking.md"
+}

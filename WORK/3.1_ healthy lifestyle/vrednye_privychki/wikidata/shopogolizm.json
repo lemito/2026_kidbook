@@ -1,0 +1,22 @@
+{
+  "qid": "Q1140705",
+  "label_ru": "",
+  "label_en": "Aillant-sur-Tholon",
+  "description_ru": "коммуна во Франции",
+  "description_en": "former commune in Yonne, France",
+  "url": "https://www.wikidata.org/wiki/Q1140705",
+  "relations": {
+    "instance_of": [
+      {
+        "qid": "Q21869758",
+        "label": "бывшая коммуна Франции"
+      },
+      {
+        "qid": "Q484170",
+        "label": "коммуна Франции"
+      }
+    ]
+  },
+  "concept_name": "Шопоголизм и импульсивные покупки",
+  "concept_file": "WEB/3.1_healthy lifestyle/vrednye_privychki/articles/shopogolizm.md"
+}

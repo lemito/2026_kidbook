@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <!-- Фон -->
+  <rect width="900" height="500" fill="#ffffff"/>
+  
+  <!-- Пунктирные линии разделения зон -->
+  <line x1="300" y1="50" x2="300" y2="450" stroke="#cccccc" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="600" y1="50" x2="600" y2="450" stroke="#cccccc" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Блок Браузер -->
+  <rect x="50" y="200" width="200" height="120" fill="#ffffff" stroke="#333333" stroke-width="2" rx="5"/>
+  <text x="150" y="265" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#333333">Браузер</text>
+  
+  <!-- Блок DNS -->
+  <rect x="320" y="200" width="260" height="120" fill="#2196F3" stroke="#1976D2" stroke-width="2" rx="5"/>
+  <text x="450" y="240" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#ffffff">DNS</text>
+  <text x="450" y="270" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#ffffff">(Телефонная книга)</text>
+  <!-- Иконка книги -->
+  <rect x="435" y="285" width="30" height="25" fill="none" stroke="#ffffff" stroke-width="2" rx="2"/>
+  <line x1="440" y1="290" x2="440" y2="305" stroke="#ffffff" stroke-width="1.5"/>
+  
+  <!-- Блок Сервер -->
+  <rect x="650" y="200" width="200" height="120" fill="#9E9E9E" stroke="#757575" stroke-width="2" rx="5"/>
+  <text x="750" y="255" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#ffffff">Сервер</text>
+  <text x="750" y="290" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#ffffff">IP-адрес</text>
+  
+  <!-- Синяя стрелка от Браузера к DNS -->
+  <defs>
+    <marker id="arrowheadBlue" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#2196F3"/>
+    </marker>
+  </defs>
+  <line x1="250" y1="240" x2="320" y2="240" stroke="#2196F3" stroke-width="3" marker-end="url(#arrowheadBlue)"/>
+  <text x="285" y="230" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#2196F3">yandex.ru</text>
+  
+  <!-- Зеленая стрелка от DNS к Браузеру (изогнутая) -->
+  <defs>
+    <marker id="arrowheadGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#4CAF50"/>
+    </marker>
+  </defs>
+  <path d="M 320 290 Q 285 320 250 290" fill="none" stroke="#4CAF50" stroke-width="3" marker-end="url(#arrowheadGreen)"/>
+  <text x="285" y="330" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#4CAF50">77.88.55.242</text>
+</svg>

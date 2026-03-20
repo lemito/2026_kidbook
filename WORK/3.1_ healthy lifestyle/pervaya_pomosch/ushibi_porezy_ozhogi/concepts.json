@@ -1,0 +1,270 @@
+[
+  {
+    "section": "3.1_healthy_lifestyle",
+    "topic": "Ушибы, порезы и ожоги",
+    "author_group": "Команда 404",
+    "members": [
+      "Грищенко Владимир",
+      "Акимов Кирилл",
+      "Бачурин Николай",
+      "Косов Всеволод",
+      "Ласточкин Максим",
+      "Савков Игорь"
+    ],
+    "concepts": [
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01",
+        "description": "Определение первой помощи, её задачи, границы и значение для школьников.",
+        "lemmas": [
+          "первая помощь",
+          "определение",
+          "основы",
+          "обж"
+        ],
+        "name": "Что такое первая помощь",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md",
+        "wikidata_id": "Q133981",
+        "author": "Грищенко Владимир"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02",
+        "description": "Цели и ключевые принципы первой помощи: безопасность, своевременность, последовательность.",
+        "lemmas": [
+          "первая помощь",
+          "цели",
+          "принципы",
+          "безопасность"
+        ],
+        "name": "Цели и принципы первой помощи",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md",
+        "wikidata_id": "Q133981",
+        "author": "Грищенко Владимир"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03",
+        "description": "Пошаговый алгоритм действий при любой бытовой травме: осмотр, вызов помощи, наблюдение.",
+        "lemmas": [
+          "первая помощь",
+          "алгоритм",
+          "103",
+          "112",
+          "действия"
+        ],
+        "name": "Алгоритм первой помощи",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md",
+        "wikidata_id": "Q133981",
+        "author": "Грищенко Владимир"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/04",
+        "description": "Что такое ушиб, как он возникает и по каким признакам его можно распознать.",
+        "lemmas": [
+          "ушиб",
+          "признаки",
+          "гематома",
+          "отёк"
+        ],
+        "name": "Ушиб: признаки и особенности",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/04_ushib_chto_eto_priznaki.md",
+        "wikidata_id": "Q574491",
+        "author": "Акимов Кирилл"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/05",
+        "description": "Практические шаги первой помощи при ушибе: покой, холод, положение конечности, наблюдение.",
+        "lemmas": [
+          "ушиб",
+          "первая помощь",
+          "холод",
+          "покой"
+        ],
+        "name": "Первая помощь при ушибе",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/05_pervaya_pomoshch_pri_ushibe.md",
+        "wikidata_id": "Q574491",
+        "author": "Акимов Кирилл"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06",
+        "description": "Признаки опасного ушиба и ситуации, когда требуется травмпункт или врач.",
+        "lemmas": [
+          "ушиб",
+          "врач",
+          "опасность",
+          "травмпункт"
+        ],
+        "name": "Когда при ушибе нужен врач",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md",
+        "wikidata_id": "Q574491",
+        "author": "Акимов Кирилл"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07",
+        "description": "Типичные ошибки при ушибах и объяснение, почему они вредны.",
+        "lemmas": [
+          "ушиб",
+          "ошибки",
+          "нельзя",
+          "мифы"
+        ],
+        "name": "Ошибки при ушибах",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md",
+        "wikidata_id": "Q574491",
+        "author": "Бачурин Николай"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08",
+        "description": "Виды ран: ссадины, порезы, колотые, резаные и рваные повреждения.",
+        "lemmas": [
+          "раны",
+          "ссадина",
+          "порез",
+          "виды"
+        ],
+        "name": "Виды ран и ссадин",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md",
+        "wikidata_id": "Q184753",
+        "author": "Бачурин Николай"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09",
+        "description": "Пошаговая обработка небольших порезов и ссадин в домашних условиях.",
+        "lemmas": [
+          "порез",
+          "ссадина",
+          "обработка",
+          "повязка"
+        ],
+        "name": "Первая помощь при порезе",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md",
+        "wikidata_id": "Q184753",
+        "author": "Бачурин Николай"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10",
+        "description": "Виды кровотечений и способы их остановки до приезда врача.",
+        "lemmas": [
+          "кровотечение",
+          "давящая повязка",
+          "рана",
+          "помощь"
+        ],
+        "name": "Как остановить кровотечение",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md",
+        "wikidata_id": "Q166019",
+        "author": "Косов Всеволод"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/11",
+        "description": "Признаки опасных ран, инородных тел и случаев, когда нужен врач.",
+        "lemmas": [
+          "рана",
+          "врач",
+          "столбняк",
+          "инородное тело"
+        ],
+        "name": "Когда рану нужно показать врачу",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/11_porez_kogda_vrach.md",
+        "wikidata_id": "Q184753",
+        "author": "Косов Всеволод"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/12",
+        "description": "Запреты и частые ошибки при обработке ран и наложении повязок.",
+        "lemmas": [
+          "порез",
+          "ошибки",
+          "перевязка",
+          "антисептик"
+        ],
+        "name": "Чего нельзя делать при порезах",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/12_porez_chego_nelzya.md",
+        "wikidata_id": "Q184753",
+        "author": "Косов Всеволод"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/13",
+        "description": "Виды ожогов, степени и критерии оценки их тяжести.",
+        "lemmas": [
+          "ожог",
+          "виды",
+          "степени",
+          "площадь"
+        ],
+        "name": "Ожоги: виды и степени",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/13_ozhogi_vidy_stepeni.md",
+        "wikidata_id": "Q170518",
+        "author": "Ласточкин Максим"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/14",
+        "description": "Первая помощь при термических и солнечных ожогах.",
+        "lemmas": [
+          "ожог",
+          "первая помощь",
+          "охлаждение",
+          "солнце"
+        ],
+        "name": "Первая помощь при ожоге",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/14_pervaya_pomoshch_pri_ozhoge.md",
+        "wikidata_id": "Q170518",
+        "author": "Ласточкин Максим"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/15",
+        "description": "Тяжёлые, химические и электрические ожоги: когда вызывать скорую.",
+        "lemmas": [
+          "ожог",
+          "химический",
+          "электрический",
+          "скорая"
+        ],
+        "name": "Когда при ожоге нужна скорая",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/15_ozhog_kogda_skoraya.md",
+        "wikidata_id": "Q170518",
+        "author": "Ласточкин Максим"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/16",
+        "description": "Мифы и опасные ошибки при оказании помощи при ожогах.",
+        "lemmas": [
+          "ожог",
+          "ошибки",
+          "мифы",
+          "нельзя"
+        ],
+        "name": "Ошибки при ожогах",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/16_ozhog_chego_nelzya.md",
+        "wikidata_id": "Q170518",
+        "author": "Савков Игорь"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17",
+        "description": "Состав домашней и школьной аптечки для оказания первой помощи.",
+        "lemmas": [
+          "аптечка",
+          "бинт",
+          "пластырь",
+          "антисептик"
+        ],
+        "name": "Аптечка для первой помощи",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md",
+        "wikidata_id": "Q815867",
+        "author": "Савков Игорь"
+      },
+      {
+        "id": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/18",
+        "description": "Мифы о первой помощи и профилактика ушибов, порезов и ожогов.",
+        "lemmas": [
+          "мифы",
+          "профилактика",
+          "первая помощь",
+          "безопасность"
+        ],
+        "name": "Мифы и профилактика",
+        "file": "WEB/3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/18_mify_i_7_pravil.md",
+        "wikidata_id": "Q47157209",
+        "author": "Савков Игорь"
+      }
+    ]
+  }
+]

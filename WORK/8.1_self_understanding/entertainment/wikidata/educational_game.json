@@ -1,0 +1,14 @@
+{
+  "concept_id": "educational_game",
+  "title": "Образовательная игра",
+  "wikidata_id": "Q1141778",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q1141778",
+  "info": {
+    "label": "Чемпионат Италии по футболу (Серия D)",
+    "description": "highest Italian non-professional association football league",
+    "aliases": "Serie D football"
+  },
+  "subclasses": [],
+  "instances": [],
+  "properties": {}
+}

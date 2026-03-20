@@ -1,0 +1,16 @@
+source,target,relation
+C02,C01,forms
+C01,C03,limits
+C03,C06,enables
+C07,C06,drives
+C13,C02,is_type_of
+C04,C03,prioritizes
+C05,C16,increases_risk_of
+C08,C03,affects
+C09,C08,changes
+C10,C08,evaluates
+C10,C11,balances_with
+C12,C03,confirms
+C14,C03,payment_source_for
+C15,C03,payment_source_for
+C04,C05,contrasts_with

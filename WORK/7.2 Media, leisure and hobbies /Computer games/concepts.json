@@ -1,0 +1,438 @@
+[
+  {
+    "section": "7.2 Media, leisure and hobbies",
+    "topic": "Computer games",
+    "author_group": "Команда 17",
+    "members": [
+      "Жданович Елизавета",
+      "Елизаров Дмитрий",
+      "Штанникова Екатерина",
+      "Дзюба Майя",
+      "Андрюхин Артём",
+      "Глебова Мария",
+      "Карачарова Алина"
+    ],
+    "concepts": [
+      {
+        "id": "technologies_inside/screen_magic",
+        "name": "Магия экрана: от лампочки до пикселя",
+        "description": "Как луч пробегает по экрану тысячи раз в секунду, чтобы мы видели картинку",
+        "lemmas": [
+          "экран",
+          "пиксель",
+          "ЭЛТ",
+          "жидкокристаллический дисплей",
+          "LED",
+          "OLED",
+          "частота обновления",
+          "разрешение",
+          "лампочка",
+          "свет"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/technologies_inside/screen_magic.md",
+        "wikidata_id": "Q172674",
+        "author": "Жданович Елизавета"
+      },
+      {
+        "id": "technologies_inside/smart_processor",
+        "name": "Хитрый процессор и быстрая память",
+        "description": "Почему компьютер не путается, когда считает миллионы действий в секунду",
+        "lemmas": [
+          "процессор",
+          "оперативная память",
+          "тактовая частота",
+          "бит",
+          "байт",
+          "вычисления",
+          "материнская плата",
+          "видеокарта",
+          "данные",
+          "алгоритм"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/technologies_inside/smart_processor.md",
+        "wikidata_id": "Q131761",
+        "author": "Жданович Елизавета"
+      },
+      {
+        "id": "technologies_inside/management_history",
+        "name": "Кнопки, джойстики и провода",
+        "description": "История управления: от деревянного руля до геймпада с вибрацией",
+        "lemmas": [
+          "геймпад",
+          "джойстик",
+          "кнопки",
+          "вибрация",
+          "беспроводной",
+          "D-pad",
+          "аналоговый стик",
+          "триггеры",
+          "руль",
+          "контроллер"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/technologies_inside/management_history.md",
+        "wikidata_id": "Q180641",
+        "author": "Жданович Елизавета"
+      },
+      {
+        "id": "how_it_all_started/tennis_on_tv",
+        "name": "Теннис на телевизоре (Pong)",
+        "description": "Как простая точка, летающая по экрану, положила начало целой индустрии",
+        "lemmas": [
+          "Pong",
+          "Atari",
+          "теннис",
+          "аркада",
+          "1972",
+          "Нолан Бушнелл",
+          "приставка",
+          "пинг-понг",
+          "радио",
+          "игровой автомат"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/how_it_all_started/tennis_on_tv.md",
+        "wikidata_id": "Q217410",
+        "author": "Елизаров Дмитрий"
+      },
+      {
+        "id": "how_it_all_started/crisis_and_resurrection",
+        "name": "Кризис и воскрешение (1983, Марио)",
+        "description": "Почему в 1983 году люди перестали покупать игры и как Марио спас индустрию",
+        "lemmas": [
+          "кризис 1983",
+          "Nintendo",
+          "Марио",
+          "Atari",
+          "ET",
+          "перепроизводство",
+          "игровой рынок",
+          "Famicom",
+          "NES",
+          "спасение"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/how_it_all_started/crisis_and_resurrection.md",
+        "wikidata_id": "Q2401653",
+        "author": "Елизаров Дмитрий"
+      },
+      {
+        "id": "how_it_all_started/cartridge_versus_disc",
+        "name": "Картридж против диска",
+        "description": "Битва форматов и как раньше игры загружались по полминуты (а иногда и с кассет)",
+        "lemmas": [
+          "картридж",
+          "диск",
+          "CD",
+          "кассета",
+          "загрузка",
+          "пиратство",
+          "PS1",
+          "Nintendo 64",
+          "Sega",
+          "формат"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/how_it_all_started/cartridge_versus_disc.md",
+        "wikidata_id": "Q237729",
+        "author": "Елизаров Дмитрий"
+      },
+      {
+        "id": "genres_and_worlds/endless_worlds",
+        "name": "Бесконечные миры «песочницы» (Minecraft, GTA)",
+        "description": "Почему в Minecraft и GTA можно делать всё что угодно и как это работает",
+        "lemmas": [
+          "песочница",
+          "открытый мир",
+          "Minecraft",
+          "GTA",
+          "свобода действий",
+          "крафт",
+          "исследование",
+          "геймплей",
+          "нелинейность",
+          "симулятор"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/genres_and_worlds/endless_worlds.md",
+        "wikidata_id": "Q230579",
+        "author": "Штанникова Екатерина"
+      },
+      {
+        "id": "genres_and_worlds/racing_fighting_sports",
+        "name": "Гонки, драки и спорт",
+        "description": "Как игры учат нас соревноваться, не выходя из дома",
+        "lemmas": [
+          "гонки",
+          "файтинг",
+          "спортивный симулятор",
+          "FIFA",
+          "Need for Speed",
+          "Mortal Kombat",
+          "соревнование",
+          "турнир",
+          "мультиплеер",
+          "победа"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/genres_and_worlds/racing_fighting_sports.md",
+        "wikidata_id": "Q239141",
+        "author": "Штанникова Екатерина"
+      },
+      {
+        "id": "genres_and_worlds/strategy",
+        "name": "Стратегии: думаем как полководец",
+        "description": "Почему в некоторых играх главное — не скорость пальцев, а план в голове",
+        "lemmas": [
+          "стратегия",
+          "тактика",
+          "полководец",
+          "RTS",
+          "пошаговая",
+          "ресурсы",
+          "план",
+          "StarCraft",
+          "Civilization",
+          "командование"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/genres_and_worlds/strategy.md",
+        "wikidata_id": "Q357913",
+        "author": "Штанникова Екатерина"
+      },
+      {
+        "id": "heroes_and_villains/famous_plumber",
+        "name": "Знаменитый водопроводчик (Марио)",
+        "description": "История Марио: как простой персонаж стал символом Nintendo и дедушкой всех платформеров",
+        "lemmas": [
+          "Марио",
+          "Nintendo",
+          "водопроводчик",
+          "платформер",
+          "принцесса Пич",
+          "Луиджи",
+          "грибы",
+          "Super Mario",
+          "братья",
+          "спасение"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/heroes_and_villains/famous_plumber.md",
+        "wikidata_id": "Q12370",
+        "author": "Дзюба Майя"
+      },
+      {
+        "id": "heroes_and_villains/main_villains",
+        "name": "Главные злодеи, которых мы любим",
+        "description": "Почему нам нравится проходить игры ради встречи с харизматичным врагом",
+        "lemmas": [
+          "злодей",
+          "Боузер",
+          "Гэндальф",
+          "Джокер",
+          "Гладос",
+          "Вейдер",
+          "антагонист",
+          "харизма",
+          "битва с боссом",
+          "враг"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/heroes_and_villains/main_villains.md",
+        "wikidata_id": "Q11422",
+        "author": "Дзюба Майя"
+      },
+      {
+        "id": "heroes_and_villains/create_your_hero",
+        "name": "Создаем своего героя",
+        "description": "Как редакторы персонажей позволяют нам быть собой или тем, кем мы мечтаем стать",
+        "lemmas": [
+          "редактор персонажа",
+          "кастомизация",
+          "внешность",
+          "скин",
+          "аватар",
+          "RPG",
+          "выбор",
+          "стиль",
+          "одежда",
+          "уникальность"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/heroes_and_villains/create_your_hero.md",
+        "wikidata_id": "Q1441101",
+        "author": "Дзюба Майя"
+      },
+      {
+        "id": "dream_team/screenwriter",
+        "name": "Сценарист: главный storyteller",
+        "description": "Как придумывают сюжеты, от которых невозможно оторваться",
+        "lemmas": [
+          "сценарист",
+          "сюжет",
+          "сторителлинг",
+          "диалоги",
+          "персонажи",
+          "история",
+          "нарратив",
+          "квест",
+          "RPG",
+          "эмоции"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/dream_team/screenwriter.md",
+        "wikidata_id": "Q283966",
+        "author": "Андрюхин Артём"
+      },
+      {
+        "id": "dream_team/artist",
+        "name": "Художник: как рождаются миры",
+        "description": "От наброска на бумаге до 3D-модели, по которой можно бегать",
+        "lemmas": [
+          "художник",
+          "концепт-арт",
+          "3D-модель",
+          "текстура",
+          "дизайн",
+          "набросок",
+          "анимация",
+          "окружение",
+          "персонажи",
+          "визуал"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/dream_team/artist.md",
+        "wikidata_id": "Q134621",
+        "author": "Андрюхин Артём"
+      },
+      {
+        "id": "dream_team/composer",
+        "name": "Композитор и звукорежиссёр",
+        "description": "Почему звук шагов или шелест листвы так же важен, как и графика",
+        "lemmas": [
+          "композитор",
+          "саундтрек",
+          "звукорежиссёр",
+          "звуковые эффекты",
+          "музыка",
+          "атмосфера",
+          "озвучка",
+          "шелест",
+          "шаги",
+          "эмбиент"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/dream_team/composer.md",
+        "wikidata_id": "Q368558",
+        "author": "Андрюхин Артём"
+      },
+      {
+        "id": "game_culture/cosplay",
+        "name": "Косплей: когда герой оживает",
+        "description": "Как фанаты шьют костюмы и становятся похожими на любимых персонажей",
+        "lemmas": [
+          "косплей",
+          "костюм",
+          "фанаты",
+          "персонаж",
+          "фестиваль",
+          "грим",
+          "образ",
+          "перевоплощение",
+          "конвент",
+          "мастерство"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/game_culture/cosplay.md",
+        "wikidata_id": "Q186781",
+        "author": "Глебова Мария"
+      },
+      {
+        "id": "game_culture/esports",
+        "name": "Киберспорт: игра как профессия",
+        "description": "Кто такие профессиональные игроки и можно ли зарабатывать игрой",
+        "lemmas": [
+          "киберспорт",
+          "профессиональный игрок",
+          "турнир",
+          "команда",
+          "тренер",
+          "призовые",
+          "зрители",
+          "стадион",
+          "спорт",
+          "победа"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/game_culture/esports.md",
+        "wikidata_id": "Q300004",
+        "author": "Глебова Мария"
+      },
+      {
+        "id": "game_culture/game_memes",
+        "name": "Мемы из игр",
+        "description": "Почему фраза «All your base are belong to us» стала легендой и как игры проникают в интернет-юмор",
+        "lemmas": [
+          "мем",
+          "интернет-юмор",
+          "All your base",
+          "шутка",
+          "гифка",
+          "видеоигры",
+          "культура",
+          "фраза",
+          "легенда",
+          "паста"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/game_culture/game_memes.md",
+        "wikidata_id": "Q26898",
+        "author": "Глебова Мария"
+      },
+      {
+        "id": "useful_tips/eyes_and_back",
+        "name": "Глаза и спина: правила выживания",
+        "description": "Как правильно сидеть, чтобы после игры не болела шея, и почему важно моргать",
+        "lemmas": [
+          "здоровье",
+          "осанка",
+          "глаза",
+          "спина",
+          "шея",
+          "моргание",
+          "перерыв",
+          "зарядка",
+          "освещение",
+          "расстояние до экрана"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/useful_tips/eyes_and_back.md",
+        "wikidata_id": "Q300571",
+        "author": "Карачарова Алина"
+      },
+      {
+        "id": "useful_tips/toxic_players",
+        "name": "Токсичные игроки и как с ними быть",
+        "description": "Что делать, если в игре тебя оскорбляют, и почему не стоит отвечать тем же",
+        "lemmas": [
+          "токсичность",
+          "оскорбления",
+          "чат",
+          "троллинг",
+          "игроки",
+          "этикет",
+          "безопасность",
+          "блокировка",
+          "жалоба",
+          "спокойствие"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/useful_tips/toxic_players.md",
+        "wikidata_id": "Q110910",
+        "author": "Карачарова Алина"
+      },
+      {
+        "id": "useful_tips/educational_games",
+        "name": "Игры для развития ума",
+        "description": "Обзор головоломок, квестов и обучающих игр, которые делают нас умнее",
+        "lemmas": [
+          "обучающие игры",
+          "головоломки",
+          "квесты",
+          "развитие",
+          "ум",
+          "логика",
+          "память",
+          "внимание",
+          "стратегия",
+          "портал"
+        ],
+        "file": "WEB/7.2 Media, leisure and hobbies/Computer games/articles/useful_tips/educational_games.md",
+        "wikidata_id": "Q1632530",
+        "author": "Карачарова Алина"
+      }
+    ]
+  }
+]
