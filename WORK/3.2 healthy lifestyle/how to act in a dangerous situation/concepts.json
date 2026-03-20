@@ -4,10 +4,10 @@
     "topic": "Как действовать в опасной ситуации",
     "author_group": "Группа 3.2",
     "members": [
-      "Участник 1",
-      "Участник 2",
-      "Участник 3",
-      "Участник 4"
+      "Тутаев Владимир",
+      "Вельма Андрей",
+      "Глумов Николай",
+      "Чибугаев Илья"
     ],
     "concepts": [
       {
@@ -17,7 +17,7 @@
         "name": "Пожар дома",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/fire-at-home.md",
         "wikidata_id": "Q3196",
-        "author": "Участник 1"
+        "author": "Глумов Николай"
       },
       {
         "id": "3.2/smoke-in-entrance",
@@ -26,7 +26,7 @@
         "name": "Дым в подъезде",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/smoke-in-entrance.md",
         "wikidata_id": "Q82794",
-        "author": "Участник 1"
+        "author": "Вельма Андрей"
       },
       {
         "id": "3.2/building-evacuation",
@@ -35,7 +35,7 @@
         "name": "Эвакуация из здания",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/building-evacuation.md",
         "wikidata_id": "Q25666",
-        "author": "Участник 1"
+        "author": "Тутаев Владимир"
       },
       {
         "id": "3.2/lost-in-city",
@@ -44,7 +44,7 @@
         "name": "Потерялся в городе",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md",
         "wikidata_id": null,
-        "author": "Участник 2"
+        "author": "Вельма Андрей"
       },
       {
         "id": "3.2/stranger-safety",
@@ -53,7 +53,7 @@
         "name": "Незнакомец на улице",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/stranger-safety.md",
         "wikidata_id": null,
-        "author": "Участник 2"
+        "author": "Чибугаев Илья"
       },
       {
         "id": "3.2/emergency-112",
@@ -62,7 +62,7 @@
         "name": "Экстренный номер 112",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/emergency-112.md",
         "wikidata_id": "Q257373",
-        "author": "Участник 2"
+        "author": "Глумов Николай"
       },
       {
         "id": "3.2/internet-safety",
@@ -71,7 +71,7 @@
         "name": "Безопасность в интернете",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/internet-safety.md",
         "wikidata_id": "Q58824043",
-        "author": "Участник 3"
+        "author": "Глумов Николай"
       },
       {
         "id": "3.2/cyberbullying",
@@ -80,7 +80,7 @@
         "name": "Кибербуллинг",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/cyberbullying.md",
         "wikidata_id": "Q23052331",
-        "author": "Участник 3"
+        "author": "Тутаев Владимир"
       },
       {
         "id": "3.2/phishing-links",
@@ -89,7 +89,7 @@
         "name": "Подозрительные ссылки",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/phishing-links.md",
         "wikidata_id": "Q22668",
-        "author": "Участник 3"
+        "author": "Вельма Андрей"
       },
       {
         "id": "3.2/thunderstorm-safety",
@@ -98,7 +98,7 @@
         "name": "Гроза на улице",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/thunderstorm-safety.md",
         "wikidata_id": "Q193",
-        "author": "Участник 4"
+        "author": "Чибугаев Илья"
       },
       {
         "id": "3.2/thin-ice",
@@ -107,7 +107,7 @@
         "name": "Тонкий лед",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/thin-ice.md",
         "wikidata_id": null,
-        "author": "Участник 4"
+        "author": "Чибугаев Илья"
       },
       {
         "id": "3.2/dog-bite-first-aid",
@@ -116,7 +116,7 @@
         "name": "Укус собаки и первая помощь",
         "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/dog-bite-first-aid.md",
         "wikidata_id": "Q1971622",
-        "author": "Участник 4"
+        "author": "Тутаев Владимир"
       }
     ]
   }
