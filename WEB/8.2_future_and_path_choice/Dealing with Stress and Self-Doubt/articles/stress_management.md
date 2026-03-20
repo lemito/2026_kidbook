@@ -71,9 +71,30 @@
 
 ---
 
-**Авторы:** Анна, @Henrygrimm
+## Навигация по серии статей
 
-**Нейросети, использованные при создании статьи:** ChatGPT 🤖
+# Методы управления стрессом 🧘‍♂️💪
 
+## Навигация по серии статей
+[Понимание стресса и его влияние 😰💡](./stress_effect.md)
+[Причины неуверенности и сомнений 🤔💭](./insecurity_causes.md)
+Методы управления стрессом 🧘‍♂️💪
+[Когнитивные искажения и самокритика](./cognitive_distortions_and_self_criticism.md)
+[Постановка целей и снижение тревожности](./goal_setting_and_anxiety.md)
+[Прокрастинация и её связь со стрессом](./procrastination_and_stress.md)
+[Социальное сравнение и его последствия](./social_comparison.md)
+[Поддержка и помощь со стороны окружающих](./support_and_help.md)
+[Формирование устойчивости к стрессу](./building_resilience.md)
+[Влияние стресса на здоровье](./stress_health.md)
+[Роль эмоций в принятии решений](./emotions_decisions.md)
+[Психология страха и тревожности](./fear_anxiety_psychology.md)
+[Развитие уверенности](./confidence_development.md)
+[Влияние окружения на самооценку](./environment_influence_on_self_esteem.md)
+[Релаксация и восстановление](./relaxation_and_recovery.md)
 ---
 
+**Авторы:** Анна, @Henrygrimm
+
+*Ресурсы: LLM - GPT-4* 🤖
+
+---
