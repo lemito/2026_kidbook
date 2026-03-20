@@ -1,3 +1,0 @@
-# KidBook Home
-
-...
