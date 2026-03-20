@@ -1,0 +1,239 @@
+{
+  "section": "5.1_technology_and_digital_literacy",
+  "topic": "man_in_the_age_of_algorithms",
+  "author_group": "команда 152",
+  "members": [
+    "Ветошкина София",
+    "Махмутов Дэниз",
+    "Рожков Павел",
+    "Слободин Никита",
+    "Степанов Никита"
+  ],
+  "concepts": [
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/сокращение_внимания",
+      "description": "Внимание — не одна кнопка, а целая система управления: что заметить, что игнорировать, на чём удержаться, когда переключиться. Уведомления, бесконечная лента, яркий контент и недосып — всё это мешает мозгу удерживаться на одной задаче. Статья объясняет, почему кажется, что внимание «сократилось», и что на самом деле происходит при частых переключениях.",
+      "lemmas": [
+        "внимание",
+        "переключение",
+        "уведомления",
+        "усталость"
+      ],
+      "name": "Сокращение внимания: почему мозг устаёт и «просит новое»",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/1-Сокращение_внимания_почему_мозг_устает.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/Сокращение_внимания_почему_мозг_устает_image_1.png",
+      "wikidata_id": "Q1064958",
+      "author": "Ветошкина София"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/клиповое_мышление",
+      "description": "Клиповое мышление — это привычка воспринимать информацию короткими фрагментами: заголовок, сторис, короткое видео, комментарий, картинка. Это не «тупость» и не «лень», а адаптация мозга к миру, где информации слишком много. Статья разбирает, почему клиповое мышление возникло, чем оно полезно, где мешает и как сочетать его с глубоким мышлением.",
+      "lemmas": [
+        "клип",
+        "мышление",
+        "лента",
+        "фрагмент"
+      ],
+      "name": "Клиповое мышление: когда мир выглядит как лента",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/1-Клиповое_мышление_когда_мир_выглядит_как_лента.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/Клиповое_мышление_когда_мир_выглядит_как_лента_image_1.png",
+      "wikidata_id": "Q860326",
+      "author": "Ветошкина София"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/как_прокачать_внимание",
+      "description": "Внимание — это навык, а не хрустальная ваза. Его можно тренировать: настроить среду, убрать отвлечения, учиться короткими блоками и постепенно увеличивать время фокуса. Статья предлагает практические способы для школьника: техника Помодоро, метод «один экран», ритуал входа и челлендж на неделю.",
+      "lemmas": [
+        "фокус",
+        "тренировка",
+        "помодоро",
+        "привычка"
+      ],
+      "name": "Как прокачать внимание и приручить клипы",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/1-Как_прокачать_внимание_и_приручить_клипы.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/Как_прокачать_внимание_и_приручить_клипы_image_1.png",
+      "wikidata_id": "Q211198",
+      "author": "Ветошкина София"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/дофаминовая_петля",
+      "description": "Дофамин — не гормон «удовольствия», а гормон предвкушения. Соцсети используют механизм вариативного вознаграждения (эффект казино), чтобы удерживать внимание пользователя как можно дольше. Статья объясняет, как интерфейсы приложений взаимодействуют с системой вознаграждения мозга и что такое экономика внимания.",
+      "lemmas": [
+        "дофамин",
+        "вознаграждение",
+        "внимание",
+        "алгоритм"
+      ],
+      "name": "Дофаминовая петля: как алгоритмы управляют твоим вниманием",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/2-Дофаминовая петля.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/Дофаминовая петля_image_1.jpg",
+      "wikidata_id": "Q170304",
+      "author": "Слободин Никита"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/как_работают_рекомендации",
+      "description": "Рекомендательные системы — сложные математические алгоритмы, которые превращают действия пользователя в предсказания. Они анализируют лайки, время просмотра, скорость прокрутки и множество других сигналов, создавая «цифрового двойника». Статья рассказывает о коллаборативной фильтрации, фильтрации по содержимому и эффекте «чёрного ящика».",
+      "lemmas": [
+        "рекомендация",
+        "алгоритм",
+        "фильтрация",
+        "лента"
+      ],
+      "name": "Как работают рекомендации: от клика до «умной» ленты",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/2-Как работают рекомендации.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/Как работают рекомендации_image_1.png",
+      "wikidata_id": "Q554950",
+      "author": "Слободин Никита"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/эхо_камера",
+      "description": "Эхо-камера — ситуация, в которой информация подкрепляется путём повторения внутри закрытой системы, а альтернативные точки зрения не доходят до адресата. Алгоритмы соцсетей создают «пузырь фильтров», где пользователь видит только то, что ему нравится. Статья разбирает предвзятость подтверждения, радикализацию контента и способы «лопнуть» пузырь.",
+      "lemmas": [
+        "эхо-камера",
+        "пузырь",
+        "предвзятость",
+        "радикализация"
+      ],
+      "name": "Ловушка «Эхо-камеры»: почему интернет нам поддакивает",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/2-Ловушка.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/Ловушка_image_1.jpg",
+      "wikidata_id": "Q3334446",
+      "author": "Слободин Никита"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/цифровая_идентичность",
+      "description": "Цифровая идентичность — это совокупность всех проявлений личности в цифровом мире: профили, контент, общение и активность. У одного человека может быть несколько разных образов на разных платформах, и это нормально. Статья рассказывает о компонентах цифровой личности, связи онлайн и офлайн идентичности и этапах её развития.",
+      "lemmas": [
+        "идентичность",
+        "профиль",
+        "личность",
+        "платформа"
+      ],
+      "name": "Цифровая идентичность: кто ты в интернете",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/3-Цифровая идентичность.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/1.png",
+      "wikidata_id": "Q4167836",
+      "author": "Степанов Никита"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/онлайн_профиль",
+      "description": "Онлайн-профиль — это цифровая визитная карточка, которая представляет тебя в интернете. Умение правильно создавать и поддерживать профиль — важный навык: от выбора никнейма и аватара до настройки приватности и цифровой гигиены. Статья даёт практические рекомендации по управлению контентом и защите личных данных.",
+      "lemmas": [
+        "профиль",
+        "никнейм",
+        "приватность",
+        "контент"
+      ],
+      "name": "Создание и управление онлайн-профилем: твоя цифровая визитная карточка",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/3-Создание и управление онлайн-профилем.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/2.png",
+      "wikidata_id": "Q847263",
+      "author": "Степанов Никита"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/цифровое_самовыражение",
+      "description": "Цифровое самовыражение — это способность показать свою уникальную личность, таланты и идеи через онлайн-платформы. Интернет предоставляет безграничные возможности для творчества: визуального, аудиального, текстового, видео и интерактивного. Статья рассказывает о платформах, развитии навыков, поиске стиля и балансе между творчеством и безопасностью.",
+      "lemmas": [
+        "самовыражение",
+        "творчество",
+        "контент",
+        "стиль"
+      ],
+      "name": "Цифровое самовыражение и творчество: найди свой голос в интернете",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/3-Цифровое самовыражение и творчество.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/3.png",
+      "wikidata_id": "Q1778022",
+      "author": "Степанов Никита"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/внешняя_память",
+      "description": "Интернет стал главным хранилищем знаний, заменив энциклопедии и библиотеки. Мы запоминаем не сами ответы, а пути доступа к ним — это называется «эффект Google». Статья рассказывает о транзактивной памяти, ограничениях биологической памяти, плюсах и рисках зависимости от внешних цифровых хранилищ.",
+      "lemmas": [
+        "память",
+        "поисковик",
+        "запоминание",
+        "информация"
+      ],
+      "name": "Внешняя память: интернет как жёсткий диск нашего мозга",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/4-internet_memory.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/image.png",
+      "wikidata_id": "Q48319",
+      "author": "Махмутов Дэниз"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/коллективный_интеллект",
+      "description": "Коллективный интеллект — это способность человеческих групп сотрудничать в интеллектуальной деятельности. Интернет превратил его в глобальное явление: Wikipedia, Stack Overflow, OpenStreetMap и YouTube показывают, как миллионы людей создают общее знание. Статья также разбирает угрозы — эхо-камеры и пузыри фильтров — и способы проверки информации.",
+      "lemmas": [
+        "интеллект",
+        "знание",
+        "сообщество",
+        "проверка"
+      ],
+      "name": "Коллективный интеллект: как миллионы умов создают общее знание",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/4-internet_collective_intelligence.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/image-1.png",
+      "wikidata_id": "Q1123413",
+      "author": "Махмутов Дэниз"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/трансформация_мышления",
+      "description": "Интернет изменил не только хранилища информации, но и сам способ мышления. Мы по-другому читаем (F-образное чтение), по-другому запоминаем и по-другому принимаем решения. Статья сравнивает «книжное» и «клиповое» мышление, развенчивает миф о многозадачности и предлагает приёмы информационной гигиены и критического мышления.",
+      "lemmas": [
+        "мышление",
+        "чтение",
+        "многозадачность",
+        "критичность"
+      ],
+      "name": "Трансформация мышления: как интернет меняет наши когнитивные способности",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/4-internet_thinking_transformation.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/image-2.png",
+      "wikidata_id": "Q48540",
+      "author": "Махмутов Дэниз"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/обман_в_интернете_нейросети",
+      "description": "Развитие нейросетей и генеративных моделей создало новые риски: в сети становится всё легче распространять ложную информацию, а пользователям сложнее отличать настоящий контент от искусственного. Статья рассматривает генерацию текстов и изображений, deepfake-технологии, масштаб информационного шума и способы защиты через критическое мышление.",
+      "lemmas": [
+        "нейросеть",
+        "deepfake",
+        "дезинформация",
+        "фактчекинг"
+      ],
+      "name": "Обман в интернете в эпоху нейросетей",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/5-ai_internet_deception_article.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/deepfake.webp",
+      "wikidata_id": "Q11660",
+      "author": "Рожков Павел"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/нейросети_в_повседневной_жизни",
+      "description": "Нейросети становятся «цифровым помощником», который способен анализировать большие объёмы информации и предлагать решения за считанные секунды. Статья рассматривает основные области применения: помощь в программировании, решение математических задач, написание текстов, обучение и повседневную продуктивность.",
+      "lemmas": [
+        "нейросеть",
+        "помощник",
+        "обучение",
+        "продуктивность"
+      ],
+      "name": "Нейросети в повседневной жизни: как искусственный интеллект помогает людям",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/5-ai_daily_life.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/i.webp",
+      "wikidata_id": "Q2539",
+      "author": "Рожков Павел"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/ии_и_будущее_труда",
+      "description": "Развитие искусственного интеллекта вызывает вопрос: сможет ли он полностью заменить человека на рабочем месте. Статья рассматривает автоматизацию рутинных задач, трансформацию существующих профессий, ограничения ИИ, появление новых специальностей и наиболее вероятный сценарий — сотрудничество человека и машины.",
+      "lemmas": [
+        "автоматизация",
+        "профессия",
+        "труд",
+        "сотрудничество"
+      ],
+      "name": "Сможет ли искусственный интеллект заменить человека на рабочем месте",
+      "file": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/articles/5-ai_replace_humans_work.md",
+      "image": "WEB/5.1_technology_and_digital_literacy/man_in_the_age_of_algorithms/images/ii_vs_man.png",
+      "wikidata_id": "Q11661",
+      "author": "Рожков Павел"
+    }
+  ]
+}
