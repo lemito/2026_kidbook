@@ -118,3 +118,8 @@ flowchart TB
 * [Прерывания](interrupt.md)
 * [Слой аппаратных абстракций](HAL.md)
 * [Файловая система](file_system.md)
+
+---
+
+**Автор**: [Воронухин Никита](https://github.com/DeZtrOiD)
+**LLM - Deepseek**
