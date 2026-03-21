@@ -1,0 +1,434 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Суэцкий канал",
+        "description": "Важное узкое место мировой торговли.",
+        "marker-color": "#b22222",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.55,
+          30.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Панамский канал",
+        "description": "Важное узкое место мировой торговли.",
+        "marker-color": "#b22222",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6,
+          9.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ормузский пролив",
+        "description": "Важное узкое место мировой торговли.",
+        "marker-color": "#b22222",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25,
+          26.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Малаккский пролив",
+        "description": "Важное узкое место мировой торговли.",
+        "marker-color": "#b22222",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8,
+          2.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Босфор",
+        "description": "Важное узкое место мировой торговли.",
+        "marker-color": "#b22222",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.06,
+          41.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Дарданеллы",
+        "description": "Важное узкое место мировой торговли.",
+        "marker-color": "#b22222",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4,
+          40.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Шанхай",
+        "description": "Важный торговый узел мировой экономики.",
+        "marker-color": "#2e8b57",
+        "marker-size": "medium",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49,
+          31.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Сингапур",
+        "description": "Важный торговый узел мировой экономики.",
+        "marker-color": "#2e8b57",
+        "marker-size": "medium",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82,
+          1.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Роттердам",
+        "description": "Важный торговый узел мировой экономики.",
+        "marker-color": "#2e8b57",
+        "marker-size": "medium",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.48,
+          51.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Лос-Анджелес",
+        "description": "Важный торговый узел мировой экономики.",
+        "marker-color": "#2e8b57",
+        "marker-size": "medium",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25,
+          34.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Дубай / Джебель-Али",
+        "description": "Важный торговый узел мировой экономики.",
+        "marker-color": "#2e8b57",
+        "marker-size": "medium",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          25.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Азия — Европа",
+        "description": "Один из ключевых маршрутов современной глобальной торговли.",
+        "stroke": "#2c7fb8",
+        "stroke-width": 3,
+        "stroke-opacity": 0.85
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.49,
+            31.23
+          ],
+          [
+            116,
+            25
+          ],
+          [
+            108,
+            18
+          ],
+          [
+            102.8,
+            2.5
+          ],
+          [
+            85,
+            10
+          ],
+          [
+            62,
+            16
+          ],
+          [
+            56.25,
+            26.57
+          ],
+          [
+            50,
+            24
+          ],
+          [
+            43,
+            13
+          ],
+          [
+            32.55,
+            30.5
+          ],
+          [
+            14,
+            36
+          ],
+          [
+            4.48,
+            51.92
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Азия — Северная Америка",
+        "description": "Один из ключевых маршрутов современной глобальной торговли.",
+        "stroke": "#2c7fb8",
+        "stroke-width": 3,
+        "stroke-opacity": 0.85
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.49,
+            31.23
+          ],
+          [
+            135,
+            33
+          ],
+          [
+            160,
+            38
+          ],
+          [
+            -150,
+            37
+          ],
+          [
+            -130,
+            36
+          ],
+          [
+            -118.25,
+            34.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Атлантика — Тихий океан через Панаму",
+        "description": "Один из ключевых маршрутов современной глобальной торговли.",
+        "stroke": "#2c7fb8",
+        "stroke-width": 3,
+        "stroke-opacity": 0.85
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74,
+            40
+          ],
+          [
+            -79.6,
+            9.1
+          ],
+          [
+            -100,
+            20
+          ],
+          [
+            -118.25,
+            34.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Персидский залив — Азия",
+        "description": "Один из ключевых маршрутов современной глобальной торговли.",
+        "stroke": "#2c7fb8",
+        "stroke-width": 3,
+        "stroke-opacity": 0.85
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.0,
+            25.0
+          ],
+          [
+            56.25,
+            26.57
+          ],
+          [
+            70,
+            18
+          ],
+          [
+            86,
+            10
+          ],
+          [
+            102.8,
+            2.5
+          ],
+          [
+            103.82,
+            1.29
+          ],
+          [
+            121.49,
+            31.23
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Черное море — Средиземное море",
+        "description": "Один из ключевых маршрутов современной глобальной торговли.",
+        "stroke": "#2c7fb8",
+        "stroke-width": 3,
+        "stroke-opacity": 0.85
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37,
+            45
+          ],
+          [
+            33,
+            43
+          ],
+          [
+            29.06,
+            41.17
+          ],
+          [
+            26.4,
+            40.2
+          ],
+          [
+            22,
+            37
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Европа — Северная Америка",
+        "description": "Один из ключевых маршрутов современной глобальной торговли.",
+        "stroke": "#2c7fb8",
+        "stroke-width": 3,
+        "stroke-opacity": 0.85
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.48,
+            51.92
+          ],
+          [
+            -20,
+            52
+          ],
+          [
+            -50,
+            46
+          ],
+          [
+            -74,
+            40
+          ]
+        ]
+      }
+    }
+  ]
+}

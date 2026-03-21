@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Лондон",
+        "description": "Великобритания — крупнейший получатель помощи: 3 189,8 млн долларов.",
+        "marker-color": "#4f81bd",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Париж",
+        "description": "Франция — один из главных получателей. В Париже координировали европейский ответ и работу OEEC.",
+        "marker-color": "#4f81bd",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Рим",
+        "description": "Италия — один из крупнейших получателей помощи и важный политический кейс холодной войны.",
+        "marker-color": "#4f81bd",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Бонн / Западная Германия",
+        "description": "Западная Германия вошла в систему ERP в 1949 году и стала одним из крупнейших получателей помощи.",
+        "marker-color": "#4f81bd",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0982,
+          50.7374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Мадрид",
+        "description": "Испания при Франко не была приглашена к участию в плане Маршалла.",
+        "marker-color": "#f0c987",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Прага",
+        "description": "Страны Восточной Европы не вошли в план: СССР выступил против и надавил на союзников.",
+        "marker-color": "#9e9e9e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      }
+    }
+  ]
+}
