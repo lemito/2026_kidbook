@@ -1,0 +1,65 @@
+source,target,relation,explanation
+cat_search_practice,topic_search,part_of,Категория входит в общую тему поиска и проверки информации
+cat_verification,topic_search,part_of,Категория входит в общую тему поиска и проверки информации
+cat_risks,topic_search,part_of,Категория входит в общую тему поиска и проверки информации
+cat_management,topic_search,part_of,Категория входит в общую тему поиска и проверки информации
+cat_security,topic_search,part_of,Категория входит в общую тему поиска и проверки информации
+cat_ethics,topic_search,part_of,Категория входит в общую тему поиска и проверки информации
+information_search,cat_search_practice,instance_of,Базовое понятие о самом процессе поиска
+social_networks,cat_search_practice,instance_of,Поиск в соцсетях как частный случай цифрового поиска
+search_operations,cat_search_practice,instance_of,Инструмент точного формулирования запроса
+wikipedia,cat_search_practice,instance_of,Стартовая точка для знакомства с темой и поиска источников
+science,cat_search_practice,instance_of,Специализированный поиск научной информации
+three_whales,cat_verification,instance_of,Правило быстрой оценки надежности источника
+original_source,cat_verification,instance_of,Ключевой объект для проверки правдивости пересказов
+fake_news,cat_verification,instance_of,Классический объект проверки и разоблачения
+deepfake,cat_verification,instance_of,Особый случай проверки медиаконтента
+authority,cat_risks,instance_of,Когнитивное искажение мешающее объективной оценке
+bubble_filter,cat_risks,instance_of,Алгоритмическое ограничение видимой картины мира
+information_hygiene,cat_management,instance_of,Практики управления потоком контента и вниманием
+reading_long_texts,cat_management,instance_of,Практики работы с длинными материалами
+second_mind,cat_management,instance_of,Система хранения и повторного использования найденного
+cooperative_work,cat_management,instance_of,Организация коллективной обработки информации
+digital_footprint,cat_security,instance_of,След который пользователь оставляет в цифровой среде
+vpn_dns_proxy,cat_security,instance_of,Средства повышения приватности и защиты трафика
+copypaste,cat_ethics,instance_of,Проблема некорректного заимствования и плагиата
+copyright,cat_ethics,instance_of,Правовые и этические правила использования контента
+search_operations,information_search,specializes,Поисковые операторы уточняют общий процесс поиска
+social_networks,information_search,context_of,Соцсети являются отдельной средой для поиска информации
+science,information_search,specializes,Научный подход задает более строгий вариант поиска
+wikipedia,information_search,supports,Википедия помогает быстро войти в тему перед углубленным поиском
+three_whales,information_search,evaluates_results_of,Три кита помогают оценивать найденные результаты
+original_source,information_search,target_of,Поиск часто направлен на нахождение первоисточника
+three_whales,original_source,helps_find,Проверка автора даты и ссылок ведет к поиску исходного сообщения
+wikipedia,original_source,points_to,Разделы источников и примечаний ведут к первоисточникам и надежным ссылкам
+fake_news,original_source,debunked_by,Фейковую новость проверяют через поиск исходного документа или события
+deepfake,original_source,debunked_by,Поддельное видео проверяют через официальную публикацию и исходный контекст
+fake_news,three_whales,checked_by,Фейковые новости удобно проверять по автору дате и ссылкам
+fake_news,authority,amplified_by,Ложные новости сильнее действуют когда ссылаются на мнимый авторитет
+fake_news,bubble_filter,amplified_by,Алгоритмы усиливают распространение сенсационного и подтверждающего контента
+deepfake,fake_news,subtype_of,Дипфейк является особым видом фальсифицированного медиаконтента
+deepfake,authority,exploits,Дипфейки часто используют узнаваемые лица и доверие к ним
+authority,three_whales,mitigated_by,Проверка автора даты и ссылок снижает слепое доверие к статусу
+authority,original_source,mitigated_by,Обращение к первоисточнику помогает отделять слова авторитета от фактов
+bubble_filter,social_networks,arises_in,Фильтровый пузырь особенно заметен в алгоритмических лентах и поиске в соцсетях
+bubble_filter,information_hygiene,mitigated_by,Информационная гигиена помогает осознанно расширять круг источников
+bubble_filter,search_operations,mitigated_by,Точный осознанный поиск помогает выходить за пределы персонализированной ленты
+information_hygiene,social_networks,regulates_use_of,Гигиена информации помогает не растворяться в лентах и уведомлениях
+information_hygiene,reading_long_texts,balances,Привычка к вдумчивому чтению уравновешивает поверхностное потребление контента
+reading_long_texts,information_search,supports,Умение читать длинные тексты нужно для глубокой проверки и понимания темы
+second_mind,information_search,stores_results_of,Внешняя память сохраняет найденные материалы и выводы
+second_mind,reading_long_texts,supports,Заметки и конспекты помогают усваивать длинные тексты
+cooperative_work,second_mind,shared_form_of,Общие документы и базы знаний делают внешнюю память коллективной
+cooperative_work,information_search,distributed_form_of,Поиск можно распределять по ролям внутри команды
+cooperative_work,three_whales,uses,Совместная работа выигрывает от общих критериев надежности источников
+copypaste,copyright,violates,Копипаст без разрешения и атрибуции нарушает правила авторского права
+copypaste,original_source,requires_reference_to,Корректный пересказ и цитирование требуют указания исходного источника
+copyright,original_source,protects,Авторское право связывает материал с его автором и исходной публикацией
+wikipedia,copyright,requires_care_with,Материалы Википедии можно использовать только с учетом лицензий и атрибуции
+digital_footprint,social_networks,generated_in,Соцсети являются одним из главных источников цифрового следа
+digital_footprint,information_hygiene,managed_by,Осознанные привычки публикации и потребления снижают вред цифрового следа
+vpn_dns_proxy,digital_footprint,reduces_exposure_of,Средства приватности уменьшают наблюдаемость запросов и поведения
+vpn_dns_proxy,information_search,secures,Безопасный доступ важен когда поиск ведется в чужих сетях или под наблюдением
+science,three_whales,extends,Научный подход добавляет к базовой проверке требования к методам и публикациям
+science,original_source,depends_on,Научная добросовестность требует обращения к статьям данным и исследованиям
+science,fake_news,counters,Научный подход помогает отличать доказательства от лженауки и сенсаций

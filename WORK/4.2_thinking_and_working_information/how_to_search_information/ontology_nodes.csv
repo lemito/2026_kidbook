@@ -1,0 +1,27 @@
+id,label,kind,description,source_article
+topic_search,Поиск и проверка информации,topic,Корневая тема раздела,
+cat_search_practice,Поисковые практики,category,Способы искать и уточнять информацию,
+cat_verification,Проверка достоверности,category,Способы оценивать надежность и истинность сведений,
+cat_risks,Информационные риски и искажения,category,Факторы которые мешают видеть полную и точную картину,
+cat_management,Управление информацией,category,Приемы хранения чтения и совместной обработки информации,
+cat_security,Безопасность и приватность,category,Защита данных и безопасное поведение в цифровой среде,
+cat_ethics,Этика и право,category,Правила законного и корректного использования чужих материалов,
+digital_footprint,Цифровой след,concept,Данные которые человек оставляет в интернете активно и пассивно,WEB/4.2/how_to_search_information/articles/digital_footprint.md
+social_networks,Социальные сети и интернет,concept,Поиск и проверка информации внутри соцсетей и сетевых платформ,WEB/4.2/how_to_search_information/articles/social_networks.md
+vpn_dns_proxy,VPN DNS Proxy: анонимность и безопасность,concept,Инструменты приватного и более безопасного доступа к интернету,WEB/4.2/how_to_search_information/articles/vpn_dns_proxy_anonymity_and_security.md
+authority,Эффект авторитета,concept,Склонность доверять статусу и влиянию без достаточной проверки,WEB/4.2/how_to_search_information/articles/authority.md
+bubble_filter,Пузырь фильтров,concept,Алгоритмическая и социальная изоляция от альтернативных точек зрения,WEB/4.2/how_to_search_information/articles/buble_filter.md
+deepfake,Как отличить реальность от DeepFake,concept,Распознавание ИИ-подделок изображений видео и аудио,WEB/4.2/how_to_search_information/articles/deepfake.md
+copypaste,Копипаст и плагиат,concept,Проблема некорректного заимствования и правила пересказа и цитирования,WEB/4.2/how_to_search_information/articles/copypaste.md
+information_hygiene,Информационная гигиена,concept,Осознанное потребление контента и защита внимания от перегрузки,WEB/4.2/how_to_search_information/articles/information_hygiene.md
+reading_long_texts,Как читать длинные тексты,concept,Техники скимминга сканирования и углубленного чтения,WEB/4.2/how_to_search_information/articles/skimming_and_in_depth_reading.md
+cooperative_work,Совместная работа в сети,concept,Коллективный сбор обсуждение и редактирование информации,WEB/4.2/how_to_search_information/articles/cooperative_work.md
+copyright,Цифровой этикет и авторское право,concept,Правила лицензирования атрибуции и корректного использования контента,WEB/4.2/how_to_search_information/articles/copyright.md
+second_mind,Внешняя память,concept,Система заметок закладок и хранилищ для найденной информации,WEB/4.2/how_to_search_information/articles/second_mind.md
+information_search,Поиск информации,concept,Базовый процесс постановки запроса поиска сравнения и проверки ответов,WEB/4.2/how_to_search_information/articles/information_search.md
+search_operations,Поисковые операторы,concept,Точные команды и синтаксис для уточнения поисковой выдачи,WEB/4.2/how_to_search_information/articles/search_operations.md
+original_source,Первоисточник,concept,Самая ранняя или исходная форма сообщения документа фото или свидетельства,WEB/4.2/how_to_search_information/articles/original_source.md
+fake_news,Фейк-ньюс и кликбейт,concept,Ложные или искаженные новости и приемы привлечения кликов,WEB/4.2/how_to_search_information/articles/fake_news.md
+science,Научный подход,concept,Поиск научных публикаций и различение науки и псевдонауки,WEB/4.2/how_to_search_information/articles/science.md
+three_whales,Три кита надежности,concept,Быстрая проверка источника по автору дате и ссылкам,WEB/4.2/how_to_search_information/articles/three_whales.md
+wikipedia,Как пользоваться Википедией,concept,Использование Википедии как отправной точки а не финального доказательства,WEB/4.2/how_to_search_information/articles/wikipedia.md

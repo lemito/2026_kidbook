@@ -1,0 +1,115 @@
+flowchart TD
+    topic["Поиск и проверка информации"]
+
+    search["Поисковые практики"]
+    verify["Проверка достоверности"]
+    risks["Информационные риски и искажения"]
+    manage["Управление информацией"]
+    security["Безопасность и приватность"]
+    ethics["Этика и право"]
+
+    info_search["Поиск информации"]
+    social["Социальные сети и интернет"]
+    ops["Поисковые операторы"]
+    wiki["Как пользоваться Википедией"]
+    science["Научный подход"]
+
+    whales["Три кита надежности"]
+    origin["Первоисточник"]
+    fake["Фейк-ньюс и кликбейт"]
+    deepfake["DeepFake"]
+
+    authority["Эффект авторитета"]
+    bubble["Пузырь фильтров"]
+
+    hygiene["Информационная гигиена"]
+    reading["Как читать длинные тексты"]
+    memory["Внешняя память"]
+    coop["Совместная работа в сети"]
+
+    footprint["Цифровой след"]
+    vpn["VPN / DNS / Proxy"]
+
+    copypaste["Копипаст и плагиат"]
+    copyright["Цифровой этикет и авторское право"]
+
+    topic --> search
+    topic --> verify
+    topic --> risks
+    topic --> manage
+    topic --> security
+    topic --> ethics
+
+    search --> info_search
+    search --> social
+    search --> ops
+    search --> wiki
+    search --> science
+
+    verify --> whales
+    verify --> origin
+    verify --> fake
+    verify --> deepfake
+
+    risks --> authority
+    risks --> bubble
+
+    manage --> hygiene
+    manage --> reading
+    manage --> memory
+    manage --> coop
+
+    security --> footprint
+    security --> vpn
+
+    ethics --> copypaste
+    ethics --> copyright
+
+    ops -->|"уточняет запрос"| info_search
+    social -->|"среда поиска"| info_search
+    wiki -->|"стартовая точка"| info_search
+    science -->|"специализированный поиск"| info_search
+
+    whales -->|"оценивает результаты"| info_search
+    origin -->|"цель проверки"| info_search
+
+    whales -->|"помогает найти"| origin
+    wiki -->|"ведет к ссылкам"| origin
+    fake -->|"проверяется через"| origin
+    deepfake -->|"проверяется через"| origin
+
+    fake -->|"проверяется по"| whales
+    deepfake -->|"частный случай"| fake
+    fake -->|"усиливается"| authority
+    fake -->|"усиливается"| bubble
+    deepfake -->|"использует доверие к"| authority
+
+    authority -->|"снижается через"| whales
+    authority -->|"снижается через"| origin
+
+    bubble -->|"возникает в"| social
+    bubble -->|"смягчается через"| hygiene
+    bubble -->|"смягчается через"| ops
+
+    hygiene -->|"регулирует использование"| social
+    hygiene -->|"балансирует"| reading
+    reading -->|"нужно для глубокого поиска"| info_search
+    memory -->|"сохраняет результаты"| info_search
+    memory -->|"поддерживает"| reading
+    coop -->|"коллективная форма"| memory
+    coop -->|"распределенный поиск"| info_search
+    coop -->|"использует критерии"| whales
+
+    footprint -->|"часто создается в"| social
+    footprint -->|"управляется через"| hygiene
+    vpn -->|"снижает заметность"| footprint
+    vpn -->|"защищает"| info_search
+
+    copypaste -->|"требует ссылки на"| origin
+    copypaste -->|"может нарушать"| copyright
+    copyright -->|"защищает"| origin
+    wiki -->|"требует учета лицензий"| copyright
+
+    science -->|"опирается на"| origin
+    science -->|"расширяет критерии"| whales
+    science -->|"противостоит"| fake
