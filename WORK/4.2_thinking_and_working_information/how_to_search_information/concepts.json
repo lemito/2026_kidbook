@@ -13,7 +13,7 @@
     ],
     "concepts": [
       {
-        "id": "WEB/4.2/how_to_search_information/articles/digital_footprint",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/digital_footprint",
         "description": "Цифровой след: твой невидимый автопортрет в интернете",
         "lemmas": [
           "цифровой след",
@@ -25,12 +25,12 @@
           "пассивный след"
         ],
         "name": "Цифровой след",
-        "file": "WEB/4.2/how_to_search_information/articles/digital_footprint.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/digital_footprint.md",
         "wikidata_id": "Q845916",
         "author": "Кулешов Дмитрий"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/social_networks",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/social_networks",
         "description": "Мастер Поиска: Как Находить То, Что Нужно в Соцсетях и Интернете",
         "lemmas": [
           "поиск",
@@ -43,12 +43,12 @@
           "информационная гигиена"
         ],
         "name": "Социальные сети и интернет",
-        "file": "WEB/4.2/how_to_search_information/articles/social_networks.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/social_networks.md",
         "wikidata_id": "Q202833",
         "author": "Кулешов Дмитрий"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/vpn_dns_proxy_anonymity_and_security",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/vpn_dns_proxy_anonymity_and_security",
         "description": "VPN, DNS, Proxy: Твой секретный проход в интернет",
         "lemmas": [
           "VPN",
@@ -62,12 +62,12 @@
           "шифрование трафика"
         ],
         "name": "VPN, DNS, Proxy: Анонимность и безопасность",
-        "file": "WEB/4.2/how_to_search_information/articles/vpn_dns_proxy_anonymity_and_security.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/vpn_dns_proxy_anonymity_and_security.md",
         "wikidata_id": "Q188728",
         "author": "Кулешов Дмитрий"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/authority",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/authority",
         "description": "Почему мы верим авторитетам и как распознать манипуляцию",
         "lemmas": [
           "эффект авторитета",
@@ -78,12 +78,12 @@
           "доверие"
         ],
         "name": "Эффект авторитета",
-        "file": "WEB/4.2/how_to_search_information/articles/authority.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/authority.md",
         "wikidata_id": "Q28134431",
         "author": "Исмаилова Камила"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/buble_filter",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/buble_filter",
         "description": "Почему интернет показывает тебе только то, что ты хочешь видеть",
         "lemmas": [
           "пузырь фильтров",
@@ -94,12 +94,12 @@
           "информационная изоляция"
         ],
         "name": "Пузырь фильтров",
-        "file": "WEB/4.2/how_to_search_information/articles/buble_filter.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/buble_filter.md",
         "wikidata_id": "Q1415581",
         "author": "Исмаилова Камила"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/deepfake",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/deepfake",
         "description": "Как отличить правду от фейка: DeepFake и твои глаза",
         "lemmas": [
           "deepfake",
@@ -111,12 +111,12 @@
           "манипуляция"
         ],
         "name": "Как отличить реальность от DeepFake",
-        "file": "WEB/4.2/how_to_search_information/articles/deepfake.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/deepfake.md",
         "wikidata_id": "Q49473179",
         "author": "Исмаилова Камила"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/copypaste",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/copypaste",
         "description": "Копипаст — это зло? Как правильно цитировать, делать рефераты и не стать плагиатором",
         "lemmas": [
           "копипаст",
@@ -132,12 +132,12 @@
           "академическая честность"
         ],
         "name": "Копипаст и плагиат",
-        "file": "WEB/4.2/how_to_search_information/articles/copypaste.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/copypaste.md",
         "wikidata_id": "Q164666",
         "author": "Ерофеева Александра"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/information_hygiene",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/information_hygiene",
         "description": "Информационная гигиена: Как не сойти с ума от бесконечного потока новостей и уведомлений",
         "lemmas": [
           "информационная гигиена",
@@ -153,12 +153,12 @@
           "потребление контента"
         ],
         "name": "Информационная гигиена",
-        "file": "WEB/4.2/how_to_search_information/articles/information_hygiene.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/information_hygiene.md",
         "wikidata_id": "Q1130191",
         "author": "Ерофеева Александра"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/skimming_and_in_depth_reading",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/skimming_and_in_depth_reading",
         "description": "Информационная гигиена: Как не сойти с ума от бесконечного потока новостей и уведомлений",
         "lemmas": [
           "чтение",
@@ -174,12 +174,12 @@
           "фиксация глаз"
         ],
         "name": "Как читать длинные тексты",
-        "file": "WEB/4.2/how_to_search_information/articles/skimming_and_in_depth_reading.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/skimming_and_in_depth_reading.md",
         "wikidata_id": "Q746106",
         "author": "Ерофеева Александра"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/cooperative_work",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/cooperative_work",
         "name": "Совместная работа в сети",
         "description": "О том, как искать, собирать и редактировать информацию вместе с одноклассниками в облачных документах, договариваться о ролях, использовать комментарии и не терять изменения.",
         "lemmas": [
@@ -200,12 +200,12 @@
           "медиаграмотность",
           "CRAAP"
         ],
-        "file": "WEB/4.2/how_to_search_information/articles/cooperative_work.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/cooperative_work.md",
         "wikidata_id": "Q1762292",
         "author": "Книга Тимофей"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/copyright",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/copyright",
         "name": "Цифровой этикет и авторское право",
         "description": "О том, кому принадлежат картинки, тексты и музыка из интернета, как проверять условия использования, читать лицензии Creative Commons и корректно подписывать чужой контент.",
         "lemmas": [
@@ -226,12 +226,12 @@
           "tasl",
           "openverse"
         ],
-        "file": "WEB/4.2/how_to_search_information/articles/copyright.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/copyright.md",
         "wikidata_id": "Q1297822",
         "author": "Книга Тимофей"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/second_mind",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/second_mind",
         "name": "Внешняя память",
         "description": "О том, как хранить найденную информацию так, чтобы к ней можно было вернуться: использовать закладки, заметки, мессенджеры и облачные хранилища как систему, а не как свалку ссылок.",
         "lemmas": [
@@ -251,12 +251,12 @@
           "цифровое накопительство",
           "сохранить ссылку"
         ],
-        "file": "WEB/4.2/how_to_search_information/articles/second_mind.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/second_mind.md",
         "wikidata_id": "Q2034224",
         "author": "Книга Тимофей"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/information_search",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/information_search",
         "name": "Поиск информации",
         "description": "О том, что такое поиск информации, зачем он нужен, как правильно искать ответы, сравнивать источники и проверять правдивость найденных сведений.",
         "lemmas": [
@@ -300,7 +300,7 @@
         "author": "Резник Владислав"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/original_source",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/original_source",
         "name": "Первоисточник",
         "description": "О самом первом месте появления информации: документе, статье, сообщении, фотографии, видео или свидетельстве очевидца, по которому можно проверить правдивость пересказов.",
         "lemmas": [
@@ -323,7 +323,7 @@
         "author": "Резник Владислав"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/fake_news",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/fake_news",
         "name": "Фейк-ньюс и кликбейт",
         "description": "О том, как распознавать ложные или искажённые новости, замечать кликбейтные заголовки, проверять дату публикации и искать подтверждение в других источниках.",
         "lemmas": [
@@ -343,7 +343,7 @@
         "author": "Бурдинский Владислав"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/science",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/science",
         "name": "Научный подход",
         "description": "О том, как искать надёжную научную информацию в специальных базах, отличать научные статьи от научпопа и распознавать признаки лженауки.",
         "lemmas": [
@@ -359,12 +359,12 @@
           "лженаука",
           "псевдонаука"
         ],
-        "file": "WEB/4.2/how_to_search_information/articles/science.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/science.md",
         "wikidata_id": "Q46857",
         "author": "Бурдинский Владислав"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/three_whales",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/three_whales",
         "name": "Три кита надёжности",
         "description": "О простом способе проверки сайта или статьи по трём опорам: автору, дате публикации и ссылкам на источники, чтобы быстрее оценивать надёжность информации.",
         "lemmas": [
@@ -380,12 +380,12 @@
           "источники",
           "фактчекинг"
         ],
-        "file": "WEB/4.2/how_to_search_information/articles/three_whales.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/three_whales.md",
         "wikidata_id": "Q59555084",
         "author": "Бурдинский Владислав"
       },
       {
-        "id": "WEB/4.2/how_to_search_information/articles/wikipedia",
+        "id": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia",
         "name": "Как пользоваться Википедией",
         "description": "О том, как использовать Википедию как отправную точку: быстро разбираться в теме, проверять разделы с источниками и не принимать энциклопедическую статью за окончательную истину.",
         "lemmas": [
@@ -399,7 +399,7 @@
           "медиаграмотность",
           "свободная энциклопедия"
         ],
-        "file": "WEB/4.2/how_to_search_information/articles/wikipedia.md",
+        "file": "WEB/4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md",
         "wikidata_id": "Q52",
         "author": "Бурдинский Владислав"
       }

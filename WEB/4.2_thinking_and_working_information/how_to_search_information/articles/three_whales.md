@@ -31,7 +31,7 @@
 
 В интернете нет строгого контроля, как в учебниках. Любой человек может:
 - написать статью,
-- выдать [мнение](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md) за [факт](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md),
+- выдать [мнение](../../../4.2_thinking_and_working_information/critical_thinking/articles/fact_and_opinion_differences.md) за [факт](../../../4.2_thinking_and_working_information/critical_thinking/articles/fact_and_opinion_differences.md),
 - придумать цифры,
 - переписать чужую информацию с ошибками.
 
@@ -99,7 +99,7 @@
 - ❌ Вообще нет источников
 
 Ключевая мысль:
-> если нет источников — это [мнение](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md), а не [факт](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md).
+> если нет источников — это [мнение](../../../4.2_thinking_and_working_information/critical_thinking/articles/fact_and_opinion_differences.md), а не [факт](../../../4.2_thinking_and_working_information/critical_thinking/articles/fact_and_opinion_differences.md).
 
 ---
 
