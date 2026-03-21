@@ -1,0 +1,287 @@
+[
+  {
+    "section": "5.2_cybersecurity",
+    "topic": "passwords_cyber_safety",
+    "author_group": "Team_18",
+    "members": [
+      "Нургалиев Даниэль",
+      "Радион Никита",
+      "Романов Вадим",
+      "Соловьева Надежда",
+      "Федорова Екатерина",
+      "Явметдинов Максим"
+    ],
+    "concepts": [
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Определение пароля, правила создания надежных комбинаций, примеры использования в повседневной жизни школьника (игры, почта) и историческая справка о первых паролях.",
+        "lemmas": [
+          "пароль",
+          "правила создания надежного пароля",
+          "защита игровых аккаунтов",
+          "история паролей",
+          "длина и разнообразие символов"
+        ],
+        "name": "password",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/password.md",
+        "wikidata_id": "Q161157",
+        "author": "Нургалиев Даниэль"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Понятие логина как публичного имени пользователя, его роль в идентификации, правила выбора безопасного логина и примеры использования в связке с паролем.",
+        "lemmas": [
+          "логин",
+          "имя пользователя",
+          "идентификация в сети",
+          "публичное имя",
+          "выбор безопасного никнейма"
+        ],
+        "name": "login",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/login.md",
+        "wikidata_id": "Q16572632",
+        "author": "Нургалиев Даниэль"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Принцип работы менеджера паролей, его преимущества перед ручным запоминанием, функции генерации сложных паролей и защита мастер-паролем.",
+        "lemmas": [
+          "менеджер паролей",
+          "безопасное хранение паролей",
+          "генерация сложных паролей",
+          "мастер-пароль",
+          "цифровой сейф"
+        ],
+        "name": "password_manager",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/password_manager.md",
+        "wikidata_id": "Q12811992",
+        "author": "Нургалиев Даниэль"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Объяснение двухфакторной аутентификации (2FA), как она работает (пароль + код из СМС/приложения), и почему она критически важна для защиты аккаунтов от взлома.",
+        "lemmas": [
+          "2fa",
+          "двухфакторная аутентификация",
+          "дополнительный уровень защиты",
+          "код из смс",
+          "подтверждение входа"
+        ],
+        "name": "2fa",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/2fa.md",
+        "wikidata_id": "Q17086335",
+        "author": "Радион Никита"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Кто такие хакеры (белые и черные), какие методы они используют (вирусы, социальная инженерия), примеры кражи аккаунтов и первый в истории случай взлома.",
+        "lemmas": [
+          "хакер",
+          "белые и черные хакеры",
+          "методы взлома",
+          "социальная инженерия",
+          "кража аккаунтов"
+        ],
+        "name": "hacker",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/hacker.md",
+        "wikidata_id": "Q1487",
+        "author": "Радион Никита"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Что такое компьютерный вирус, как он размножается, пути заражения устройства (скачивание файлов, флешки) и последствия для пользователя.",
+        "lemmas": [
+          "вирус",
+          "компьютерный вирус",
+          "вредоносная программа",
+          "пути заражения",
+          "саморазмножение кода"
+        ],
+        "name": "virus",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/virus.md",
+        "wikidata_id": "Q485",
+        "author": "Радион Никита"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Роль антивируса в защите компьютера, методы обнаружения угроз (сканирование, карантин) и важность регулярного обновления вирусных баз.",
+        "lemmas": [
+          "антивирус",
+          "защита от вирусов",
+          "сканирование системы",
+          "карантин",
+          "обновление баз"
+        ],
+        "name": "antivirus",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/antivirus.md",
+        "wikidata_id": "Q93249",
+        "author": "Романов Вадим"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Суть фишинга как интернет-мошенничества, примеры поддельных сайтов и писем, а также правила, как распознать обман и не отдать свои данные.",
+        "lemmas": [
+          "фишинг",
+          "интернет-мошенничество",
+          "поддельные сайты",
+          "кража данных",
+          "как распознать обман"
+        ],
+        "name": "phishing",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/phishing.md",
+        "wikidata_id": "Q135005",
+        "author": "Романов Вадим"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Определение спама, почему он опасен (нагрузка на сеть, скрытые вирусы), примеры спам-рассылок и методы борьбы с ним (фильтры).",
+        "lemmas": [
+          "спам",
+          "нежелательная рассылка",
+          "спам-фильтры",
+          "рекламный мусор",
+          "опасность спама"
+        ],
+        "name": "spam",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/spam.md",
+        "wikidata_id": "Q83058",
+        "author": "Романов Вадим"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Что такое цифровой след (активный и пассивный), как история поиска и лайки формируют репутацию в сети, и почему важно следить за своими публикациями.",
+        "lemmas": [
+          "цифровой след",
+          "репутация в интернете",
+          "история поиска",
+          "пассивный след",
+          "активный след"
+        ],
+        "name": "digital_footprint",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/digital_footprint.md",
+        "wikidata_id": "Q845916",
+        "author": "Соловьева Надежда"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Принцип работы VPN (виртуальной частной сети), шифрование трафика, защита данных в публичных сетях Wi-Fi и обеспечение анонимности.",
+        "lemmas": [
+          "vpn",
+          "виртуальная частная сеть",
+          "шифрование трафика",
+          "защита в публичном wi-fi",
+          "анонимность"
+        ],
+        "name": "vpn",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/vpn.md",
+        "wikidata_id": "Q170963",
+        "author": "Соловьева Надежда"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Понятие приватности в цифровом мире, право на тайну переписки, настройка конфиденциальности в соцсетях и защита личных фотографий.",
+        "lemmas": [
+          "приватность",
+          "конфиденциальность",
+          "тайна переписки",
+          "настройка соцсетей",
+          "защита личных данных"
+        ],
+        "name": "privacy",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/privacy.md",
+        "wikidata_id": "Q188728",
+        "author": "Соловьева Надежда"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Разница между HTTP и HTTPS, как работает шифрование данных при передаче, и почему важно проверять наличие 'замочки' в адресной строке браузера.",
+        "lemmas": [
+          "https",
+          "безопасное соединение",
+          "шифрование данных",
+          "протокол передачи",
+          "замочек в браузере"
+        ],
+        "name": "https",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/https.md",
+        "wikidata_id": "Q44484",
+        "author": "Федорова Екатерина"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Важность регулярного обновления программ и операционных систем, закрытие уязвимостей (патчи) и защита от новых видов кибератак.",
+        "lemmas": [
+          "обновление",
+          "патч безопасности",
+          "закрытие уязвимостей",
+          "обновление системы",
+          "защита от новых атак"
+        ],
+        "name": "update",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/update.md",
+        "wikidata_id": "Q15852209",
+        "author": "Федорова Екатерина"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Что такое резервное копирование (бэкап), виды носителей (облако, жесткий диск), правило 3-2-1 и спасение данных при поломке или вирусной атаке.",
+        "lemmas": [
+          "резервное копирование",
+          "бэкап",
+          "восстановление данных",
+          "облачное хранилище",
+          "правило 3-2-1"
+        ],
+        "name": "backup",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/backup.md",
+        "wikidata_id": "Q194274",
+        "author": "Федорова Екатерина"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Особенности троянских программ, методы маскировки под полезные файлы (игры, читы), тихая кража данных и удаленное управление компьютером.",
+        "lemmas": [
+          "троян",
+          "троянская программа",
+          "маскировка под полезное",
+          "программа-шпион",
+          "удаленный доступ"
+        ],
+        "name": "trojan",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/trojan.md",
+        "wikidata_id": "Q14001",
+        "author": "Явметдинов Максим"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Принцип работы брандмауэра (файрвола), фильтрация входящего и исходящего интернет-трафика, блокировка хакерских атак и защита умного дома.",
+        "lemmas": [
+          "брандмауэр",
+          "файрвол",
+          "фильтрация трафика",
+          "сетевая защита",
+          "блокировка атак"
+        ],
+        "name": "firewall",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/firewall.md",
+        "wikidata_id": "Q80968",
+        "author": "Явметдинов Максим"
+      },
+      {
+        "id": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles",
+        "description": "Проблема кибербуллинга, его формы (оскорбления, бойкот, кража личности), примеры травли в играх и соцсетях, а также алгоритм действий для защиты.",
+        "lemmas": [
+          "кибербуллинг",
+          "травля в интернете",
+          "оскорбления в сети",
+          "как защититься от травли",
+          "блокировка обидчиков"
+        ],
+        "name": "cyberbullying",
+        "file": "WEB/5.2_cybersecurity/passwords_cyber_safety/articles/cyberbullying.md",
+        "wikidata_id": "Q1065052",
+        "author": "Явметдинов Максим"
+      }
+    ]
+  }
+]

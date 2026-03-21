@@ -1,0 +1,48 @@
+# 1. Получение базовой информации по всем концептам кибербезопасности
+SELECT ?item ?itemLabel ?itemDescription WHERE {
+  VALUES ?item {
+    wd:Q161157     # Пароль
+    wd:Q16572632   # Логин (имя пользователя)
+    wd:Q1281199   # Менеджер паролей
+    wd:Q17086335   # Двухфакторная аутентификация
+    wd:Q1487       # Хакер
+    wd:Q485        # Компьютерный вирус
+    wd:Q93249      # Антивирусная программа
+    wd:Q135005     # Фишинг
+    wd:Q83058      # Спам
+    wd:Q845916     # Цифровой след
+    wd:Q170963     # VPN (Виртуальная частная сеть)
+    wd:Q188728     # Конфиденциальность (Privacy)
+    wd:Q44484      # HTTPS
+    wd:Q15852209   # Обновление программного обеспечения
+    wd:Q194274     # Резервное копирование (Backup)
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+}
+
+# 2. Поиск надклассов (superclass) для наших концептов (чтобы понять иерархию)
+SELECT ?item ?itemLabel ?superclass ?superclassLabel WHERE {
+  VALUES ?item {
+    wd:Q485        # Компьютерный вирус
+    wd:Q93249      # Антивирусная программа
+    wd:Q135005     # Фишинг
+    wd:Q1487       # Хакер
+  }
+  OPTIONAL { ?item wdt:P279 ?superclass. }   # P279 = подкласс (subclass of)
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+}
+
+# 3. Найти все виды вредоносных программ (подклассы Malware - Q14001)
+SELECT ?malware ?malwareLabel WHERE {
+  ?malware wdt:P279 wd:Q14001.      # подкласс вредоносного ПО (Malware)
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+}
+LIMIT 20
+
+# 4. Найти известные антивирусные программы (экземпляры класса Антивирус - Q93249)
+SELECT ?antivirus ?antivirusLabel ?developer ?developerLabel WHERE {
+  ?antivirus wdt:P31 wd:Q93249.     # экземпляр антивируса
+  OPTIONAL { ?antivirus wdt:P178 ?developer. } # разработчик
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+}
+LIMIT 20

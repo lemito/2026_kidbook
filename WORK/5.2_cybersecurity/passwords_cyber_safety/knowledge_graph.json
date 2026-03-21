@@ -1,0 +1,134 @@
+{
+  "statistics": {
+    "ok": 18,
+    "fail": 0
+  },
+  "nodes": [
+    {
+      "term": "2fa",
+      "qid": "Q17086335",
+      "ru_name": "двухфакторная аутентификация",
+      "ru_definition": "Нет описания",
+      "en_name": "two-factor authentication"
+    },
+    {
+      "term": "antivirus",
+      "qid": "Q93249",
+      "ru_name": "антивирусная программа",
+      "ru_definition": "программа для обнаружения и удаления вредоносных программ",
+      "en_name": "antivirus software"
+    },
+    {
+      "term": "backup",
+      "qid": "Q194274",
+      "ru_name": "резервное копирование",
+      "ru_definition": "процесс создания копии данных",
+      "en_name": "backup"
+    },
+    {
+      "term": "cyberbullying",
+      "qid": "Q1065052",
+      "ru_name": "Нет названия",
+      "ru_definition": "Нет описания",
+      "en_name": "news embargo"
+    },
+    {
+      "term": "digital_footprint",
+      "qid": "Q845916",
+      "ru_name": "цифровой след",
+      "ru_definition": "Нет описания",
+      "en_name": "digital footprint"
+    },
+    {
+      "term": "firewall",
+      "qid": "Q80998",
+      "ru_name": "межсетевой экран",
+      "ru_definition": "Нет описания",
+      "en_name": "firewall"
+    },
+    {
+      "term": "hacker",
+      "qid": "Q1487",
+      "ru_name": "хакер",
+      "ru_definition": "ИТ-специалист, человек, который понимает самые глубины работы компьютерных систем",
+      "en_name": "hacker"
+    },
+    {
+      "term": "https",
+      "qid": "Q44484",
+      "ru_name": "HTTPS",
+      "ru_definition": "Расширение протокола HTTP, поддерживающее шифрование данных",
+      "en_name": "HTTPS"
+    },
+    {
+      "term": "login",
+      "qid": "Q16572632",
+      "ru_name": "логин",
+      "ru_definition": "учетные данные, необходимые для входа в систему (для использования с P6954: статус онлайн-доступности)",
+      "en_name": "login"
+    },
+    {
+      "term": "password",
+      "qid": "Q161157",
+      "ru_name": "пароль",
+      "ru_definition": "секретное слово для доступа, обычно информационного",
+      "en_name": "password"
+    },
+    {
+      "term": "password_manager",
+      "qid": "Q1281199",
+      "ru_name": "менеджер паролей",
+      "ru_definition": "программное обеспечение, которое помогает пользователю работать с паролями и PIN-кодами",
+      "en_name": "password manager"
+    },
+    {
+      "term": "phishing",
+      "qid": "Q135005",
+      "ru_name": "фишинг",
+      "ru_definition": "вид интернет-мошенничества",
+      "en_name": "phishing"
+    },
+    {
+      "term": "privacy",
+      "qid": "Q188728",
+      "ru_name": "неприкосновенность частной жизни",
+      "ru_definition": "право на частную и неприкосновенную жизнь, которое обеспечивает государство",
+      "en_name": "privacy"
+    },
+    {
+      "term": "spam",
+      "qid": "Q83058",
+      "ru_name": "спам",
+      "ru_definition": "незапрошенная электронная корреспонденция, часто рекламного характера",
+      "en_name": "electronic spam"
+    },
+    {
+      "term": "trojan",
+      "qid": "Q14001",
+      "ru_name": "вредоносная программа",
+      "ru_definition": "враждебная или навязчивая программа",
+      "en_name": "malware"
+    },
+    {
+      "term": "update",
+      "qid": "Q15852209",
+      "ru_name": "обновление ПО",
+      "ru_definition": "процесс обновления программы до новой версии",
+      "en_name": "software update"
+    },
+    {
+      "term": "virus",
+      "qid": "Q485",
+      "ru_name": "компьютерный вирус",
+      "ru_definition": "компьютерная вредоносная программа",
+      "en_name": "computer virus"
+    },
+    {
+      "term": "vpn",
+      "qid": "Q170963",
+      "ru_name": "виртуальная частная сеть",
+      "ru_definition": "виртуальная частная сеть, технология сетевого подключения vev",
+      "en_name": "virtual private network"
+    }
+  ]
+}
