@@ -1,0 +1,123 @@
+[
+  {
+    "section": "3.2_healthy_lifestyle",
+    "topic": "Как действовать в опасной ситуации",
+    "author_group": "Группа 77",
+    "members": [
+      "Тутаев Владимир",
+      "Вельма Андрей",
+      "Глумов Николай",
+      "Чибугаев Илья"
+    ],
+    "concepts": [
+      {
+        "id": "3.2/fire-at-home",
+        "description": "Что делать ребенку при пожаре дома: быстрый выход, вызов помощи и безопасное поведение.",
+        "lemmas": ["пожар", "пожар дома", "огонь", "задымление", "эвакуация"],
+        "name": "Пожар дома",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/fire-at-home.md",
+        "wikidata_id": "Q3196",
+        "author": "Глумов Николай"
+      },
+      {
+        "id": "3.2/smoke-in-entrance",
+        "description": "Как действовать, если в подъезде дым: как оценить путь и где ждать помощь.",
+        "lemmas": ["дым", "задымление", "подъезд", "дым в подъезде", "пожар"],
+        "name": "Дым в подъезде",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/smoke-in-entrance.md",
+        "wikidata_id": "Q82794",
+        "author": "Вельма Андрей"
+      },
+      {
+        "id": "3.2/building-evacuation",
+        "description": "Правила эвакуации из школы, ТЦ или дома: маршрут, лестница, точка встречи.",
+        "lemmas": ["эвакуация", "выход", "лестница", "план эвакуации", "безопасность"],
+        "name": "Эвакуация из здания",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/building-evacuation.md",
+        "wikidata_id": "Q25666",
+        "author": "Тутаев Владимир"
+      },
+      {
+        "id": "3.2/lost-in-city",
+        "description": "Как вести себя, если потерялся в городе: оставаться на месте, обращаться к безопасным взрослым.",
+        "lemmas": ["потерялся", "потерялся в городе", "безопасный взрослый", "поиск", "город"],
+        "name": "Потерялся в городе",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md",
+        "wikidata_id": null,
+        "author": "Вельма Андрей"
+      },
+      {
+        "id": "3.2/stranger-safety",
+        "description": "Правила общения с незнакомцами: как отказать, уйти и позвать на помощь.",
+        "lemmas": ["незнакомец", "чужой", "безопасность на улице", "помощь", "опасность"],
+        "name": "Незнакомец на улице",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/stranger-safety.md",
+        "wikidata_id": null,
+        "author": "Чибугаев Илья"
+      },
+      {
+        "id": "3.2/emergency-112",
+        "description": "Как правильно звонить в 112 и какую информацию обязательно назвать оператору.",
+        "lemmas": ["112", "служба спасения", "экстренный звонок", "оператор", "помощь"],
+        "name": "Экстренный номер 112",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/emergency-112.md",
+        "wikidata_id": "Q257373",
+        "author": "Глумов Николай"
+      },
+      {
+        "id": "3.2/internet-safety",
+        "description": "Базовые правила безопасного поведения в интернете для детей.",
+        "lemmas": ["интернет", "безопасность в интернете", "личные данные", "пароль", "онлайн"],
+        "name": "Безопасность в интернете",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/internet-safety.md",
+        "wikidata_id": "Q58824043",
+        "author": "Глумов Николай"
+      },
+      {
+        "id": "3.2/cyberbullying",
+        "description": "Что такое кибербуллинг и как защищаться: не отвечать, сохранять доказательства, сообщать взрослым.",
+        "lemmas": ["кибербуллинг", "травля", "онлайн травля", "блокировка", "жалоба"],
+        "name": "Кибербуллинг",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/cyberbullying.md",
+        "wikidata_id": "Q23052331",
+        "author": "Тутаев Владимир"
+      },
+      {
+        "id": "3.2/phishing-links",
+        "description": "Как распознать подозрительные ссылки и не отдать мошенникам личные данные.",
+        "lemmas": ["фишинг", "подозрительная ссылка", "мошенники", "пароль", "сообщение"],
+        "name": "Подозрительные ссылки",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/phishing-links.md",
+        "wikidata_id": "Q22668",
+        "author": "Вельма Андрей"
+      },
+      {
+        "id": "3.2/thunderstorm-safety",
+        "description": "Правила безопасности во время грозы: где укрыться и чего избегать.",
+        "lemmas": ["гроза", "молния", "дождь", "укрытие", "опасная погода"],
+        "name": "Гроза на улице",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/thunderstorm-safety.md",
+        "wikidata_id": "Q193",
+        "author": "Чибугаев Илья"
+      },
+      {
+        "id": "3.2/thin-ice",
+        "description": "Чем опасен тонкий лед и что делать, если человек провалился.",
+        "lemmas": ["тонкий лед", "лед", "провалился под лед", "зима", "безопасность на льду"],
+        "name": "Тонкий лед",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/thin-ice.md",
+        "wikidata_id": null,
+        "author": "Чибугаев Илья"
+      },
+      {
+        "id": "3.2/dog-bite-first-aid",
+        "description": "Как избежать нападения собаки и какую первую помощь оказать при укусе.",
+        "lemmas": ["укус собаки", "собака", "первая помощь", "рана", "антисептик"],
+        "name": "Укус собаки и первая помощь",
+        "file": "WEB/3.2 healthy lifestyle/how to act in a dangerous situation/articles/dog-bite-first-aid.md",
+        "wikidata_id": "Q1971622",
+        "author": "Тутаев Владимир"
+      }
+    ]
+  }
+]
