@@ -1,3 +1,2 @@
-# KidBook Home
-
+# KidBook - детская энциклопедия
 ...
