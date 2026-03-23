@@ -1,0 +1,275 @@
+[
+  {
+    "section": "8.2",
+    "topic": "Как выбрать направление и профессию: путеводитель для будущего мастера",
+    "author_group": "672",
+    "members": [
+      "Ильинский Никита",
+      "Дехтеренко Дмитрий",
+      "Иванов Владимир",
+      "Босу Луис",
+      "Кирюхин Георгий"
+    ],
+    "concepts": [
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "род трудовой деятельности человека, владеющего комплексом специальных теоретических знаний и практических навыков",
+        "lemmas": [
+          "специальность",
+          "род занятий",
+          "профессиональная деятельность"
+        ],
+        "name": "profession",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/profession.md",
+        "wikidata_id": "Q28640",
+        "author": "Ильинский Никита"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "О разнице между твердыми и мягкими навыками (Hard и Soft Skills) и как их развивать.",
+        "lemmas": [
+          "навыки",
+          "скиллы",
+          "умения",
+          "способности",
+          "soft skills"
+        ],
+        "name": "skills",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/skills.md",
+        "wikidata_id": "Q1058914",
+        "author": "Ильинский Никита"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "Как детские увлечения и хобби превращаются в серьезную работу в будущем.",
+        "lemmas": [
+          "хобби",
+          "увлечения",
+          "интересы",
+          "кружки"
+        ],
+        "name": "hobbies",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/hobbies.md",
+        "wikidata_id": "Q11707",
+        "author": "Ильинский Никита"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "Об обучении в университете: зачем туда ходить и чему там учат будущих профи.",
+        "lemmas": [
+          "университет",
+          "вуз",
+          "высшее образование",
+          "студент",
+          "лекция"
+        ],
+        "name": "university",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/university.md",
+        "wikidata_id": "Q3918",
+        "author": "Дехтеренко Дмитрий"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "Что такое стажировка и как попробовать себя в настоящем деле, пока ты еще учишься.",
+        "lemmas": [
+          "стажировка",
+          "практика",
+          "стажер",
+          "первый опыт"
+        ],
+        "name": "internship",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/internship.md",
+        "wikidata_id": "Q1313364",
+        "author": "Дехтеренко Дмитрий"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "О карьерной лестнице: как пройти путь от помощника до большого руководителя.",
+        "lemmas": [
+          "карьера",
+          "карьерный рост",
+          "повышение",
+          "успех"
+        ],
+        "name": "career_path",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/career-path.md",
+        "wikidata_id": "Q652431",
+        "author": "Дехтеренко Дмитрий"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "О профессии программиста: как люди создают цифровые миры с помощью кода.",
+        "lemmas": [
+          "программист",
+          "код",
+          "разработка",
+          "IT",
+          "айтишник"
+        ],
+        "name": "programmer",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/programmer.md",
+        "wikidata_id": "Q5482740",
+        "author": "Иванов Владимир"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "О работе врача: почему это одна из самых важных и сложных профессий в мире.",
+        "lemmas": [
+          "врач",
+          "доктор",
+          "медицина",
+          "больница",
+          "здоровье"
+        ],
+        "name": "doctor",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/doctor.md",
+        "wikidata_id": "Q39631",
+        "author": "Иванов Владимир"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "Кто такой дизайнер и как он делает мир вокруг нас красивым и удобным.",
+        "lemmas": [
+          "дизайнер",
+          "дизайн",
+          "стиль",
+          "оформление",
+          "творчество"
+        ],
+        "name": "designer",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/designer.md",
+        "wikidata_id": "Q190539",
+        "author": "Иванов Владимир"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "О том, как составить свое первое резюме и рассказать о своих талантах.",
+        "lemmas": [
+          "резюме",
+          "портфолио",
+          "анкета",
+          "анкеты",
+          "анкете",
+          "анкету",
+          "анкетой",
+          "анкетах",
+          "самопрезентация",
+          "самопрезентации",
+          "самопрезентацию",
+          "самопрезентацией"
+        ],
+        "name": "resume",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/resume.md",
+        "wikidata_id": "Q186649",
+        "author": "Босу Луис"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "Что такое собеседование: как подготовиться к первой встрече с работодателем.",
+        "lemmas": [
+          "собеседование",
+          "собеседования",
+          "собеседованию",
+          "собеседованием",
+          "собеседовании",
+          "интервью",
+          "найм",
+          "найма",
+          "найму",
+          "наймом",
+          "найме",
+          "работа",
+          "работы",
+          "работе",
+          "работу",
+          "работой",
+          "работах"
+        ],
+        "name": "interview",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/interview.md",
+        "wikidata_id": "Q178685",
+        "author": "Босу Луис"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "От чего зависит зарплата и почему специалисты разного уровня получают по-разному.",
+        "lemmas": [
+          "зарплата",
+          "зарплаты",
+          "зарплате",
+          "зарплату",
+          "зарплатой",
+          "зарплатах",
+          "деньги",
+          "денег",
+          "деньгам",
+          "деньгами",
+          "деньгах",
+          "доход",
+          "дохода",
+          "доходу",
+          "доходом",
+          "доходе",
+          "доходы",
+          "доходов",
+          "заработок",
+          "заработка",
+          "заработку",
+          "заработком",
+          "заработке",
+          "оплата труда",
+          "оплаты труда",
+          "оплате труда",
+          "оплату труда",
+          "оплатой труда"
+        ],
+        "name": "salary",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/salary.md",
+        "wikidata_id": "Q178631",
+        "author": "Босу Луис"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "Почему работать в команде эффективнее, чем одному, и кто такие коллеги.",
+        "lemmas": [
+          "команда",
+          "коллеги",
+          "сотрудничество",
+          "коллектив"
+        ],
+        "name": "team",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/team.md",
+        "wikidata_id": "Q171138",
+        "author": "Кирюхин Георгий"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "Как устроено рабочее место: от больших офисов до работы из дома (удаленки).",
+        "lemmas": [
+          "офис",
+          "кабинет",
+          "удаленка",
+          "рабочее место"
+        ],
+        "name": "office",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/office.md",
+        "wikidata_id": "Q149460",
+        "author": "Кирюхин Георгий"
+      },
+      {
+        "id": "WEB/8.2_future/choosing_a_career_path/articles",
+        "description": "О мечте: как понять, кем ты хочешь стать, когда вырастешь, и сделать первый шаг.",
+        "lemmas": [
+          "мечта",
+          "цель",
+          "будущее",
+          "планирование"
+        ],
+        "name": "dream",
+        "file": "WEB/8.2_future/choosing_a_career_path/articles/dream.md",
+        "wikidata_id": "Q1158639",
+        "author": "Кирюхин Георгий"
+      }
+    ]
+  }
+]
