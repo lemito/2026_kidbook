@@ -1,0 +1,9 @@
+langchain-gigachat
+tiktoken
+python-dotenv
+tqdm
+pymorhpy3
+pymorphy3-dicts-ru
+compress-fasttext
+rapidfuzz
+scikit-learn
