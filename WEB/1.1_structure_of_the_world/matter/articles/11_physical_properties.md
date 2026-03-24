@@ -1,6 +1,6 @@
 # Физические свойства [материи](01_matter.md)
 
-**Физические свойства** — характеристики [материи](01_matter.md), которые можно измерить или наблюдать без изменения химического состава [вещества](01_matter.md). В отличие от [химических свойств](12_chemical_properties.md), физические свойства не связаны с превращением одного [вещества](01_matter.md) в другое.
+**Физические свойства** — [характеристики](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/comparison.md) [материи](01_matter.md), которые можно измерить или наблюдать без изменения химического состава [вещества](01_matter.md). В отличие от [химических свойств](12_chemical_properties.md), физические свойства не связаны с превращением одного [вещества](01_matter.md) в другое.
 
 ## Содержание
 
@@ -16,7 +16,7 @@
 
 ## [Масса](01_matter.md)
 
-**[Масса](01_matter.md)** — фундаментальное [физическое свойство](01_matter.md) [материи](01_matter.md), характеризующее её инертность (сопротивление ускорению) и гравитационное взаимодействие.
+**[Масса](01_matter.md)** — фундаментальное [физическое свойство](01_matter.md) [материи](01_matter.md), характеризующее её [инертность](../../../1.2_natural_sciences/physics_in_everyday_life/Q11423.md) ([сопротивление](../../../1.2_natural_sciences/physics_in_everyday_life/Q12725.md) ускорению) и [гравитационное взаимодействие](../../../1.2_natural_sciences/physics_in_everyday_life/Q558066.md).
 
 ### Инертная [масса](01_matter.md)
 
@@ -34,7 +34,7 @@
 
 Принцип эквивалентности [Эйнштейна](15_conservation_law.md) утверждает, что инертная и гравитационная [массы](01_matter.md) равны — это один из фундаментов общей теории относительности и [уравнения E = mc²](18_mass_energy.md).
 
-### Единицы измерения
+### [Единицы измерения](../../../1.2_natural_sciences/physics_in_everyday_life/Q170282.md)
 
 Согласно [закону сохранения](15_conservation_law.md), суммарная [масса-энергия](18_mass_energy.md) замкнутой системы остаётся неизменной.
 
@@ -60,13 +60,13 @@
 
 ### Аномалия [воды](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md)
 
-[Вода](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md) имеет максимальную [плотность](06_liquids.md) при **4 °C** (999,97 кг/м³), а при замерзании её [плотность](06_liquids.md) уменьшается (лёд плавает) — аномалия, обусловленная [водородными [связями](04_molecular_level.md)](04_molecular_level.md).
+[Вода](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md) имеет максимальную [плотность](06_liquids.md) при **4 °[C](../../../2.1_society/how_and_where_find_friends/articles/sora_drug.md)** (999,97 кг/м³), а при замерзании её [плотность](06_liquids.md) уменьшается (лёд плавает) — аномалия, обусловленная [водородными [связями](04_molecular_level.md)](04_molecular_level.md).
 
 ## Теплоёмкость
 
-**Теплоёмкость** — количество теплоты, которое нужно сообщить телу для нагрева на 1 К.
+**Теплоёмкость** — [количество теплоты](../../../1.2_natural_sciences/physics_in_everyday_life/Q11473.md), которое нужно сообщить телу для нагрева на 1 К.
 
-### Удельная теплоёмкость
+### [Удельная теплоёмкость](../../../1.2_natural_sciences/physics_in_everyday_life/Q179388.md)
 
 > c = Q / (m·ΔT)
 
@@ -90,7 +90,7 @@
 - При постоянном объёме: Cᵥ = (i/2)R, где i — число степеней [свободы](../../../2.1_society/rights_and_responsibilities/articles/person.md) [молекулы](04_molecular_level.md)
 - При постоянном [давлении](07_gases.md): Cₚ = Cᵥ + R
 
-| Тип [молекулы](01_matter.md) | i | Cᵥ | Cₚ |
+| [Тип](../../../5.2_cybersecurity/cpp_fundamentals/13_struct.md) [молекулы](01_matter.md) | i | Cᵥ | Cₚ |
 |-------------|---|----|----|
 | Одноатомная | 3 | (3/2)R | (5/2)R |
 | Двухатомная | 5 | (5/2)R | (7/2)R |
@@ -100,19 +100,19 @@
 
 ## [Электропроводность](08_plasma.md)
 
-### Классификация материалов по [электропроводности](08_plasma.md)
+### [Классификация](../../../1.2_natural_sciences/physics_in_everyday_life/Q1293220.md) материалов по [электропроводности](08_plasma.md)
 
-| [Класс](../../../2.1_society/rights_and_responsibilities/articles/school.md) | Удельное сопротивление, Ом·м | Примеры |
+| [Класс](../../../2.1_society/rights_and_responsibilities/articles/school.md) | [Удельное сопротивление](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md), [Ом](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md)·м | Примеры |
 |-------|------------------------------|---------|
 | Сверхпроводники | 0 (при T < Tс) | Nb₃Sn, YBa₂Cu₃O₇ |
 | Проводники | 10⁻⁸ – 10⁻⁶ | Cu, Ag, Au, Al |
 | Полупроводники | 10⁻⁶ – 10⁶ | Si, Ge, GaAs |
-| Диэлектрики | 10⁶ – 10¹⁸ | Стекло, резина |
+| Диэлектрики | 10⁶ – 10¹⁸ | [Стекло](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md), резина |
 
 ### Механизмы проводимости
 
-- **Металлы**: свободные [электроны](03_atom_structure.md) (электронная проводимость). Связано с [металлической связью](04_molecular_level.md)
-- **Электролиты**: подвижные ионы (ионная проводимость)
+- **[Металлы](../../../1.2_natural_sciences/physics_in_everyday_life/Q124291.md)**: свободные [электроны](03_atom_structure.md) (электронная [проводимость](../../../1.2_natural_sciences/physics_in_everyday_life/Q124291.md)). Связано с [металлической связью](04_molecular_level.md)
+- **Электролиты**: подвижные [ионы](../../../1.2_natural_sciences/physics_in_everyday_life/Q124291.md) (ионная проводимость)
 - **Полупроводники**: [электроны](03_atom_structure.md) и «дырки»
 - **[Плазма](08_plasma.md)**: свободные [электроны](03_atom_structure.md) и ионы
 
@@ -124,17 +124,17 @@
 
 ## Другие физические свойства
 
-| Свойство | Описание | Единица СИ |
+| Свойство | Описание | Единица [СИ](../../../1.2_natural_sciences/physics_in_everyday_life/Q12453.md) |
 |----------|----------|------------|
-| [Температура](07_gases.md) | Мера средней кинетической [энергии](01_matter.md) частиц | К (кельвин) |
-| [Давление](07_gases.md) | [Сила](../../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md) на единицу площади | Па (паскаль) |
-| Теплопроводность | Способность передавать теплоту | Вт/(м·К) |
-| Упругость | Способность восстанавливать форму | Па (модуль Юнга) |
+| [Температура](07_gases.md) | Мера средней кинетической [энергии](01_matter.md) частиц | К ([кельвин](../../../1.2_natural_sciences/physics_in_everyday_life/Q646.md)) |
+| [Давление](07_gases.md) | [Сила](../../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md) на единицу площади | Па ([паскаль](../../../1.2_natural_sciences/physics_in_everyday_life/Q1290.md)) |
+| [Теплопроводность](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md) | Способность передавать теплоту | Вт/(м·К) |
+| Упругость | Способность восстанавливать форму | Па ([модуль](../../../1.2_natural_sciences/physics_in_everyday_life/Q11402.md) Юнга) |
 | [Вязкость](06_liquids.md) | Сопротивление течению ([жидкости](06_liquids.md)) | Па·с |
-| Магнитная проницаемость | Отклик на магнитное поле | Гн/м |
-| Показатель преломления | Замедление света в среде | безразмерный |
+| Магнитная проницаемость | Отклик на [магнитное поле](../../../1.2_natural_sciences/physics_in_everyday_life/Q11408.md) | Гн/м |
+| [Показатель преломления](../../../1.2_natural_sciences/physics_in_everyday_life/Q72277.md) | Замедление света в среде | безразмерный |
 
-## Зависимость свойств от [агрегатного состояния](01_matter.md)
+## [Зависимость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) свойств от [агрегатного состояния](01_matter.md)
 
 | Свойство | [Твёрдое](05_solids.md) | [Жидкое](06_liquids.md) | [Газ](07_gases.md) | [Плазма](08_plasma.md) |
 |----------|--------|--------|-----|-------|
@@ -154,4 +154,4 @@
 - [Закон сохранения массы и энергии](15_conservation_law.md)
 - [Масса-энергия](18_mass_energy.md)
 
-*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Демидов Максим • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: 500 • 2026-03-17*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Демидов Максим • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: [500](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md) • 2026-03-17*

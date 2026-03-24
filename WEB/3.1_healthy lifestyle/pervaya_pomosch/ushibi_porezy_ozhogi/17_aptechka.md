@@ -1,6 +1,6 @@
-# Домашняя и школьная [аптечка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md) для первой помощи: состав и [правила](../../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md) хранения
+# Домашняя и школьная [аптечка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md) для первой помощи: [состав](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md) и [правила](../../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md) хранения
 
-[Знание](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) первой помощи полезно только тогда, когда под рукой есть самые нужные материалы. Хорошо собранная аптечка помогает не бегать в панике по дому в поисках бинта, пластыря или антисептика.
+[Знание](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) первой помощи полезно только тогда, когда под рукой есть самые нужные [материалы](../../../1.2_natural_sciences/physics_in_everyday_life/Q487005.md). Хорошо собранная [аптечка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md) помогает не бегать в панике по дому в поисках бинта, пластыря или антисептика.
 
 Аптечка должна быть не случайным набором лекарств, а продуманным комплектом для безопасных первых действий. Особенно важно понимать, для чего нужен каждый предмет и как его хранить.
 
@@ -29,11 +29,11 @@
 - в аптечке полезен безопасный [антисептик](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/12_porez_chego_nelzya.md) для наружного применения
 - нужно читать инструкцию и понимать, для чего средство подходит
 - важно [помнить](../../../how_to_memorize/articles/pamyat.md), что не все растворы можно лить внутрь [раны](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md)
-- антисептик не заменяет промывание водой при загрязнении
+- [антисептик](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/12_porez_chego_nelzya.md) не заменяет промывание водой при загрязнении
 
 ## Средства для ушибов и ожогов
 
-- охлаждающий пакет помогает быстро приложить [холод](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/05_pervaya_pomoshch_pri_ushibe.md) при ушибе
+- охлаждающий [пакет](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/tcp_udp/tcp_udp.md) помогает быстро приложить [холод](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/05_pervaya_pomoshch_pri_ushibe.md) при ушибе
 - чистые повязки пригодятся и при небольших ожогах после охлаждения водой
 - эластичный [бинт](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md) может пригодиться для умеренной фиксации конечности
 - все средства нужно использовать только по назначению
@@ -42,7 +42,7 @@
 
 - одноразовые перчатки защищают того, кто оказывает [помощь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md)
 - ножницы с тупыми концами нужны для бинтов и одежды рядом с травмой
-- пакет или контейнер помогает держать всё вместе
+- пакет или [контейнер](../../../5.2_cybersecurity/cpp_fundamentals/15_stl.md) помогает держать всё вместе
 - полезно добавить маленький фонарик для поездок и дачи
 
 ## Лекарства общего назначения
@@ -52,14 +52,14 @@
 - [нельзя](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) хранить в аптечке неизвестные таблетки без подписи
 - лекарства не заменяют перевязку, [охлаждение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/14_pervaya_pomoshch_pri_ozhoge.md) и вызов врача
 
-## Правила хранения и контроля
+## [Правила](../../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md) хранения и контроля
 
 - нужно регулярно проверять сроки годности
 - стерильные упаковки не должны быть порваны или намокшие
 - аптечка должна лежать в одном известном месте
 - маленькие дети не должны иметь к ней свободный доступ без взрослых
 
-## Короткие вопросы и ответы
+## Короткие [вопросы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md) и ответы
 
 ### Вопрос 1. Зачем в аптечке перчатки?
 
@@ -69,9 +69,9 @@
 
 Да, переносная мини-аптечка очень полезна в дороге и на тренировке.
 
-### Вопрос 3. Почему нельзя хранить лекарства без упаковки?
+### Вопрос 3. Почему [нельзя](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) хранить лекарства без упаковки?
 
-Так легко перепутать препарат, срок годности и дозировку.
+Так легко перепутать препарат, [срок годности](../../../6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/safe_product_storage.md) и дозировку.
 
 ### Вопрос 4. Как часто проверять аптечку?
 
@@ -99,12 +99,12 @@
 - **Аптечка** — набор средств для оказания первой помощи
 - **Стерильность** — чистота материала от микробов
 - **Антисептик** — средство для наружной обработки кожи
-- **Охлаждающий пакет** — средство для быстрого приложения холода
-- **Эластичный бинт** — бинт для мягкой фиксации и поддержки
-- **Срок годности** — период, в течение которого средство считается пригодным
+- **Охлаждающий пакет** — средство для быстрого [приложения](../../../4.1_rules_of_study/how_to_learn_effectively/articles/digital_tools.md) холода
+- **Эластичный [бинт](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md)** — бинт для мягкой фиксации и поддержки
+- **Срок годности** — [период](../../../1.2_natural_sciences/physics_in_everyday_life/Q11652.md), в течение которого средство считается пригодным
 - **Мини-аптечка** — компактный набор для школы, поездки или спорта
 - **Упаковка** — [защита](../../../5.1_technology_and_digital_literacy/information and media literacy/пароли_и_двухфакторная_защита.md) средства от повреждения и загрязнения
 
 ---
 [Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Савков Игорь.  
-[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные материалы по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские источники, LLM - ChatGPT.
+[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные материалы по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские [источники](../../../4.2_thinking_and_working_information/how_to_search_information/articles/three_whales.md), [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md).

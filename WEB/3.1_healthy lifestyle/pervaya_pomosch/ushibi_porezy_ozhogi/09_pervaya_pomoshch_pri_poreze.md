@@ -1,6 +1,6 @@
-# [Первая помощь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) при порезе и ссадине: пошаговая [обработка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md) [раны](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md)
+# [Первая помощь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) при порезе и ссадине: [пошаговая](../../../7.2 Media, leisure and hobbies/Computer games/articles/genres_and_worlds/strategy.md) [обработка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md) [раны](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md)
 
-Небольшие порезы и ссадины встречаются почти каждый день: на кухне, в мастерской, на прогулке или после падения с самоката. Большинство из них можно обработать дома, если соблюдать чистоту и последовательность действий.
+Небольшие [порезы](../../../6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/safe_use_of_kitchen_appliances.md) и ссадины встречаются почти каждый день: на кухне, в мастерской, на прогулке или после падения с самоката. Большинство из них можно обработать дома, если соблюдать чистоту и последовательность действий.
 
 Главные [задачи](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) при такой травме — остановить кровь, снизить [риск](../../../8.1_entertainment/articles/gambling-and-harm.md) инфекции и закрыть рану от повторного загрязнения. [Ошибки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) в этот момент потом приводят к нагноению и долгому заживлению.
 
@@ -8,12 +8,12 @@
 
 См. также: [Виды ран и ссадин](./08_porezy_sadiny_vidy.md); [Как остановить кровотечение](./10_krovotechenie_chto_delat.md).
 
-## Шаг 1. Подготовьте руки и материалы
+## [Шаг](../../../1.2_natural_sciences/physics_in_everyday_life/Q36253.md) 1. Подготовьте руки и [материалы](../../../1.2_natural_sciences/physics_in_everyday_life/Q487005.md)
 
 - по возможности вымойте руки с мылом
 - если воды нет, используйте [антисептик](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/12_porez_chego_nelzya.md) для рук
-- заранее приготовьте салфетку, [бинт](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md), [пластырь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md) и антисептик
-- это уменьшает риск занести в рану дополнительные микробы
+- заранее приготовьте салфетку, [бинт](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md), [пластырь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md) и [антисептик](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/12_porez_chego_nelzya.md)
+- это уменьшает [риск](../../../1.2_natural_sciences/neurobiology_for_teens/articles/05_teen_brain.md) занести в рану дополнительные микробы
 
 ## Шаг 2. Остановите небольшое [кровотечение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md)
 
@@ -24,22 +24,22 @@
 
 ## Шаг 3. Промойте повреждение
 
-- чистая прохладная [вода](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/drinking_regime.md) помогает убрать грязь и мелкие частицы
+- чистая прохладная [вода](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/drinking_regime.md) помогает убрать грязь и мелкие [частицы](../../../1.2_natural_sciences/physics_in_everyday_life/Q179635.md)
 - ссадину можно аккуратно промывать дольше, потому что в ней часто много песка
 - не нужно ковырять рану ногтями или острыми предметами
 - если грязь сидит глубоко, лучше показать рану врачу
 
 ## Шаг 4. Обработайте края
 
-- антисептиком обрабатывают кожу вокруг, а не глубину раны
+- антисептиком обрабатывают кожу вокруг, а не глубину [раны](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md)
 - подходят безопасные средства для наружной обработки
-- спиртовые растворы в глубокой ране вызывают лишнюю боль и повреждение тканей
+- спиртовые растворы в глубокой ране вызывают лишнюю [боль](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md) и повреждение тканей
 - главная [цель](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) — уменьшить количество микробов рядом с повреждением
 
 ## Шаг 5. Наложите повязку
 
-- для маленького пореза подойдёт бактерицидный пластырь
-- для более широкой раны используют стерильную салфетку и бинт
+- для маленького пореза подойдёт бактерицидный [пластырь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md)
+- для более широкой раны используют стерильную салфетку и [бинт](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md)
 - [повязка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md) не должна пережимать пальцы и нарушать кровообращение
 - намокшую и грязную повязку нужно менять
 
@@ -53,15 +53,15 @@
 ## Когда домашней обработки недостаточно
 
 - если кровь не останавливается обычным прижатием
-- если рана глубокая, широкая или находится на лице
-- если в ране осталось стекло, металл или другой предмет
-- если травма грязная и есть сомнения насчёт прививки от столбняка
+- если [рана](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md) глубокая, широкая или находится на лице
+- если в ране осталось [стекло](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md), [металл](../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md) или другой предмет
+- если травма грязная и есть [сомнения](../../../8.2_future_and_path_choice/articles/02_insecurity_causes.md) насчёт прививки от столбняка
 
-## Короткие вопросы и ответы
+## Короткие [вопросы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md) и ответы
 
 ### Вопрос 1. Нужно ли всегда использовать перекись?
 
-Нет, главное — чистая вода, остановка крови и безопасная обработка краёв раны.
+Нет, главное — чистая [вода](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/drinking_regime.md), остановка крови и безопасная [обработка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md) краёв раны.
 
 ### Вопрос 2. Можно ли сразу заклеить грязную ссадину?
 
@@ -95,14 +95,14 @@
 ## Словарь по теме
 
 - **Антисептик** — средство для снижения количества микробов на коже и вокруг раны
-- **Стерильная салфетка** — чистый материал для закрытия раны
-- **Повязка** — салфетка и бинт или пластырь, которыми закрывают повреждение
+- **Стерильная салфетка** — чистый [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md) для закрытия раны
+- **[Повязка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md)** — салфетка и бинт или пластырь, которыми закрывают повреждение
 - **Инфекция** — [размножение](../../../1.2_natural_sciences/why_science_help_understand_world/organism.md) микробов в ране
-- **Заживление** — восстановление повреждённых тканей
+- **Заживление** — [восстановление](../../../4.1_rules_of_study/how_to_learn_effectively/articles/breaks_and_rest.md) повреждённых тканей
 - **Нагноение** — скопление гноя при воспалении раны
 - **Кровообращение** — [движение](../../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md) крови по сосудам
 - **Бактерицидный пластырь** — пластырь с мягкой прокладкой для мелких ран
 
 ---
 [Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Бачурин Николай.  
-[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные материалы по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские источники, LLM - ChatGPT.
+[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные материалы по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские [источники](../../../4.2_thinking_and_working_information/how_to_search_information/articles/three_whales.md), [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md).

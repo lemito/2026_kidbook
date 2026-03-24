@@ -16,10 +16,10 @@
 
 ## Обзор четырёх взаимодействий
 
-| Взаимодействие | Относительная интенсивность | Радиус [действия](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md) | Переносчик | На что действует |
+| [Взаимодействие](../../../1.2_natural_sciences/physics_in_everyday_life/Q128030.md) | Относительная интенсивность | Радиус [действия](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md) | Переносчик | На что действует |
 |---------------|---------------------------|-----------------|------------|------------------|
 | **Сильное** | 1 | ~10⁻¹⁵ м | [Глюон](13_elementary_particles.md) | [Кварки](13_elementary_particles.md) |
-| **Электромагнитное** | 10⁻² | ∞ | [Фотон](13_elementary_particles.md) | Заряженные частицы |
+| **Электромагнитное** | 10⁻² | ∞ | [Фотон](13_elementary_particles.md) | Заряженные [частицы](../../../1.2_natural_sciences/physics_in_everyday_life/Q179635.md) |
 | **Слабое** | 10⁻⁶ | ~10⁻¹⁸ м | W±, Z⁰ | Все [фермионы](13_elementary_particles.md) |
 | **Гравитационное** | 10⁻³⁹ | ∞ | Гравитон? | Всё, что имеет [массу/энергию](18_mass_energy.md) |
 
@@ -27,7 +27,7 @@
 
 **Гравитация** — самое слабое, но наиболее дальнодействующее взаимодействие. Оно действует между всеми объектами, обладающими [массой](11_physical_properties.md) или [энергией](01_matter.md).
 
-### [Закон](../../../2.1_society/rights_and_responsibilities/articles/person.md) всемирного тяготения (Ньютон, 1687)
+### [Закон](../../../2.1_society/rights_and_responsibilities/articles/person.md) всемирного тяготения ([Ньютон](../../../1.2_natural_sciences/physics_in_everyday_life/Q11223329.md), 1687)
 
 > F = G · m₁m₂ / r²
 
@@ -37,7 +37,7 @@
 
 Гравитация — не [сила](../../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md), а искривление пространства-времени [массой](01_matter.md) и [энергией](01_matter.md). Уравнения поля [Эйнштейна](15_conservation_law.md):
 
-> Gμν = (8πG/c⁴) Tμν
+> Gμν = (8πG/[c](../../../2.1_society/how_and_where_find_friends/articles/sora_drug.md)⁴) Tμν
 
 ### Роль гравитации
 
@@ -48,11 +48,11 @@
 
 ### Гравитон
 
-Гипотетическая частица-переносчик гравитации. Спин = 2, [масса](01_matter.md) = 0. Пока не обнаружена экспериментально. Гравитационные волны были зарегистрированы в 2015 году (LIGO).
+Гипотетическая частица-переносчик гравитации. [Спин](../../../1.2_natural_sciences/physics_in_everyday_life/Q133673.md) = 2, [масса](01_matter.md) = 0. Пока не обнаружена экспериментально. Гравитационные [волны](../../../1.2_natural_sciences/physics_in_everyday_life/Q136980.md) были зарегистрированы в 2015 году (LIGO).
 
-## Электромагнетизм
+## [Электромагнетизм](../../../1.2_natural_sciences/physics_in_everyday_life/Q7860.md)
 
-**Электромагнитное взаимодействие** — сила между электрически заряженными [частицами](13_elementary_particles.md). Переносчик — **[фотон](13_elementary_particles.md)** (безмассовая частица со спином 1).
+**Электромагнитное взаимодействие** — [сила](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md) между электрически заряженными [частицами](13_elementary_particles.md). Переносчик — **[фотон](13_elementary_particles.md)** (безмассовая [частица](../../../1.2_natural_sciences/physics_in_everyday_life/Q133673.md) со спином 1).
 
 ### [Закон](../../../2.1_society/rights_and_responsibilities/articles/person.md) Кулона
 
@@ -62,12 +62,12 @@
 
 ### Проявления электромагнетизма
 
-| Масштаб | Явление |
+| Масштаб | [Явление](../../../1.2_natural_sciences/physics_in_everyday_life/Q163214.md) |
 |---------|---------|
 | Субатомный | [Электронные оболочки](03_atom_structure.md) [атомов](01_matter.md) |
 | Молекулярный | [Химические связи](04_molecular_level.md) |
 | Макроскопический | [Электропроводность](11_physical_properties.md), [магнетизм](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md), [свет](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md) |
-| Технологический | Электроника, [связь](../../../2.1_society/cause_and_effect_relationships/articles/causality_base.md), лазеры |
+| Технологический | [Электроника](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md), [связь](../../../2.1_society/cause_and_effect_relationships/articles/causality_base.md), лазеры |
 
 Электромагнетизм отвечает за:
 - Все [химические свойства](12_chemical_properties.md) [вещества](01_matter.md)
@@ -77,7 +77,7 @@
 
 ### Квантовая электродинамика (КЭД)
 
-Наиболее точная физическая теория. Описывает электромагнитное взаимодействие как обмен виртуальными [фотонами](13_elementary_particles.md). Предсказания КЭД совпадают с экспериментом с точностью до 10⁻¹² — рекордная точность в физике.
+Наиболее точная физическая [теория](../../../1.2_natural_sciences/why_science_help_understand_world/science.md). Описывает электромагнитное взаимодействие как обмен виртуальными [фотонами](13_elementary_particles.md). Предсказания КЭД совпадают с экспериментом с точностью до 10⁻¹² — рекордная [точность](../../../1.2_natural_sciences/physics_in_everyday_life/Q36253.md) в физике.
 
 ## Сильное ядерное взаимодействие
 
@@ -93,7 +93,7 @@
 |----------|----------|
 | **Конфайнмент** | [Кварки](13_elementary_particles.md) не существуют в свободном состоянии |
 | **Асимптотическая [свобода](../../../2.1_society/rights_and_responsibilities/articles/person.md)** | При малых расстояниях взаимодействие ослабевает |
-| **Цветовой заряд** | [Кварки](13_elementary_particles.md) несут «цвет» (красный, зелёный, синий) |
+| **Цветовой [заряд](../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md)** | [Кварки](13_elementary_particles.md) несут «[цвет](../../../1.2_natural_sciences/physics_in_everyday_life/Q1075.md)» (красный, зелёный, синий) |
 | **Короткодействие** | Эффективный радиус ~10⁻¹⁵ м |
 
 ### Роль [сильного взаимодействия](03_atom_structure.md)
@@ -105,11 +105,11 @@
 
 ## Слабое ядерное взаимодействие
 
-**Слабое взаимодействие** — единственное, способное изменять **аромат** (тип) [кварков](13_elementary_particles.md) и [лептонов](13_elementary_particles.md). Переносчики — массивные [бозоны](13_elementary_particles.md) **W±** и **Z⁰**.
+**Слабое взаимодействие** — единственное, способное изменять **аромат** ([тип](../../../5.2_cybersecurity/cpp_fundamentals/13_struct.md)) [кварков](13_elementary_particles.md) и [лептонов](13_elementary_particles.md). Переносчики — массивные [бозоны](13_elementary_particles.md) **W±** и **Z⁰**.
 
 ### Процессы слабого взаимодействия
 
-| Процесс | Описание |
+| [Процесс](../../../5.1_technology_and_digital_literacy/operating system/articles/process.md) | Описание |
 |---------|----------|
 | β⁻-распад | [Нейтрон](03_atom_structure.md) → [протон](03_atom_structure.md) + [электрон](03_atom_structure.md) + антинейтрино (n → p + e⁻ + ν̄ₑ) |
 | β⁺-распад | [Протон](03_atom_structure.md) → [нейтрон](03_atom_structure.md) + [позитрон](16_antimatter.md) + [нейтрино](13_elementary_particles.md) (p → n + e⁺ + νₑ) |
@@ -119,13 +119,13 @@
 ### Роль слабого взаимодействия
 
 - **Термоядерные реакции в [звёздах](08_plasma.md)**: цепочка pp-реакций начинается со слабого процесса
-- **Радиоактивный распад**: β-распад [изотопов](03_atom_structure.md)
+- **[Радиоактивный распад](../../../1.2_natural_sciences/physics_in_everyday_life/Q2348.md)**: β-распад [изотопов](03_atom_structure.md)
 - **Нуклеосинтез**: [образование](../../../2.1_society/rights_and_responsibilities/articles/education_right.md) химических элементов во Вселенной
 - **Нарушение CP-симметрии**: связано с проблемой [барионной асимметрии](16_antimatter.md) (почему [материи](01_matter.md) больше, чем [антиматерии](16_antimatter.md))
 
 ## Объединение взаимодействий
 
-Одна из главных целей физики — объединение всех взаимодействий в единую теорию.
+Одна из главных целей [физики](../../../1.2_natural_sciences/physics_in_everyday_life/Q172280.md) — объединение всех взаимодействий в единую теорию.
 
 ### Достигнутые объединения
 
@@ -144,7 +144,7 @@
 
 Кандидаты на «Теорию всего»: теория суперструн, петлевая квантовая гравитация.
 
-При [энергии](01_matter.md) Великого объединения [масса](18_mass_energy.md) играет ключевую роль — согласно [E = mc²](01_matter.md), для достижения таких [энергий](01_matter.md) потребовались бы ускорители немыслимых размеров.
+При [энергии](01_matter.md) Великого объединения [масса](18_mass_energy.md) играет ключевую роль — согласно [E = mc²](01_matter.md), для [достижения](../../../4.1_rules_of_study/how_to_learn_effectively/articles/gamification.md) таких [энергий](01_matter.md) потребовались бы ускорители немыслимых размеров.
 
 ## См. также
 

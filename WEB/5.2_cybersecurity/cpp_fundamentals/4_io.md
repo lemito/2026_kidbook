@@ -1,20 +1,20 @@
-# Ввод и вывод данных
+# Ввод и [вывод](../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) данных
 
 ![Картинка ввод и вывод программы](covers/cover_4_io.png)
 
 ## Что это и зачем
 
-Программа, которая не может общаться с пользователем, практически бесполезна. Именно для этого в C++ существует библиотека `iostream` — она обеспечивает два потока данных: поток вывода на экран и поток ввода с клавиатуры. Слово «поток» здесь не случайно: данные текут в одном направлении, как вода по трубе. Вы отправляете данные в поток вывода — они появляются на экране. Вы читаете из потока ввода — программа получает то, что напечатал пользователь.
+[Программа](../../5.1_technology_and_digital_literacy/operating system/articles/process.md), которая не может общаться с пользователем, практически бесполезна. Именно для этого в [C](../../2.1_society/how_and_where_find_friends/articles/sora_drug.md)++ существует библиотека `iostream` — она обеспечивает два потока данных: [поток](../../5.1_technology_and_digital_literacy/operating system/articles/thread.md) вывода на [экран](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/gadgets_blue_light_sleep.md) и поток ввода с клавиатуры. Слово «поток» здесь не случайно: [данные](../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md) текут в одном направлении, как [вода](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/drinking_regime.md) по трубе. Вы отправляете данные в поток вывода — они появляются на экране. Вы читаете из потока ввода — программа получает то, что напечатал пользователь.
 
-Понимание `std::cout` и `std::cin` — это первый шаг к созданию интерактивных программ. Без этого любая программа остаётся «чёрным ящиком», результат работы которого нельзя ни увидеть, ни повлиять на него.
+[Понимание](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md) `std::cout` и `std::cin` — это [первый шаг](../../1.2_natural_sciences/physics_in_everyday_life/Q26540.md) к созданию интерактивных программ. Без этого любая программа остаётся «чёрным ящиком», [результат](../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md) [работы](../../8.2_future/choosing_a_career_path/articles/interview.md) которого [нельзя](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) ни увидеть, ни повлиять на него.
 
 ---
 
-## Синтаксис / Как работает
+## [Синтаксис](2_syntax.md) / Как работает
 
 ### Вывод: `std::cout`
 
-`std::cout` (от *character output*) — объект для вывода данных в консоль. Оператор `<<` передаёт данные в поток.
+`std::cout` (от *character output*) — [объект](../../1.2_natural_sciences/physics_in_everyday_life/Q634.md) для вывода данных в [консоль](../../../8.1_entertainment/articles/history-of-games.md). [Оператор](../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/emergency-112.md) `<<` передаёт данные в поток.
 
 ```cpp
 #include <iostream>
@@ -26,7 +26,7 @@ int main() {
 ```
 
 - `<<` — оператор вставки, его можно «цеплять» несколько раз в одну строку.
-- `std::endl` — вставляет символ новой строки и **сбрасывает буфер** вывода (гарантирует, что текст появится на экране немедленно). Альтернатива — символ `'\n'`, который быстрее, потому что не сбрасывает буфер.
+- `std::endl` — вставляет символ новой строки и **сбрасывает буфер** вывода (гарантирует, что [текст](../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md) появится на экране немедленно). Альтернатива — символ `'\n'`, который быстрее, потому что не сбрасывает буфер.
 
 ```cpp
 // Вывод нескольких значений в одну строку
@@ -56,7 +56,7 @@ int main() {
 
 `std::cin >>` читает данные до первого пробела или переноса строки. Это важно: если пользователь введёт `42 100`, то первый `>>` прочитает `42`, второй — `100`.
 
-### Чтение нескольких значений
+### [Чтение](../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md) нескольких значений
 
 Операторы ввода тоже можно цеплять:
 
@@ -100,7 +100,7 @@ int main() {
 
 ### Форматированный вывод
 
-Чтобы управлять точностью вывода дробных чисел, подключают заголовочный файл `<iomanip>`:
+Чтобы управлять точностью вывода дробных чисел, подключают заголовочный [файл](../../5.1_technology_and_digital_literacy/operating system/articles/file_system.md) `<iomanip>`:
 
 ```cpp
 #include <iostream>
@@ -123,7 +123,7 @@ int main() {
 
 ---
 
-## Типичные ошибки
+## [Типичные ошибки](../../6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/safe_use_of_kitchen_appliances.md)
 
 **Использование `std::cin` для строк с пробелами.** Оператор `>>` читает только до первого пробела. Если нужно прочитать целую строку, используйте `std::getline`:
 
@@ -146,7 +146,7 @@ int main() {
 }
 ```
 
-**Смешивание `>>` и `getline`.** После чтения числа через `>>` в буфере остаётся символ новой строки `'\n'`. Следующий `getline` прочитает именно его и вернёт пустую строку. Решение — очистить буфер перед `getline`:
+**Смешивание `>>` и `getline`.** После чтения числа через `>>` в буфере остаётся символ новой строки `'\n'`. Следующий `getline` прочитает именно его и вернёт пустую строку. [Решение](../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) — очистить буфер перед `getline`:
 
 ```cpp
 int age;
@@ -169,5 +169,5 @@ std::getline(std::cin, name);
 [Вернуться к списку статей](./article_index_information_media_literacy.md)
 
 ---
-Автор: Велиев Рауф  
-*Ресурсы: LLM - Clause Sonnet 4.6*
+[Автор](../../4.2_thinking_and_working_information/how_to_search_information/articles/copypaste.md): Велиев Рауф  
+*[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../7.1_art/modern_technological_art/README.md) - Clause Sonnet 4.6*

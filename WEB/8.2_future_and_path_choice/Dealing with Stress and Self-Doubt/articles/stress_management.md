@@ -1,16 +1,16 @@
-# Методы управления стрессом 🧘‍♂️💪
+# [Методы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md) управления стрессом 🧘‍♂️💪
 
-Стресс — это нормальная часть жизни, но если он становится хроническим или сильным, он мешает учёбе, хобби и общению с друзьями. Управление стрессом помогает сохранять ясность мысли, уверенность и здоровье.
+[Стресс](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md) — это нормальная часть жизни, но если он становится хроническим или сильным, он мешает учёбе, [хобби](../../../2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md) и общению с друзьями. [Управление стрессом](../../articles/03_stress_management.md) помогает сохранять ясность мысли, [уверенность](../../../2.1_society/how_and_where_find_friends/articles/otkaz_ne_konets.md) и [здоровье](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md).
 
-> ### 🛑 Мифы о способах борьбы со стрессом
+> ### 🛑 [Мифы](../../../1.2_natural_sciences/physics_in_everyday_life/Q140028.md) о способах борьбы со стрессом
 >
 > **1. Стресс нужно «выгонять» полностью**
 > 
-> 🔴 *Миф:* «Если перестану испытывать стресс, жизнь станет идеальной».
+> 🔴 *Миф:* «Если перестану испытывать стресс, [жизнь](../../../1.2_natural_sciences/physics_in_everyday_life/Q1751973.md) станет идеальной».
 > 
-> 🟢 *Реальность:* Стресс нельзя убрать полностью, его нужно **научиться контролировать**.
+> 🟢 *[Реальность](../../../1.2_natural_sciences/physics_in_everyday_life/Q140028.md):* Стресс [нельзя](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) убрать полностью, его нужно **научиться контролировать**.
 
-> **2. Все техники одинаково работают для всех**
+> **2. Все [техники](../../articles/03_stress_management.md) одинаково работают для всех**
 > 
 > 🔴 *Миф:* «Есть универсальный способ, который подходит каждому».
 > 
@@ -20,30 +20,30 @@
 
 ## Основные техники управления стрессом 😌
 
-1. **Дыхательные упражнения** 🌬️
-   Медленные вдохи и выдохи помогают снизить уровень тревоги и успокоить нервную систему.
+1. **[Дыхательные упражнения](../../articles/03_stress_management.md)** 🌬️
+   Медленные вдохи и выдохи помогают снизить [уровень](../../../../8.1_entertainment/articles/gamification.md) тревоги и успокоить нервную систему.
 
-2. **Прогулки и физическая активность** 🚶🏃‍♀️
-   Лёгкая физическая нагрузка помогает выбросу гормонов радости и снижает напряжение.
+2. **[Прогулки](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/active_recreation_and_sport.md) и [физическая активность](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sport_and_energy.md)** 🚶🏃‍♀️
+   Лёгкая физическая нагрузка помогает выбросу гормонов радости и снижает [напряжение](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md).
 
-3. **Медитация и осознанность** 🕯️
-   Практики mindfulness помогают контролировать мысли и эмоции, снижая тревогу.
+3. **[Медитация](../../articles/relaxation_and_recovery.md) и осознанность** 🕯️
+   Практики mindfulness помогают контролировать мысли и [эмоции](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/stress_and_food.md), снижая тревогу.
 
-4. **Планирование и разделение задач** 📝
-   Большие цели разбиваются на маленькие шаги, что снижает чувство перегрузки и повышает уверенность.
+4. **[Планирование](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/ideal_schedule_energy_management.md) и разделение задач** 📝
+   Большие [цели](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md) разбиваются на [маленькие шаги](../../articles/goal_setting_and_anxiety.md), что снижает чувство [перегрузки](../../../1.2_natural_sciences/physics_in_everyday_life/Q11376.md) и повышает уверенность.
 
 5. **Ведение дневника** 📓
    Записывание мыслей и эмоций помогает «разгрузить» голову и оценить ситуацию объективно.
 
 ---
 
-## Влияние стресс-менеджмента на учебу и жизнь 🎯
+## [Влияние](../../../5.1_technology_and_digital_literacy/information and media literacy/манипуляции_и_пропаганда.md) стресс-менеджмента на учебу и жизнь 🎯
 
 Правильные методы управления стрессом помогают:
 
-* Улучшить концентрацию и память 🧠
-* Сохранять мотивацию и продуктивность ⚡
-* Снизить тревожность и раздражительность 😌
+* Улучшить концентрацию и [память](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) 🧠
+* Сохранять мотивацию и [продуктивность](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/ideal_schedule_energy_management.md) ⚡
+* Снизить [тревожность](../../../../8.1_self_understanding/articles/causes.md) и раздражительность 😌
 * Принимать более уверенные решения при выборе пути в жизни 🌱
 
 ---
@@ -71,7 +71,7 @@
 
 ---
 
-## Навигация по серии статей
+## [Навигация](../../../1.2_natural_sciences/physics_in_everyday_life/Q11408.md) по серии статей
 
 # Методы управления стрессом 🧘‍♂️💪
 
@@ -95,6 +95,6 @@
 
 **Авторы:** Анна, @Henrygrimm
 
-*Ресурсы: LLM - GPT-4* 🤖
+*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - GPT-4* 🤖
 
 ---

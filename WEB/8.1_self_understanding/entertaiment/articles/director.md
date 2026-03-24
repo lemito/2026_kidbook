@@ -1,41 +1,41 @@
-# Режиссёр — волшебник сцены и экрана
+# [Режиссёр](../../../../8.1_entertainment/articles/director.md) — волшебник сцены и экрана
 
 ![Иллюстрация](../images/gigachat_generated/director.jpg)
 
 
 
 ## Кто такой режиссёр?
-Режиссёр — это [человек](../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md), который руководит процессом создания [фильмов](movie.md), спектаклей, концертов и телевизионных передач. Он словно художник, создающий картину своей мечты, используя краски, [свет](../../1.2_natural_sciences/why_science_help_understand_world/physics.md), [музыку](music.md) и слова актёров.
+Режиссёр — это [человек](../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md), который руководит процессом создания [фильмов](movie.md), спектаклей, концертов и телевизионных передач. Он словно [художник](../../../7.2 Media, leisure and hobbies/Computer games/articles/dream_team/artist.md), создающий картину своей мечты, используя краски, [свет](../../1.2_natural_sciences/why_science_help_understand_world/physics.md), [музыку](music.md) и слова актёров.
 
 ## Что делает режиссёр?
-На съёмочной площадке режиссёра называют главным волшебником. Именно он решает, каким будет [фильм](movie.md) или спектакль целиком: какую атмосферу создаст, какие [эмоции](psychology_of_music.md) почувствуют зрители, какой [сюжет](script.md) выберут герои.
+На съёмочной площадке режиссёра называют главным волшебником. Именно он решает, каким будет [фильм](movie.md) или спектакль целиком: какую атмосферу создаст, какие [эмоции](psychology_of_music.md) почувствуют [зрители](../../../7.2 Media, leisure and hobbies/Computer games/articles/game_culture/esports.md), какой [сюжет](script.md) выберут герои.
 
 ### В театре
-Театральный режиссёр помогает актёрам раскрыть образы персонажей через движения, мимику и голос. Он придумывает декорации и костюмы, выбирает исполнителей главных ролей, следит за режиссурой каждого спектакля и корректирует игру артистов прямо во время выступления.
+Театральный режиссёр помогает актёрам раскрыть образы персонажей через движения, мимику и голос. Он придумывает декорации и костюмы, выбирает исполнителей главных ролей, следит за режиссурой каждого спектакля и корректирует игру артистов прямо во [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) выступления.
 
 ### В [кино](movie.md)
-Киношный режиссёр работает совсем иначе. Он снимает кадры камеры, управляет актёрами, даёт команды операторам и осветителям, принимает решения о [том](../../7.1_art/musical_instruments/articles/drums.md), где поставить свет, куда направить камеру и как правильно выстроить кадр.
+Киношный режиссёр работает совсем иначе. Он снимает кадры камеры, управляет актёрами, даёт команды операторам и осветителям, принимает решения о [том](../../7.1_art/musical_instruments/articles/drums.md), где поставить [свет](../../../1.2_natural_sciences/physics_in_everyday_life/Q1.md), куда направить камеру и как правильно выстроить [кадр](../../../../8.1_entertainment/articles/director.md).
 
 ## Как стать режиссёром?
-Чтобы стать режиссёром, нужно много учиться и практиковаться. Обычно начинающие режиссёры учатся в театральных училищах или киношколах, изучают историю искусства, сценическое мастерство и драматургию. Затем пробуют себя в маленьких проектах, снимают короткие [фильмы](movie.md) или участвуют в постановках театров.
+Чтобы стать режиссёром, нужно много учиться и практиковаться. Обычно начинающие режиссёры учатся в театральных училищах или киношколах, изучают историю искусства, сценическое [мастерство](../../../7.2 Media, leisure and hobbies/Computer games/articles/game_culture/cosplay.md) и драматургию. Затем пробуют себя в маленьких проектах, снимают короткие [фильмы](movie.md) или участвуют в постановках театров.
 
-С опытом приходит [понимание](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md), как устроена работа команды, и умение вести людей за собой, вдохновлять их творить вместе с тобой удивительные истории.
+С опытом приходит [понимание](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md), как устроена [работа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md) команды, и умение вести людей за собой, вдохновлять их творить вместе с тобой удивительные истории.
 
 ## Знаменитые режиссёры
 Среди знаменитых режиссёров есть много известных имён:
 
 - **Сергей Эйзенштейн** — советский режиссёр, известный своими новаторскими подходами в [киноискусстве](movie.md).
-- **Фрэнсис Форд Коппола** — американский режиссёр, снявший легендарную трилогию о персонаже Дарт Вейдер (Звёздные войны).
+- **Фрэнсис Форд Коппола** — американский режиссёр, снявший легендарную трилогию о персонаже Дарт [Вейдер](../../../7.2 Media, leisure and hobbies/Computer games/articles/heroes_and_villains/main_villains.md) (Звёздные войны).
 - **Акира Куросава** — [японский](../../7.1_art/musical_instruments/articles/koto.md) режиссёр, прославившийся яркими историческими [драмами](movie.md) и приключениями.
 
 Каждый из них создавал особенные миры, в которых зрители оказывались героями историй.
 
-## Заключение
-Режиссура — увлекательная [профессия](../../7.2_leisure/useful_and_interesting_leisure/articles/leisure_influence_on_future.md), позволяющая выразить свою фантазию, вдохновение и [чувства](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md) перед зрителями. Это искусство, объединяющее разные [виды](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) творчества, будь то театр, [кино](movie.md) или телевидение. Быть режиссёром значит мечтать, видеть необычное там, где другие видят обыденность, и воплощать эти [идеи](../../7.2_leisure/useful_and_interesting_leisure/articles/free_leisure_activities.md) в [жизнь](../../1.2_natural_sciences/why_science_help_understand_world/biology.md)!
+## [Заключение](../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md)
+Режиссура — увлекательная [профессия](../../7.2_leisure/useful_and_interesting_leisure/articles/leisure_influence_on_future.md), позволяющая выразить свою фантазию, вдохновение и [чувства](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md) перед зрителями. Это [искусство](../../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/aesthetics_and_taste.md), объединяющее разные [виды](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) творчества, будь то театр, [кино](movie.md) или [телевидение](../../../7.1_art/modern_technological_art/articles/1.2_nam_june_paik.md). Быть режиссёром значит мечтать, видеть необычное там, где другие видят обыденность, и воплощать эти [идеи](../../7.2_leisure/useful_and_interesting_leisure/articles/free_leisure_activities.md) в [жизнь](../../1.2_natural_sciences/why_science_help_understand_world/biology.md)!
 
 ---
 [Автор](../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Хереш Артемий
 
-*LLM - GigaChat*
+*[LLM](../../../7.1_art/modern_technological_art/README.md) - GigaChat*
 
 

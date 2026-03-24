@@ -2,7 +2,7 @@
 
 ## [Определение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) досуга 📚
 
-[Досуг](leisure_and_why_need.md) — это время, которое мы проводим вне учёбы и работы, свободное от повседневных обязанностей. Это тот самый период, когда ты отдыхаешь, развлекаешься и занимаешься любимыми делами.
+[Досуг](leisure_and_why_need.md) — это [время](../../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md), которое мы проводим вне учёбы и [работы](../../../../8.2_future/choosing_a_career_path/articles/interview.md), свободное от повседневных обязанностей. Это тот самый [период](../../../../1.2_natural_sciences/physics_in_everyday_life/Q11652.md), когда ты отдыхаешь, развлекаешься и занимаешься любимыми делами.
 
 ---
 
@@ -14,7 +14,7 @@
    ![Иллюстрация: описание темы](../../../../WEB/7.2_leisure/useful_and_interesting_leisure/images/leisure_influence_on_future.jpg)
 
 2. **Психологическое состояние**  
-   [Отдых](safety_during_recreation.md) помогает расслабиться и восстановить силы после напряжённого дня. Люди, умеющие грамотно распределять своё время, меньше подвержены стрессу и эмоциональному выгоранию.
+   [Отдых](safety_during_recreation.md) помогает расслабиться и восстановить [силы](../../../../1.2_natural_sciences/physics_in_everyday_life/Q11423.md) после напряжённого дня. Люди, умеющие грамотно распределять своё время, меньше подвержены стрессу и эмоциональному выгоранию.
 
 3. **Интеллектуальное [развитие](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md)**  
    Во время досуга [человек](../../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md) часто занимается самообразованием, расширяет [кругозор](reading_and_self_education.md), изучает новое и развивает полезные [навыки](computer_games_with_benefit.md).
@@ -37,13 +37,13 @@
 
 ---
 
-## [Влияние](../../../5.1_technology_and_digital_literacy/information and media literacy/манипуляции_и_пропаганда.md) досуга на будущее 🌐
+## [Влияние](../../../5.1_technology_and_digital_literacy/information and media literacy/манипуляции_и_пропаганда.md) досуга на [будущее](../../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md) 🌐
 
-Правильно организованный досуг закладывает [основы](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) успешной личности будущего. Умение планировать время, эффективно отдыхать и заниматься саморазвитием формирует важные качества, такие как [ответственность](../../../2.1_society/cause_and_effect_relationships/articles/responsibility.md), целеустремлённость и самостоятельность.
+Правильно организованный [досуг](../../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/leisure_and_why_need.md) закладывает [основы](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) успешной личности будущего. Умение планировать время, эффективно отдыхать и заниматься саморазвитием формирует важные качества, такие как [ответственность](../../../2.1_society/cause_and_effect_relationships/articles/responsibility.md), целеустремлённость и [самостоятельность](../../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/pocket_money.md).
 
 ---
 
-## Заключение ✨
+## [Заключение](../../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md) ✨
 
 Так что же делать, чтобы твой досуг приносил пользу? Попробуй найти [баланс](balance_study_rest_hobby.md) между разными видами деятельности: физкультурой, чтением, творчеством и общением с друзьями. И помни: правильный [выбор](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) занятий поможет тебе стать лучшей версией себя!
 

@@ -1,21 +1,21 @@
-# Оглавление: как работает интернет
+# Оглавление: [как работает интернет](articles/web_basics/what_happens.md)
 
 **Номер команды:** 9
 **Дата создания:** 2026-03-19
-**Родительская тема:** Технологии и цифровая грамотность
+**Родительская тема:** [Технологии](../../2.2_history/world_economy_on_fingers/articles/globalizatsiya.md) и цифровая грамотность
 
 ## Описание
 
 Этот документ — центральная навигационная страница по разделу «Как работает интернет».
-Здесь собраны все статьи в удобном порядке, чтобы быстро переходить к нужной теме и выстраивать последовательное изучение материала.
+Здесь собраны все статьи в удобном порядке, чтобы быстро переходить к нужной теме и выстраивать последовательное [изучение](../../1.2_natural_sciences/why_science_help_understand_world/science.md) материала.
 
 Раздел охватывает ключевые направления:
 - историю возникновения и развития интернета — от военных лабораторий до каждого кармана;
-- физический и адресный уровни: как устройства находят друг друга через IP, MAC и DNS;
-- транспортный уровень: как данные делятся на пакеты и доставляются по TCP или UDP;
-- прикладной уровень: как браузер разговаривает с сервером через HTTP/HTTPS;
-- беспроводные сети: Wi-Fi, роутеры и отличие от мобильного интернета;
-- основы веба: что происходит при открытии сайта, как устроены браузер и сервер.
+- физический и адресный уровни: как [устройства](../operating system/articles/HAL.md) находят друг друга через [IP](articles/ip_mac/ip_and_mac.md), [MAC](articles/ip_mac/ip_and_mac.md) и [DNS](../../4.2_thinking_and_working_information/how_to_search_information/articles/vpn_dns_proxy_anonymity_and_security.md);
+- [транспортный уровень](articles/tcp_udp/tcp_udp.md): как [данные](../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md) делятся на пакеты и доставляются по [TCP](articles/tcp_udp/tcp_udp.md) или [UDP](articles/tcp_udp/tcp_udp.md);
+- [прикладной уровень](../operating system/articles/network_stack.md): как [браузер](articles/http_https/http_https.md) разговаривает с сервером через [HTTP](articles/http_https/http_https.md)/[HTTPS](articles/http_https/http_https.md);
+- беспроводные сети: [Wi-Fi](articles/history/internet_at_home.md), роутеры и отличие от мобильного интернета;
+- [основы](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) веба: [что происходит](articles/web_basics/what_happens.md) при открытии сайта, как устроены браузер и [сервер](articles/http_https/http_https.md).
 
 Статьи можно читать по порядку — от истории к техническим деталям — или выборочно по конкретной теме (например, «DNS», «TCP vs UDP», «HTTPS», «Wi-Fi»).
 
@@ -23,51 +23,51 @@
 
 ## Содержание
 
-### История интернета
+### [История интернета](articles/history/internet_history.md)
 
-1. [История интернета](./articles/history/internet_history.md) — путь от четырёх компьютеров до миллиардов устройств
-2. [ARPANET: первая сеть](./articles/history/arpanet.md) — как военный проект дал жизнь глобальной сети
+1. [История интернета](./articles/history/internet_history.md) — [путь](../../1.2_natural_sciences/physics_in_everyday_life/Q11476.md) от четырёх компьютеров до миллиардов устройств
+2. [ARPANET: первая сеть](./articles/history/arpanet.md) — как военный [проект](../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) дал [жизнь](../../1.2_natural_sciences/physics_in_everyday_life/Q1751973.md) глобальной сети
 3. [Как интернет пришёл в каждый дом](./articles/history/internet_at_home.md) — модемы, провайдеры, браузеры и Wi-Fi
 
 ### IP и MAC-адреса
 
 4. [IP и MAC-адреса](./articles/ip_mac/ip_and_mac.md) — два вида адресов: серийный номер устройства и его место в сети
-5. [Что такое NAT и почему у всех дома один внешний IP](./articles/ip_mac/nat.md) — как роутер делит один адрес между всеми устройствами
-6. [Как узнать свой IP и MAC-адрес](./articles/ip_mac/how_to_find_address.md) — пошаговая инструкция для Windows, macOS и Linux
+5. [Что такое NAT и почему у всех дома один внешний IP](./articles/ip_mac/nat.md) — как [роутер](articles/wifi/router.md) делит один [адрес](articles/ip_mac/ip_and_mac.md) между всеми устройствами
+6. [Как узнать свой IP и MAC-адрес](./articles/ip_mac/how_to_find_address.md) — [пошаговая](../../7.2 Media, leisure and hobbies/Computer games/articles/genres_and_worlds/strategy.md) инструкция для [Windows](../operating system/articles/operating_system.md), [macOS](../operating system/articles/operating_system.md) и [Linux](../operating system/articles/operating_system.md)
 
 ### DNS и домены
 
 7. [DNS: телефонная книга интернета](./articles/dns/dns.md) — как имена сайтов превращаются в числовые адреса
-8. [Домены: как занять своё место в интернете](./articles/dns/domains.md) — что такое домен, как его купить и как он устроен
-9. [CDN: как интернет становится молниеносным](./articles/dns/cdn.md) — сеть доставки контента и зачем она нужна
+8. [Домены: как занять своё место в интернете](./articles/dns/domains.md) — что такое [домен](articles/dns/domains.md), как его купить и как он устроен
+9. [CDN: как интернет становится молниеносным](./articles/dns/cdn.md) — [сеть доставки контента](articles/dns/cdn.md) и зачем она нужна
 
 ### TCP, UDP и пакеты
 
-10. [TCP и UDP: два способа доставить данные](./articles/tcp_udp/tcp_udp.md) — надёжная доставка vs быстрая, и когда что использовать
-11. [Что такое пакет и как данные делятся на части](./articles/tcp_udp/packet.md) — инкапсуляция, MTU, фрагментация и путь пакета
-12. [Как работает онлайн-игра изнутри](./articles/tcp_udp/online_games.md) — tick rate, пинг, UDP и TCP в играх
+10. [TCP и UDP: два способа доставить данные](./articles/tcp_udp/tcp_udp.md) — [надёжная доставка](articles/tcp_udp/tcp_udp.md) vs быстрая, и когда что использовать
+11. [Что такое пакет и как данные делятся на части](./articles/tcp_udp/packet.md) — [инкапсуляция](articles/tcp_udp/packet.md), [MTU](articles/tcp_udp/packet.md), [фрагментация](articles/tcp_udp/packet.md) и путь пакета
+12. [Как работает онлайн-игра изнутри](./articles/tcp_udp/online_games.md) — [tick rate](articles/tcp_udp/online_games.md), [пинг](articles/tcp_udp/online_games.md), UDP и TCP в играх
 
-### HTTP, HTTPS и безопасность
+### HTTP, HTTPS и [безопасность](../../1.2_natural_sciences/neurobiology_for_teens/articles/17_hugs_oxytocin.md)
 
-13. [HTTP и HTTPS: как браузер разговаривает с сервером](./articles/http_https/http_https.md) — запросы, ответы, методы, коды статусов и шифрование
-14. [TLS: как работает шифрование в HTTPS](./articles/http_https/tls.md) — сертификаты, рукопожатие и виды ключей
-15. [Cookies: как сайты тебя запоминают](./articles/http_https/cookies.md) — что хранят файлы cookie и как ими управлять
+13. [HTTP и HTTPS: как браузер разговаривает с сервером](./articles/http_https/http_https.md) — запросы, ответы, [методы](../../4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md), коды статусов и [шифрование](articles/http_https/http_https.md)
+14. [TLS: как работает шифрование в HTTPS](./articles/http_https/tls.md) — сертификаты, [рукопожатие](articles/http_https/tls.md) и [виды](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) ключей
+15. [Cookies: как сайты тебя запоминают](./articles/http_https/cookies.md) — что хранят файлы [cookie](articles/http_https/cookies.md) и как ими управлять
 
 ### Wi-Fi и беспроводные сети
 
-16. [Wi-Fi и локальная сеть](./articles/wifi/wifi.md) — радиоволны, роутер, LAN и история изобретения
+16. [Wi-Fi и локальная сеть](./articles/wifi/wifi.md) — [радиоволны](../../1.2_natural_sciences/physics_in_everyday_life/Q12969754.md), роутер, [LAN](articles/wifi/wifi.md) и [история](../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md) изобретения
 17. [Устройство роутера](./articles/wifi/router.md) — как работает главный узел домашней сети
-18. [Wi-Fi vs мобильный интернет](./articles/wifi/wifi_vs_mobile_net.md) — сравнение технологий, плюсы и минусы
+18. [Wi-Fi vs мобильный интернет](./articles/wifi/wifi_vs_mobile_net.md) — [сравнение](../../5.2_cybersecurity/cpp_fundamentals/5_operators.md) технологий, плюсы и минусы
 
 ### Основы веба
 
-19. [Что происходит, когда я открываю сайт?](./articles/web_basics/what_happens.md) — полный путь от нажатия Enter до страницы на экране: DNS, TCP, HTTP, рендеринг
+19. [Что происходит, когда я открываю сайт?](./articles/web_basics/what_happens.md) — полный путь от нажатия Enter до [страницы](../operating system/articles/memory_management.md) на экране: DNS, TCP, HTTP, [рендеринг](articles/web_basics/browser.md)
 20. [Что такое браузер и как он устроен](./articles/web_basics/browser.md) — движки рендеринга, JavaScript, DevTools и популярные браузеры
-21. [Что такое сервер и где он находится](./articles/web_basics/server.md) — железо, дата-центры, веб-серверы, CDN и облака
+21. [Что такое сервер и где он находится](./articles/web_basics/server.md) — железо, дата-центры, веб-серверы, [CDN](articles/dns/cdn.md) и облака
 
 ---
 
-## Карта связей между статьями
+## [Карта](../information and media literacy/карта_компетенций_по_возрастам.md) связей между статьями
 
 ```mermaid
 graph TD

@@ -4,10 +4,10 @@
 
 ## Что это такое
 
-Самопроверка — это когда ты **сам задаёшь себе вопросы и проверяешь, что действительно помнишь и понимаешь**.
+Самопроверка — это когда ты **сам задаёшь себе [вопросы](../../how_to_learn_effectively/articles/curiosity.md) и проверяешь, что действительно помнишь и понимаешь**.
 
 Это не просто перечитывание материала. Наоборот — ты пытаешься:
-- вспомнить информацию без подсказок  
+- [вспомнить](aktivnoe_vspominanie.md) информацию без подсказок  
 - объяснить тему своими словами  
 - проверить себя с помощью заданий или вопросов  
 
@@ -17,15 +17,15 @@
 
 Самопроверка помогает понять главное: **что ты уже знаешь, а что ещё нет**.
 
-Без неё легко попасть в ловушку: кажется, что всё понятно, потому что текст знаком. Но на самом деле знания ещё не закрепились.
+Без неё легко попасть в ловушку: кажется, что всё понятно, потому что [текст](../../how_to_learn_effectively/articles/reading_skills.md) знаком. Но на самом деле знания ещё не закрепились.
 
 Вот чем полезна самопроверка:
 
 - улучшает [Запоминание](./zapominanie.md)  
 - показывает пробелы в знаниях  
-- помогает не забывать материал  
+- помогает не забывать [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md)  
 - делает [обучение](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) более осознанным  
-- повышает уверенность  
+- повышает [уверенность](../../../2.1_society/how_and_where_find_friends/articles/otkaz_ne_konets.md)  
 
 Кроме того, она усиливает эффект от [Повторения](./povtorenie.md), потому что ты не просто читаешь, а активно работаешь с информацией.
 
@@ -34,7 +34,7 @@
 Когда ты просто читаешь текст, [мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) узнаёт информацию, но не обязательно запоминает её надолго.
 
 А когда ты пытаешься вспомнить:
-- мозг «достаёт» знания  
+- [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) «достаёт» знания  
 - связи между идеями укрепляются  
 - [информация](../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) лучше закрепляется  
 
@@ -53,7 +53,7 @@
 
 Или использовать карточки:
 - на одной стороне — вопрос  
-- на другой — ответ  
+- на другой — [ответ](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md)  
 
 Если не получилось ответить — это не [ошибка](../../5.1_technology_and_digital_literacy/information and media literacy/логические_ошибки_в_медиа.md), а подсказка: сюда нужно вернуться.
 
@@ -65,9 +65,9 @@
 - Пересказывай материал вслух или про себя  
 - Используй карточки с вопросами и ответами  
 - Решай задания без подсказок  
-- Возвращайся к теме через время и проверяй себя снова  
+- Возвращайся к теме через [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) и проверяй себя снова  
 
-Такие [действия](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md) делают обучение активным и помогают лучше понимать материал.
+Такие [действия](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md) делают [обучение](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) активным и помогают лучше понимать материал.
 
 > [!NOTE]
 > [Ошибки](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) во время самопроверки — это нормально и даже полезно. Они показывают, где нужно уделить больше [внимания](vnimanie.md).
@@ -79,10 +79,10 @@
 | Вопросы к самому себе | Только перечитывание |
 | Карточки и задания | Подглядывание в ответы |
 | Регулярная [практика](../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md) | Редкая [проверка](../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) знаний |
-| Честность с собой | Игнорирование ошибок |
+| [Честность с собой](../../../1.2_natural_sciences/neurobiology_for_teens/articles/20_sadness.md) | Игнорирование ошибок |
 | [Повторение](povtorenie.md) с паузами | Попытка выучить всё сразу |
 
-## Частые ошибки
+## Частые [ошибки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)
 
 - Читать материал снова и снова вместо проверки  
 - Подглядывать в ответы слишком рано  
@@ -114,4 +114,4 @@
 
 ---
 Авторы: Ковриженков Дмитрий, @Dimakovff;  
-[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - ChatGPT
+[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md)

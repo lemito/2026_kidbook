@@ -1,30 +1,30 @@
-# Ловушка энергетиков: почему [кофеин](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) и таурин опасны для растущего организма
+# Ловушка энергетиков: почему [кофеин](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) и [таурин](../../vrednye_privychki/articles/energetiki.md) опасны для растущего организма
 
-Ты стоишь перед холодильником в магазине. Яркие банки с молниями, тиграми и словами **Energy**, **Power**, **Boost** обещают одно: выпьешь — и сразу появятся силы. Можно не [спать](../../../how_to_memorize/articles/son.md) всю ночь, готовиться к экзамену или играть до утра.
+Ты стоишь перед холодильником в магазине. Яркие банки с молниями, тиграми и словами **Energy**, **Power**, **Boost** обещают одно: выпьешь — и сразу появятся [силы](../../../1.2_natural_sciences/physics_in_everyday_life/Q11423.md). Можно не [спать](../../../how_to_memorize/articles/son.md) всю ночь, готовиться к экзамену или играть до утра.
 
 Но есть один нюанс. [Энергетики](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) не создают энергию. Они **заставляют [организм](../../../1.2_natural_sciences/why_science_help_understand_world/organism.md) тратить резервы быстрее**, чем он успевает восстановиться.
 
-Разберёмся, что происходит внутри организма после банки энергетика и почему для подростков это особенно опасно.
+Разберёмся, [что происходит](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/what_happens.md) внутри организма после банки [энергетика](../../../2.2_history/world_economy_on_fingers/articles/neft_v_mirovoy_ekonomike.md) и почему для подростков это особенно опасно.
 
->### 🛑 Рубрика «Миф vs Реальность»
+>### 🛑 Рубрика «Миф vs [Реальность](../../../1.2_natural_sciences/physics_in_everyday_life/Q140028.md)»
 >
 >**1. Про энергию**  
->🔴 *Миф:* «Энергетик даёт настоящую энергию».  
->🟢 *Реальность:* Он не создаёт энергию, а **блокирует сигнал усталости**, из-за чего [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) думает, что всё в порядке.
+>🔴 *Миф:* «[Энергетик](../../vrednye_privychki/articles/energetiki.md) даёт настоящую энергию».  
+>🟢 *Реальность:* Он не создаёт энергию, а **блокирует [сигнал](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/wifi/router.md) усталости**, из-за чего [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) думает, что всё в порядке.
 >
 >**2. Про [безопасность](../../../2.1_society/cause_and_effect_relationships/articles/trust_predictability.md)**  
 >🔴 *Миф:* «Если напиток продаётся в магазине — значит он безопасен».  
->🟢 *Реальность:* Во многих странах энергетики **ограничивают для подростков**, потому что их нервная система ещё развивается.
+>🟢 *Реальность:* Во многих странах [энергетики](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) **ограничивают для подростков**, потому что их [нервная система](../../../1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md) ещё развивается.
 
 ## Что происходит в мозге после энергетика?
 
 В течение дня в мозге накапливается [вещество](../../../1.1_structure_of_the_world/matter/articles/01_matter.md) **аденозин**. Оно работает как биологический индикатор усталости.
 
-Когда аденозина становится много, мозг получает сигнал:
+Когда аденозина становится много, [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) получает сигнал:
 
 > «Ты [устал](../../../how_to_memorize/articles/ustalost.md). Пора отдыхать».
 
-Но кофеин действует как **блокировщик этих сигналов**. Он занимает те же рецепторы, что и аденозин, и мозг перестаёт чувствовать [усталость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md).
+Но [кофеин](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) действует как **блокировщик этих сигналов**. Он занимает те же рецепторы, что и аденозин, и мозг перестаёт чувствовать [усталость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md).
 
 ![Как кофеин блокирует сигнал усталости](../images/the_energy_trap.png "Кофеин и рецепторы аденозина")
 
@@ -38,11 +38,11 @@ graph TD;
     G --> H[Ощущение бодрости];
 ```
 
-Проблема в [том](../../../7.1_art/musical_instruments/articles/drums.md), что **усталость никуда не исчезает**. Организм всё ещё истощён, но мозг временно перестаёт это [замечать](../../../how_to_memorize/articles/vnimanie.md).
+Проблема в [том](../../../7.1_art/musical_instruments/articles/drums.md), что **[усталость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) никуда не исчезает**. [Организм](../../../1.2_natural_sciences/neurobiology_for_teens/articles/03_nervous_system_map.md) всё ещё истощён, но мозг временно перестаёт это [замечать](../../../how_to_memorize/articles/vnimanie.md).
 
 ## Таурин: загадочный сосед кофеина
 
-Помимо кофеина, в энергетиках часто содержится **таурин** — аминокислота, участвующая в работе:
+Помимо кофеина, в энергетиках часто содержится **таурин** — аминокислота, участвующая в [работе](../../../8.2_future/choosing_a_career_path/articles/interview.md):
 
 - мозга  
 - сердца  
@@ -84,10 +84,10 @@ graph TD;
 
 Поэтому возможны:
 
-- тревожность  
+- [тревожность](../../../../8.1_self_understanding/articles/causes.md)  
 - раздражительность  
 - дрожь  
-- трудности с концентрацией  
+- [трудности](../../../4.1_rules_of_study/how_to_learn_effectively/articles/growth_mindset.md) с концентрацией  
 
 Парадоксально, но энергетик, выпитый «для учёбы», иногда **ухудшает [внимание](../../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md)**.
 
@@ -98,7 +98,7 @@ graph TD;
 - частоту сердцебиения  
 - артериальное [давление](../../../1.1_structure_of_the_world/matter/articles/07_gases.md)  
 
-Если пить энергетики регулярно, сердце начинает работать **в режиме постоянного стресса**.
+Если пить энергетики регулярно, [сердце](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) начинает работать **в режиме постоянного стресса**.
 
 ```mermaid
 graph LR;
@@ -108,7 +108,7 @@ graph LR;
     D --> E[Желание выпить ещё];
 ```
 
-Это явление называют **«энергетическим откатом»** — после краткого подъёма энергии наступает сильная усталость.
+Это [явление](../../../1.2_natural_sciences/physics_in_everyday_life/Q163214.md) называют **«энергетическим откатом»** — после краткого подъёма энергии наступает сильная усталость.
 
 ## Что делать вместо энергетиков? (Короткий чек-лист)
 
@@ -116,14 +116,14 @@ graph LR;
 
 * **[Сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) — главный [источник](../../../5.1_technology_and_digital_literacy/information and media literacy/дезинформация_и_фейки.md) энергии.** Большинству подростков нужно 8–10 часов сна.
 * **[Пей воду]("./articles/drinking_regime.md").** Даже лёгкое обезвоживание снижает концентрацию.
-* **Делай перерывы.** Мозгу нужен [отдых](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) каждые 40–60 минут.
+* **Делай [перерывы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/breaks_and_rest.md).** Мозгу нужен [отдых](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) каждые 40–60 минут.
 * **[Двигайся.]("./articles/sport_and_energy.md")** Короткая прогулка или лёгкая [физическая активность](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sport_and_energy.md) может бодрить лучше кофеина.
 
 ### 😂 Анекдот от GPT по теме
 
 Разговаривают два студента:
 
-— Я выпил энергетик, чтобы не спать всю ночь.
+— Я выпил энергетик, чтобы не [спать](../../../4.1_rules_of_study/how_to_memorize/articles/son.md) всю ночь.
 
 — И помогло?
 

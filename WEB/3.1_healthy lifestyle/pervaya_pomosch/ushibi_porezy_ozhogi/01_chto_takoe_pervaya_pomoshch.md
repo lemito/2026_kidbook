@@ -1,8 +1,8 @@
 # Что такое [первая помощь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md)
 
-Первая помощь — это [действия](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md), которые оказывают человеку сразу после [травмы](../../../7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md) или внезапного ухудшения самочувствия, ещё до приезда врача. Она нужна не вместо лечения, а для того, чтобы выиграть время и не допустить ухудшения состояния.
+[Первая помощь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) — это [действия](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md), которые оказывают человеку сразу после [травмы](../../../7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md) или внезапного ухудшения самочувствия, ещё до приезда врача. Она нужна не вместо лечения, а для того, чтобы выиграть [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) и не допустить ухудшения состояния.
 
-Для школьников тема особенно важна, потому что бытовые травмы случаются дома, в школе, на улице и на тренировках. Чем лучше [человек](../../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md) понимает [основы](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) первой помощи, тем спокойнее и грамотнее он действует в реальной ситуации.
+Для школьников тема особенно важна, потому что бытовые [травмы](../../../1.2_natural_sciences/physics_in_everyday_life/Q628858.md) случаются дома, в школе, на улице и на тренировках. Чем лучше [человек](../../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md) понимает [основы](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) первой помощи, тем спокойнее и грамотнее он действует в реальной ситуации.
 
 ---
 
@@ -13,21 +13,21 @@
 ## Главная идея первой помощи
 
 - помочь пострадавшему дожить до осмотра медицинским работником без новых осложнений
-- уменьшить боль, [страх](../../../4.2/critical_thinking/articles/influence_of_emotions.md) и панику в первые минуты после происшествия
+- уменьшить [боль](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md), [страх](../../../4.2/critical_thinking/articles/influence_of_emotions.md) и панику в первые минуты после происшествия
 - предотвратить потерю крови, инфицирование [раны](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) и дальнейшее повреждение тканей
 - правильно оценить тяжесть ситуации и вовремя вызвать скорую [помощь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md)
 
 ## Чем первая помощь отличается от лечения
 
 - первая помощь выполняется сразу на месте происшествия, а лечение начинается после осмотра врача
-- оказывающий помощь использует простые и безопасные действия, а не сложные медицинские манипуляции
-- [цель](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) первой помощи — стабилизировать состояние, а цель лечения — полностью устранить проблему
-- при первой помощи [нельзя](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) экспериментировать с лекарствами и процедурами, в которых человек не уверен
+- оказывающий [помощь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md) использует простые и безопасные [действия](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md), а не сложные медицинские манипуляции
+- [цель](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) первой помощи — стабилизировать состояние, а [цель](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) лечения — полностью устранить проблему
+- при первой помощи [нельзя](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) экспериментировать с лекарствами и процедурами, в которых [человек](../../../1.2_natural_sciences/physics_in_everyday_life/Q45003.md) не уверен
 
 ## Кто может оказывать первую помощь
 
 - любой человек, который оказался рядом и понимает базовые [правила](../../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md) безопасности
-- родители, учителя, тренеры и старшие школьники часто первыми замечают травму и начинают помогать
+- [родители](../../../../8.1_self_understanding/articles/family_influence.md), учителя, тренеры и старшие школьники часто первыми замечают травму и начинают помогать
 - даже ребёнок может сделать полезное [действие](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md): позвать взрослых, принести аптечку, вызвать [112](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md)
 - умение действовать спокойно иногда важнее, чем идеальное [знание](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) всех медицинских терминов
 
@@ -40,7 +40,7 @@
 
 ## Что входит в первую помощь
 
-- оценка обстановки и устранение явной опасности для пострадавшего и помощника
+- [оценка](../../../4.1_rules_of_study/how_to_learn_effectively/articles/self_reflection.md) обстановки и устранение явной [опасности](../../../1.2_natural_sciences/physics_in_everyday_life/Q845744.md) для пострадавшего и помощника
 - простые действия: [холод](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/05_pervaya_pomoshch_pri_ushibe.md) при ушибе, чистая [повязка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md) при ране, [охлаждение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/14_pervaya_pomoshch_pri_ozhoge.md) ожога водой
 - вызов взрослых или скорой помощи при тяжёлой травме
 - [наблюдение](../../../1.2_natural_sciences/why_science_help_understand_world/patterns.md) за человеком до передачи его врачам или родителям
@@ -54,12 +54,12 @@
 
 ## Почему важно изучать тему заранее
 
-- в момент происшествия времени на поиск информации мало, поэтому лучше иметь готовый [алгоритм](../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md) в голове
-- заранее изученные правила помогают не паниковать и не делать лишних движений
+- в момент происшествия времени на [поиск информации](../../../1.2_natural_sciences/neurobiology_for_teens/articles/19_curiosity.md) мало, поэтому лучше иметь готовый [алгоритм](../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md) в голове
+- заранее изученные [правила](../../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md) помогают не паниковать и не делать лишних движений
 - [понимание](../../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md) первой помощи формирует [ответственность](../../../2.1_society/cause_and_effect_relationships/articles/responsibility.md) за себя и окружающих
-- знание темы снижает [риск](../../../8.1_entertainment/articles/gambling-and-harm.md) осложнений даже при самых обычных бытовых травмах
+- [знание](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) темы снижает [риск](../../../8.1_entertainment/articles/gambling-and-harm.md) осложнений даже при самых обычных бытовых травмах
 
-## Короткие вопросы и ответы
+## Короткие [вопросы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md) и ответы
 
 ### Вопрос 1. Можно ли назвать первую помощь полноценным лечением?
 
@@ -67,7 +67,7 @@
 
 ### Вопрос 2. Нужно ли оказывать помощь, если страшно?
 
-Нужно начать с самых безопасных действий: убрать [опасность](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md), позвать взрослых, вызвать 112.
+Нужно начать с самых безопасных действий: убрать [опасность](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md), позвать взрослых, вызвать [112](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md).
 
 ### Вопрос 3. Почему важно действовать быстро?
 
@@ -99,12 +99,12 @@
 - **Первая помощь** — начальные действия до осмотра врача
 - **Пострадавший** — человек, который получил травму или внезапно почувствовал себя плохо
 - **Осложнение** — нежелательное ухудшение состояния после травмы
-- **Алгоритм** — последовательность действий, которую важно выполнять по шагам
+- **[Алгоритм](../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md)** — последовательность действий, которую важно выполнять по шагам
 - **[Скорая](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/15_ozhog_kogda_skoraya.md) помощь** — служба экстренной медицинской помощи по номерам [103](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md) и 112
 - **Стабилизация** — сохранение состояния без ухудшения до приезда врачей
 - **Экстренная ситуация** — случай, когда промедление опасно для здоровья или жизни
 - **[Аптечка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md)** — набор средств для оказания простой помощи дома, в школе или в поездке
 
 ---
-[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Грищенко Владимир.  
-[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные материалы по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские источники, LLM - ChatGPT.
+[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Грищенко [Владимир](../../../2.2_society/history/articles/Kievan_Rus.md).  
+[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные [материалы](../../../1.2_natural_sciences/physics_in_everyday_life/Q487005.md) по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские [источники](../../../4.2_thinking_and_working_information/how_to_search_information/articles/three_whales.md), [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md).

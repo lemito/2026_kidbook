@@ -2,7 +2,7 @@
 
 ![Стандартная модель элементарных частиц](/WEB/1.1_structure_of_the_world/matter/images/Standard_Model_of_Elementary_Particles.svg.png)
 
-*Стандартная модель [элементарных частиц](01_matter.md) — все известные фундаментальные частицы*
+*Стандартная модель [элементарных частиц](01_matter.md) — все известные фундаментальные [частицы](../../../1.2_natural_sciences/physics_in_everyday_life/Q179635.md)*
 
 **[Элементарные частицы](01_matter.md)** — фундаментальные, неделимые (в рамках современных [знаний](../../../2.1_society/rights_and_responsibilities/articles/education_right.md)) составные части [материи](01_matter.md). Все наблюдаемые формы [вещества](01_matter.md) — от [атомов](03_atom_structure.md) и [молекул](04_molecular_level.md) до [звёзд](08_plasma.md) — построены из [элементарных частиц](01_matter.md), взаимодействующих через [фундаментальные силы](14_fundamental_interactions.md).
 
@@ -25,7 +25,7 @@
 
 Частицы делятся на два [класса](../../../2.1_society/rights_and_responsibilities/articles/school.md):
 
-| [Класс](../../../2.1_society/rights_and_responsibilities/articles/school.md) | Спин | [Статистика](../../../5.1_technology_and_digital_literacy/information and media literacy/проверка_цитат_и_статистики.md) | Роль |
+| [Класс](../../../2.1_society/rights_and_responsibilities/articles/school.md) | [Спин](../../../1.2_natural_sciences/physics_in_everyday_life/Q133673.md) | [Статистика](../../../5.1_technology_and_digital_literacy/information and media literacy/проверка_цитат_и_статистики.md) | Роль |
 |-------|------|------------|------|
 | **Фермионы** | 1/2 | Ферми-Дирака | Составляют [вещество](01_matter.md) |
 | **Бозоны** | 0 или 1 | Бозе-[Эйнштейна](15_conservation_law.md) | Переносят взаимодействия |
@@ -36,9 +36,9 @@
 
 ### Шесть ароматов кварков
 
-| Поколение | Кварк | Символ | Заряд | [Масса](01_matter.md) |
+| Поколение | Кварк | Символ | [Заряд](../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md) | [Масса](01_matter.md) |
 |-----------|-------|--------|-------|-------|
-| I | Верхний (up) | u | +2/3 | ~2,2 МэВ/c² |
+| I | Верхний (up) | u | +2/3 | ~2,2 МэВ/[c](../../../2.1_society/how_and_where_find_friends/articles/sora_drug.md)² |
 | I | Нижний (down) | d | −1/3 | ~4,7 МэВ/c² |
 | II | Очарованный (charm) | c | +2/3 | ~1,3 ГэВ/c² |
 | II | Странный (strange) | s | −1/3 | ~96 МэВ/c² |
@@ -58,7 +58,7 @@
 
 ### Шесть лептонов
 
-| Поколение | Частица | Символ | Заряд | [Масса](01_matter.md) |
+| Поколение | [Частица](../../../1.2_natural_sciences/physics_in_everyday_life/Q133673.md) | Символ | Заряд | [Масса](01_matter.md) |
 |-----------|---------|--------|-------|-------|
 | I | [Электрон](03_atom_structure.md) | e⁻ | −1 | 0,511 МэВ/c² |
 | I | Электронное нейтрино | νₑ | 0 | < 1,1 эВ/c² |
@@ -117,7 +117,7 @@
 
 ### Мезоны (кварк + антикварк)
 
-| Мезон | Состав | [Масса](01_matter.md), МэВ/c² |
+| Мезон | [Состав](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md) | [Масса](01_matter.md), МэВ/c² |
 |-------|--------|----------------|
 | Пион (π⁺) | u d̄ | 139,6 |
 | Каон (K⁺) | u s̄ | 493,7 |
@@ -129,7 +129,7 @@
 
 При встрече частицы и [античастицы](16_antimatter.md) происходит **[аннигиляция](16_antimatter.md)** — обе частицы превращаются в [энергию](01_matter.md) в соответствии с [уравнением Эйнштейна](18_mass_energy.md) [E = mc²](01_matter.md).
 
-## За пределами Стандартной модели
+## За пределами Стандартной [модели](../../../1.2_natural_sciences/physics_in_everyday_life/Q172280.md)
 
 Стандартная модель не объясняет всё:
 
@@ -141,7 +141,7 @@
 | [Барионная асимметрия](16_antimatter.md) | Почему [вещества](01_matter.md) больше, чем [антиматерии](16_antimatter.md)? |
 | Иерархия [масс](01_matter.md) | Почему [массы](01_matter.md) частиц так сильно различаются? |
 
-Поиск физики за пределами Стандартной модели — одна из главных задач современной физики [элементарных частиц](14_fundamental_interactions.md).
+[Поиск](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md) [физики](../../../1.2_natural_sciences/physics_in_everyday_life/Q172280.md) за пределами Стандартной модели — одна из главных задач современной физики [элементарных частиц](14_fundamental_interactions.md).
 
 ## См. также
 

@@ -1,6 +1,6 @@
 # [Тёмная материя](01_matter.md)
 
-**[Тёмная материя](01_matter.md)** — гипотетическая форма [материи](01_matter.md), которая не излучает и не поглощает электромагнитное излучение ([свет](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md)), но проявляет себя через [гравитационное взаимодействие](14_fundamental_interactions.md). По современным оценкам, [тёмная материя](01_matter.md) составляет около **27%** [массы-энергии](18_mass_energy.md) Вселенной, тогда как обычная (барионная) [материя](01_matter.md) — лишь ~5%.
+**[Тёмная материя](01_matter.md)** — гипотетическая [форма](../../../7.1_art/modern_technological_art/articles/4.5_algorithmic_craft.md) [материи](01_matter.md), которая не излучает и не поглощает [электромагнитное излучение](../../../1.2_natural_sciences/physics_in_everyday_life/Q1075.md) ([свет](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md)), но проявляет себя через [гравитационное взаимодействие](14_fundamental_interactions.md). По современным оценкам, [тёмная материя](01_matter.md) составляет около **27%** [массы-энергии](18_mass_energy.md) Вселенной, тогда как обычная (барионная) [материя](01_matter.md) — лишь ~5%.
 
 ## Содержание
 
@@ -18,19 +18,19 @@
 
 ### Кривые вращения галактик
 
-В 1970-х годах Вера **Рубин** и Кент **Форд** измерили скорости вращения [звёзд](08_plasma.md) в спиральных галактиках. Согласно [закону](../../../2.1_society/rights_and_responsibilities/articles/person.md) [гравитации](14_fundamental_interactions.md), [скорость](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md) должна убывать с расстоянием от центра (как [планеты](../../../1.2_natural_sciences/why_science_help_understand_world/space_sciences.md) в Солнечной системе). Однако наблюдения показали, что скорость остаётся **почти постоянной** на больших расстояниях.
+В 1970-х годах Вера **Рубин** и Кент **Форд** измерили скорости вращения [звёзд](08_plasma.md) в спиральных галактиках. Согласно [закону](../../../2.1_society/rights_and_responsibilities/articles/person.md) [гравитации](14_fundamental_interactions.md), [скорость](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md) должна убывать с расстоянием от центра (как [планеты](../../../1.2_natural_sciences/why_science_help_understand_world/space_sciences.md) в Солнечной системе). Однако наблюдения показали, что [скорость](../../../1.2_natural_sciences/physics_in_everyday_life/Q11402.md) остаётся **почти постоянной** на больших расстояниях.
 
-Это означает, что галактики содержат огромное количество невидимой [массы](11_physical_properties.md) — **гало [тёмной материи](01_matter.md)**, простирающееся далеко за пределы видимого диска.
+Это означает, что галактики содержат огромное количество невидимой [массы](11_physical_properties.md) — **[гало](../../../1.2_natural_sciences/physics_in_everyday_life/Q14506045.md) [тёмной материи](01_matter.md)**, простирающееся далеко за пределы видимого диска.
 
-### Скопления галактик
+### [Скопления галактик](../../../1.2_natural_sciences/physics_in_everyday_life/Q1.md)
 
 - **Фриц Цвикки** (1933) — первым заметил, что галактики в скоплении Волосы Вероники движутся слишком быстро: видимой [массы](01_matter.md) недостаточно для гравитационного удержания. Он предположил наличие «скрытой [массы](01_matter.md)» (dunkle Materie).
 
 ### Гравитационное линзирование
 
-Массивные скопления галактик отклоняют свет далёких объектов, действуя как гравитационная линза. Степень отклонения показывает, что [масса](01_matter.md) скоплений в 5–10 раз превышает видимую.
+Массивные скопления галактик отклоняют [свет](../../../1.2_natural_sciences/physics_in_everyday_life/Q1.md) далёких объектов, действуя как гравитационная [линза](../../../1.2_natural_sciences/physics_in_everyday_life/Q467980.md). Степень отклонения показывает, что [масса](01_matter.md) скоплений в 5–10 раз превышает видимую.
 
-### Реликтовое излучение
+### Реликтовое [излучение](../../../1.2_natural_sciences/physics_in_everyday_life/Q1.md)
 
 [Данные](../../../7.1_art/musical_instruments/articles/duduk.md) спутников **WMAP** и **Planck** о флуктуациях реликтового излучения позволяют точно определить соотношение различных компонентов Вселенной, подтверждая наличие [тёмной материи](01_matter.md).
 
@@ -38,7 +38,7 @@
 
 Наблюдения скопления «Пуля» (2006) показали, что при столкновении двух скоплений галактик видимая [материя](01_matter.md) ([плазма](08_plasma.md)) замедляется из-за взаимодействия, а [тёмная материя](01_matter.md) проходит насквозь — она взаимодействует только гравитационно.
 
-## Состав Вселенной
+## [Состав](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md) Вселенной
 
 По данным спутника **Planck** (2018):
 
@@ -48,17 +48,17 @@
 | **[Тёмная материя](01_matter.md)** | 26,8% |
 | **Обычная [материя](01_matter.md)** | 4,9% |
 
-Таким образом, всё, из чего состоят [атомы](03_atom_structure.md), [молекулы](04_molecular_level.md), [звёзды](08_plasma.md) и планеты — это менее 5% содержимого Вселенной. [Закон сохранения массы-энергии](15_conservation_law.md) распространяется и на [тёмную материю](01_matter.md).
+Таким образом, всё, из чего состоят [атомы](03_atom_structure.md), [молекулы](04_molecular_level.md), [звёзды](08_plasma.md) и [планеты](../../../1.2_natural_sciences/physics_in_everyday_life/Q1.md) — это менее 5% содержимого Вселенной. [Закон сохранения массы-энергии](15_conservation_law.md) распространяется и на [тёмную материю](01_matter.md).
 
 ## Кандидаты на роль [тёмной материи](01_matter.md)
 
 ### WIMPs (Weakly Interacting Massive Particles)
 
-**Слабо взаимодействующие массивные частицы** — основной [класс](../../../2.1_society/rights_and_responsibilities/articles/school.md) кандидатов.
+**Слабо взаимодействующие массивные [частицы](../../../1.2_natural_sciences/physics_in_everyday_life/Q179635.md)** — основной [класс](../../../2.1_society/rights_and_responsibilities/articles/school.md) кандидатов.
 
 | Свойство | Описание |
 |----------|----------|
-| [Масса](01_matter.md) | 10–1000 ГэВ/c² |
+| [Масса](01_matter.md) | 10–1000 ГэВ/[c](../../../2.1_society/how_and_where_find_friends/articles/sora_drug.md)² |
 | Взаимодействия | [Гравитационное](14_fundamental_interactions.md) и, возможно, [слабое](14_fundamental_interactions.md) |
 | [Температура](07_gases.md) | «Холодная» (нерелятивистская) |
 | Примеры | Нейтралино (суперсимметрия) |
@@ -69,7 +69,7 @@
 |----------|----------|
 | [Масса](01_matter.md) | 10⁻⁶ – 10⁻³ эВ/c² |
 | Происхождение | [Решение](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) «сильной CP-проблемы» в КХД |
-| Взаимодействие | Чрезвычайно слабое |
+| [Взаимодействие](../../../1.2_natural_sciences/physics_in_everyday_life/Q128030.md) | Чрезвычайно слабое |
 
 ### Стерильные [нейтрино](13_elementary_particles.md)
 
@@ -85,13 +85,13 @@
 - [Нейтрино](13_elementary_particles.md) [Стандартной модели](13_elementary_particles.md) — слишком лёгкие (горячая [тёмная материя](01_matter.md) не объясняет формирование галактик)
 - [Антиматерия](16_antimatter.md) — аннигилировала бы с обычной [материей](01_matter.md), давая наблюдаемое излучение
 
-## Методы поиска
+## [Методы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md) поиска
 
-### Прямой поиск
+### Прямой [поиск](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md)
 
-Детекторы, расположенные глубоко под землёй (для экранировки от космических лучей), регистрируют столкновения частиц [тёмной материи](01_matter.md) с [ядрами](03_atom_structure.md) [атомов](03_atom_structure.md).
+Детекторы, расположенные глубоко под землёй (для экранировки от космических лучей), регистрируют [столкновения](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md) частиц [тёмной материи](01_matter.md) с [ядрами](03_atom_structure.md) [атомов](03_atom_structure.md).
 
-| [Эксперимент](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) | [Местоположение](../../../5.1_technology_and_digital_literacy/information and media literacy/геолокация_и_проверка_контекста.md) | Метод |
+| [Эксперимент](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) | [Местоположение](../../../5.1_technology_and_digital_literacy/information and media literacy/геолокация_и_проверка_контекста.md) | [Метод](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md) |
 |------------|---------------|-------|
 | XENON1T/nT | Гран-Сассо, Италия | Жидкий ксенон |
 | LUX-ZEPLIN | Южная Дакота, США | Жидкий ксенон |
@@ -106,12 +106,12 @@
 
 Поиск [продуктов](12_chemical_properties.md) [аннигиляции](16_antimatter.md) или распада частиц [тёмной материи](01_matter.md) в космосе:
 - Гамма-телескопы (Fermi-LAT)
-- Нейтринные телескопы (IceCube)
+- Нейтринные [телескопы](../../../1.2_natural_sciences/physics_in_everyday_life/Q1.md) (IceCube)
 - Антиматериальные детекторы (AMS-02 на МКС)
 
 ## Альтернативные теории
 
-| [Теория](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) | Описание | Статус |
+| [Теория](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) | Описание | [Статус](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md) |
 |--------|----------|--------|
 | **MOND** | Модификация ньютоновской динамики при малых ускорениях | Объясняет галактики, но не скопления |
 | **TeVeS** | Релятивистское обобщение MOND | Проблемы с Bullet Cluster |
@@ -140,4 +140,4 @@
 - [Масса-энергия](18_mass_energy.md)
 - [Физические свойства](11_physical_properties.md)
 
-*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Караткевич Николай • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) ChatGPT • Слов: 570 • 2026-03-18*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Караткевич Николай • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md) • Слов: 570 • 2026-03-18*

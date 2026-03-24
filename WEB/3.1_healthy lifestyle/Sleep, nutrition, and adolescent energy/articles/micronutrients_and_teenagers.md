@@ -5,23 +5,23 @@
 
 Иногда дело не в режиме сна, школе или нагрузке. [Причина](../../../2.1_society/cause_and_effect_relationships/articles/causality_base.md) может быть гораздо менее очевидной — **дефицит микронутриентов**.
 
-Микронутриенты — это витамины и [минералы](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md), которые нужны организму в небольших количествах, но без них многие процессы просто перестают нормально работать.  
+[Микронутриенты](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md) — это [витамины](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md) и [минералы](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md), которые нужны организму в небольших количествах, но без них многие процессы просто перестают нормально работать.  
 
 Особенно важны для подростков **железо, магний и витамины группы B**. Их нехватка может вызывать [усталость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md), проблемы с концентрацией и даже перепады настроения.
 
 Разберёмся, почему именно эти вещества играют такую большую роль.
 
->### 🛑 Рубрика «Миф vs Реальность»
+>### 🛑 Рубрика «Миф vs [Реальность](../../../1.2_natural_sciences/physics_in_everyday_life/Q140028.md)»
 >
->**1. Про усталость**  
+>**1. Про [усталость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md)**  
 >🔴 *Миф:* «Если я постоянно устаю — значит просто ленюсь».  
 >🟢 *Реальность:* Усталость часто связана с **дефицитом витаминов и минералов**.
 >
 >**2. Про [питание](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md)**  
->🔴 *Миф:* «Если я ем много, значит получаю всё необходимое».  
->🟢 *Реальность:* Важно **не количество еды, а её состав**.
+>🔴 *Миф:* «Если я ем много, значит получаю всё [необходимое](../../../6.2_money_and_literacy/how_to_save_for_goal/articles/needs_vs_wants.md)».  
+>🟢 *Реальность:* Важно **не количество еды, а её [состав](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md)**.
 
-## Железо: кислород для твоего организма
+## Железо: [кислород](../../../1.2_natural_sciences/physics_in_everyday_life/Q629.md) для твоего организма
 
 Железо — один из самых важных минералов для организма. Оно участвует в создании **гемоглобина** — белка в красных кровяных клетках.
 
@@ -44,9 +44,9 @@ graph TD;
 - постоянная усталость  
 - бледность кожи  
 - головокружение  
-- трудности с концентрацией  
+- [трудности](../../../4.1_rules_of_study/how_to_learn_effectively/articles/growth_mindset.md) с концентрацией  
 
-[Подростки](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/biology_of_night_owls_teens.md) особенно подвержены дефициту железа, потому что [организм](../../../1.2_natural_sciences/why_science_help_understand_world/organism.md) в этот период **быстро растёт и требует больше ресурсов**.
+[Подростки](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/biology_of_night_owls_teens.md) особенно подвержены дефициту железа, потому что [организм](../../../1.2_natural_sciences/why_science_help_understand_world/organism.md) в этот [период](../../../1.2_natural_sciences/physics_in_everyday_life/Q11652.md) **быстро растёт и требует больше ресурсов**.
 
 ## Магний: антистресс для нервной системы
 
@@ -58,28 +58,28 @@ graph TD;
 - мышцам расслабляться  
 - регулировать [уровень](../../../8.1_entertainment/articles/gamification.md) стресса  
 
-Когда магния не хватает, нервная система начинает работать **в режиме постоянного напряжения**.
+Когда магния не хватает, [нервная система](../../../1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md) начинает работать **в режиме постоянного напряжения**.
 
 Это может проявляться так:
 
 - раздражительность  
-- тревожность  
+- [тревожность](../../../../8.1_self_understanding/articles/causes.md)  
 - проблемы со сном  
 - мышечные подёргивания  
 
 Магний часто называют **«минералом спокойствия»**.
 
-## Витамины группы B: топливо для мозга
+## Витамины группы B: [топливо](../../../2.2_history/world_economy_on_fingers/articles/neft_v_mirovoy_ekonomike.md) для мозга
 
-Витамины группы B — это целая команда веществ, которые помогают организму превращать пищу в энергию.
+Витамины группы B — это целая [команда](../../../4.1_rules_of_study/how_to_learn_effectively/articles/peer_learning.md) веществ, которые помогают организму превращать пищу в энергию.
 
 Особенно важны:
 
-- **B6** — участвует в работе нервной системы  
+- **B6** — участвует в [работе](../../../8.2_future/choosing_a_career_path/articles/interview.md) нервной системы  
 - **B9 (фолиевая [кислота](../../../1.1_structure_of_the_world/matter/articles/12_chemical_properties.md))** — важен для роста клеток  
 - **B12** — участвует в образовании крови  
 
-Если витаминов группы B не хватает, организм хуже производит энергию из пищи.
+Если витаминов группы B не хватает, [организм](../../../1.2_natural_sciences/neurobiology_for_teens/articles/03_nervous_system_map.md) хуже производит энергию из пищи.
 
 ```mermaid
 graph LR;
@@ -90,22 +90,22 @@ graph LR;
 
 Поэтому при дефиците могут появляться:
 
-- быстрая утомляемость  
+- быстрая [утомляемость](../../../1.2_natural_sciences/physics_in_everyday_life/Q628858.md)  
 - снижение концентрации  
 - проблемы с [памятью](../../../how_to_memorize/articles/pamyat.md)  
 
-## Почему подростки часто сталкиваются с дефицитом?
+## Почему [подростки](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/biology_of_night_owls_teens.md) часто сталкиваются с дефицитом?
 
 В подростковом возрасте организм находится в фазе **быстрого роста и гормональной перестройки**.
 
-Это значит, что потребность в витаминах и минералах увеличивается.
+Это значит, что [потребность](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/need.md) в витаминах и минералах увеличивается.
 
 Но одновременно появляются факторы, которые мешают получать их достаточно:
 
-- нерегулярное питание  
-- фастфуд  
+- нерегулярное [питание](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md)  
+- [фастфуд](../../vrednye_privychki/articles/fastfud_i_pischevoy_musor.md)  
 - [пропуск завтрака]("./articles/breakfast_for_the_brain.md")  
-- высокий уровень стресса  
+- высокий [уровень](../../../../8.1_entertainment/articles/gamification.md) стресса  
 
 В итоге организм начинает работать **на грани своих ресурсов**.
 

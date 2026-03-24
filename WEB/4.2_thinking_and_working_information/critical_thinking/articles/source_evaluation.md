@@ -1,15 +1,15 @@
-# Как оценивать источники информации.
+# Как оценивать [источники](../../how_to_search_information/articles/three_whales.md) информации.
 
 ## Что такое [источник](../../../5.1_technology_and_digital_literacy/information and media literacy/дезинформация_и_фейки.md) информации
 
-**Источник информации** — это место, откуда мы получаем [данные](../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md), новости или знания.
+**[Источник](../../../5.1_technology_and_digital_literacy/information and media literacy/дезинформация_и_фейки.md) информации** — это место, откуда мы получаем [данные](../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md), новости или знания.
 
 Источником может быть:
 
 - статья на сайте
 - научная [публикация](../../../5.1_technology_and_digital_literacy/information and media literacy/цифровая_репутация.md)
 - книга
-- интервью
+- [интервью](../../../8.2_future/choosing_a_career_path/articles/interview.md)
 - статистический отчёт
 - пост в социальных сетях
 
@@ -31,7 +31,7 @@
 
 ## Авторитетность источника
 
-**Авторитетность** показывает, насколько [автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md) или организация компетентны в теме.
+**Авторитетность** показывает, насколько [автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md) или [организация](../../../4.1_rules_of_study/how_to_learn_effectively/articles/learning_environment.md) компетентны в теме.
 
 Например:
 
@@ -39,12 +39,12 @@
 - медицинские [советы](../../../7.2_leisure/useful_and_interesting_leisure/articles/mistakes_in_choosing_hobby.md) — от врачей и медицинских учреждений  
 - новости — от известных и проверенных СМИ  
 
-Если автор неизвестен, не указывает образование или [опыт](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md), доверять такой информации стоит осторожно.
+Если [автор](../../how_to_search_information/articles/copypaste.md) неизвестен, не указывает образование или [опыт](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md), доверять такой информации стоит осторожно.
 
 ### Что можно проверить
 
 - указан ли **автор статьи**
-- есть ли у автора **опыт или образование в теме**
+- есть ли у автора **[опыт](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md) или образование в теме**
 - является ли сайт **известным источником**
 
 ---
@@ -78,7 +78,7 @@
 
 Примеры:
 
-- научное исследование
+- научное [исследование](../../../1.2_natural_sciences/neurobiology_for_teens/articles/19_curiosity.md)
 - официальный документ
 - статистический отчёт
 - интервью с участником события
@@ -99,7 +99,7 @@
 
 ## [Конфликт](../../../2.1_society/cause_and_effect_relationships/articles/conflict_roots.md) интересов
 
-**Конфликт интересов** возникает, когда автор может получить выгоду от определённого результата или мнения.
+**[Конфликт](../../../2.1_society/cause_and_effect_relationships/articles/conflict_roots.md) интересов** возникает, когда автор может получить выгоду от определённого результата или мнения.
 
 Например:
 
@@ -107,21 +107,21 @@
 - блогер рекламирует товар и получает за это [деньги](../../../2.1_society/cause_and_effect_relationships/articles/economic_chains.md)
 - организация финансирует исследование о своей деятельности
 
-Это не значит, что информация обязательно ложная, но **её нужно проверять особенно [внимательно](../../../how_to_memorize/articles/vnimanie.md)**.
+Это не значит, что [информация](../../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) обязательно ложная, но **её нужно проверять особенно [внимательно](../../../how_to_memorize/articles/vnimanie.md)**.
 
 ---
 
-## Простые вопросы для проверки источника
+## Простые [вопросы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md) для проверки источника
 
 Перед тем как доверять информации, можно задать себе несколько вопросов:
 
 1. **Кто автор?**
 2. **Есть ли у автора опыт в этой теме?**
 3. **Независим ли источник?**
-4. **Это первичная информация или пересказ?**
-5. **Есть ли у автора личная выгода?**
+4. **Это первичная информация или [пересказ](../../../1.2_natural_sciences/neurobiology_for_teens/articles/28_false_memories.md)?**
+5. **Есть ли у автора личная [выгода](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/discount.md)?**
 
-Если источник отвечает этим критериям, вероятность того, что информация **достоверна**, становится выше.
+Если источник отвечает этим критериям, [вероятность](../../../1.2_natural_sciences/physics_in_everyday_life/Q45003.md) того, что информация **достоверна**, становится выше.
 
 ---
 
@@ -137,4 +137,4 @@
 
 ---
 Авторы: Матвей Германенко, @THENEAL24;  
-*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - ChatGPT (OpenAI)*
+*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md) (OpenAI)*

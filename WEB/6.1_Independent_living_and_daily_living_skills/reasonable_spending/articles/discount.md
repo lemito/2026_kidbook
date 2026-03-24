@@ -1,4 +1,4 @@
-# Скидка
+# [Скидка](../../../3.1_healthy lifestyle/vrednye_privychki/articles/shopogolizm.md)
 ![Иллюстрация](../images/discount.png)
 
 > **Коротко:** скидка - это уменьшение [цены](./price.md) на товар.
@@ -25,8 +25,8 @@
 ---
 Авторы: Алимов Ирфан Рифатович, Венгер Ирина Витальевна, Моисеев Кирилл Всеволодович, Тараскаев Давид Михайлович, Шмотова Александра Игоревна;  
 GitHub ответственный: @kloshka;
-Визуал: @irf4n4ik;
-*Ресурсы: GigaChat/YandexGPT, ручная редактура и проверка команды 6.1*
+[Визуал](../../../4.1_rules_of_study/how_to_learn_effectively/articles/learning_styles.md): @irf4n4ik;
+*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): GigaChat/YandexGPT, ручная редактура и [проверка](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) команды 6.1*
 
 
 

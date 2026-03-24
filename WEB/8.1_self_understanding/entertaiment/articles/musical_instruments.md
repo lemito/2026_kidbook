@@ -1,4 +1,4 @@
-# Музыкальные инструменты
+# [Музыкальные инструменты](../../../1.2_natural_sciences/physics_in_everyday_life/Q170475.md)
 
 ![Иллюстрация](../images/gigachat_generated/musical_instruments.jpg)
 
@@ -11,7 +11,7 @@
 
 ## [История](../../2.1_society/cause_and_effect_relationships/articles/lessons_of_history.md) музыкальных инструментов
 
-Давным-давно люди заметили, что звуки могут вызывать у них разные [эмоции](psychology_of_music.md). Они стучали палками по камням, били руками по дереву и даже дули в раковины морских моллюсков! Так появились первые музыкальные инструменты. Со временем люди начали придумывать всё более сложные конструкции: струнные, [духовые](../../7.1_art/musical_instruments/articles/saxophone.md), [ударные](../../7.1_art/musical_instruments/articles/marimba.md) и клавишные инструменты. Например:
+Давным-давно люди заметили, что звуки могут вызывать у них разные [эмоции](psychology_of_music.md). Они стучали палками по камням, били руками по дереву и даже дули в раковины морских моллюсков! Так появились первые музыкальные инструменты. Со временем люди начали придумывать всё более сложные конструкции: струнные, [духовые](../../7.1_art/musical_instruments/articles/saxophone.md), [ударные](../../7.1_art/musical_instruments/articles/marimba.md) и клавишные [инструменты](../../../1.2_natural_sciences/physics_in_everyday_life/Q36253.md). Например:
 
 ### [Эволюция](../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md) музыкальных инструментов
 - **Древние времена:** флейты из костей животных, [барабаны](../../7.1_art/musical_instruments/articles/drums.md) из шкур животных.
@@ -26,44 +26,44 @@
 ### **Струнные инструменты**
 Это те инструменты, которые создают [звук](../../1.2_natural_sciences/why_science_help_understand_world/physics.md) за счёт вибрации натянутых струн. К ним относятся гитары, скрипки, [пианино](../../7.1_art/musical_instruments/articles/piano.md) и балалайки. [Гитара](../../7.1_art/musical_instruments/articles/guitar.md), например, известна каждому школьнику – её легко взять с собой куда угодно, а играть можно начинать уже с первых уроков музыки.
 
-### **Духовые инструменты**
-Звук здесь создаётся благодаря выдуванию воздуха через специальные отверстия или трубки. [Флейта](../../7.1_art/musical_instruments/articles/flute.md), [труба](../../7.1_art/musical_instruments/articles/trumpet.md), [саксофон](../../7.1_art/musical_instruments/articles/saxophone.md) и [гобой](../../7.1_art/musical_instruments/articles/oboe.md) – самые популярные представители этой группы. Слышал когда-нибудь, как играет джазовый саксофонист? Это завораживает!
+### **[Духовые](../../../7.1_art/musical_instruments/articles/saxophone.md) инструменты**
+[Звук](../../../1.2_natural_sciences/physics_in_everyday_life/Q124003.md) здесь создаётся благодаря выдуванию воздуха через специальные отверстия или трубки. [Флейта](../../7.1_art/musical_instruments/articles/flute.md), [труба](../../7.1_art/musical_instruments/articles/trumpet.md), [саксофон](../../7.1_art/musical_instruments/articles/saxophone.md) и [гобой](../../7.1_art/musical_instruments/articles/oboe.md) – самые популярные представители этой группы. Слышал когда-нибудь, как играет джазовый саксофонист? Это завораживает!
 
-### **Ударные инструменты**
-Они производят звук от удара предмета по поверхности инструмента. Барабаны, [тарелки](../../7.1_art/musical_instruments/articles/drums.md), [кастаньеты](../../7.1_art/musical_instruments/articles/castanets.md) и тамбурины – отличные помощники в создании ритма и [настроения](psychology_of_music.md). Представь себя барабанщиком [рок](music_genres.md)-группы – разве не круто?
+### **[Ударные](../../../7.1_art/musical_instruments/articles/marimba.md) инструменты**
+Они производят звук от удара предмета по поверхности инструмента. [Барабаны](../../../7.1_art/musical_instruments/articles/drums.md), [тарелки](../../7.1_art/musical_instruments/articles/drums.md), [кастаньеты](../../7.1_art/musical_instruments/articles/castanets.md) и тамбурины – отличные [помощники](../../../4.1_rules_of_study/how_to_learn_effectively/articles/digital_tools.md) в создании ритма и [настроения](psychology_of_music.md). Представь себя барабанщиком [рок](music_genres.md)-группы – разве не круто?
 
 ### **Клавишные инструменты**
-Здесь звук возникает от нажатия клавиш, приводящих в [движение](../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md) [струны](../../7.1_art/musical_instruments/articles/banjo.md) или мембраны. Пианино, [рояль](../../7.1_art/musical_instruments/articles/piano.md), синтезаторы – все они позволяют исполнить любую [мелодию](composer.md).
+Здесь звук возникает от нажатия клавиш, приводящих в [движение](../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md) [струны](../../7.1_art/musical_instruments/articles/banjo.md) или мембраны. [Пианино](../../../7.1_art/musical_instruments/articles/piano.md), [рояль](../../7.1_art/musical_instruments/articles/piano.md), синтезаторы – все они позволяют исполнить любую [мелодию](composer.md).
 
-## Интересные факты
+## Интересные [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md)
 
 Вот несколько любопытных фактов об этих чудесах музыкального мира:
 
-- **Самый большой музыкальный инструмент** – орган в Германии, который весит около 27 тонн!
-- **Самая маленькая флейта** – флейта [пикколо](../../7.1_art/musical_instruments/articles/flute.md), которая используется в оркестрах и выглядит почти игрушечной.
+- **Самый большой [музыкальный инструмент](../../../../8.1_entertainment/articles/musical_instruments.md)** – [орган](../../../7.1_art/musical_instruments/articles/organ.md) в Германии, который весит около 27 тонн!
+- **Самая маленькая [флейта](../../../7.1_art/musical_instruments/articles/flute.md)** – флейта [пикколо](../../7.1_art/musical_instruments/articles/flute.md), которая используется в оркестрах и выглядит почти игрушечной.
 - **Первый электронный музыкальный инструмент** появился ещё в начале XX века и назывался терменвокс. Он управлялся движением рук музыканта возле специальных датчиков.
 - **Самое большое количество струн** – у контрабаса их целых 4, но есть и инструменты с большим числом струн, такие как арфы и гитары с семиструнными версиями.
-- **Самые громкие инструменты** – [медные духовые](../../7.1_art/musical_instruments/articles/french_horn.md) инструменты, такие как [тромбон](../../7.1_art/musical_instruments/articles/trombone.md) и труба, способны звучать так громко, что их слышно издалека.
+- **Самые громкие инструменты** – [медные духовые](../../7.1_art/musical_instruments/articles/french_horn.md) инструменты, такие как [тромбон](../../7.1_art/musical_instruments/articles/trombone.md) и [труба](../../../7.1_art/musical_instruments/articles/trumpet.md), способны звучать так громко, что их слышно издалека.
 
 ## Примеры из жизни
 
 Послушай [внимательно](../../how_to_memorize/articles/vnimanie.md) вокруг себя. Наверняка ты слышал хотя бы один из следующих примеров:
 
 - **[Фортепиано](../../7.1_art/musical_instruments/articles/piano.md)**: его мелодичные звуки часто сопровождают детские утренние зарядки.
-- **Гитара**: многие дети мечтают научиться играть на гитаре, чтобы исполнять любимые песни перед друзьями.
+- **[Гитара](../../../7.1_art/musical_instruments/articles/guitar.md)**: многие дети мечтают научиться играть на гитаре, чтобы исполнять любимые песни перед друзьями.
 - **Барабан**: [ритм](../../7.1_art/musical_instruments/articles/castanets.md) барабанов всегда задаёт [настроение](psychology_of_music.md) танцам и вечеринкам.
-- **[Скрипка](../../7.1_art/musical_instruments/articles/violin.md)**: нежная [мелодия](composer.md) скрипок заставляет [сердце](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) биться быстрее во время исполнения классической музыки.
+- **[Скрипка](../../7.1_art/musical_instruments/articles/violin.md)**: нежная [мелодия](composer.md) скрипок заставляет [сердце](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) биться быстрее во [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) исполнения классической музыки.
 
 ## [Польза](../../7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit.md)
 
 [Музыка](music.md) и музыкальные инструменты полезны для детей и взрослых по многим причинам:
 
 - [Развитие](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md) слуха и координации движений.
-- Улучшение [памяти](../../how_to_memorize/articles/pamyat.md) и концентрации [внимания](../../how_to_memorize/articles/vnimanie.md).
-- Повышение эмоциональной устойчивости и способности выражать [чувства](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md).
-- Расширение кругозора и развитие творческих способностей.
+- [Улучшение](../../../4.1_rules_of_study/how_to_learn_effectively/articles/learning_from_mistakes.md) [памяти](../../how_to_memorize/articles/pamyat.md) и концентрации [внимания](../../how_to_memorize/articles/vnimanie.md).
+- [Повышение](../../../8.2_future/choosing_a_career_path/articles/career-path.md) эмоциональной устойчивости и [способности](../../../4.1_rules_of_study/how_to_learn_effectively/articles/growth_mindset.md) выражать [чувства](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md).
+- Расширение кругозора и [развитие](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md) творческих способностей.
 
-Например, играя на фортепиано, ребёнок учится читать ноты и понимать структуру музыкальной композиции.
+Например, играя на [фортепиано](../../../7.1_art/musical_instruments/articles/piano.md), ребёнок учится читать ноты и понимать структуру музыкальной композиции.
 
 ## Возможные [риски](../../7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md)
 
@@ -71,24 +71,24 @@
 
 - **Проблемы с осанкой**: длительное сидение за инструментом может вызвать боли в спине и шее.
 - **[Переутомление](../../how_to_memorize/articles/ustalost.md) пальцев**: слишком частое [повторение](../../how_to_memorize/articles/povtorenie.md) одних и тех же движений пальцами может привести к воспалению суставов.
-- **Шумовое [загрязнение](../../1.2_natural_sciences/why_science_help_understand_world/environmental_sciences.md)**: громкая музыка дома может мешать соседям и родителям.
+- **Шумовое [загрязнение](../../1.2_natural_sciences/why_science_help_understand_world/environmental_sciences.md)**: громкая [музыка](../../../1.2_natural_sciences/neurobiology_for_teens/articles/18_music_chills.md) дома может мешать соседям и родителям.
 
-## [Баланс](../../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md) пользы и развлечения
+## [Баланс](../../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md) пользы и [развлечения](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md)
 
-Чтобы получать максимум удовольствия и пользы от игры на музыкальных инструментах, важно соблюдать следующие [правила](../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md):
+Чтобы получать [максимум](../../../1.2_natural_sciences/physics_in_everyday_life/Q136980.md) удовольствия и пользы от игры на музыкальных инструментах, важно соблюдать следующие [правила](../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md):
 
 - Заниматься музыкой регулярно, но не переусердствовать.
-- Делать перерывы между занятиями, чтобы мышцы отдыхали.
+- Делать [перерывы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/breaks_and_rest.md) между занятиями, чтобы мышцы отдыхали.
 - Правильно сидеть за инструментом, поддерживая правильную осанку.
 - Не забывать про [отдых](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) и [общение](../../5.1_technology_and_digital_literacy/information and media literacy/этика_общения_в_сети.md) с семьёй и друзьями.
 
-## Заключение
+## [Заключение](../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md)
 
 Музыкальные инструменты – это волшебный мир звуков и эмоций. Они дарят нам радость, учат терпению и вдохновляют творить. Пусть твоя музыкальная дорога будет яркой и увлекательной!
 
 ---
 [Автор](../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Хабирова Амина
 
-*LLM - GigaChat*
+*[LLM](../../../7.1_art/modern_technological_art/README.md) - GigaChat*
 
 

@@ -1,10 +1,10 @@
-# [Сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) и [оценки](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md): Как [ночной отдых](../../../how_to_memorize/articles/son.md) помогает [запоминать](../../../how_to_memorize/articles/zapominanie.md) материал
+# [Сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) и [оценки](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md): Как [ночной отдых](../../../how_to_memorize/articles/son.md) помогает [запоминать](../../../how_to_memorize/articles/zapominanie.md) [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md)
 
 Знакомая ситуация? Завтра контрольная по истории. Ты сидишь до 3 часов ночи, впихивая в голову даты правления всех царей. Вроде бы всё [запомнил](../../../how_to_memorize/articles/zapominanie.md). Ложишься [спать](../../../how_to_memorize/articles/son.md) на пару часов, идешь в школу... и смотришь в лист с заданиями как баран на новые ворота. В голове — [пустота](../../../1.1_structure_of_the_world/matter/articles/02_atomism.md).
 
-Ты думаешь, что у тебя плохая [память](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md). На самом деле, ты просто не нажал кнопку «Сохранить». Разберемся, как сон работает вместо [кнопки](../../../7.1_art/musical_instruments/articles/accordion.md) `Ctrl+S` в твоем мозге.
+Ты думаешь, что у тебя плохая [память](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md). На самом деле, ты просто не нажал кнопку «Сохранить». Разберемся, как [сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) работает вместо [кнопки](../../../7.1_art/musical_instruments/articles/accordion.md) `Ctrl+S` в твоем мозге.
 
-> ### 🛑 Рубрика «Миф vs Реальность»
+> ### 🛑 Рубрика «Миф vs [Реальность](../../../1.2_natural_sciences/physics_in_everyday_life/Q140028.md)»
 >
 > **1. Про ночную зубрежку**  
 > 🔴 *Миф:* «Если я буду учить всю ночь, я запомню больше».  
@@ -16,24 +16,24 @@
 >
 > **3. Про [недосып](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md)**  
 > 🔴 *Миф:* «Сон для слабаков, отосплюсь на пенсии».  
-> 🟢 *Реальность:* Хронический недосып снижает IQ и способность концентрироваться на 40%.
+> 🟢 *Реальность:* Хронический [недосып](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md) снижает IQ и способность концентрироваться на 40%.
 
-## Гиппокамп и Неокортекс: Переезд воспоминаний
+## [Гиппокамп](../../../1.2_natural_sciences/neurobiology_for_teens/articles/23_hippocampus.md) и Неокортекс: Переезд воспоминаний
 
-Представь, что твой мозг — это компьютер.
+Представь, что твой [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) — это компьютер.
 1.  **Гиппокамп** — это флешка ([оперативная память](../../../how_to_memorize/articles/kratkovremennaya_pamyat.md)). Сюда попадает всё, что ты узнал за день: формулы, сплетни, мемы. Места там мало, и оно быстро заканчивается.
-2.  **Неокортекс (кора)** — это жесткий диск. Здесь информация хранится годами.
+2.  **Неокортекс (кора)** — это жесткий [диск](../../../5.1_technology_and_digital_literacy/operating system/articles/file_system.md). Здесь [информация](../../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) хранится годами.
 
 **Магия происходит только во сне:**
-Когда ты засыпаешь, Гиппокамп начинает «перекидывать» файлы в Неокортекс. Этот процесс называется **консолидацией памяти**. Если ты [не поспал]("./articles/chronic_sleep_deprivation.md") — флешка очистилась, и все твои ночные зубрежки улетели в корзину.
+Когда ты засыпаешь, Гиппокамп начинает «перекидывать» файлы в Неокортекс. Этот [процесс](../../../5.1_technology_and_digital_literacy/operating system/articles/process.md) называется **консолидацией [памяти](../../../4.1_rules_of_study/how_to_memorize/articles/pamyat.md)**. Если ты [не поспал]("./articles/chronic_sleep_deprivation.md") — флешка очистилась, и все твои ночные зубрежки улетели в корзину.
 
 ![Схема консолидации памяти во сне](../images/memory_consolidation_sleep.png "Как мозг сохраняет файлы")
 
-## Фаза быстрого сна (REM): Почему она важна для оценок?
+## [Фаза](../../../1.2_natural_sciences/physics_in_everyday_life/Q136980.md) быстрого сна ([REM](../../../1.2_natural_sciences/neurobiology_for_teens/articles/09_sleep.md)): Почему она важна для оценок?
 
-Сон делится на фазы. Сначала идет медленный сон (глубокий) — в это время мозг «стирает» лишнее и чинит [тело](../../../1.2_natural_sciences/why_science_help_understand_world/organism.md). Но под утро наступает **REM-фаза** (фаза быстрого движения глаз).
+Сон делится на фазы. Сначала идет [медленный сон](../../../1.2_natural_sciences/neurobiology_for_teens/articles/09_sleep.md) (глубокий) — в это [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) мозг «стирает» лишнее и чинит [тело](../../../1.2_natural_sciences/why_science_help_understand_world/organism.md). Но под утро наступает **REM-фаза** (фаза быстрого движения [глаз](../../../1.2_natural_sciences/physics_in_everyday_life/Q467980.md)).
 
-Именно в REM-фазе мозг не просто сохраняет факты, а **строит связи**.
+Именно в REM-фазе мозг не просто сохраняет [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md), а **строит связи**.
 *   *Медленный сон:* Запоминает [факт](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) «E = mc²».
 *   *REM-сон:* Понимает, как решить задачу с этой формулой.
 
@@ -47,7 +47,7 @@
 
 ### 😂 Анекдот от GPT по теме
 
-Студент на экзамене:
+[Студент](../../../8.2_future/choosing_a_career_path/articles/university.md) на экзамене:
 
 — Профессор, я учил, но забыл!
 

@@ -1,7 +1,7 @@
-# 🎭 Игры, фильмы и [музыка](articles/music.md): [баланс](../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md) пользы и развлечения
+# 🎭 Игры, [фильмы](../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/z1.md) и [музыка](articles/music.md): [баланс](../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md) пользы и [развлечения](../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md)
 
 Добро пожаловать в раздел детской энциклопедии о развлечениях.
-Здесь собраны материалы по играм, [кино](articles/movie.md) и музыке для школьников.
+Здесь собраны [материалы](../../1.2_natural_sciences/physics_in_everyday_life/Q487005.md) по играм, [кино](articles/movie.md) и музыке для школьников.
 
 ---
 

@@ -1,11 +1,11 @@
 # [Структурирование проблемы](problem_structuring.md): Фундаментальный [анализ](../../../1.2_natural_sciences/why_science_help_understand_world/research.md) и [постановка](../../../8.1_entertainment/articles/director.md) целей
 
-В любой сложной системе — от разработки ПО до управления государством — 80% успеха зависит не от поиска ответа, а от [правильной формулировки вопроса](main_cognitive_distortions.md). Структурирование проблемы — это процесс трансформации аморфного ощущения «что-то идет не так» в четкий, логически выверенный план действий.
+В любой сложной системе — от разработки ПО до управления государством — 80% успеха зависит не от поиска ответа, а от [правильной формулировки вопроса](main_cognitive_distortions.md). [Структурирование проблемы](problem_structuring.md) — это [процесс](../../../5.1_technology_and_digital_literacy/operating system/articles/process.md) трансформации аморфного ощущения «что-то идет не так» в четкий, логически выверенный [план](../../../7.2 Media, leisure and hobbies/Computer games/articles/genres_and_worlds/strategy.md) действий.
 
 ![Иллюстрация: описание статьи](../images/image_structuring.png)
 ---
 
-## 1. Фаза декомпозиции: Разделение на части
+## 1. [Фаза](../../../1.2_natural_sciences/physics_in_everyday_life/Q136980.md) декомпозиции: Разделение на части
 
 Сложная проблема похожа на спутанный клубок. Прежде чем тянуть за нитку, нужно понять структуру узла.
 
@@ -21,7 +21,7 @@
 Это иерархическая схема, где в «голове» стоит основной вопрос, а ветви — это гипотезы или причины.
 
 1. **[Уровень](../../../8.1_entertainment/articles/gamification.md) 1**: Почему падает прибыль?
-2. **Уровень 2**: Доходы падают или расходы растут? (MECE-разделение).
+2. **[Уровень](../../../../8.1_entertainment/articles/gamification.md) 2**: [Доходы](../../../6.2_money_and_finance/personal_budget/index.md) падают или [расходы](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/expense.md) растут? (MECE-разделение).
 3. **Уровень 3**: Если доходы падают — это из-за снижения цены или объема продаж?
 
 ---
@@ -32,15 +32,15 @@
 
 Используется для [структурирования логики](anatomy_of_argument.md). Основная идея: сначала идет главное утверждение (суть проблемы), а затем оно подтверждается группами аргументов. Это позволяет не утонуть в деталях раньше времени.
 
-### Метод 4W2H
+### [Метод](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md) 4W2H
 
 Чтобы описание проблемы было полным, оно должно содержать ответы на 6 вопросов:
 
 1. **Who (Кто)**: Кого касается проблема? (Клиенты, разработчики, отдел продаж).
 2. **What (Что)**: Что конкретно происходит? (Сбои, задержки, [ошибки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)).
 3. **Where (Где)**: В какой части системы или процесса локализована беда?
-4. **When (Когда)**: В какое время это проявляется? (Постоянно или при нагрузке).
-5. **How (Как)**: Каков механизм возникновения ошибки?
+4. **When (Когда)**: В какое [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) это проявляется? (Постоянно или при нагрузке).
+5. **How (Как)**: Каков [механизм возникновения](../../../1.2_natural_sciences/physics_in_everyday_life/Q160329.md) [ошибки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)?
 6. **How Much (Сколько)**: Каков масштаб потерь в цифрах?
 
 ---
@@ -49,19 +49,19 @@
 
 Многие компании тратят миллионы на борьбу с симптомами. Рассмотрим таблицу различий:
 
-| Характеристика | Симптом (Поверхность) | [Причина](../../../2.1_society/cause_and_effect_relationships/articles/causality_base.md) (Корень) |
+| Характеристика | Симптом ([Поверхность](../../../1.2_natural_sciences/physics_in_everyday_life/Q35197.md)) | [Причина](../../../2.1_society/cause_and_effect_relationships/articles/causality_base.md) (Корень) |
 | --- | --- | --- |
 | **Видимость** | Очевиден всем, вызывает жалобы | Скрыта, требует анализа и данных |
-| **[Действие](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md)** | «Заплатка», временное [решение](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) | Изменение процесса, системный сдвиг |
+| **[Действие](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md)** | «Заплатка», временное [решение](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) | Изменение процесса, системный [сдвиг](../../../1.2_natural_sciences/physics_in_everyday_life/Q193514.md) |
 | **[Результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md) лечения** | Проблема вернется через время | Проблема исчезает навсегда |
 | **Пример** | «Программисты выгорели и увольняются» | «Процесс планирования не учитывает техдолг» |
 
 > [!Важно]
-> **Золотое [правило](../../../1.2_natural_sciences/why_science_help_understand_world/patterns.md) анализа**: Если решение проблемы требует только «стараться лучше» или «нанять больше людей» — скорее всего, вы работаете с симптомом. Системное решение меняет *[правила](../../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md) игры*, а не интенсивность усилий.
+> **Золотое [правило](../../../1.2_natural_sciences/why_science_help_understand_world/patterns.md) анализа**: Если [решение](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) проблемы требует только «стараться лучше» или «нанять больше людей» — скорее всего, вы работаете с симптомом. Системное решение меняет *[правила](../../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md) игры*, а не интенсивность усилий.
 
 ---
 
-## 4. Формулирование [Problem Statement](problem_structuring.md) по SMART
+## 4. Формулирование [Problem Statement](problem_structuring.md) по [SMART](../../../6.2_money_and_literacy/how_to_save_for_goal/articles/smart_goal.md)
 
 [После анализа проблему нужно зафиксировать](decision_models.md). Хорошая формулировка должна соответствовать критериям **SMART**:
 
@@ -69,7 +69,7 @@
 * **Measurable (Измеримость)**: «Конверсия в покупку снизилась на 12%».
 * **Achievable (Достижимость)**: Проблема должна быть в зоне вашего влияния.
 * **Relevant (Актуальность)**: Решение этой проблемы должно приносить реальную пользу бизнесу.
-* **Time-bound (Ограниченность во времени)**: Указываем период обнаружения и желаемый срок решения.
+* **Time-bound (Ограниченность во времени)**: Указываем [период](../../../1.2_natural_sciences/physics_in_everyday_life/Q11652.md) обнаружения и желаемый [срок](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/financial_goal.md) решения.
 
 ---
 
@@ -77,10 +77,10 @@
 
 Часто за проблему принимают отсутствие конкретного решения.
 
-* **Ложная проблема**: «Нам нужно внедрить ИИ в поиск». (Это решение, а не проблема).
+* **Ложная проблема**: «Нам нужно внедрить ИИ в [поиск](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md)». (Это решение, а не проблема).
 * **Реальная проблема**: «Пользователи тратят более 3 минут на поиск нужного товара, что ведет к отказу от покупки».
 
-Всегда спрашивайте: «Что случится, если мы ничего не будем делать?». Если ответ «ничего страшного», значит, это не проблема, а низкоприоритетное пожелание.
+Всегда спрашивайте: «Что случится, если мы ничего не будем делать?». Если [ответ](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md) «ничего страшного», значит, это не проблема, а низкоприоритетное пожелание.
 
 ---
 
@@ -92,4 +92,4 @@
 
 Авторы: Барменков Артемий, @ArtemDelGray;
 
-*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): Barbara Minto "The Pyramid Principle", Toyota 5 Whys Manual, LLM - Gemini(Google)*
+*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): Barbara Minto "The Pyramid Principle", Toyota 5 Whys Manual, [LLM](../../../7.1_art/modern_technological_art/README.md) - Gemini(Google)*

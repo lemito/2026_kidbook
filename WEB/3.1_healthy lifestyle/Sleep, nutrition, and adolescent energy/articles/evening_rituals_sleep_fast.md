@@ -9,7 +9,7 @@
 В этой статье соберем **5 вечерних привычек**, которые помогают телу понять: «всё, [режим](../../../5.1_technology_and_digital_literacy/information and media literacy/семейные_правила_потребления_контента.md) боя
 окончен, можно выключаться».
 
-> ### 🛑 Рубрика «Миф vs Реальность»
+> ### 🛑 Рубрика «Миф vs [Реальность](../../../1.2_natural_sciences/physics_in_everyday_life/Q140028.md)»
 >
 > **1. Про “отосплюсь потом”**  
 > 🔴 *Миф:* «Если сегодня не усну, завтра досплю».  
@@ -23,21 +23,21 @@
 >
 > **3. Про идеальный [ритуал](../../../7.1_art/musical_instruments/articles/gong.md)**  
 > 🔴 *Миф:* «Надо делать огромный сложный вечерний уход, иначе не сработает».  
-> 🟢 *Реальность:* Работают именно **простые повторяющиеся сигналы**: приглушить свет, проветрить,
+> 🟢 *Реальность:* Работают именно **простые повторяющиеся сигналы**: приглушить [свет](../../../1.2_natural_sciences/physics_in_everyday_life/Q1.md), проветрить,
 > убрать [экран](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/gadgets_blue_light_sleep.md), сделать одно спокойное [действие](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md).
 
 ## Почему вечер — это не “конец дня”, а настройка завтрашней версии тебя
 
-Сон начинается не в тот момент, когда ты лег в кровать. Он начинается за **30–90 минут до этого**.
-Именно в это время мозг оценивает обстановку: ярко ли вокруг, шумно ли, безопасно ли, не пора ли
+[Сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) начинается не в тот момент, когда ты лег в кровать. Он начинается за **30–90 минут до этого**.
+Именно в это [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) оценивает обстановку: ярко ли вокруг, шумно ли, безопасно ли, не пора ли
 случайно начать думать о всех дедлайнах мира.
 
 Если вечером ты даешь телу понятные сигналы спокойствия, то [засыпание](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) происходит быстрее.
-Если даешь хаос, то мозг честно решает: «Похоже, мы не спим. Похоже, мы выживаем».
+Если даешь [хаос](../../../1.2_natural_sciences/physics_in_everyday_life/Q45003.md), то мозг честно решает: «Похоже, мы не спим. Похоже, мы выживаем».
 
 ## Чек-лист: 5 привычек для быстрого засыпания
 
-### 1. Проветри комнату — устрой мозгу “обновление сервера”
+### 1. Проветри комнату — устрой мозгу “[обновление](../../../5.2_cybersecurity/passwords_cyber_safety/articles/update.md) сервера”
 
 Сон в душной комнате — это как пытаться играть на перегретом ноутбуке. Всё вроде работает,
 но с жуткими лагами.
@@ -49,7 +49,7 @@
 
 ![Чек-лист вечернего ритуала](../images/sleep_checklist_card.png "5 шагов перед сном")
 
-### 2. Сделай теплый душ или ванну — не кипяток, а режим “расслабить систему”
+### 2. Сделай теплый [душ](../../hygiene_and_personal_care/articles/sleep.md) или ванну — не кипяток, а [режим](../../../4.1_rules_of_study/how_to_learn_effectively/articles/breaks_and_rest.md) “расслабить систему”
 
 Теплая [вода](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/drinking_regime.md) помогает телу снизить внутреннее [напряжение](../../../how_to_memorize/articles/stress.md).  
 Ключевое слово — **теплая**, а не “сварить себя как пельмень”.
@@ -59,9 +59,9 @@
 - после этого не начинай активничать снова;
 - лучше выйти в спокойный свет, а не в яркую комнату и TikTok.
 
-### 3. Убери соцсети и замени их на книгу или спокойное аудио
+### 3. Убери [соцсети](../../../2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md) и замени их на книгу или спокойное аудио
 
-Да, [лента](../../../5.1_technology_and_digital_literacy/information and media literacy/алгоритмы_и_пузырь_фильтров.md) кажется отдыхом. Но по факту это серия мини-стимулов: мем, новость, чат, [видео](../../../5.1_technology_and_digital_literacy/information and media literacy/оценка_качества_изображений_и_видео.md),
+Да, [лента](../../../5.1_technology_and_digital_literacy/information and media literacy/алгоритмы_и_пузырь_фильтров.md) кажется отдыхом. Но по факту это серия мини-стимулов: [мем](../../../7.2 Media, leisure and hobbies/Computer games/articles/game_culture/game_memes.md), [новость](../../../5.1_technology_and_digital_literacy/information and media literacy/информационная_диета.md), [чат](../../../7.2 Media, leisure and hobbies/Computer games/articles/useful_tips/toxic_players.md), [видео](../../../5.1_technology_and_digital_literacy/information and media literacy/оценка_качества_изображений_и_видео.md),
 странный комментарий, внезапный кринж. Мозг не отдыхает — он постоянно переключается.
 
 Рабочая замена:
@@ -85,19 +85,19 @@
 
 ### 5. Повторяй один и тот же [порядок](../../../1.2_natural_sciences/why_science_help_understand_world/patterns.md) действий
 
-Ритуал работает потому, что он **повторяется**.  
-Мозг любит шаблоны. Если ты несколько дней подряд делаешь одни и те же шаги,
+[Ритуал](../../../2.1_society/how_and_where_find_friends/articles/druzhba_posle_shkoly.md) работает потому, что он **повторяется**.  
+Мозг любит шаблоны. Если ты несколько дней подряд делаешь одни и те же [шаги](../../../7.2 Media, leisure and hobbies/Computer games/articles/dream_team/composer.md),
 он начинает связывать их со сном.
 
 ## Переводчик с подросткового на биологический
 
-**Фраза:** «Я не хочу спать, я просто полежу с телефоном».  
+**[Фраза](../../../7.2 Media, leisure and hobbies/Computer games/articles/game_culture/game_memes.md):** «Я не [хочу](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md) [спать](../../../4.1_rules_of_study/how_to_memorize/articles/son.md), я просто полежу с телефоном».  
 **Перевод:** «Я случайно активировал себе режим бодрствования светом, уведомлениями и микродозами дофамина».
 
 **Фраза:** «Я уставший, но уснуть не могу».  
-**Перевод:** «Тело exhausted, а нервная система всё еще онлайн и не получила команду на выключение».
+**Перевод:** «[Тело](../../../1.2_natural_sciences/why_science_help_understand_world/organism.md) exhausted, а [нервная система](../../../1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md) всё еще [онлайн](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/internet-safety.md) и не получила команду на выключение».
 
-**Фраза:** «Я нормально засыпаю только под видео».  
+**Фраза:** «Я нормально засыпаю только под [видео](../../../5.1_technology_and_digital_literacy/information and media literacy/оценка_качества_изображений_и_видео.md)».  
 **Перевод:** «Мой мозг привык к внешнему шуму и теперь боится тишины сильнее, чем контрольной по математике».
 
 ## Чит-код для игрока: как уснуть быстрее без героизма
@@ -107,10 +107,10 @@
 1. За 30 минут до сна — приглуши свет.
 2. За 20 минут — убери телефон подальше.
 3. За 15 минут — проветри комнату.
-4. За 10 минут — душ или умывание теплой водой.
+4. За 10 минут — душ или [умывание](../../hygiene_and_personal_care/articles/handwashing.md) теплой водой.
 5. Перед сном — книга, аудио или просто тишина.
 
-### Схема: как вечерний ритуал сокращает путь ко сну
+### Схема: как вечерний ритуал сокращает [путь](../../../1.2_natural_sciences/physics_in_everyday_life/Q11476.md) ко сну
 
 ```mermaid
 graph TD;
@@ -126,16 +126,16 @@ graph TD;
 
 ## Таблица: что реально помогает, а что только мешает
 
-| Действие | Что кажется | Что происходит на деле |
+| [Действие](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) | Что кажется | [Что происходит](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/what_happens.md) на деле |
 |:--|:--|:--|
 | “Еще 5 минут в ленте” | Я расслабляюсь | Мозг получает новые стимулы и откладывает сон |
 | Душная комната | Нормально и так | Телу тяжелее восстановиться |
-| Теплый душ | Пустяк | Напряжение снижается, легче замедлиться |
+| Теплый душ | Пустяк | [Напряжение](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md) снижается, легче замедлиться |
 | Собранный рюкзак с вечера | Неважно | Меньше тревожных мыслей перед сном |
-| Повторяющийся ритуал | Скучно | Мозг быстрее распознает режим сна |
+| Повторяющийся ритуал | Скучно | Мозг быстрее распознает [режим сна](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/biology_of_night_owls_teens.md) |
 
 > [!TIP]
-> Не пытайся внедрить все привычки за один вечер. Начни хотя бы с двух:
+> Не пытайся внедрить все [привычки](../../../1.2_natural_sciences/neurobiology_for_teens/articles/11_reward_system.md) за один вечер. Начни хотя бы с двух:
 > **проветривание + без соцсетей за 20 минут до сна**.
 
 ### 😂 Анекдот от GPT по теме

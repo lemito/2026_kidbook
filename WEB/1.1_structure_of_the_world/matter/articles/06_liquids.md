@@ -1,10 +1,10 @@
-# Жидкости
+# [Жидкости](../../../1.2_natural_sciences/physics_in_everyday_life/Q124003.md)
 
 ![Капля воды](/WEB/1.1_structure_of_the_world/matter/images/Water_drop_001.jpg)
 
 *Капля [воды](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md) — поверхностное натяжение придаёт ей сферическую форму*
 
-**Жидкость** — [агрегатное состояние](01_matter.md) [материи](01_matter.md), промежуточное между [твёрдым телом](05_solids.md) и [газом](07_gases.md). Жидкости сохраняют объём, но принимают форму сосуда, в котором находятся. На [молекулярном уровне](04_molecular_level.md) жидкость характеризуется **ближним [порядком](../../../2.1_society/rights_and_responsibilities/articles/police.md)** расположения [молекул](04_molecular_level.md) — упорядоченностью лишь на масштабах нескольких межатомных расстояний.
+**Жидкость** — [агрегатное состояние](01_matter.md) [материи](01_matter.md), промежуточное между [твёрдым телом](05_solids.md) и [газом](07_gases.md). Жидкости сохраняют [объём](../../../1.2_natural_sciences/physics_in_everyday_life/Q39297.md), но принимают форму сосуда, в котором находятся. На [молекулярном уровне](04_molecular_level.md) жидкость характеризуется **ближним [порядком](../../../2.1_society/rights_and_responsibilities/articles/police.md)** расположения [молекул](04_molecular_level.md) — упорядоченностью лишь на масштабах нескольких межатомных расстояний.
 
 ## Содержание
 
@@ -18,25 +18,25 @@
 
 ---
 
-## Структура жидкости
+## [Структура](../../../4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md) жидкости
 
-В отличие от [кристаллических твёрдых тел](05_solids.md), где частицы образуют строгую периодическую решётку (дальний [порядок](../../../2.1_society/rights_and_responsibilities/articles/police.md)), в жидкостях существует лишь **ближний [порядок](../../../2.1_society/rights_and_responsibilities/articles/police.md)**: каждая [молекула](01_matter.md) окружена определённым числом ближайших соседей, расположенных на примерно одинаковых расстояниях, но на больших масштабах эта упорядоченность исчезает.
+В отличие от [кристаллических твёрдых тел](05_solids.md), где [частицы](../../../1.2_natural_sciences/physics_in_everyday_life/Q179635.md) образуют строгую периодическую решётку (дальний [порядок](../../../2.1_society/rights_and_responsibilities/articles/police.md)), в жидкостях существует лишь **ближний [порядок](../../../2.1_society/rights_and_responsibilities/articles/police.md)**: каждая [молекула](01_matter.md) окружена определённым числом ближайших соседей, расположенных на примерно одинаковых расстояниях, но на больших масштабах эта упорядоченность исчезает.
 
 ![Ближний порядок в жидкости](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Radial_Distribution_Function_of_Lennard-Jones_Fluid.png/500px-Radial_Distribution_Function_of_Lennard-Jones_Fluid.png)
-### Характеристики ближнего [порядка](../../../2.1_society/rights_and_responsibilities/articles/police.md)
+### [Характеристики](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/comparison.md) ближнего [порядка](../../../2.1_society/rights_and_responsibilities/articles/police.md)
 
 | Параметр | [Твёрдое тело](05_solids.md) | Жидкость | [Газ](07_gases.md) |
 |----------|-------------|----------|-----|
 | [Порядок](../../../2.1_society/rights_and_responsibilities/articles/police.md) | Дальний + ближний | Только ближний | Отсутствует |
-| Расстояние между частицами | Фиксированное | Среднее ≈ диаметр [молекулы](01_matter.md) | >> диаметр [молекулы](01_matter.md) |
-| Подвижность | Колебания | Колебания + диффузия | Свободное [движение](../../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md) |
+| [Расстояние](../../../1.2_natural_sciences/physics_in_everyday_life/Q11412.md) между частицами | Фиксированное | Среднее ≈ диаметр [молекулы](01_matter.md) | >> диаметр [молекулы](01_matter.md) |
+| Подвижность | [Колебания](../../../1.2_natural_sciences/physics_in_everyday_life/Q11652.md) | Колебания + диффузия | Свободное [движение](../../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md) |
 | Координационное число | Постоянное | Среднее | Непостоянное |
 
-Структура жидкости непрерывно перестраивается: [молекулы](01_matter.md) совершают колебания вблизи временных положений равновесия и периодически перескакивают в новые положения. Время «оседлой жизни» [молекулы](01_matter.md) в жидкости составляет [порядка](../../../2.1_society/rights_and_responsibilities/articles/police.md) 10⁻¹¹–10⁻¹⁰ с.
+Структура жидкости непрерывно перестраивается: [молекулы](01_matter.md) совершают колебания вблизи временных положений равновесия и периодически перескакивают в новые положения. [Время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) «оседлой жизни» [молекулы](01_matter.md) в жидкости составляет [порядка](../../../2.1_society/rights_and_responsibilities/articles/police.md) 10⁻¹¹–10⁻¹⁰ с.
 
 ## Текучесть
 
-**Текучесть** — способность жидкости деформироваться (течь) под действием сколь угодно малой касательной силы. Это главное отличие жидкости от [твёрдого тела](05_solids.md).
+**Текучесть** — способность жидкости деформироваться (течь) под действием сколь угодно малой касательной [силы](../../../1.2_natural_sciences/physics_in_everyday_life/Q11423.md). Это главное отличие жидкости от [твёрдого тела](05_solids.md).
 
 Механизм текучести: [молекулы](01_matter.md) жидкости связаны [межмолекулярными силами](04_molecular_level.md), но [энергия](01_matter.md) их теплового движения сопоставима с [энергией](01_matter.md) этих связей. Поэтому при приложении внешней силы [молекулы](01_matter.md) относительно легко перемещаются.
 
@@ -48,7 +48,7 @@
 
 ## Вязкость
 
-**Вязкость** (внутреннее трение) — свойство жидкости оказывать сопротивление перемещению одной её части относительно другой.
+**Вязкость** (внутреннее [трение](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md)) — свойство жидкости оказывать [сопротивление](../../../1.2_natural_sciences/physics_in_everyday_life/Q12725.md) перемещению одной её части относительно другой.
 
 ### [Закон](../../../2.1_society/rights_and_responsibilities/articles/person.md) Ньютона для вязкого течения
 
@@ -59,7 +59,7 @@
 - η — коэффициент динамической вязкости (Па·с)
 - dv/dy — градиент скорости
 
-### Вязкость различных жидкостей (при 20 °C)
+### Вязкость различных жидкостей (при 20 °[C](../../../2.1_society/how_and_where_find_friends/articles/sora_drug.md))
 
 | Жидкость | Вязкость, мПа·с |
 |----------|-----------------|
@@ -77,7 +77,7 @@
 
 > η = A · exp(Eₐ / RT)
 
-где Eₐ — [энергия](01_matter.md) активации вязкого течения, R — газовая постоянная, T — [температура](07_gases.md).
+где Eₐ — [энергия](01_matter.md) [активации](../../../7.1_art/modern_technological_art/articles/5.1_nn_visualization.md) вязкого течения, R — газовая постоянная, T — [температура](07_gases.md).
 
 При достижении [температуры](07_gases.md) [кипения](09_phase_transitions.md) жидкость переходит в [газообразное состояние](07_gases.md) — это один из [фазовых переходов](09_phase_transitions.md).
 
@@ -97,7 +97,7 @@
 Поверхностное натяжение проявляется в:
 - Сферической форме мелких капель
 - Капиллярных явлениях
-- Способности насекомых ходить по [воде](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md)
+- [Способности](../../../4.1_rules_of_study/how_to_learn_effectively/articles/growth_mindset.md) насекомых ходить по [воде](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md)
 - [Образовании](../../../2.1_society/rights_and_responsibilities/articles/education_right.md) мыльных пузырей
 
 ## Другие свойства
@@ -116,14 +116,14 @@
 
 ## Особые жидкости
 
-| Тип | Описание |
+| [Тип](../../../5.2_cybersecurity/cpp_fundamentals/13_struct.md) | Описание |
 |-----|----------|
 | Ньютоновские | Вязкость не зависит от скорости сдвига ([вода](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md), масло) |
 | Неньютоновские | Вязкость зависит от скорости сдвига (кетчуп, кровь) |
 | Сверхтекучие | Нулевая вязкость при сверхнизких [температурах](07_gases.md) (⁴He ниже 2,17 К) |
 | Жидкие [кристаллы](05_solids.md) | Обладают свойствами и жидкости, и [кристалла](05_solids.md) |
 
-Сверхтекучий гелий является одним из [экзотических состояний материи](10_exotic_states.md).
+Сверхтекучий [гелий](../../../1.2_natural_sciences/physics_in_everyday_life/Q560.md) является одним из [экзотических состояний материи](10_exotic_states.md).
 
 ## См. также
 
@@ -134,4 +134,4 @@
 - [Фазовые переходы](09_phase_transitions.md)
 - [Физические свойства](11_physical_properties.md)
 
-*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Маркин Роман • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) ChatGPT • Слов: 480 • 2026-03-16*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Маркин Роман • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md) • Слов: 480 • 2026-03-16*

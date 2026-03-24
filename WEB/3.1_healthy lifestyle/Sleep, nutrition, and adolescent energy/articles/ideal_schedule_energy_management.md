@@ -1,14 +1,14 @@
-# Как построить свой идеальный график: искусство управления энергией, а не временем
+# Как построить свой идеальный график: [искусство](../../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/aesthetics_and_taste.md) управления энергией, а не временем
 
 Многие пытаются жить по формуле: “сейчас я просто составлю идеальное расписание — и стану машиной”.
-Потом наступает реальность: в 8:00 ты один [человек](../../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md), в 14:30 — другой, а в 22:10 вообще существо,
-которое способно только открыть холодильник и смотреть внутрь как философ.
+Потом наступает [реальность](../../../1.2_natural_sciences/physics_in_everyday_life/Q140028.md): в 8:00 ты один [человек](../../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md), в 14:30 — другой, а в 22:10 вообще существо,
+которое способно только открыть [холодильник](../../../6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/safe_product_storage.md) и смотреть внутрь как философ.
 
 Проблема не в [том](../../../7.1_art/musical_instruments/articles/drums.md), что ты “недисциплинированный”.  
-Проблема в том, что люди — не роботы с одинаковым зарядом батареи весь день.
+Проблема в [том](../../../7.1_art/musical_instruments/articles/drums.md), что люди — не роботы с одинаковым зарядом батареи весь день.
 
 Поэтому идеальный график — это не когда каждая минута расписана.  
-Это когда ты понимаешь, **в какие часы у тебя [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) реально тянет сложное**, а в какие — лучше
+Это когда ты понимаешь, **в какие [часы](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) у тебя [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) реально тянет сложное**, а в какие — лучше
 оставить что-то попроще.
 
 > ### 🛑 Рубрика «Миф vs Реальность»
@@ -23,16 +23,16 @@
 >
 > **3. Про идеальный [тайм-менеджмент](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/ideal_schedule_energy_management.md)**  
 > 🔴 *Миф:* «Нужно лучше управлять временем».  
-> 🟢 *Реальность:* Время у всех одинаковое. Разница чаще в том, **на каком уровне энергии** ты пытаешься делать задачу.
+> 🟢 *Реальность:* [Время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) у всех одинаковое. Разница чаще в том, **на каком уровне энергии** ты пытаешься делать задачу.
 
 ## Почему не работает график “как у успешных людей из интернета”
 
-Ты можешь скопировать чей угодно план:
+Ты можешь скопировать чей угодно [план](../../../7.2 Media, leisure and hobbies/Computer games/articles/genres_and_worlds/strategy.md):
 - подъем в 5:00;
-- холодный душ;
-- 4 часа глубокой работы;
+- холодный [душ](../../hygiene_and_personal_care/articles/sleep.md);
+- 4 часа глубокой [работы](../../../8.2_future/choosing_a_career_path/articles/interview.md);
 - [пробежка]("./articles/sport_and_energy.md");
-- медитация;
+- [медитация](../../../8.2_future_and_path_choice/articles/relaxation_and_recovery.md);
 - [изучение](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) китайского до завтрака.
 
 Но если твой [организм](../../../1.2_natural_sciences/why_science_help_understand_world/organism.md) в это время хочет только жить спокойно и не развалиться, график долго не протянет.
@@ -49,11 +49,11 @@
 
 Сюда лучше ставить:
 - математику;
-- программирование;
+- [программирование](../../../5.2_cybersecurity/cpp_fundamentals/1_introduction.md);
 - подготовку к контрольной;
 - написание чего-то важного.
 
-### 2. Средняя энергия
+### 2. Средняя [энергия](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md)
 Голова уже не суперострая, но ты еще в строю.
 
 Сюда подходит:
@@ -88,12 +88,12 @@
 Через 3 дня у тебя появится черновая [карта](../../../5.1_technology_and_digital_literacy/information and media literacy/карта_компетенций_по_возрастам.md):
 - когда ты “тащишь”;
 - когда работаешь нормально;
-- когда уже пора не насиловать мозг.
+- когда уже пора не насиловать [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md).
 
 ## Переводчик с подросткового на биологический
 
-**Фраза:** «Я днем туплю, а ночью внезапно оживаю».  
-**Перевод:** «Мой ритм бодрствования, привычки и нагрузка сдвинуты так, что вечером нервная система активнее, чем утром».
+**[Фраза](../../../7.2 Media, leisure and hobbies/Computer games/articles/game_culture/game_memes.md):** «Я днем туплю, а ночью внезапно оживаю».  
+**Перевод:** «Мой [ритм](../../../1.2_natural_sciences/neurobiology_for_teens/articles/18_music_chills.md) бодрствования, [привычки](../../../1.2_natural_sciences/neurobiology_for_teens/articles/11_reward_system.md) и нагрузка сдвинуты так, что вечером [нервная система](../../../1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md) активнее, чем утром».
 
 **Фраза:** «Я весь день ничего не делал, а [устал](../../../how_to_memorize/articles/ustalost.md)».  
 **Перевод:** «Энергия тратится не только на [действия](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md), но и на [стресс](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md), переключения и попытки заставить себя делать не то и не тогда».
@@ -105,19 +105,19 @@
 
 Попробуй такую систему:
 
-1. **Сложные задачи** — в пик энергии.
+1. **Сложные [задачи](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md)** — в пик энергии.
 2. **Рутину** — в среднюю зону.
 3. **Мелочи и сборы** — в спад.
 4. **Не забивай каждую минуту** — оставляй [воздух](../../../1.2_natural_sciences/why_science_help_understand_world/environmental_sciences.md) между делами.
-5. **Планируй не “время”, а “заряд”**.
+5. **Планируй не “время”, а “[заряд](../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md)”**.
 
 ### Пример живого графика
 
 | [Уровень](../../../8.1_entertainment/articles/gamification.md) энергии | Что делать |
 |:--|:--|
 | Высокий | сложная [учеба](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md), задачи на логику, контрольные темы |
-| Средний | чтение, конспекты, [практика](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md), домашка попроще |
-| [Низкий](../../../7.1_art/musical_instruments/articles/bassoon.md) | организация, прогулка, душ, [отдых](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md), [сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) |
+| Средний | [чтение](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md), конспекты, [практика](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md), домашка попроще |
+| [Низкий](../../../7.1_art/musical_instruments/articles/bassoon.md) | [организация](../../../4.1_rules_of_study/how_to_learn_effectively/articles/learning_environment.md), прогулка, душ, [отдых](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md), [сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) |
 
 ### Схема: как выглядит нормальное управление энергией
 
@@ -147,7 +147,7 @@ graph TD;
 
 ## Финальная мысль
 
-Настоящая продуктивность — это не когда ты выжимаешь из себя максимум каждый час.  
+Настоящая [продуктивность](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/ideal_schedule_energy_management.md) — это не когда ты выжимаешь из себя [максимум](../../../1.2_natural_sciences/physics_in_everyday_life/Q136980.md) каждый час.  
 Это когда ты умеешь [замечать](../../../how_to_memorize/articles/vnimanie.md): “сейчас мой мозг тянет сложное”, “сейчас лучше сделать простое”,
 “а сейчас мне вообще-то нужен [сон]("./articles/sleep_and_memory_grades.md"), а не подвиг”.
 

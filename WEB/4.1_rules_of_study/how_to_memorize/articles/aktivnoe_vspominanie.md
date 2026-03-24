@@ -1,6 +1,6 @@
 # Активное вспоминание
 
-Ты когда-нибудь перечитывал учебник несколько раз, а потом всё равно не мог ответить на вопрос? Это очень частая ситуация. Оказывается, просто читать — не самый лучший способ учиться. Гораздо эффективнее пытаться вспомнить материал самому. Этот способ называется активным вспоминанием.
+Ты когда-нибудь перечитывал учебник несколько раз, а потом всё равно не мог ответить на вопрос? Это очень частая ситуация. Оказывается, просто читать — не самый лучший способ учиться. Гораздо эффективнее пытаться вспомнить [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md) самому. Этот способ называется активным вспоминанием.
 
 ## Что это такое
 
@@ -8,15 +8,15 @@
 
 Например, ты читаешь тему, закрываешь книгу и пробуешь рассказать её своими словами. Это и есть активное вспоминание.
 
-Этот метод напрямую связан с процессом [запоминания](./zapominanie.md) и помогает переносить знания в [долговременную память](./dolgovremennaya_pamyat.md).
+Этот [метод](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md) напрямую связан с процессом [запоминания](./zapominanie.md) и помогает переносить знания в [долговременную память](./dolgovremennaya_pamyat.md).
 
 ## Почему это важно
 
-Когда ты просто читаешь текст, [мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) работает не очень активно. Он как будто «скользит» по информации. Кажется, что ты всё понимаешь, но на самом деле знания остаются поверхностными.
+Когда ты просто читаешь [текст](../../how_to_learn_effectively/articles/reading_skills.md), [мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) работает не очень активно. Он как будто «скользит» по информации. Кажется, что ты всё понимаешь, но на самом деле знания остаются поверхностными.
 
 А вот когда ты пытаешься вспомнить:
 
-- мозг начинает активно искать информацию;
+- [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) начинает активно [искать информацию](../../../../4.2/how_to_search_information/articles/information_search.md);
 - связи между знаниями укрепляются;
 - ты лучше понимаешь, что уже знаешь, а что нет.
 
@@ -24,7 +24,7 @@
 
 ## Как это работает
 
-Представь, что твоя память — это тропинка в лесу.
+Представь, что твоя [память](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) — это тропинка в лесу.
 
 - Если ты просто читаешь текст, ты как будто смотришь на карту.
 - А если пытаешься вспомнить — ты идёшь по тропинке сам.
@@ -33,9 +33,9 @@
 
 Вот почему активное вспоминание работает лучше, чем простое [чтение](../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md).
 
-### Сравнение:
+### [Сравнение](../../../5.2_cybersecurity/cpp_fundamentals/5_operators.md):
 
-- **Пассивное чтение**: ты читаешь и думаешь «я понял», но не проверяешь себя.
+- **Пассивное [чтение](../../how_to_learn_effectively/articles/reading_skills.md)**: ты читаешь и думаешь «я понял», но не проверяешь себя.
 - **Активное вспоминание**: ты закрываешь материал и проверяешь, что действительно осталось в голове.
 
 Лучше всего сочетать активное вспоминание с [повторением](./povtorenie.md), чтобы [информация](../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) закреплялась.
@@ -68,7 +68,7 @@
 2. Попробуй пересказать её вслух или про себя.
 3. Запиши всё, что помнишь, без подсказок.
 4. Затем проверь себя по учебнику или [конспекту](./konspektirovanie.md).
-5. Повтори через время с помощью [интервального повторения](./intervalnoe_povtorenie.md).
+5. Повтори через [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) с помощью [интервального повторения](./intervalnoe_povtorenie.md).
 
 Это может сначала показаться сложным, но очень быстро становится привычкой.
 
@@ -77,11 +77,11 @@
 | Помогает | Мешает |
 |----------|--------|
 | Попытки вспомнить без подсказок | Бесконечное перечитывание |
-| Вопросы самому себе | [Надежда](../../4.2/critical_thinking/articles/influence_of_emotions.md) «само запомнится» |
+| [Вопросы](../../how_to_learn_effectively/articles/curiosity.md) самому себе | [Надежда](../../4.2/critical_thinking/articles/influence_of_emotions.md) «само запомнится» |
 | Регулярная [практика](../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md) | Зубрёжка без понимания |
 | [Проверка](../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) ошибок | Игнорирование ошибок |
 
-## Частые ошибки
+## Частые [ошибки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)
 
 - Читать текст много раз, но не проверять себя.
 - Подглядывать слишком рано.
@@ -96,10 +96,10 @@
 Оно тесно связано с другими методами:
 
 - [Повторение](./povtorenie.md) помогает закрепить [результат](../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md).
-- [Интервальное повторение](./intervalnoe_povtorenie.md) делает обучение ещё более эффективным.
+- [Интервальное повторение](./intervalnoe_povtorenie.md) делает [обучение](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) ещё более эффективным.
 - [Самопроверка](./samoproverka.md) помогает увидеть ошибки.
 - [Конспектирование](./konspektirovanie.md) даёт опору для проверки.
-Всё это вместе улучшает процесс [запоминания](./zapominanie.md) и развивает память.
+Всё это вместе улучшает [процесс](../../../5.1_technology_and_digital_literacy/operating system/articles/process.md) [запоминания](./zapominanie.md) и развивает память.
 
 ## Интересный [факт](../../1.2_natural_sciences/why_science_help_understand_world/science.md)
 
@@ -115,4 +115,4 @@
 
 ---
 Авторы: Леша, @S1lave;
-[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - Chat GPT
+[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - Chat GPT

@@ -1,25 +1,25 @@
-# 🧠 Игры для развития ума: прокачай свой мозг!
+# 🧠 Игры для развития ума: прокачай свой [мозг](../../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md)!
 
 ## Введение
 
-Многие думают, что игры — это просто развлечение и пустая трата времени. Но есть хорошие новости: **существуют игры, которые действительно делают нас умнее!** Головоломки, квесты и обучающие игры развивают память, логику, скорость реакции и даже творческое мышление. А русские разработчики создали немало шедевров, которые помогут прокачать мозг.
+Многие думают, что игры — это просто развлечение и пустая трата времени. Но есть хорошие новости: **существуют игры, которые действительно делают нас умнее!** [Головоломки](../useful_tips/educational_games.md), [квесты](../useful_tips/educational_games.md) и [обучающие игры](../useful_tips/educational_games.md) развивают [память](../../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md), логику, [скорость реакции](../../../../1.1_structure_of_the_world/matter/articles/12_chemical_properties.md) и даже творческое [мышление](../../../../1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md). А русские разработчики создали немало шедевров, которые помогут прокачать мозг.
 
 ---
 
 ## 🎯 Почему игры развивают мозг
 
-Во время игры наш мозг активно работает: ищет решения, запоминает детали, строит стратегии.
+Во [время](../../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) игры наш мозг активно работает: ищет решения, запоминает детали, строит [стратегии](../../../../../8.1_self_understanding/articles/overcoming.md).
 
 **Что развивают умные игры:**
 
-| Навык | Как развивается |
+| [Навык](../../../../5.1_technology_and_digital_literacy/information and media literacy/карта_компетенций_по_возрастам.md) | Как развивается |
 |-------|-----------------|
-| **Логика** | Поиск закономерностей, решение головоломок |
-| **Память** | Запоминание сюжета, деталей, кодов |
-| **Внимание** | Поиск скрытых предметов, анализ ситуаций |
-| **Скорость реакции** | Быстрое принятие решений |
+| **[Логика](../../../../2.1_society/cause_and_effect_relationships/articles/causality_base.md)** | [Поиск](../../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md) закономерностей, [решение](../../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) головоломок |
+| **Память** | [Запоминание](../../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md) сюжета, деталей, кодов |
+| **[Внимание](../../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md)** | Поиск скрытых предметов, [анализ](../../../../1.2_natural_sciences/why_science_help_understand_world/research.md) ситуаций |
+| **Скорость реакции** | Быстрое [принятие решений](../../../../1.2_natural_sciences/neurobiology_for_teens/articles/05_teen_brain.md) |
 | **Креативность** | Нестандартные решения задач |
-| **Английский язык** | Диалоги и тексты в играх |
+| **Английский [язык](../../../../5.2_cybersecurity/cpp_fundamentals/1_introduction.md)** | [Диалоги](../dream_team/screenwriter.md) и тексты в играх |
 
 ---
 
@@ -27,32 +27,32 @@
 
 ### 🧩 Головоломки (Puzzle)
 
-| Игра | Разработчик | Чем полезна | Сложность |
+| [Игра](../../../../4.1_rules_of_study/how_to_learn_effectively/articles/gamification.md) | Разработчик | Чем полезна | Сложность |
 |------|-------------|-------------|-----------|
 | **Portal / Portal 2** | Valve (США) | Пространственное мышление, логика | 🟡 Средняя |
-| **The Witness** | Thekla (США) | Наблюдательность, дедукция | 🔴 Высокая |
+| **The Witness** | Thekla (США) | Наблюдательность, [дедукция](../../../../4.2_thinking_and_working_information/critical_thinking/articles/methods_of_logical_inference.md) | 🔴 Высокая |
 | **Baba Is You** | Hempuli (Финляндия) | Креативность, нестандарное мышление | 🔴 Высокая |
-| **Monument Valley** | Ustwo (Великобритания) | Оптические иллюзии, логика | 🟢 Лёгкая |
-| **Tetris** | Алексей Пажитнов (**Россия**) | Реакция, пространственное мышление | 🟢 Лёгкая |
+| **Monument Valley** | Ustwo (Великобритания) | [Оптические иллюзии](../../../../1.2_natural_sciences/neurobiology_for_teens/articles/26_optical_illusions.md), логика | 🟢 Лёгкая |
+| **Tetris** | Алексей Пажитнов (**Россия**) | [Реакция](../../../../1.2_natural_sciences/why_science_help_understand_world/chemistry.md), пространственное мышление | 🟢 Лёгкая |
 
 ### 🔍 Квесты (Quest)
 
 | Игра | Разработчик | Чем полезна | Сложность |
 |------|-------------|-------------|-----------|
-| **The Legend of Zelda** | Nintendo (Япония) | Решение комплексных задач, память | 🟡 Средняя |
+| **The Legend of Zelda** | [Nintendo](../how_it_all_started/crisis_and_resurrection.md) (Япония) | Решение комплексных задач, память | 🟡 Средняя |
 | **Professor Layton** | Level-5 (Япония) | Логика, дедукция | 🟡 Средняя |
 | **Sherlock Holmes** | Frogwares (**Россия**) | Дедукция, внимание к деталям | 🔴 Высокая |
-| **Return of the Obra Dinn** | 3909 (США) | Дедукция, внимательность | 🔴 Высокая |
-| **Бесконечное лето** | Soviet Games (**Россия**) | Выбор решений, психология | 🟡 Средняя |
+| **[Return](../../../../5.2_cybersecurity/cpp_fundamentals/8_functions.md) of the Obra Dinn** | 3909 (США) | Дедукция, внимательность | 🔴 Высокая |
+| **Бесконечное лето** | Soviet Games (**Россия**) | [Выбор](../../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) решений, [психология](../../../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md) | 🟡 Средняя |
 
 ### 📚 Обучающие игры
 
 | Игра | Разработчик | Чем полезна | Сложность |
 |------|-------------|-------------|-----------|
-| **Kerbal Space Program** | Squad (США/Мексика) | Физика, инженерия | 🔴 Высокая |
-| **Civilization** | Firaxis (США) | Стратегия, история | 🟡 Средняя |
-| **SimCity / Cities: Skylines** | Maxis / Colossal Order (США/Финляндия) | Градостроительство, логистика | 🟡 Средняя |
-| **Human Resource Machine** | Tomorrow Corporation (США) | Программирование, логика | 🟡 Средняя |
+| **Kerbal Space Program** | Squad (США/Мексика) | [Физика](../../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md), [инженерия](../../../../1.2_natural_sciences/physics_in_everyday_life/Q161635.md) | 🔴 Высокая |
+| **[Civilization](../genres_and_worlds/strategy.md)** | Firaxis (США) | [Стратегия](../../../../2.1_society/cause_and_effect_relationships/articles/future_planning.md), [история](../../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md) | 🟡 Средняя |
+| **SimCity / Cities: Skylines** | Maxis / Colossal Order (США/Финляндия) | Градостроительство, [логистика](../../../../2.2_history/world_economy_on_fingers/articles/suetskiy_kanal.md) | 🟡 Средняя |
+| **Human Resource Machine** | Tomorrow Corporation (США) | [Программирование](../../../../5.2_cybersecurity/cpp_fundamentals/1_introduction.md), логика | 🟡 Средняя |
 | **Duolingo** | Duolingo (США) | Иностранные языки | 🟢 Лёгкая |
 
 ---
@@ -61,13 +61,13 @@
 
 ### Топ-5 отечественных разработок:
 
-| Игра | Жанр | Чем полезна |
+| Игра | [Жанр](../../../../../8.1_entertainment/articles/movie.md) | Чем полезна |
 |------|------|-------------|
 | **Тетрис** | Головоломка | Реакция, пространственное мышление |
-| **Серия игр про Шерлока Холмса** | Квест | Дедукция, внимание к деталям |
+| **Серия игр про Шерлока Холмса** | [Квест](../dream_team/screenwriter.md) | Дедукция, внимание к деталям |
 | **Бесконечное лето** | Визуальная новелла | Психология, анализ выборов |
 | **Мор (Утопия)** | Постапокалиптический квест | Выживание, логика |
-| **Cepheus Protocol** | Стратегия | Тактическое мышление, планирование |
+| **Cepheus Protocol** | Стратегия | Тактическое мышление, [планирование](../../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/ideal_schedule_energy_management.md) |
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### 🌀 Portal
 ![Portal](../../images/portal_game.png)
-*Portal — развивает пространственное мышление и логику. Игра заставляет находить неочевидные решения с помощью физики порталов.*
+*Portal — развивает пространственное мышление и логику. Игра заставляет находить неочевидные решения с помощью [физики](../../../../1.2_natural_sciences/physics_in_everyday_life/Q172280.md) порталов.*
 
 ### 🌅 The Witness
 ![The Witness](../../images/witness_game.png)
@@ -107,7 +107,7 @@
 ### The Witness
 > *"Остановись и посмотри вокруг"*
 
-Здесь нет подсказок. Только наблюдение и анализ. Каждая головоломка учит вас новому "языку" правил.
+Здесь нет подсказок. Только [наблюдение](../../../../1.2_natural_sciences/neurobiology_for_teens/articles/15_empathy.md) и анализ. Каждая головоломка учит вас новому "языку" правил.
 
 ### Тетрис (наша гордость!)
 > *"Простота, которая гениальна"*
@@ -116,14 +116,14 @@
 
 ---
 
-## 🧠 Как игры влияют на мозг (наука)
+## 🧠 Как игры влияют на мозг ([наука](../../../../1.2_natural_sciences/physics_in_everyday_life/Q238323.md))
 
 **Исследования показывают:**
 
-- 🧩 Головоломки увеличивают **нейропластичность** мозга
-- ⚡ Стратегии улучшают **скорость принятия решений**
+- 🧩 Головоломки увеличивают **[нейропластичность](../../../../1.2_natural_sciences/neurobiology_for_teens/articles/22_neuroplasticity.md)** мозга
+- ⚡ Стратегии улучшают **[скорость](../../../../1.2_natural_sciences/physics_in_everyday_life/Q11402.md) принятия решений**
 - 🎯 Квесты развивают **рабочую память**
-- 📚 Обучающие игры создают новые **нейронные связи**
+- 📚 Обучающие игры создают новые **[нейронные связи](../../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md)**
 
 > *"Игры — это единственный вид деятельности, который одновременно задействует практически все зоны мозга"* — нейробиолог Дафна Бавелье
 
@@ -182,4 +182,4 @@ flowchart TB
 ## 📝 Авторы
 
 **Алина Карачарова, 306**  
-*С использованием нейросети ChatGPT*
+*С использованием [нейросети](../../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md) [ChatGPT](../../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md)*

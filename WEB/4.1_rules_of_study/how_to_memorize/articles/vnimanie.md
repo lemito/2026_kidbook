@@ -1,14 +1,14 @@
 # [Внимание](../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md)
 
-Ты сидишь на уроке, учитель что-то объясняет… но вдруг ты уже думаешь о перемене, игре или разговоре с другом. И в какой-то момент понимаешь: «Я ничего не услышал!» Это и есть момент, когда внимание «выключилось». Без внимания учиться очень сложно — ведь сначала нужно заметить информацию, чтобы потом её [запомнить](zapominanie.md).
+Ты сидишь на уроке, учитель что-то объясняет… но вдруг ты уже думаешь о перемене, игре или разговоре с другом. И в какой-то момент понимаешь: «Я ничего не услышал!» Это и есть момент, когда [внимание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md) «выключилось». Без внимания учиться очень сложно — ведь сначала нужно заметить информацию, чтобы потом её [запомнить](zapominanie.md).
 
 ## Что это такое
 
-**Внимание** — это способность замечать и выделять важную информацию среди всего, что происходит вокруг.
+**Внимание** — это способность замечать и выделять важную информацию среди всего, [что происходит](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/what_happens.md) вокруг.
 
-Представь, что мир — это огромный поток звуков, картинок и мыслей. Внимание помогает выбрать, на что именно сейчас смотреть, слушать и думать.
+Представь, что мир — это огромный [поток](../../../5.1_technology_and_digital_literacy/operating system/articles/thread.md) звуков, картинок и мыслей. Внимание помогает выбрать, на что именно сейчас смотреть, слушать и думать.
 
-Оно напрямую связано с тем, как работают [память](./pamyat.md) и процесс [запоминания](./zapominanie.md).
+Оно напрямую связано с тем, как работают [память](./pamyat.md) и [процесс](../../../5.1_technology_and_digital_literacy/operating system/articles/process.md) [запоминания](./zapominanie.md).
 
 ## Почему это важно
 
@@ -19,7 +19,7 @@
 - слышать объяснения учителя,
 - понимать задания,
 - замечать важные детали,
-- легче [запоминать](zapominanie.md) новый материал.
+- легче [запоминать](zapominanie.md) новый [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md).
 
 Без внимания даже хорошая [память](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) не поможет — ведь сначала нужно «поймать» информацию.
 
@@ -64,7 +64,7 @@
 
 Вот простые способы улучшить внимание:
 
-- Старайся слушать активно: задавай себе вопросы.
+- Старайся слушать активно: задавай себе [вопросы](../../how_to_learn_effectively/articles/curiosity.md).
 - Убирай лишние отвлекающие вещи.
 - Смотри на учителя или в учебник, а не по сторонам.
 - Делай короткие [заметки](konspektirovanie.md), чтобы удерживать мысль.
@@ -78,20 +78,20 @@
 | [Интерес](../../7.2_leisure/useful_and_interesting_leisure/articles/how_not_to_quit_hobby.md) к теме | Скука |
 | Чёткая [цель](../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) | Отсутствие [цели](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md) |
 | Тихая обстановка | Шум и отвлечения |
-| Активное участие | Пассивное слушание |
-| [Отдых](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) | Усталость |
+| Активное участие | Пассивное [слушание](../../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/Listen-to-the-music-correctly.md) |
+| [Отдых](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) | [Усталость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) |
 
 ## Частые [ошибки](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)
 
 - Слушать «вполуха» и думать о другом.
-- Считать, что можно запомнить без внимания.
+- Считать, что можно [запомнить](zapominanie.md) без внимания.
 - Делать несколько дел одновременно.
 - Игнорировать усталость.
 - Не проверять, понял ли материал.
 
-## Связь с другими понятиями
+## [Связь](../../../1.2_natural_sciences/physics_in_everyday_life/Q12969754.md) с другими понятиями
 
-Внимание — это первый шаг в обучении.
+Внимание — это [первый шаг](../../../1.2_natural_sciences/physics_in_everyday_life/Q26540.md) в обучении.
 
 Оно связано с другими навыками:
 
@@ -117,4 +117,4 @@
 
 ---
 Авторы: Снетков Никита, @s4pfir;  
-[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - Chat GPT
+[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - Chat GPT

@@ -2,7 +2,7 @@
 
 ## [Определение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) [увлечения](leisure_influence_on_future.md) 📚
 
-Увлечение — это занятие или деятельность, доставляющая радость и удовольствие человеку. Это может быть [рисование](creativity_and_handicrafts.md), [спорт](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sport_and_energy.md), [музыка](../../../8.1_entertainment/articles/music.md), кулинария или путешествия. Но иногда мы совершаем ошибки, выбирая себе дело по душе. Сегодня поговорим именно об этом!
+Увлечение — это занятие или деятельность, доставляющая радость и [удовольствие](../../../../1.2_natural_sciences/neurobiology_for_teens/articles/11_reward_system.md) человеку. Это может быть [рисование](creativity_and_handicrafts.md), [спорт](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sport_and_energy.md), [музыка](../../../8.1_entertainment/articles/music.md), [кулинария](../../../../1.2_natural_sciences/physics_in_everyday_life/Q160329.md) или путешествия. Но иногда мы совершаем [ошибки](../../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md), выбирая себе дело по душе. Сегодня поговорим именно об этом!
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### 1. Неоправданные [ожидания](../../../2.1_society/cause_and_effect_relationships/articles/trust_predictability.md) 😒
 
-Часто [подростки](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/biology_of_night_owls_teens.md) выбирают [хобби](time_for_hobby_daily_routine.md), ориентируясь на [мнение](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md) окружающих или тренды в интернете. Пример: ты решил стать программистом, потому что видел крутые [видео](../../../5.1_technology_and_digital_literacy/information and media literacy/оценка_качества_изображений_и_видео.md) про разработку игр, но сам процесс оказался совсем другим. Важно понимать, подходит ли тебе выбранное направление и принесет ли оно удовлетворение.
+Часто [подростки](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/biology_of_night_owls_teens.md) выбирают [хобби](time_for_hobby_daily_routine.md), ориентируясь на [мнение](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md) окружающих или тренды в интернете. Пример: ты решил стать программистом, потому что видел крутые [видео](../../../5.1_technology_and_digital_literacy/information and media literacy/оценка_качества_изображений_и_видео.md) про разработку игр, но сам [процесс](../../../../5.1_technology_and_digital_literacy/operating system/articles/process.md) оказался совсем другим. Важно понимать, подходит ли тебе выбранное [направление](../../../../1.2_natural_sciences/physics_in_everyday_life/Q11402.md) и принесет ли оно удовлетворение.
 
 
 ![Иллюстрация: описание темы](../../../../WEB/7.2_leisure/useful_and_interesting_leisure/images/mistakes_in_choosing_hobby.jpg)
@@ -24,11 +24,11 @@
 
 ### 2. Недостаточная увлеченность 🔥
 
-Иногда [человек](../../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md) выбирает хобби ради статуса или одобрения родителей, друзей, а не искренне. Подумай хорошенько, действительно ли тебе нравится рисовать пейзажи, заниматься плаванием или фотографией? Если нет искреннего интереса, велика вероятность быстро потерять мотивацию.
+Иногда [человек](../../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md) выбирает [хобби](../../../../2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md) ради статуса или одобрения родителей, друзей, а не искренне. Подумай хорошенько, действительно ли тебе нравится рисовать пейзажи, заниматься плаванием или фотографией? Если нет искреннего интереса, велика [вероятность](../../../../1.2_natural_sciences/physics_in_everyday_life/Q45003.md) быстро потерять мотивацию.
 
 ### 3. Слишком высокая планка 🎯
 
-Некоторые ребята ставят перед собой нереалистичные [цели](how_not_to_quit_hobby.md). Они мечтают выиграть соревнования по шахматам через месяц занятий или получить диплом дизайнера интерьеров после нескольких уроков рисования. Такие завышенные требования приводят к разочарованию и стрессу.
+Некоторые ребята ставят перед собой нереалистичные [цели](how_not_to_quit_hobby.md). Они мечтают выиграть соревнования по шахматам через месяц занятий или получить диплом дизайнера интерьеров после нескольких уроков рисования. Такие [завышенные требования](../../../../../8.1_self_understanding/articles/perfectionism.md) приводят к разочарованию и стрессу.
 
 ---
 
@@ -38,11 +38,11 @@
 
 - **Экспериментируй**: попробуй разные направления и выбери то, что вызывает восторг.
 - **Обрати [внимание](../../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md) на себя**: учись [замечать](../../../how_to_memorize/articles/vnimanie.md), какие занятия вызывают [интерес](how_not_to_quit_hobby.md) и удовольствие лично у тебя.
-- **Ставь реалистичные [цели](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md)**: разбей большие мечты на маленькие шаги и двигайся постепенно.
+- **Ставь реалистичные [цели](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md)**: разбей большие мечты на [маленькие шаги](../../../../8.2_future_and_path_choice/articles/goal_setting_and_anxiety.md) и двигайся постепенно.
 
 ---
 
-## Заключение 🛍️💖
+## [Заключение](../../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md) 🛍️💖
 
 [Выбор](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) хобби — важный жизненный этап. Чтобы найти своё увлечение, нужно проявить терпение и внимательность. Помни, [успех](../../../4.2/critical_thinking/articles/main_cognitive_distortions.md) приходит тогда, когда мы занимаемся любимым делом с удовольствием и вдохновением. Удачи в поиске своего идеального хобби!
 

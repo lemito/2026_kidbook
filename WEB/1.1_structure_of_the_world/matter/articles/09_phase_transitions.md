@@ -17,7 +17,7 @@
 
 ---
 
-## Классификация фазовых переходов
+## [Классификация](../../../1.2_natural_sciences/physics_in_everyday_life/Q1293220.md) фазовых переходов
 
 ### Фазовые переходы I рода
 
@@ -38,9 +38,9 @@
 
 **[Плавление](05_solids.md)** — переход из [твёрдого](05_solids.md) состояния в [жидкое](06_liquids.md).
 
-При [плавлении](05_solids.md) разрушается [кристаллическая решётка](05_solids.md): частицы получают достаточно [энергии](01_matter.md), чтобы покинуть свои фиксированные положения. Вместо дальнего [порядка](../../../2.1_society/rights_and_responsibilities/articles/police.md) формируется [ближний порядок](06_liquids.md), характерный для [жидкости](06_liquids.md).
+При [плавлении](05_solids.md) разрушается [кристаллическая решётка](05_solids.md): [частицы](../../../1.2_natural_sciences/physics_in_everyday_life/Q179635.md) получают достаточно [энергии](01_matter.md), чтобы покинуть свои фиксированные положения. Вместо дальнего [порядка](../../../2.1_society/rights_and_responsibilities/articles/police.md) формируется [ближний порядок](06_liquids.md), характерный для [жидкости](06_liquids.md).
 
-| [Вещество](01_matter.md) | [Температура](07_gases.md) [плавления](05_solids.md), °C | Удельная теплота [плавления](05_solids.md), кДж/кг |
+| [Вещество](01_matter.md) | [Температура](07_gases.md) [плавления](05_solids.md), °[C](../../../2.1_society/how_and_where_find_friends/articles/sora_drug.md) | Удельная [теплота](../../../1.2_natural_sciences/physics_in_everyday_life/Q11379.md) [плавления](05_solids.md), кДж/кг |
 |----------|--------------------------|-----------------------------------|
 | Водород | −259 | 58,6 |
 | [Вода](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md) (лёд) | 0 | 334 |
@@ -49,7 +49,7 @@
 | Железо | 1538 | 247 |
 | Вольфрам | 3422 | 192 |
 
-**Кристаллизация** — обратный процесс: переход из жидкого в твёрдое состояние с выделением теплоты.
+**Кристаллизация** — обратный [процесс](../../../5.1_technology_and_digital_literacy/operating system/articles/process.md): переход из жидкого в твёрдое состояние с выделением теплоты.
 
 ### Испарение и конденсация
 
@@ -57,7 +57,7 @@
 
 **Кипение** — интенсивное испарение, происходящее во всём объёме [жидкости](06_liquids.md) при достижении [температуры](07_gases.md) кипения.
 
-| [Вещество](01_matter.md) | [Температура](07_gases.md) кипения, °C | Удельная теплота парообразования, кДж/кг |
+| [Вещество](01_matter.md) | [Температура](07_gases.md) кипения, °C | [Удельная теплота парообразования](../../../1.2_natural_sciences/physics_in_everyday_life/Q255722.md), кДж/кг |
 |----------|------------------------|------------------------------------------|
 | Азот | −196 | 199 |
 | Этанол | 78 | 855 |
@@ -67,7 +67,7 @@
 
 **Конденсация** — обратный переход: пар → [жидкость](06_liquids.md).
 
-### Сублимация и десублимация
+### Сублимация и [десублимация](../../../1.2_natural_sciences/physics_in_everyday_life/Q104837.md)
 
 **Сублимация** (возгонка) — прямой переход из [твёрдого](05_solids.md) в [газообразное](07_gases.md) состояние, минуя жидкую фазу.
 
@@ -83,9 +83,9 @@
 
 **[Ионизация](08_plasma.md)** — переход [газа](07_gases.md) в состояние [плазмы](08_plasma.md) при высоких [температурах](07_gases.md) или под действием излучения.
 
-**Рекомбинация** — обратный процесс: ионы и [электроны](03_atom_structure.md) соединяются, образуя нейтральные [атомы](01_matter.md).
+**Рекомбинация** — обратный процесс: [ионы](../../../1.2_natural_sciences/physics_in_everyday_life/Q124291.md) и [электроны](03_atom_structure.md) соединяются, образуя нейтральные [атомы](01_matter.md).
 
-## Термодинамика фазовых переходов
+## [Термодинамика](../../../1.2_natural_sciences/physics_in_everyday_life/Q104837.md) фазовых переходов
 
 ### Уравнение Клапейрона-Клаузиуса
 
@@ -101,7 +101,7 @@
 
 где F — число степеней [свободы](../../../2.1_society/rights_and_responsibilities/articles/person.md), C — число компонентов, P — число сосуществующих фаз. Для однокомпонентной системы (C = 1):
 
-- 1 фаза → 2 [степени](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/13_ozhogi_vidy_stepeni.md) [свободы](../../../2.1_society/rights_and_responsibilities/articles/person.md) (можно менять T и p)
+- 1 [фаза](../../../1.2_natural_sciences/physics_in_everyday_life/Q136980.md) → 2 [степени](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/13_ozhogi_vidy_stepeni.md) [свободы](../../../2.1_society/rights_and_responsibilities/articles/person.md) (можно менять T и p)
 - 2 фазы → 1 степень [свободы](../../../2.1_society/rights_and_responsibilities/articles/person.md) (линия на диаграмме)
 - 3 фазы → 0 степеней [свободы](../../../2.1_society/rights_and_responsibilities/articles/person.md) (**тройная точка**)
 
@@ -153,4 +153,4 @@
 - [Экзотические состояния](10_exotic_states.md)
 - [Физические свойства](11_physical_properties.md)
 
-*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Ефременко Кирилл • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: 500 • 2026-03-16*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Ефременко Кирилл • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Gemini • Слов: [500](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md) • 2026-03-16*

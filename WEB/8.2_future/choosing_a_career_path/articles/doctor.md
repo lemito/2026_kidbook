@@ -1,12 +1,12 @@
-# 🩺 Врач (профессия)
+# 🩺 [Врач](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md) ([профессия](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/leisure_influence_on_future.md))
 
 ## Кто такой врач?
 
 ![Доктор](../images/doctor.png)
 
-**Врач** — это человек, который лечит людей и помогает им сохранять здоровье. Это очень важная и ответственная **[профессия](profession.md)**.
+**Врач** — это [человек](../../../1.2_natural_sciences/physics_in_everyday_life/Q45003.md), который лечит людей и помогает им сохранять [здоровье](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md). Это очень важная и ответственная **[профессия](profession.md)**.
 
-Врачи знают, как устроен организм человека, умеют находить болезни и помогают людям выздоравливать.
+Врачи знают, как устроен [организм человека](../../../1.2_natural_sciences/physics_in_everyday_life/Q36496.md), умеют находить болезни и помогают людям выздоравливать.
 
 > Врач — это тот, кто заботится о здоровье других людей каждый день.
 
@@ -24,12 +24,12 @@
 Для этого врачу нужны разные **[навыки](skills.md)**:
 
 * внимательность
-* ответственность
+* [ответственность](../../../2.1_society/cause_and_effect_relationships/articles/responsibility.md)
 * умение общаться с людьми
 * знания о теле человека
 
 > [!IMPORTANT]
-> Ошибка врача может быть очень серьёзной, поэтому он должен быть очень аккуратным!
+> [Ошибка](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md) врача может быть очень серьёзной, поэтому он должен быть очень аккуратным!
 
 ---
 
@@ -67,30 +67,30 @@
 
 Часто всё начинается с **[мечты](dream.md)** — помогать людям.
 
-Иногда интерес к медицине появляется ещё в детстве через **[увлечения](hobbies.md)**:
+Иногда [интерес](../../../1.2_natural_sciences/neurobiology_for_teens/articles/19_curiosity.md) к медицине появляется ещё в детстве через **[увлечения](hobbies.md)**:
 
-* чтение книг о здоровье
+* [чтение](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md) книг о здоровье
 * интерес к биологии
-* желание заботиться о других
+* [желание](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md) заботиться о других
 
 ---
 
 ## Сколько зарабатывает врач?
 
-Заработок врача — это его **[зарплата](salary.md)** 💰.
+[Заработок](../../../6.2_money_and_literacy/how_to_save_for_goal/articles/income.md) врача — это его **[зарплата](salary.md)** 💰.
 
 Она зависит от:
 
 * опыта
 * специализации
-* места работы
+* места [работы](interview.md)
 
 > [!NOTE]
 > Некоторые врачи учатся и работают много лет, чтобы стать настоящими профессионалами.
 
 ---
 
-## Как устроиться на работу?
+## Как устроиться на [работу](interview.md)?
 
 Чтобы стать врачом в больнице, нужно:
 
@@ -116,18 +116,18 @@
 
 **Врач** — это одна из самых важных **[профессий](profession.md)** в мире.
 
-Это работа для тех, кто:
+Это [работа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md) для тех, кто:
 
 * хочет помогать людям
 * готов много учиться
 * умеет быть ответственным
 
-Если тебе нравится заботиться о других — возможно, это твой путь! 😊
+Если тебе нравится заботиться о других — возможно, это твой [путь](../../../1.2_natural_sciences/physics_in_everyday_life/Q11476.md)! 😊
 
 ---
 
-**Автор:** Иванов Владимир
+**[Автор](../../../4.2_thinking_and_working_information/how_to_search_information/articles/copypaste.md):** Иванов [Владимир](../../../2.2_society/history/articles/Kievan_Rus.md)
 
 
-*Использованные нейросети: ChatGPT (генерация текста), GigaChat (генерация изображений)*
+*Использованные [нейросети](../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md): [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md) (генерация текста), GigaChat ([генерация изображений](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md))*
 

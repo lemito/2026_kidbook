@@ -6,24 +6,24 @@
 и не смотришь с тоской на чужую еду.
 
 Эта статья — про второй вариант. Без скучного “ешьте полезное”, без брокколи в контейнере как
-формы наказания. Только **быстрые, нормальные и реально съедобные идеи**, которые можно собрать
+формы наказания. Только **быстрые, нормальные и реально съедобные [идеи](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/free_leisure_activities.md)**, которые можно собрать
 за 5–10 минут.
 
-> ### 🛑 Рубрика «Миф vs Реальность»
+> ### 🛑 Рубрика «Миф vs [Реальность](../../../1.2_natural_sciences/physics_in_everyday_life/Q140028.md)»
 >
 > **1. Про батончик**  
 > 🔴 *Миф:* «Если на упаковке написано fitness, значит, это полезно».  
-> 🟢 *Реальность:* Иногда это просто сладость в спортивном костюме. Смотри на состав, а не на вайб упаковки.
+> 🟢 *Реальность:* Иногда это просто сладость в спортивном костюме. Смотри на [состав](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md), а не на вайб упаковки.
 >
 > **2. Про “пустой перекус”**  
 > 🔴 *Миф:* «Главное — хоть что-то съесть».  
 > 🟢 *Реальность:* Если перекус состоит только из сахара, [энергия](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) быстро взлетит и так же быстро рухнет.
 >
 > **3. Про стыдный [ланч-бокс](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/healthy_school_snacks.md)**  
-> 🔴 *Миф:* «Нормальная [еда](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/stress_and_food.md) в школе — это кринж, проще купить чипсы».  
-> 🟢 *Реальность:* Кринж — это сидеть голодным и злым к пятому уроку. Удобный ланч-бокс — это не “бабушкина тема”, а нормальный инструмент выживания.
+> 🔴 *Миф:* «Нормальная [еда](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/stress_and_food.md) в школе — это кринж, проще купить [чипсы](../../vrednye_privychki/articles/fastfud_i_pischevoy_musor.md)».  
+> 🟢 *Реальность:* Кринж — это сидеть голодным и злым к пятому уроку. Удобный [ланч-бокс](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/healthy_school_snacks.md) — это не “бабушкина тема”, а нормальный инструмент выживания.
 
-## Формула хорошего перекуса
+## [Формула](../../../1.2_natural_sciences/physics_in_everyday_life/Q11652.md) хорошего перекуса
 
 Чтобы перекус реально работал, в нем желательно собрать хотя бы 2–3 элемента:
 
@@ -81,19 +81,19 @@
 - морковь;
 - огурец;
 - сладкий перец;
-- небольшой контейнер с хумусом или йогуртовым соусом.
+- небольшой [контейнер](../../../5.2_cybersecurity/cpp_fundamentals/15_stl.md) с хумусом или йогуртовым соусом.
 
 ### 5. Сладкий, но не бессмысленный вариант
 
 Если хочется чего-то “вкусного”, а не аскетического:
 - банан;
-- арахисовая паста;
+- арахисовая [паста](../../../7.2 Media, leisure and hobbies/Computer games/articles/game_culture/game_memes.md);
 - овсяное печенье;
 - ягоды или сухофрукты в небольшом количестве.
 
 ## Быстрые рецепты: 3 варианта за 5 минут
 
-### Рецепт 1. Школьный ролл
+### [Рецепт](../../../6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/how_to_read_recipe.md) 1. Школьный ролл
 - 1 лаваш
 - 2 ложки творожного сыра
 - 2–3 ломтика индейки
@@ -117,14 +117,14 @@
 
 ## Переводчик с подросткового на биологический
 
-**Фраза:** «Я на уроке туплю, хотя вроде ел утром».  
-**Перевод:** «[Завтрак](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) давно закончился, а [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) снова просит топливо, потому что он вообще-то прожорливый [орган](../../../7.1_art/musical_instruments/articles/organ.md)».
+**[Фраза](../../../7.2 Media, leisure and hobbies/Computer games/articles/game_culture/game_memes.md):** «Я на уроке туплю, хотя вроде ел утром».  
+**Перевод:** «[Завтрак](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) давно закончился, а [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) снова просит [топливо](../../../2.2_history/world_economy_on_fingers/articles/neft_v_mirovoy_ekonomike.md), потому что он вообще-то прожорливый [орган](../../../7.1_art/musical_instruments/articles/organ.md)».
 
 **Фраза:** «После сладкого батончика я бодрый, а потом всё».  
 **Перевод:** «[Сахар](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) устроил тебе фейерверк, а потом ушел, оставив после себя энергетическую яму».
 
-**Фраза:** «Мне лень носить еду».  
-**Перевод:** «Я недооцениваю, насколько сильнее мой мозг работает, когда у него есть стабильная подпитка».
+**Фраза:** «Мне [лень](../../../1.2_natural_sciences/neurobiology_for_teens/articles/12_lazy_brain.md) носить еду».  
+**Перевод:** «Я недооцениваю, насколько сильнее мой [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) работает, когда у него есть стабильная подпитка».
 
 ## Чит-код для игрока: перекус, чтобы не тупить на контрольной
 
@@ -140,7 +140,7 @@
 - хлебец;
 - бутылка воды.
 
-### Схема: что происходит после разного перекуса
+### Схема: [что происходит](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/what_happens.md) после разного перекуса
 
 ```mermaid
 graph LR;
@@ -152,9 +152,9 @@ graph LR;
 
 ## Таблица готовых сочетаний
 
-| Формат | Что положить | Почему это работает |
+| [Формат](../../../7.2 Media, leisure and hobbies/Computer games/articles/how_it_all_started/cartridge_versus_disc.md) | Что положить | Почему это работает |
 |:--|:--|:--|
-| Быстрый | орехи + яблоко + йогурт | есть белок, клетчатка и нормальный объем |
+| Быстрый | орехи + яблоко + йогурт | есть белок, клетчатка и нормальный [объем](../../../1.2_natural_sciences/physics_in_everyday_life/Q11435.md) |
 | Сытный | ролл в лаваше + овощи | удобно, не крошится, держит дольше |
 | Легкий | ягоды + сыр + хлебцы | не тяжело, но не пусто |
 | “Сладкий” | банан + арахисовая паста + овсяное печенье | вкусно, но без полного сахарного хаоса |

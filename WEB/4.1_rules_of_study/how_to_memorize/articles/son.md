@@ -1,14 +1,14 @@
 # [Сон](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md)
 
-Кажется, что если не хватает времени, можно просто посидеть подольше и выучить всё ночью. Но на самом деле сон — это не «потерянное время», а важная часть учёбы. Именно во сне [мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) помогает нам лучше [запоминать](zapominanie.md) и понимать материал.
+Кажется, что если не хватает времени, можно просто посидеть подольше и выучить всё ночью. Но на самом деле [сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) — это не «потерянное [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md)», а важная часть учёбы. Именно во сне [мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) помогает нам лучше [запоминать](zapominanie.md) и понимать [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md).
 
 ## Что это такое
 
-Сон — это особое состояние, в котором **[организм](../../1.2_natural_sciences/why_science_help_understand_world/organism.md) отдыхает и восстанавливается**, а мозг продолжает активно работать.
+Сон — это особое состояние, в котором **[организм](../../1.2_natural_sciences/why_science_help_understand_world/organism.md) отдыхает и восстанавливается**, а [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) продолжает активно работать.
 
 Пока мы спим:
 - [тело](../../1.2_natural_sciences/why_science_help_understand_world/organism.md) отдыхает  
-- силы восстанавливаются  
+- [силы](../../../1.2_natural_sciences/physics_in_everyday_life/Q11423.md) восстанавливаются  
 - мозг обрабатывает информацию  
 
 Сон напрямую связан с [памятью](./pamyat.md) и процессом [запоминания](./zapominanie.md), потому что именно в это время знания «закрепляются».
@@ -17,7 +17,7 @@
 
 Сон играет огромную роль в учёбе. Без него даже самые старательные попытки могут не дать результата.
 
-Вот что происходит, если ты хорошо выспался:
+Вот [что происходит](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/what_happens.md), если ты хорошо выспался:
 
 - легче [сосредоточиться](koncentraciya.md)  
 - лучше работает [концентрация](./koncentraciya.md)  
@@ -27,11 +27,11 @@
 
 А если сна не хватает:
 - появляется [усталость](./ustalost.md)  
-- труднее думать и запоминать  
+- труднее думать и [запоминать](zapominanie.md)  
 - увеличивается количество ошибок  
 - снижается [внимание](../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md)  
 
-Поэтому сон — это не «перерыв от учёбы», а её важная часть.
+Поэтому сон — это не «[перерыв](../../../7.2 Media, leisure and hobbies/Computer games/articles/useful_tips/eyes_and_back.md) от учёбы», а её важная часть.
 
 > [!TIP]
 > Иногда лучше лечь спать и продолжить утром, чем пытаться выучить всё ночью.
@@ -47,7 +47,7 @@
 
 Можно представить, что днём ты собираешь [книги](../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md) в кучу, а ночью аккуратно расставляешь их по полкам.
 
-Если не спать, «книги» остаются в беспорядке, и найти нужную информацию становится сложнее.
+Если не спать, «[книги](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/reading_and_self_education.md)» остаются в беспорядке, и найти нужную информацию становится сложнее.
 
 Кроме того, сон помогает мозгу отдохнуть. Без отдыха он хуже справляется с задачами на следующий день.
 
@@ -57,11 +57,11 @@
 
 Ты учишь до поздней ночи, но:
 - начинаешь путаться  
-- хуже понимаешь текст  
+- хуже понимаешь [текст](../../how_to_learn_effectively/articles/reading_skills.md)  
 - устаёшь  
 
 На следующий день:
-- трудно сосредоточиться  
+- трудно [сосредоточиться](koncentraciya.md)  
 - забываешь то, что учил  
 - делаешь больше ошибок  
 
@@ -74,18 +74,18 @@
 - Старайся ложиться спать в одно и то же время  
 - Не учи сложный материал до глубокой ночи  
 - Повтори тему перед сном — это помогает закреплению  
-- Делай перерывы днём, чтобы не переутомляться  
-- Используй методы вроде [интервального повторения](./intervalnoe_povtorenie.md), чтобы учить постепенно  
+- Делай [перерывы](../../how_to_learn_effectively/articles/breaks_and_rest.md) днём, чтобы не переутомляться  
+- Используй [методы](../../how_to_learn_effectively/articles/note_taking.md) вроде [интервального повторения](./intervalnoe_povtorenie.md), чтобы учить постепенно  
 - Следи за самочувствием: если сильно [устал](ustalost.md), лучше отдохнуть  
 
-Такие привычки делают [обучение](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) более эффективным.
+Такие [привычки](../../../1.2_natural_sciences/neurobiology_for_teens/articles/11_reward_system.md) делают [обучение](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) более эффективным.
 
 ## Что помогает, а что мешает
 
 | Помогает | Мешает |
 |----------|--------|
 | Регулярный [режим сна](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/biology_of_night_owls_teens.md) | Поздние засыпания |
-| [Повторение](povtorenie.md) перед сном | Учёба до глубокой ночи |
+| [Повторение](povtorenie.md) перед сном | [Учёба](../../../8.1_colf-underctandina/HouToFindVourStrenaths/articles/use_strengths_in_life.md) до глубокой ночи |
 | Спокойная обстановка | Использование гаджетов перед сном |
 | Достаточный [отдых](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) | [Недосып](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md) |
 | Умеренная нагрузка | [Перегрузка](../../5.1_technology_and_digital_literacy/information and media literacy/информационная_диета.md) заданиями |
@@ -98,15 +98,15 @@
 - Пытаться «пересилить» [усталость](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md)  
 - Думать, что чем больше времени за учебой, тем лучше [результат](../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md)  
 
-На самом деле качество учёбы важнее, чем её длительность.
+На самом деле [качество](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/quality.md) учёбы важнее, чем её длительность.
 
 ## [Связь](../../2.1_society/cause_and_effect_relationships/articles/causality_base.md) с другими понятиями
 
-Сон тесно связан с [памятью](pamyat.md) и запоминанием. Именно во сне информация закрепляется и становится доступной для использования.
+Сон тесно связан с [памятью](pamyat.md) и запоминанием. Именно во сне [информация](../../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) закрепляется и становится доступной для использования.
 
-Также сон влияет на концентрацию и внимание. Если ты не выспался, даже интересная тема может казаться сложной.
+Также сон влияет на концентрацию и [внимание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md). Если ты не выспался, даже интересная тема может казаться сложной.
 
-Кроме того, сон помогает уменьшить усталость и улучшает общее состояние, что делает обучение более лёгким и приятным.
+Кроме того, сон помогает уменьшить [усталость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) и улучшает общее состояние, что делает [обучение](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) более лёгким и приятным.
 
 ## Интересный [факт](../../1.2_natural_sciences/why_science_help_understand_world/science.md)
 
@@ -122,4 +122,4 @@
 
 ---
 Авторы: Олег, @Oleg_Tertychnyi;  
-[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - Chat GPT
+[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - Chat GPT

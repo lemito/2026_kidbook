@@ -14,13 +14,13 @@
 
 ---
 
-## Химические реакции
+## [Химические реакции](../../../1.2_natural_sciences/physics_in_everyday_life/Q483948.md)
 
-**Химическая [реакция](../../../1.2_natural_sciences/why_science_help_understand_world/chemistry.md)** — процесс превращения одних [веществ](01_matter.md) (реагентов) в другие ([продукты](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/healthy_school_snacks.md)), сопровождающийся разрывом одних [химических связей](04_molecular_level.md) и [образованием](../../../2.1_society/rights_and_responsibilities/articles/education_right.md) новых.
+**Химическая [реакция](../../../1.2_natural_sciences/why_science_help_understand_world/chemistry.md)** — [процесс](../../../5.1_technology_and_digital_literacy/operating system/articles/process.md) превращения одних [веществ](01_matter.md) (реагентов) в другие ([продукты](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/healthy_school_snacks.md)), сопровождающийся разрывом одних [химических связей](04_molecular_level.md) и [образованием](../../../2.1_society/rights_and_responsibilities/articles/education_right.md) новых.
 
 [Признаки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/04_ushib_chto_eto_priznaki.md) химических реакций:
-- Изменение цвета
-- Выделение или поглощение [газа](07_gases.md)
+- Изменение [цвета](../../../1.2_natural_sciences/physics_in_everyday_life/Q11652.md)
+- Выделение или [поглощение](../../../1.2_natural_sciences/physics_in_everyday_life/Q11388.md) [газа](07_gases.md)
 - [Образование](../../../2.1_society/rights_and_responsibilities/articles/education_right.md) осадка
 - Выделение или поглощение теплоты
 - Изменение запаха
@@ -31,17 +31,17 @@
 
 ### По числу и составу реагентов/продуктов
 
-| Тип | Схема | Пример |
+| [Тип](../../../5.2_cybersecurity/cpp_fundamentals/13_struct.md) | Схема | Пример |
 |-----|-------|--------|
-| Соединение | A + B → AB | 2H₂ + O₂ → 2H₂O |
+| [Соединение](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/tcp_udp/tcp_udp.md) | A + B → AB | 2H₂ + O₂ → 2H₂O |
 | Разложение | AB → A + B | 2H₂O → 2H₂ + O₂ |
-| Замещение | AB + C → AC + B | Zn + CuSO₄ → ZnSO₄ + Cu |
-| Обмен | AB + CD → AD + CB | NaCl + AgNO₃ → AgCl↓ + NaNO₃ |
+| Замещение | AB + [C](../../../2.1_society/how_and_where_find_friends/articles/sora_drug.md) → AC + B | Zn + CuSO₄ → ZnSO₄ + Cu |
+| Обмен | AB + [CD](../../../7.2 Media, leisure and hobbies/Computer games/articles/how_it_all_started/cartridge_versus_disc.md) → AD + CB | NaCl + AgNO₃ → AgCl↓ + NaNO₃ |
 
 ### По тепловому эффекту
 
 - **Экзотермические** (ΔH < 0) — с выделением теплоты (горение, нейтрализация)
-- **Эндотермические** (ΔH > 0) — с поглощением теплоты (разложение, электролиз)
+- **Эндотермические** (ΔH > 0) — с поглощением теплоты (разложение, [электролиз](../../../1.2_natural_sciences/physics_in_everyday_life/Q176140.md))
 
 ### По обратимости
 
@@ -53,19 +53,19 @@
 - **Каталитические** — протекают с участием катализатора
 - **Некаталитические** — без катализатора
 
-## Энергетика реакций
+## [Энергетика](../../../2.2_history/world_economy_on_fingers/articles/neft_v_mirovoy_ekonomike.md) реакций
 
 ### Энтальпия реакции
 
 Тепловой эффект реакции при постоянном [давлении](07_gases.md):
 
-> ΔH = ΣH(продукты) − ΣH(реагенты)
+> ΔH = ΣH([продукты](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/healthy_school_snacks.md)) − ΣH(реагенты)
 
 ### Примеры энтальпий реакций
 
-| Реакция | ΔH, кДж/моль |
+| [Реакция](../../../1.2_natural_sciences/why_science_help_understand_world/chemistry.md) | ΔH, кДж/моль |
 |---------|--------------|
-| Горение водорода: 2H₂ + O₂ → 2H₂O | −572 |
+| [Горение](../../../1.2_natural_sciences/physics_in_everyday_life/Q560.md) водорода: 2H₂ + O₂ → 2H₂O | −572 |
 | Горение метана: CH₄ + 2O₂ → CO₂ + 2H₂O | −890 |
 | Разложение [воды](../../../2.1_society/rights_and_responsibilities/articles/duty_nature.md): 2H₂O → 2H₂ + O₂ | +572 |
 | Синтез аммиака: N₂ + 3H₂ → 2NH₃ | −92 |
@@ -98,11 +98,11 @@
 
 > k = A · exp(−Eₐ / RT)
 
-где k — константа скорости, A — предэкспоненциальный множитель, Eₐ — [энергия](01_matter.md) активации.
+где k — константа скорости, A — предэкспоненциальный множитель, Eₐ — [энергия](01_matter.md) [активации](../../../7.1_art/modern_technological_art/articles/5.1_nn_visualization.md).
 
 ## Химическое [равновесие](../../../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md)
 
-В обратимых реакциях устанавливается **динамическое равновесие**, при котором скорости прямой и обратной реакций равны.
+В обратимых реакциях устанавливается **[динамическое равновесие](../../../1.2_natural_sciences/physics_in_everyday_life/Q255722.md)**, при котором скорости прямой и обратной реакций равны.
 
 ### Константа равновесия
 
@@ -114,7 +114,7 @@
 
 При внешнем воздействии на систему в равновесии она смещается в направлении, противодействующем этому воздействию:
 
-- Повышение [температуры](07_gases.md) → смещение в сторону эндотермической реакции
+- [Повышение](../../../8.2_future/choosing_a_career_path/articles/career-path.md) [температуры](07_gases.md) → смещение в сторону эндотермической реакции
 - Увеличение [давления](07_gases.md) → смещение в сторону меньшего числа молей [газа](07_gases.md)
 - Увеличение концентрации реагента → смещение в сторону продуктов
 
@@ -129,14 +129,14 @@
 ### Кислотно-основные свойства
 
 - **Кислоты** — доноры [протонов](03_atom_structure.md) H⁺ (HCl, H₂SO₄)
-- **Основания** — акцепторы [протонов](03_atom_structure.md) (NaOH, Ca(OH)₂)
+- **Основания** — акцепторы [протонов](03_atom_structure.md) (NaOH, [Ca](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md)(OH)₂)
 - **Амфотерные [вещества](01_matter.md)** — проявляют и [те](../../../7.1_art/musical_instruments/articles/drums.md), и другие свойства (Al₂O₃, ZnO)
 
 ### Электроотрицательность
 
 Способность [атома](03_atom_structure.md) притягивать электронную [плотность](06_liquids.md) [связи](04_molecular_level.md). Определяет тип [химической связи](04_molecular_level.md) и реакционную способность.
 
-| [Элемент](../../../1.2_natural_sciences/why_science_help_understand_world/chemistry.md) | Электроотрицательность (шкала Полинга) |
+| [Элемент](../../../1.2_natural_sciences/why_science_help_understand_world/chemistry.md) | Электроотрицательность ([шкала](../../../1.2_natural_sciences/physics_in_everyday_life/Q11223329.md) Полинга) |
 |---------|---------------------------------------|
 | F | 4,0 (максимальная) |
 | O | 3,5 |
@@ -157,4 +157,4 @@
 - [Закон сохранения массы и энергии](15_conservation_law.md)
 - [Масса-энергия](18_mass_energy.md)
 
-*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Демидов Максим • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Claude • Слов: 500 • 2026-03-17*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Демидов Максим • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) Claude • Слов: [500](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md) • 2026-03-17*

@@ -7,9 +7,9 @@
 Иногда более дешёвая вещь быстро ломается. Тогда приходится покупать снова, и [расход](./expense.md) становится больше.
 
 ## Как действовать
-- Смотри материал и сборку.
+- Смотри [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md) и сборку.
 - Читай отзывы вместе со взрослыми.
-- Сравнивай срок службы.
+- Сравнивай [срок](financial_goal.md) службы.
 
 ## Пример
 Рюкзак подороже может прослужить два года, а дешевый - только один сезон.
@@ -25,8 +25,8 @@
 ---
 Авторы: Алимов Ирфан Рифатович, Венгер Ирина Витальевна, Моисеев Кирилл Всеволодович, Тараскаев Давид Михайлович, Шмотова Александра Игоревна;  
 GitHub ответственный: @kloshka;
-Визуал: @irf4n4ik;
-*Ресурсы: GigaChat/YandexGPT, ручная редактура и проверка команды 6.1*
+[Визуал](../../../4.1_rules_of_study/how_to_learn_effectively/articles/learning_styles.md): @irf4n4ik;
+*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): GigaChat/YandexGPT, ручная редактура и [проверка](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) команды 6.1*
 
 
 

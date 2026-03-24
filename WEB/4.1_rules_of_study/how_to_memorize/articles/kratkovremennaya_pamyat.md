@@ -1,10 +1,10 @@
 # Кратковременная [память](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md)
 
-Ты когда-нибудь запоминал номер, чтобы набрать его — а через минуту уже забывал? Это нормально! Так работает кратковременная память. Она помогает нам держать информацию «под рукой», но ненадолго. И именно от неё начинается путь к настоящему запоминанию.
+Ты когда-нибудь запоминал номер, чтобы набрать его — а через минуту уже забывал? Это нормально! Так работает [кратковременная память](../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md). Она помогает нам держать информацию «под рукой», но ненадолго. И именно от неё начинается [путь](../../../1.2_natural_sciences/physics_in_everyday_life/Q11476.md) к настоящему запоминанию.
 
 ## Что это такое
 
-**Кратковременная память** — это часть [Память](./pamyat.md), которая хранит информацию на короткое время: от нескольких секунд до нескольких минут.
+**Кратковременная память** — это часть [Память](./pamyat.md), которая хранит информацию на короткое [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md): от нескольких секунд до нескольких минут.
 
 Можно представить её как **черновик** или «временную полку»:
 - сюда попадает всё новое,
@@ -14,14 +14,14 @@
 
 ## Почему это важно
 
-Кратковременная память — это первый шаг в обучении.
+Кратковременная память — это [первый шаг](../../../1.2_natural_sciences/physics_in_everyday_life/Q26540.md) в обучении.
 
 Без неё невозможно:
-- понять объяснение,
+- понять [объяснение](../../how_to_learn_effectively/articles/teaching_others.md),
 - удержать задачу в голове,
 - связать новые знания с уже известными.
 
-Когда ты слушаешь учителя или читаешь учебник, информация сначала попадает именно сюда. И только потом она может стать частью [Запоминание](./zapominanie.md).
+Когда ты слушаешь учителя или читаешь учебник, [информация](../../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) сначала попадает именно сюда. И только потом она может стать частью [Запоминание](./zapominanie.md).
 
 Если кратковременная память «перегружена» или отвлекается, [обучение](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) становится намного сложнее.
 
@@ -57,14 +57,14 @@
 
 **Если отвлёкся:**
 - услышал только часть,
-- забыл номер страницы,
+- забыл номер [страницы](../../../5.1_technology_and_digital_literacy/operating system/articles/memory_management.md),
 - приходится спрашивать заново.
 
-Это и есть работа кратковременной [памяти](pamyat.md).
+Это и есть [работа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md) кратковременной [памяти](pamyat.md).
 
 ## Как использовать это на практике
 
-Вот как можно помочь кратковременной памяти:
+Вот как можно помочь кратковременной [памяти](pamyat.md):
 
 - Старайся [внимательно](vnimanie.md) слушать и читать.
 - Повторяй информацию сразу после получения.
@@ -80,11 +80,11 @@
 
 | Помогает | Мешает |
 |----------|--------|
-| Внимательное слушание | Отвлечения |
+| Внимательное [слушание](../../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/Listen-to-the-music-correctly.md) | Отвлечения |
 | [Повторение](povtorenie.md) сразу | Игнорирование информации |
-| Простые записи | Слишком много информации сразу |
+| Простые [записи](../../how_to_learn_effectively/articles/note_taking.md) | Слишком много информации сразу |
 | Спокойная обстановка | Шум |
-| Короткие перерывы | [Усталость](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) |
+| Короткие [перерывы](../../how_to_learn_effectively/articles/breaks_and_rest.md) | [Усталость](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) |
 
 ## Частые [ошибки](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)
 
@@ -92,7 +92,7 @@
 - Не [повторять](povtorenie.md) услышанное.
 - Отвлекаться во время объяснения.
 - Не [записывать](konspektirovanie.md) важное.
-- Игнорировать усталость.
+- Игнорировать [усталость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md).
 
 ## [Связь](../../2.1_society/cause_and_effect_relationships/articles/causality_base.md) с другими понятиями
 
@@ -110,7 +110,7 @@
 
 ## Интересный [факт](../../1.2_natural_sciences/why_science_help_understand_world/science.md)
 
-Кратковременная память может удерживать ограниченное количество информации одновременно — поэтому нам легче [запомнить](zapominanie.md) короткий список, чем длинный.
+Кратковременная память может удерживать ограниченное количество информации одновременно — поэтому нам легче [запомнить](zapominanie.md) короткий [список](../../../5.2_cybersecurity/cpp_fundamentals/10_arrays.md), чем длинный.
 
 ## См. также
 
@@ -122,4 +122,4 @@
 
 ---
 Авторы: Иван, @cupydox;  
-[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - ChatGPT
+[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md)

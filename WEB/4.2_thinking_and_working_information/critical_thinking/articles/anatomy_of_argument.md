@@ -1,15 +1,15 @@
-# Анатомия аргумента: структура, [доказательства](fact_and_opinion_differences.md) и искусство контраргументации
+# Анатомия аргумента: [структура](../../../4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md), [доказательства](fact_and_opinion_differences.md) и [искусство](../../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/aesthetics_and_taste.md) контраргументации
 
 [Аргументация](logical_errors_and_sophisms.md) — это не просто обмен мнениями, а [интеллектуальный процесс](methods_of_logical_inference.md) обоснования истинности некоторого суждения с помощью других суждений. В критическом мышлении умение видеть «скелет» аргумента позволяет быстро находить [слабые места в речи оппонента](logical_errors_and_sophisms.md) и строить собственные неуязвимые логические цепочки. 
 
 ![Иллюстрация: описание статьи](../images/image_anatomy.png)
 ---
 
-## 1. Структура аргумента: [Тезис](logical_errors_and_sophisms.md), Посылки, Доказательства
+## 1. Структура аргумента: [Тезис](logical_errors_and_sophisms.md), Посылки, [Доказательства](fact_and_opinion_differences.md)
 
-Любой полноценный [аргумент](../../../5.1_technology_and_digital_literacy/information and media literacy/критическое_мышление_в_онлайн_среде.md) состоит из трех обязательных элементов. Если один из них отсутствует или поврежден, аргумент превращается в голословное утверждение или [манипуляцию](manipulation_recognition.md).
+Любой полноценный [аргумент](../../../5.1_technology_and_digital_literacy/information and media literacy/критическое_мышление_в_онлайн_среде.md) состоит из трех обязательных элементов. Если один из них отсутствует или поврежден, [аргумент](../../../5.1_technology_and_digital_literacy/information and media literacy/критическое_мышление_в_онлайн_среде.md) превращается в голословное утверждение или [манипуляцию](manipulation_recognition.md).
 
-### Тезис (Что мы доказываем?)
+### [Тезис](logical_errors_and_sophisms.md) (Что мы доказываем?)
 Тезис — это основное положение, которое [автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md) хочет донести до аудитории. Он должен быть ясным, точным и оставаться неизменным на протяжении всего акта доказательства. 
 *   *Пример:* «Переход на четырехдневную рабочую неделю повысит общую [продуктивность](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/ideal_schedule_energy_management.md) компании».
 
@@ -38,10 +38,10 @@
 
 Контраргументация — это не «отрицание», а критический [анализ](../../../1.2_natural_sciences/why_science_help_understand_world/research.md) аргументации оппонента. Существует три способа опровержения [позиции](../../../7.1_art/musical_instruments/articles/trombone.md), расположенных по уровню эффективности:
 
-### Атака на тезис (Опровержение фактами)
-Прямое доказательство ложности тезиса. Мы приводим факты, которые полностью исключают возможность истинности утверждения оппонента.
+### [Атака](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/dns/cdn.md) на тезис (Опровержение фактами)
+Прямое [доказательство](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) ложности тезиса. Мы приводим [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md), которые полностью исключают возможность истинности утверждения оппонента.
 
-### Атака на аргументы (Критика оснований)
+### Атака на аргументы ([Критика](../../../8.1_self-understanding/HowToFindYourStrengths/articles/impostor_syndrome.md) оснований)
 Мы показываем, что посылки, на которые опирается оппонент, ложны или сомнительны. Если фундамент (аргументы) разрушен, тезис повисает в воздухе.
 
 ### Атака на логическую [связь](../../../2.1_society/cause_and_effect_relationships/articles/causality_base.md) (Демонстрация [ошибки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md))
@@ -54,7 +54,7 @@
 
 Для соблюдения этики и эффективности дискуссии полезно ориентироваться на пирамиду Пола Грэма. [Критическое мышление](../../../2.1_society/cause_and_effect_relationships/articles/critical_thinking_in_education.md) предполагает [движение](../../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md) к вершине этой пирамиды:
 
-1.  **Опровержение в чистом виде**: Нахождение центральной ошибки и её разбор с доказательствами. (Высший уровень).
+1.  **Опровержение в чистом виде**: Нахождение центральной [ошибки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) и её разбор с доказательствами. (Высший [уровень](../../../../8.1_entertainment/articles/gamification.md)).
 2.  **Опровержение характерных черт**: Критика конкретного сильного аргумента.
 3.  **[Контраргумент](logical_errors_and_sophisms.md)**: Изложение противоположного мнения, подкрепленного доводами.
 4.  **Препирательство**: [Спор](logical_errors_and_sophisms.md) по мелочам, цепляние к деталям, не влияющим на суть.
@@ -67,8 +67,8 @@
 
 Важным правилом рациональной дискуссии является «Принцип милосердия» (Principle of Charity). Он гласит: **интерпретируйте слова оппонента максимально сильным и разумным образом**. 
 
-Вместо того чтобы придираться к оговоркам, попробуйте опровергнуть самую мощную версию его аргумента. Если вы справитесь с сильной версией — ваша победа в споре будет окончательной и интеллектуально честной. Работа с [«соломенным чучелом»](logical_errors_and_sophisms.md) (намеренным искажением позиции врага для легкой победы) — признак слабого критического мышления.
+Вместо того чтобы придираться к оговоркам, попробуйте опровергнуть самую мощную версию его аргумента. Если вы справитесь с сильной версией — ваша [победа](../../../7.2 Media, leisure and hobbies/Computer games/articles/genres_and_worlds/racing_fighting_sports.md) в споре будет окончательной и интеллектуально честной. [Работа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md) с [«соломенным чучелом»](logical_errors_and_sophisms.md) (намеренным искажением [позиции](../../../7.1_art/musical_instruments/articles/trombone.md) врага для легкой победы) — признак слабого критического мышления.
 
 ---
 Авторы: Дмитрий Колесник, @Frizgy;  
-*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - ChatGPT (OpenAI)*
+*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md) (OpenAI)*

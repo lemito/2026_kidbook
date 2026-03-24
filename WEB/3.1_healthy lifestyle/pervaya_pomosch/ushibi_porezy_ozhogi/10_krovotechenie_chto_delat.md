@@ -1,8 +1,8 @@
 # [Кровотечение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md): как распознать вид и правильно остановить кровь
 
-Кровотечение пугает сильнее многих других травм, потому что кровь видна сразу. Из-за испуга люди начинают суетиться, слишком часто снимают салфетку с [раны](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) или, наоборот, теряются и ничего не делают.
+[Кровотечение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md) пугает сильнее многих других травм, потому что кровь видна сразу. Из-за испуга люди начинают суетиться, слишком часто снимают салфетку с [раны](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) или, наоборот, теряются и ничего не делают.
 
-Чтобы действовать правильно, нужно понимать, какие бывают кровотечения и что помогает в каждом случае. Основная [цель](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) — уменьшить потерю крови и сохранить спокойствие до приезда врача.
+Чтобы действовать правильно, нужно понимать, какие бывают кровотечения и что помогает в каждом случае. Основная [цель](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) — уменьшить потерю крови и сохранить [спокойствие](../../../7.2 Media, leisure and hobbies/Computer games/articles/useful_tips/toxic_players.md) до приезда врача.
 
 ---
 
@@ -12,24 +12,24 @@
 
 ## Что такое кровотечение
 
-- это выход крови из повреждённого сосуда наружу или в ткани
+- это [выход](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/building-evacuation.md) крови из повреждённого сосуда наружу или в ткани
 - чаще всего оно бывает при порезах, рваных ранах и глубоких ссадинах
 - [опасность](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md) зависит от того, какой сосуд повреждён и насколько быстро идёт кровь
-- оценка кровотечения — один из первых шагов первой помощи
+- [оценка](../../../4.1_rules_of_study/how_to_learn_effectively/articles/self_reflection.md) кровотечения — один из первых шагов первой помощи
 
 ## Капиллярное кровотечение
 
 - возникает при поверхностных ранах и ссадинах
 - кровь сочится по всей поверхности, обычно не очень интенсивно
 - часто достаточно промыть рану и наложить чистую повязку
-- опасность здесь чаще связана не с потерей крови, а с загрязнением
+- [опасность](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md) здесь чаще связана не с потерей крови, а с загрязнением
 
 ## Венозное кровотечение
 
-- кровь течёт равномерной струёй, обычно тёмного цвета
+- кровь течёт равномерной струёй, обычно тёмного [цвета](../../../1.2_natural_sciences/physics_in_everyday_life/Q11652.md)
 - часто встречается при более глубоких порезах
-- основная [помощь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md) — прижатие раны и [давящая повязка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md)
-- при сильном венозном кровотечении нужна медицинская помощь
+- основная [помощь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md) — прижатие [раны](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) и [давящая повязка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md)
+- при сильном венозном кровотечении нужна медицинская [помощь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md)
 
 ## Артериальное кровотечение
 
@@ -38,7 +38,7 @@
 - нужно немедленно прижать рану и вызвать скорую помощь
 - медлить в такой ситуации [нельзя](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)
 
-## Пошаговая остановка крови
+## [Пошаговая](../../../7.2 Media, leisure and hobbies/Computer games/articles/genres_and_worlds/strategy.md) остановка крови
 
 - прижмите рану стерильной салфеткой или чистой тканью
 - если повреждена конечность, поднимите её выше уровня сердца, если это не вызывает сильной боли
@@ -55,19 +55,19 @@
 ## Распространённые [ошибки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)
 
 - постоянно приподнимать салфетку и смотреть, остановилась ли кровь
-- паниковать и забывать про давление на рану
+- паниковать и забывать про [давление](../../../1.1_structure_of_the_world/matter/articles/07_gases.md) на рану
 - пытаться глубоко промывать рану до остановки крови
 - оставлять человека одного при сильном кровотечении
 
-## Короткие вопросы и ответы
+## Короткие [вопросы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md) и ответы
 
-### Вопрос 1. Почему нельзя часто заглядывать под салфетку?
+### Вопрос 1. Почему [нельзя](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) часто заглядывать под салфетку?
 
 Потому что образующийся сгусток крови снова срывается и кровотечение возобновляется.
 
-### Вопрос 2. Всегда ли цвет крови точно показывает вид сосуда?
+### Вопрос 2. Всегда ли [цвет](../../../1.2_natural_sciences/physics_in_everyday_life/Q1075.md) крови точно показывает вид сосуда?
 
-Не всегда, поэтому важнее [скорость](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md), характер струи и состояние пострадавшего.
+Не всегда, поэтому важнее [скорость](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md), [характер](../../../1.2_natural_sciences/neurobiology_for_teens/articles/06_phineas_gage.md) струи и состояние пострадавшего.
 
 ### Вопрос 3. Почему давление на рану так важно?
 
@@ -79,7 +79,7 @@
 
 ### Вопрос 5. Что делать, если кровь промочила [бинт](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/17_aptechka.md)?
 
-Не снимать его, а добавить сверху ещё материал и усилить давление.
+Не снимать его, а добавить сверху ещё [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md) и усилить давление.
 
 ### Вопрос 6. Можно ли посадить пострадавшего?
 
@@ -99,7 +99,7 @@
 - **Капиллярное кровотечение** — небольшое сочащееся кровотечение из мелких сосудов
 - **Венозное кровотечение** — течение крови из вены, чаще равномерной струёй
 - **Артериальное кровотечение** — быстрое и опасное кровотечение из артерии
-- **Давящая повязка** — [повязка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md), которая создаёт постоянное давление на рану
+- **[Давящая повязка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md)** — [повязка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md), которая создаёт постоянное давление на рану
 - **Сгусток** — уплотнившаяся кровь, помогающая остановить кровотечение
 - **Кровопотеря** — уменьшение объёма крови в организме
 - **Бледность** — один из признаков значительной кровопотери
@@ -107,4 +107,4 @@
 
 ---
 [Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Косов Всеволод.  
-[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные материалы по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские источники, LLM - ChatGPT.
+[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные [материалы](../../../1.2_natural_sciences/physics_in_everyday_life/Q487005.md) по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские [источники](../../../4.2_thinking_and_working_information/how_to_search_information/articles/three_whales.md), [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md).

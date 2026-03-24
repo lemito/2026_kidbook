@@ -1,10 +1,10 @@
 # Интервальное [повторение](povtorenie.md)
 
-Представь: завтра контрольная, и ты сидишь вечером, пытаясь выучить всё сразу. Кажется, что если прочитать тему пять раз подряд — всё запомнится. Но на деле уже через пару дней многое забывается. Почему так происходит? И как учиться умнее, а не дольше? Здесь на [помощь](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md) приходит интервальное повторение.
+Представь: завтра контрольная, и ты сидишь вечером, пытаясь выучить всё сразу. Кажется, что если прочитать тему пять раз подряд — всё запомнится. Но на деле уже через пару дней многое забывается. Почему так происходит? И как учиться умнее, а не дольше? Здесь на [помощь](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md) приходит [интервальное повторение](../../../1.2_natural_sciences/neurobiology_for_teens/articles/24_forgetting_curve.md).
 
 ## Что это такое
 
-**Интервальное повторение** — это способ учёбы, при котором ты повторяешь материал не сразу много раз подряд, а через определённые промежутки времени.
+**Интервальное повторение** — это способ учёбы, при котором ты повторяешь [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md) не сразу много раз подряд, а через определённые промежутки времени.
 
 Например, ты учишь тему сегодня, потом повторяешь её завтра, через несколько дней и ещё раз через неделю.
 
@@ -17,19 +17,19 @@
 Интервальное повторение помогает:
 
 - [запоминать](zapominanie.md) надолго, а не «до завтра»;
-- учить без перегрузки;
-- экономить время;
+- учить без [перегрузки](../../../1.2_natural_sciences/physics_in_everyday_life/Q11376.md);
+- экономить [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md);
 - чувствовать себя спокойнее перед контрольной.
 
 Короткие возвраты к материалу работают лучше, чем один большой «забег» в последний день.
 
 ## Как это работает
 
-Наш мозг постепенно забывает информацию — это нормально. Но если повторить материал **в тот момент, когда он начинает забываться**, он закрепляется намного сильнее.
+Наш [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) постепенно забывает информацию — это нормально. Но если повторить материал **в тот момент, когда он начинает забываться**, он закрепляется намного сильнее.
 
 Представь, что [знание](../../1.2_natural_sciences/why_science_help_understand_world/science.md) — это [след](../../5.1_technology_and_digital_literacy/information and media literacy/приватность_и_цифровой_след.md) на песке:
 
-- Если пройти один раз — след быстро исчезнет.
+- Если пройти один раз — [след](../../../5.1_technology_and_digital_literacy/information and media literacy/приватность_и_цифровой_след.md) быстро исчезнет.
 - Если возвращаться и проходить снова — он станет глубже.
 
 Интервальное повторение делает этот след всё заметнее.
@@ -60,7 +60,7 @@
 
 ## Как использовать это на практике
 
-Вот простой план:
+Вот простой [план](../../../7.2 Media, leisure and hobbies/Computer games/articles/genres_and_worlds/strategy.md):
 
 1. Раздели материал на небольшие части.
 2. Повтори тему через день после изучения.
@@ -76,16 +76,16 @@
 | Помогает | Мешает |
 |----------|--------|
 | Короткие регулярные повторения | Зубрёжка в последний момент |
-| Перерывы между занятиями | [Перегрузка](../../5.1_technology_and_digital_literacy/information and media literacy/информационная_диета.md) за один вечер |
-| Попытки вспомнить самому | Пассивное [чтение](../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md) |
+| [Перерывы](../../how_to_learn_effectively/articles/breaks_and_rest.md) между занятиями | [Перегрузка](../../5.1_technology_and_digital_literacy/information and media literacy/информационная_диета.md) за один вечер |
+| Попытки [вспомнить](aktivnoe_vspominanie.md) самому | Пассивное [чтение](../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md) |
 | [Планирование](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/ideal_schedule_energy_management.md) | Хаотичное [обучение](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) |
-| Отдых и [сон](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) | [Усталость](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) |
+| [Отдых](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) и [сон](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) | [Усталость](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) |
 
 ## Частые [ошибки](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)
 
 - Оставлять всё на последний день.
 - [Повторять](povtorenie.md) слишком часто подряд без перерывов.
-- Просто перечитывать текст, не проверяя себя.
+- Просто перечитывать [текст](../../how_to_learn_effectively/articles/reading_skills.md), не проверяя себя.
 - Не возвращаться к материалу позже.
 - Учить слишком много за один раз.
 
@@ -96,14 +96,14 @@
 Оно связано с разными навыками:
 
 - [Повторение](./povtorenie.md) — основа закрепления знаний.
-- [Активное вспоминание](./aktivnoe_vspominanie.md) делает повторение более эффективным.
+- [Активное вспоминание](./aktivnoe_vspominanie.md) делает [повторение](povtorenie.md) более эффективным.
 - [Самопроверка](./samoproverka.md) помогает увидеть пробелы.
 - [Долговременная память](./dolgovremennaya_pamyat.md) хранит знания надолго.
-Всё это вместе улучшает процесс [запоминания](./zapominanie.md).
+Всё это вместе улучшает [процесс](../../../5.1_technology_and_digital_literacy/operating system/articles/process.md) [запоминания](./zapominanie.md).
 
 ## Интересный [факт](../../1.2_natural_sciences/why_science_help_understand_world/science.md)
 
-Учёные заметили, что информация [запоминается](zapominanie.md) лучше, если повторять её с увеличивающимися промежутками: сначала через день, потом через несколько дней, потом через неделю.
+Учёные заметили, что [информация](../../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) [запоминается](zapominanie.md) лучше, если [повторять](povtorenie.md) её с увеличивающимися промежутками: сначала через день, потом через несколько дней, потом через неделю.
 
 ## См. также
 
@@ -115,4 +115,4 @@
 
 ---
 Авторы: Леша, @S1lave;
-[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - Chat GPT
+[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - Chat GPT

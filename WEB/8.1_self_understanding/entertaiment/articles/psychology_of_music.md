@@ -5,15 +5,15 @@
 
 
 
-[Музыка](music.md) окружает нас повсюду – она звучит в наушниках друзей, играет по радио в машине родителей и сопровождает наши любимые игры и [фильмы](movie.md). Но задумывались ли вы когда-нибудь, какое влияние оказывает [музыка](music.md) на наше эмоциональное состояние, [внимание](../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md), [память](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) и даже самочувствие? Давайте разберёмся вместе!
+[Музыка](music.md) окружает нас повсюду – она звучит в наушниках друзей, играет по [радио](../../../7.2 Media, leisure and hobbies/Computer games/articles/how_it_all_started/tennis_on_tv.md) в машине родителей и сопровождает наши любимые игры и [фильмы](movie.md). Но задумывались ли вы когда-нибудь, какое [влияние](../../../5.1_technology_and_digital_literacy/information and media literacy/манипуляции_и_пропаганда.md) оказывает [музыка](music.md) на наше эмоциональное состояние, [внимание](../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md), [память](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) и даже самочувствие? Давайте разберёмся вместе!
 
 ## [История](../../2.1_society/cause_and_effect_relationships/articles/lessons_of_history.md)
 
-[Музыка](music.md) появилась очень давно, ещё до нашей эры! Люди использовали её для общения, выражения эмоций и передачи традиций от поколения к поколению. Например, древние греки считали музыку важной частью образования и культуры. Со временем музыка стала неотъемлемой частью различных культур и цивилизаций, развиваясь параллельно с обществом. Сегодня мы можем увидеть множество [жанров](music_genres.md) и стилей, которые появились благодаря музыкальным экспериментам и новым технологиям.
+[Музыка](music.md) появилась очень давно, ещё до нашей эры! Люди использовали её для общения, выражения эмоций и передачи традиций от поколения к поколению. Например, древние греки считали музыку важной частью образования и культуры. Со временем [музыка](../../../1.2_natural_sciences/neurobiology_for_teens/articles/18_music_chills.md) стала неотъемлемой частью различных культур и цивилизаций, развиваясь параллельно с обществом. Сегодня мы можем увидеть множество [жанров](music_genres.md) и стилей, которые появились благодаря музыкальным экспериментам и новым технологиям.
 
 ### Ключевые этапы развития:
 - **Древние времена:** использование барабанов, флейт и других примитивных инструментов.
-- **Средневековье:** появление хорового пения и церковной музыки.
+- **Средневековье:** [появление](../../../1.2_natural_sciences/physics_in_everyday_life/Q5339.md) хорового пения и церковной музыки.
 - **Эпоха Возрождения:** [развитие](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md) инструментальной музыки и оперного жанра.
 - **XX век:** появление [джаза](music_genres.md), [рок](music_genres.md)-н-ролла и электронной музыки.
 
@@ -33,12 +33,12 @@
 ### 4. [Электронная музыка](../../7.1_art/musical_instruments/articles/synthesizer.md)
 Создаётся с помощью компьютеров и специальных программ. Отличается необычными звуками и [ритмами](music.md), которые могут вдохновлять на [творчество](../../7.2_leisure/useful_and_interesting_leisure/articles/creativity_and_handicrafts.md) и эксперименты.
 
-## Интересные факты
+## Интересные [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md)
 
 Вот несколько любопытных фактов о музыке:
 
-- **Музыкальные [тренировки](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sport_and_energy.md) улучшают когнитивные способности.** Учёные доказали, что игра на [музыкальных инструментах](musical_instruments.md) развивает [мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) и улучшает математические [навыки](../../7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit.md).
-- **Некоторые песни способны вызывать воспоминания.** Вы наверняка замечали, что услышав знакомую песню, сразу вспоминаете определённые моменты своей жизни.
+- **Музыкальные [тренировки](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sport_and_energy.md) улучшают когнитивные [способности](../../../4.1_rules_of_study/how_to_learn_effectively/articles/growth_mindset.md).** Учёные доказали, что [игра](../../../4.1_rules_of_study/how_to_learn_effectively/articles/gamification.md) на [музыкальных инструментах](musical_instruments.md) развивает [мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) и улучшает математические [навыки](../../7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit.md).
+- **Некоторые песни способны вызывать [воспоминания](../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md).** Вы наверняка замечали, что услышав знакомую песню, сразу вспоминаете определённые моменты своей жизни.
 - **Музыка снижает [стресс](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md).** Исследования показывают, что прослушивание спокойной музыки помогает расслабиться и успокоиться после напряжённого дня.
 
 ## Примеры из жизни
@@ -46,17 +46,17 @@
 Представьте себе такие ситуации:
 
 - **Прослушивание любимой песни перед экзаменом** помогает [сосредоточиться](../../how_to_memorize/articles/koncentraciya.md) и настроиться на [успех](../../4.2/critical_thinking/articles/main_cognitive_distortions.md).
-- **Звучание музыки во время спортивных тренировок** увеличивает [выносливость](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sport_and_energy.md) и мотивацию.
-- **Фоновая музыка в кафе или магазине** создаёт приятную атмосферу и улучшает настроение посетителей.
+- **Звучание музыки во [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) спортивных тренировок** увеличивает [выносливость](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sport_and_energy.md) и мотивацию.
+- **Фоновая музыка в кафе или магазине** создаёт приятную атмосферу и улучшает [настроение](../../../1.2_natural_sciences/neurobiology_for_teens/articles/10_sweet_tooth.md) посетителей.
 
 ## [Польза](../../7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit.md)
 
 Музыка приносит много пользы нашему организму и психике:
 
-- Улучшает настроение и снимает стресс.
+- Улучшает настроение и снимает [стресс](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md).
 - Способствует развитию творческих способностей и воображения.
-- Помогает улучшить память и концентрацию.
-- Укрепляет социальные связи и объединяет людей.
+- Помогает улучшить [память](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) и концентрацию.
+- Укрепляет [социальные связи](../../../1.2_natural_sciences/neurobiology_for_teens/articles/15_empathy.md) и объединяет людей.
 
 ## Возможные [риски](../../7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md)
 
@@ -64,23 +64,23 @@
 
 - Слишком громкие звуки могут повредить слух.
 - Прослушивание агрессивной музыки может вызвать негативные [эмоции](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/stress_and_food.md) и раздражительность.
-- Длительное сидение за компьютером или телефоном с наушниками ухудшает зрение и осанку.
+- Длительное сидение за компьютером или телефоном с наушниками ухудшает [зрение](../../../1.2_natural_sciences/neurobiology_for_teens/articles/26_optical_illusions.md) и осанку.
 
-## [Баланс](../../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md) пользы и развлечения
+## [Баланс](../../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md) пользы и [развлечения](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md)
 
-Чтобы получать максимум удовольствия и пользы от музыки, важно соблюдать баланс между развлечением и обучением:
+Чтобы получать [максимум](../../../1.2_natural_sciences/physics_in_everyday_life/Q136980.md) удовольствия и пользы от музыки, важно соблюдать [баланс](../../../1.2_natural_sciences/physics_in_everyday_life/Q634.md) между развлечением и обучением:
 
 - Ограничивайте время прослушивания громкой музыки.
 - Выбирайте качественные наушники и следите за [уровнем](gamification.md) громкости.
-- Делайте перерывы во время занятий под музыку, чтобы избежать усталости глаз и слуха.
+- Делайте [перерывы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/breaks_and_rest.md) во время занятий под музыку, чтобы избежать усталости [глаз](../../../1.2_natural_sciences/physics_in_everyday_life/Q467980.md) и слуха.
 
-## Заключение
+## [Заключение](../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md)
 
 Таким образом, музыка является мощным инструментом влияния на нашу [жизнь](../../1.2_natural_sciences/why_science_help_understand_world/biology.md). Она способна дарить радость, улучшать настроение и помогать развиваться интеллектуально и творчески. Главное – [помнить](../../how_to_memorize/articles/pamyat.md) о балансе и использовать музыку разумно и с пользой.
 
 ---
 [Автор](../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Канева Юлия
 
-*LLM - GigaChat*
+*[LLM](../../../7.1_art/modern_technological_art/README.md) - GigaChat*
 
 

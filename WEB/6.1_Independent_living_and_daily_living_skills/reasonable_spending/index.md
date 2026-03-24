@@ -1,8 +1,8 @@
-# Как разумно тратить деньги
+# Как разумно тратить [деньги](../../2.1_society/cause_and_effect_relationships/articles/economic_chains.md)
 
 Это небольшой словарик по теме разумных трат для детей.
 
-> Здесь собраны короткие и понятные статьи, которые помогают разобраться, как обращаться с деньгами спокойно, разумно и без спешки.
+> Здесь собраны короткие и понятные статьи, которые помогают разобраться, как обращаться с [деньгами](../../8.2_future/choosing_a_career_path/articles/salary.md) спокойно, разумно и без спешки.
 
 ## С чего начать
 - [Потребность](./articles/need.md)
@@ -30,5 +30,5 @@
 
 ## Как читать этот раздел
 - Сначала узнай, что такое [доход](./articles/income.md), [расход](./articles/expense.md) и [бюджет](./articles/budget.md).
-- Потом переходи к темам про выбор: [потребность](./articles/need.md), [желание](./articles/want.md), [цена](./articles/price.md), [сравнение](./articles/comparison.md).
+- Потом переходи к темам про [выбор](../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md): [потребность](./articles/need.md), [желание](./articles/want.md), [цена](./articles/price.md), [сравнение](./articles/comparison.md).
 - После этого удобно читать про [накопления](./articles/savings.md), [финансовую цель](./articles/financial_goal.md) и безопасные способы оплаты.

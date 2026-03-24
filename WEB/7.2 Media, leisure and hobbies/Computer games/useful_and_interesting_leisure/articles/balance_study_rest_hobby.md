@@ -1,4 +1,4 @@
-## 📚 Баланс между учёбой, отдыхом и увлечениями
+## 📚 [Баланс](../../../../1.2_natural_sciences/physics_in_everyday_life/Q634.md) между учёбой, отдыхом и увлечениями
 
 ### 🎯 [Определение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md)
 
@@ -8,11 +8,11 @@
 
 ### 📝 Почему важно соблюдать баланс?
 
-Когда мы тратим всё своё время только на учёбу, можем выгореть или потерять [интерес](how_not_to_quit_hobby.md) к знаниям вообще. Если же совсем отказаться от уроков ради развлечений, сложно будет сдать экзамены и поступить туда, куда хочется. 🧠✨
+Когда мы тратим всё своё [время](../../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) только на учёбу, можем выгореть или потерять [интерес](how_not_to_quit_hobby.md) к знаниям вообще. Если же совсем отказаться от уроков ради развлечений, сложно будет сдать экзамены и поступить туда, куда хочется. 🧠✨
 
 Вот несколько причин, почему стоит следить за своим расписанием:
 
-- **Хорошее [настроение](../../../8.1_entertainment/articles/psychology_of_music.md).** Учёба и развлечения помогают нам чувствовать себя счастливыми и вдохновлёнными.
+- **Хорошее [настроение](../../../8.1_entertainment/articles/psychology_of_music.md).** [Учёба](../../../../8.1_colf-underctandina/HouToFindVourStrenaths/articles/use_strengths_in_life.md) и [развлечения](../../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md) помогают нам чувствовать себя счастливыми и вдохновлёнными.
 - **[Здоровье](active_recreation_and_sport.md).** Регулярные физические нагрузки и качественный [сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) важны для нашего здоровья.
 - **[Успех](../../../4.2/critical_thinking/articles/main_cognitive_distortions.md) в будущем.** Хорошая [успеваемость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) и широкий [кругозор](reading_and_self_education.md) помогут тебе достичь больших целей.
 
@@ -46,7 +46,7 @@
 
 ### 🤔 Как проверить, справляешься ли ты с балансом?
 
-Задай себе эти важные вопросы перед сном:
+Задай себе эти важные [вопросы](../../../../4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md) перед сном:
 
 - Чувствовал(а) ли я себя уставшим(ой)?
 - Были ли дни, когда мне не хватало времени на любимые дела?
@@ -56,7 +56,7 @@
 
 ---
 
-### 💪 Как развивать хобби и увлечения?
+### 💪 Как развивать [хобби](../../../../2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md) и [увлечения](../../../../2.1_society/how_and_where_find_friends/articles/druzhba_i_hobby.md)?
 
 Найти интересное занятие — полдела. Важно регулярно заниматься любимым делом, ведь именно через хобби мы узнаём новое о себе и открываем новые горизонты возможностей.
 
@@ -64,7 +64,7 @@
 
 ---
 
-### 🏆 Заключение
+### 🏆 [Заключение](../../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md)
 
 Соблюдать баланс между учёбой, отдыхом и увлечениями непросто, но оно того стоит! Ты сможешь лучше учиться, поддерживать [здоровье](active_recreation_and_sport.md) и радоваться жизни каждый день. 🌞📚
 

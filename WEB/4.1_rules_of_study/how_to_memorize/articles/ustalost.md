@@ -1,16 +1,16 @@
 # [Усталость](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md)
 
-Бывало ли у тебя так: сидишь над домашним заданием, читаешь один и тот же абзац несколько раз — а смысл не [запоминается](zapominanie.md)? Или смотришь на задачу и вроде понимаешь, что делать, но сил начать нет. Часто это не лень, а усталость.
+Бывало ли у тебя так: сидишь над домашним заданием, читаешь один и тот же абзац несколько раз — а смысл не [запоминается](zapominanie.md)? Или смотришь на задачу и вроде понимаешь, что делать, но сил начать нет. Часто это не [лень](../../../1.2_natural_sciences/neurobiology_for_teens/articles/12_lazy_brain.md), а [усталость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md).
 
 ## Что это такое
 
-Усталость — это состояние, при котором **организму и мозгу не хватает сил для работы**. Она появляется, когда мы долго учимся, мало отдыхаем или не высыпаемся.
+Усталость — это состояние, при котором **организму и мозгу не хватает сил для [работы](../../../8.2_future/choosing_a_career_path/articles/interview.md)**. Она появляется, когда мы долго учимся, мало отдыхаем или не высыпаемся.
 
 Усталость бывает разной:
 - физической — когда устало [тело](../../1.2_natural_sciences/why_science_help_understand_world/organism.md)  
 - умственной — когда «перегружен» [мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md)  
 
-Во время учёбы чаще всего встречается именно умственная усталость. Она напрямую влияет на [запоминание](./zapominanie.md), потому что мозгу становится сложнее обрабатывать информацию.
+Во [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) учёбы чаще всего встречается именно умственная усталость. Она напрямую влияет на [запоминание](./zapominanie.md), потому что мозгу становится сложнее обрабатывать информацию.
 
 ## Почему это важно
 
@@ -20,16 +20,16 @@
 
 - ухудшается [внимание](./vnimanie.md)  
 - снижается [концентрация](./koncentraciya.md)  
-- труднее понимать материал  
-- [информация](../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) хуже запоминается  
+- труднее понимать [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md)  
+- [информация](../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) хуже [запоминается](zapominanie.md)  
 - быстрее появляется раздражение  
 
-Иногда кажется: «Я ничего не понимаю». Но на самом деле проблема не в сложности темы, а в [том](../../7.1_art/musical_instruments/articles/drums.md), что мозг просто устал.
+Иногда кажется: «Я ничего не понимаю». Но на самом деле проблема не в сложности темы, а в [том](../../7.1_art/musical_instruments/articles/drums.md), что [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) просто устал.
 
-Важно [помнить](pamyat.md): [отдых](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) — это не потеря времени, а часть обучения.
+Важно [помнить](pamyat.md): [отдых](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) — это не [потеря](../../../1.2_natural_sciences/neurobiology_for_teens/articles/20_sadness.md) времени, а часть обучения.
 
 > [!TIP]
-> Хороший отдых помогает мозгу работать лучше, а не хуже. Иногда лучше сделать паузу, чем продолжать учиться через силу.
+> Хороший [отдых](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) помогает мозгу работать лучше, а не хуже. Иногда лучше сделать паузу, чем продолжать учиться через силу.
 
 ## Как это работает
 
@@ -37,7 +37,7 @@
 
 Когда ты учишься, решаешь [задачи](../../1.2_natural_sciences/why_science_help_understand_world/research_work.md), читаешь — [энергия](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) расходуется. Если не делать перерывов, «батарейка» постепенно разряжается.
 
-Когда заряд [низкий](../../7.1_art/musical_instruments/articles/bassoon.md):
+Когда [заряд](../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md) [низкий](../../7.1_art/musical_instruments/articles/bassoon.md):
 - мысли становятся медленнее  
 - труднее [сосредоточиться](koncentraciya.md)  
 - увеличивается количество ошибок  
@@ -45,7 +45,7 @@
 
 Если к усталости добавляется недостаток [сна](./son.md)), ситуация становится ещё сложнее. Мозг не успевает восстановиться, и даже простые задания начинают казаться трудными.
 
-Кроме того, усталость может усиливать [стресс](./stress.md), а [стресс](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md), в свою очередь, делает усталость сильнее. Получается замкнутый круг.
+Кроме того, усталость может усиливать [стресс](./stress.md), а [стресс](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md), в свою очередь, делает усталость сильнее. Получается [замкнутый круг](../../../8.2_future_and_path_choice/articles/procrastination_and_stress.md).
 
 ## Пример из жизни
 
@@ -64,10 +64,10 @@
 
 Вот что поможет справляться с усталостью:
 
-- Делай перерывы каждые 30–40 минут  
+- Делай [перерывы](../../how_to_learn_effectively/articles/breaks_and_rest.md) каждые 30–40 минут  
 - Не учись слишком долго без отдыха  
-- Чередуй разные задания (например, [чтение](../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md) и задачи)  
-- Высыпайся — [сон](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) восстанавливает силы  
+- Чередуй разные задания (например, [чтение](../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md) и [задачи](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md))  
+- Высыпайся — [сон](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) восстанавливает [силы](../../../1.2_natural_sciences/physics_in_everyday_life/Q11423.md)  
 - Следи за своим состоянием: если совсем устал, лучше сделать паузу  
 - Поддерживай [интерес к учёбе](motivaciya.md) — это связано с [мотивацией](./motivaciya.md)  
 
@@ -77,8 +77,8 @@
 
 | Помогает | Мешает |
 |----------|--------|
-| Регулярные перерывы | Долгая работа без отдыха |
-| Хороший сон | [Недосып](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md) |
+| Регулярные перерывы | Долгая [работа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md) без отдыха |
+| Хороший [сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) | [Недосып](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md) |
 | Чередование заданий | Однообразная нагрузка |
 | Спокойная обстановка | Шум и отвлечения |
 | Умеренная нагрузка | [Перегрузка](../../5.1_technology_and_digital_literacy/information and media literacy/информационная_диета.md) заданиями |
@@ -97,9 +97,9 @@
 
 Усталость тесно связана с другими процессами обучения.
 
-Она напрямую влияет на [внимание](../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md) и концентрацию: чем сильнее усталость, тем сложнее сосредоточиться.
+Она напрямую влияет на [внимание](../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md) и концентрацию: чем сильнее усталость, тем сложнее [сосредоточиться](koncentraciya.md).
 
-Также усталость ухудшает запоминание — мозг просто не успевает обрабатывать информацию.
+Также усталость ухудшает [запоминание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md) — мозг просто не успевает обрабатывать информацию.
 
 Кроме того, усталость может снижать мотивацию. Когда нет сил, даже интересные задания кажутся сложными и неприятными.
 
@@ -119,4 +119,4 @@
 
 ---
 Авторы: Олег, @Oleg_Tertychnyi;  
-[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - Chat GPT
+[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - Chat GPT

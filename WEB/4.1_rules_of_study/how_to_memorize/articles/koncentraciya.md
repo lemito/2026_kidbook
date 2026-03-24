@@ -1,10 +1,10 @@
-# Концентрация
+# [Концентрация](../../../1.2_natural_sciences/physics_in_everyday_life/Q506710.md)
 
 Иногда ты садишься делать уроки — и вдруг замечаешь, что уже думаешь о чём-то другом: о телефоне, игре или прогулке. Знакомо? Это значит, что [внимание](../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md) «убежало». Чтобы хорошо учиться, важно не только заметить задачу, но и удерживать на ней мысли. Именно за это отвечает концентрация.
 
 ## Что это такое
 
-**Концентрация** — это способность долго удерживать внимание на одной задаче и не отвлекаться.
+**Концентрация** — это способность долго удерживать [внимание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md) на одной задаче и не отвлекаться.
 
 Важно не путать её с [вниманием](./vnimanie.md). Внимание — это когда ты что-то заметил. А концентрация — когда ты можешь **продолжать думать об этом и не отвлекаться**.
 
@@ -16,21 +16,21 @@
 
 Без концентрации трудно:
 
-- понимать объяснение на уроке;
+- понимать [объяснение](../../how_to_learn_effectively/articles/teaching_others.md) на уроке;
 - выполнять задания без ошибок;
 - доводить дело до конца;
-- хорошо [запоминать](zapominanie.md) материал.
+- хорошо [запоминать](zapominanie.md) [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md).
 
 Когда ты сосредоточен, [мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) работает глубже и спокойнее. Это помогает лучше усваивать информацию и улучшает [запоминание](./zapominanie.md).
 
-Кроме того, концентрация экономит время: ты делаешь меньше ошибок и не переделываешь работу.
+Кроме того, концентрация экономит [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md): ты делаешь меньше ошибок и не переделываешь [работу](../../../8.2_future/choosing_a_career_path/articles/interview.md).
 
 ## Как это работает
 
-Представь, что твой мозг — это фонарик.
+Представь, что твой [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) — это фонарик.
 
 - Внимание — это когда ты включил [свет](../../1.2_natural_sciences/why_science_help_understand_world/physics.md) и направил его на предмет.
-- Концентрация — это когда ты **удерживаешь свет на одном месте**, не водя фонариком туда-сюда.
+- Концентрация — это когда ты **удерживаешь [свет](../../../1.2_natural_sciences/physics_in_everyday_life/Q1.md) на одном месте**, не водя фонариком туда-сюда.
 
 Если свет всё время прыгает, ты видишь только кусочки. А если держишь его на месте — можешь рассмотреть всё подробно.
 
@@ -49,7 +49,7 @@
 **Без концентрации:**
 - Начал решать пример.
 - Посмотрел в телефон.
-- Потом отвлёкся на разговор.
+- Потом отвлёкся на [разговор](../../../2.1_society/how_and_where_find_friends/articles/izi_temy_dlya_razgovora.md).
 - Вернулся — и уже забыл, что делал.
 
 В итоге задание занимает много времени и получается с ошибками.
@@ -67,7 +67,7 @@
 
 1. Убери отвлекающие вещи (телефон, лишние вкладки).
 2. Работай короткими отрезками (например, 20–30 минут).
-3. Делай небольшие перерывы между заданиями.
+3. Делай небольшие [перерывы](../../how_to_learn_effectively/articles/breaks_and_rest.md) между заданиями.
 4. Ставь конкретную [цель](../../1.2_natural_sciences/why_science_help_understand_world/research_work.md): «решить 5 задач» или «прочитать параграф».
 5. Используй [повторение](./povtorenie.md), чтобы закрепить [результат](../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md).
 6. Следи за своим состоянием: отдыхай, если [устал](ustalost.md).
@@ -77,7 +77,7 @@
 | Помогает | Мешает |
 |----------|--------|
 | Тихое и удобное место | Шум и отвлекающие факторы |
-| Чёткая цель | Работа «без плана» |
+| Чёткая [цель](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) | [Работа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md) «без плана» |
 | Короткие перерывы | Долгая работа без отдыха |
 | [Интерес](../../7.2_leisure/useful_and_interesting_leisure/articles/how_not_to_quit_hobby.md) к задаче | Скука |
 | Хорошее самочувствие | [Усталость](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) и [стресс](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md) |
@@ -86,7 +86,7 @@
 
 - Пытаться делать несколько дел одновременно.
 - Учиться с телефоном под рукой.
-- Игнорировать усталость.
+- Игнорировать [усталость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md).
 - Работать слишком долго без перерывов.
 - Не ставить конкретную цель.
 
@@ -118,4 +118,4 @@
 
 ---
 Авторы: Снетков Никита, @s4pfir;
-[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - Chat GPT
+[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - Chat GPT

@@ -1,10 +1,10 @@
-# Запоминание
+# [Запоминание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md)
 
 Запоминание — это то, что помогает нам учиться, понимать мир и не забывать важные вещи. Почему одни темы «прилипают» к голове сами собой, а другие будто исчезают через час? Давай разберёмся, как работает запоминание и как сделать его своим союзником.
 
 ## Что это такое
 
-**Запоминание** — это процесс, с помощью которого [информация](../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) сохраняется в нашей [памяти](./pamyat.md). Это может быть что угодно: стихотворение, формула, новый язык или даже дорога домой.
+**Запоминание** — это [процесс](../../../5.1_technology_and_digital_literacy/operating system/articles/process.md), с помощью которого [информация](../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) сохраняется в нашей [памяти](./pamyat.md). Это может быть что угодно: стихотворение, [формула](../../../1.2_natural_sciences/physics_in_everyday_life/Q11652.md), новый [язык](../../../5.2_cybersecurity/cpp_fundamentals/1_introduction.md) или даже дорога домой.
 
 Важно понимать: запоминание — это не просто «засунуть информацию в голову», а сделать так, чтобы она там осталась и была доступна, когда нужна.
 
@@ -24,11 +24,11 @@
 
 Наш [мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) не хранит всё подряд. Он выбирает, что сохранить, а что — нет. На это влияют разные факторы.
 
-Во-первых, важную роль играет [внимание](./vnimanie.md). Если ты отвлекаешься, мозг просто «не записывает» информацию.
+Во-первых, важную роль играет [внимание](./vnimanie.md). Если ты отвлекаешься, [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) просто «не записывает» информацию.
 
-Во-вторых, информация сначала попадает в кратковременную [память](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md), а потом может перейти в [долговременную память](./dolgovremennaya_pamyat.md). Но для этого нужно время и усилия.
+Во-вторых, [информация](../../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) сначала попадает в кратковременную [память](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md), а потом может перейти в [долговременную память](./dolgovremennaya_pamyat.md). Но для этого нужно [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) и усилия.
 
-Представь, что память — это библиотека:
+Представь, что [память](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) — это библиотека:
 - [внимание](../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md) — это библиотекарь, который решает, какие [книги](../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md) принять;
 - [повторение](povtorenie.md) — это процесс расстановки книг по полкам;
 - [сон](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) — это уборка и систематизация.
@@ -36,11 +36,11 @@
 Если просто быстро пролистать книгу (зубрить), она не останется в библиотеке надолго.
 
 > [!TIP]
-> Настоящее запоминание — это [понимание](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md) + повторение + использование информации, а не просто механическое заучивание.
+> Настоящее запоминание — это [понимание](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md) + [повторение](povtorenie.md) + использование информации, а не просто механическое заучивание.
 
 ### Запоминание vs зубрёжка
 
-**Зубрёжка** — это когда ты повторяешь материал много раз, не понимая его смысла.
+**Зубрёжка** — это когда ты повторяешь [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md) много раз, не понимая его смысла.
 
 **Запоминание** — это когда ты:
 - понимаешь, о чём речь;
@@ -54,7 +54,7 @@
 Представь, что ты учишь стихотворение.
 
 - Если ты просто читаешь его 10 раз подряд — это зубрёжка. Скорее всего, через день ты забудешь половину.
-- Если ты сначала понимаешь смысл, представляешь образы, а потом используешь [Повторение](./povtorenie.md) — результат будет намного лучше.
+- Если ты сначала понимаешь смысл, представляешь образы, а потом используешь [Повторение](./povtorenie.md) — [результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md) будет намного лучше.
 
 Ещё лучше — попробовать пересказать стихотворение без подсказки. Это называется [активным вспоминанием](./aktivnoe_vspominanie.md), и оно очень эффективно.
 
@@ -74,16 +74,16 @@
 | Помогает | Мешает |
 |----------|--------|
 | [Интерес](../../7.2_leisure/useful_and_interesting_leisure/articles/how_not_to_quit_hobby.md) и [мотивация](./motivaciya.md) | Скука и отсутствие [цели](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md) |
-| Понимание материала | Зубрёжка без смысла |
+| [Понимание](../../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md) материала | Зубрёжка без смысла |
 | Повторение с перерывами | Попытка выучить всё за один раз |
 | Спокойная обстановка | Шум и постоянные отвлечения |
-| Хороший сон | [Недосып](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md) |
+| Хороший [сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) | [Недосып](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md) |
 | [Активное вспоминание](aktivnoe_vspominanie.md) | Только [чтение](../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md) без проверки |
 
 ## Частые [ошибки](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)
 
 - Учить всё в последний момент перед контрольной.
-- Читать текст много раз, но не проверять себя.
+- Читать [текст](../../how_to_learn_effectively/articles/reading_skills.md) много раз, но не проверять себя.
 - Игнорировать [усталость](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) и пытаться учиться через силу.
 - Думать, что если понял — значит уже запомнил.
 - Пытаться запомнить слишком много за один раз.
@@ -98,7 +98,7 @@
 - [Активное вспоминание](./aktivnoe_vspominanie.md) делает знания более прочными.
 - [Сон](./son.md) помогает мозгу «разложить всё по полочкам».
 
-Все эти элементы работают вместе, как команда.
+Все эти элементы работают вместе, как [команда](../../how_to_learn_effectively/articles/peer_learning.md).
 
 ## Интересный [факт](../../1.2_natural_sciences/why_science_help_understand_world/science.md)
 
@@ -115,4 +115,4 @@
 
 ---
 Авторы: Ковриженков Дмитрий, @Dimakovff;  
-[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - Chat GPT
+[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - Chat GPT

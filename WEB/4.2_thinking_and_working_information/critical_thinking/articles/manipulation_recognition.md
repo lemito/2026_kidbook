@@ -2,20 +2,20 @@
 
 ## Что такое [манипуляция](../../../2.1_society/cause_and_effect_relationships/articles/false_connections.md) в [медиа](../../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md)
 
-**Манипуляция** — это скрытое воздействие на [мнение](fact_and_opinion_differences.md) или [поведение](../../../7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md) человека, при котором [автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md) преследует свои [цели](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md), не раскрывая их читателю или зрителю.
+**[Манипуляция](../../../2.1_society/cause_and_effect_relationships/articles/false_connections.md)** — это скрытое воздействие на [мнение](fact_and_opinion_differences.md) или [поведение](../../../7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md) человека, при котором [автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md) преследует свои [цели](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md), не раскрывая их читателю или зрителю.
 
 В отличие от честной аргументации, манипуляция не апеллирует к разуму. Вместо этого она использует:
 
-- **[эмоции](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/stress_and_food.md)** — [страх](influence_of_emotions.md), [гнев](influence_of_emotions.md), зависть, патриотизм
+- **[эмоции](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/stress_and_food.md)** — [страх](influence_of_emotions.md), [гнев](influence_of_emotions.md), [зависть](../../../../8.1_self_understanding/articles/social_comparison.md), патриотизм
 - **[языковые приёмы](propaganda_techniques.md)** — двусмысленные формулировки, избыточно оценочные слова
 - **структуру подачи** — что показать, а что скрыть
 
-Понять, что тебя пытаются манипулировать, — первый шаг к тому, чтобы это не сработало.
+Понять, что тебя пытаются манипулировать, — [первый шаг](../../../1.2_natural_sciences/physics_in_everyday_life/Q26540.md) к тому, чтобы это не сработало.
 
 ![Иллюстрация: описание статьи](../images/image_manipulation_recognition.png)
 ---
 
-## Язык вражды
+## [Язык](../../../5.2_cybersecurity/cpp_fundamentals/1_introduction.md) вражды
 
 **Язык вражды** (hate speech) — это высказывания, которые унижают или демонизируют группу людей по какому-либо признаку: национальности, религии, полу, политическим взглядам.
 
@@ -36,13 +36,13 @@
 
 ## [Эмоционально окрашенная лексика](influence_of_emotions.md)
 
-Слова несут не только [значение](../../../7.2_leisure/useful_and_interesting_leisure/articles/leisure_and_why_need.md), но и **эмоциональный заряд**.
+Слова несут не только [значение](../../../7.2_leisure/useful_and_interesting_leisure/articles/leisure_and_why_need.md), но и **эмоциональный [заряд](../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md)**.
 
 Сравните два описания одного события:
 
 | Нейтральное | Эмоционально окрашенное |
 |---|---|
-| Акция протеста | Беспорядки / Народное восстание |
+| [Акция](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/discount.md) протеста | Беспорядки / Народное восстание |
 | Солдаты противника | Террористы / Освободители |
 | [Рост](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md) цен на 5% | Цены выросли / Цены немного скорректировались |
 
@@ -51,7 +51,7 @@
 ### На что обращать [внимание](../../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md)
 
 - Слова с явной положительной или отрицательной коннотацией там, где уместна нейтральная формулировка
-- Кавычки вокруг слов («так называемый», «»эксперт«»)  — сигнал, что автор не согласен с понятием, но прямо это не говорит
+- [Кавычки](../../../../4.2/how_to_search_information/articles/search_operations.md) вокруг слов («так называемый», «»[эксперт](../../../../8.1_self_understanding/articles/types_of_impostor_syndrome.md)«»)  — [сигнал](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/wifi/router.md), что [автор](../../how_to_search_information/articles/copypaste.md) не согласен с понятием, но прямо это не говорит
 - Превосходные [степени](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/13_ozhogi_vidy_stepeni.md) без цифр: «огромный», «катастрофический», «небывалый»
 
 ---
@@ -69,7 +69,7 @@
 Преувеличение значимости события для привлечения [внимания](../../../how_to_memorize/articles/vnimanie.md). Слова «шок», «скандал», «разоблачение» сигнализируют о [том](../../../7.1_art/musical_instruments/articles/drums.md), что [заголовок](../../../5.1_technology_and_digital_literacy/information and media literacy/кликбейт_и_заголовки_ловушки.md) создан для клика, а не для информации.
 
 **3. Неполная [цитата](../../../5.1_technology_and_digital_literacy/information and media literacy/как_правильно_оформлять_ссылки_и_источники.md)**
-Цитата вырывается из контекста так, что меняет смысл сказанного. Всегда полезно найти полный текст или запись высказывания.
+[Цитата](../../../5.1_technology_and_digital_literacy/information and media literacy/как_правильно_оформлять_ссылки_и_источники.md) вырывается из контекста так, что меняет смысл сказанного. Всегда полезно найти полный [текст](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md) или запись высказывания.
 
 **4. Пассивный залог без субъекта**
 «[Данные](../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md) были скрыты» — кем? Когда? Такие формулировки создают ощущение заговора, не называя конкретных виновных.
@@ -78,24 +78,24 @@
 
 ## Манипуляции в социальных сетях
 
-Социальные сети создают особую среду для манипуляций:
+[Социальные сети](../../../3.1_healthy lifestyle/vrednye_privychki/articles/Social_media.md) создают особую среду для манипуляций:
 
 - **[Скорость](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md) распространения**: [фейк](../../../2.1_society/cause_and_effect_relationships/articles/false_connections.md) расходится быстрее опровержения
 - **Алгоритмический отбор**: система показывает то, что вызывает сильную реакцию
 - **Эффект социального [доказательства](fact_and_opinion_differences.md)**: если пост лайкнули тысячи — «значит, правда»
 
-### Признаки манипулятивного контента в соцсетях
+### [Признаки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/04_ushib_chto_eto_priznaki.md) манипулятивного контента в соцсетях
 
 - Призывы «поделиться, пока не удалили»
-- Ссылки на анонимные [источники](source_evaluation.md) («источники в правительстве», «знакомый [врач](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md)»)
+- Ссылки на анонимные [источники](source_evaluation.md) («[источники](../../how_to_search_information/articles/three_whales.md) в правительстве», «знакомый [врач](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md)»)
 - Мемы, упрощающие сложные темы до одного тезиса
-- Ботовая активность: аккаунты без истории, одинаковые комментарии
+- Ботовая активность: аккаунты без истории, одинаковые [комментарии](../../how_to_search_information/articles/cooperative_work.md)
 
 ---
 
 ## Как защититься от манипуляций
 
-1. **Делайте паузу** перед тем, как поделиться материалом — особенно если он вызывает сильные эмоции
+1. **Делайте паузу** перед тем, как поделиться материалом — особенно если он вызывает сильные [эмоции](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/stress_and_food.md)
 2. **Проверяйте [источник](../../../5.1_technology_and_digital_literacy/information and media literacy/дезинформация_и_фейки.md)**: кто написал, когда, с какой целью
 3. **Ищите оригинал**: цитаты, цифры и фотографии часто искажаются при пересказе
 4. **Сравнивайте несколько источников** с разными точками зрения
@@ -105,10 +105,10 @@
 
 ## Итог
 
-Манипуляции в медиа существуют, потому что они работают. Язык вражды, эмоционально окрашенные слова и вводящие в заблуждение заголовки — всё это инструменты, рассчитанные на автоматическую реакцию, а не на осмысление.
+Манипуляции в [медиа](../../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) существуют, потому что они работают. Язык вражды, эмоционально окрашенные слова и вводящие в заблуждение заголовки — всё это [инструменты](../../../1.2_natural_sciences/physics_in_everyday_life/Q36253.md), рассчитанные на автоматическую реакцию, а не на [осмысление](../../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/thinking_and_taste.md).
 
-Распознать манипуляцию — значит сделать шаг от реакции к анализу. Этот [навык](../../../5.1_technology_and_digital_literacy/information and media literacy/карта_компетенций_по_возрастам.md) не появляется сам по себе, но тренируется с каждым прочитанным материалом.
+Распознать манипуляцию — значит сделать [шаг](../../../1.2_natural_sciences/physics_in_everyday_life/Q36253.md) от реакции к анализу. Этот [навык](../../../5.1_technology_and_digital_literacy/information and media literacy/карта_компетенций_по_возрастам.md) не появляется сам по себе, но тренируется с каждым прочитанным материалом.
 
 ---
 *Авторы: Османова Виктория, @kosmichka152331*  
-*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM — Claude (Anthropic)*
+*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) — Claude (Anthropic)*

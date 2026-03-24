@@ -8,44 +8,44 @@
 
 См. также: [Ожоги: виды и степени](./13_ozhogi_vidy_stepeni.md); [Когда при ожоге нужна скорая](./15_ozhog_kogda_skoraya.md).
 
-## Шаг 1. Прекратите воздействие жара
+## [Шаг](../../../1.2_natural_sciences/physics_in_everyday_life/Q36253.md) 1. Прекратите воздействие жара
 
 - уберите руку от горячего предмета или отведите человека от источника пара
-- если горит одежда, нужно прекратить доступ огня и жара
-- не трогайте горячую поверхность без защиты
+- если горит [одежда](../../../1.2_natural_sciences/physics_in_everyday_life/Q487005.md), нужно прекратить доступ огня и жара
+- не трогайте горячую [поверхность](../../../1.2_natural_sciences/physics_in_everyday_life/Q35197.md) без защиты
 - сначала нужно обеспечить [безопасность](../../../2.1_society/cause_and_effect_relationships/articles/trust_predictability.md), а потом переходить к охлаждению
 
 ## Шаг 2. Охлаждайте кожу водой
 
 - подставьте [ожог](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/13_ozhogi_vidy_stepeni.md) под прохладную проточную воду
-- охлаждение продолжают примерно 10–20 минут
+- [охлаждение](../../../1.2_natural_sciences/physics_in_everyday_life/Q182453.md) продолжают примерно 10–20 минут
 - [вода](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/drinking_regime.md) должна быть прохладной, но не ледяной
-- именно вода лучше всего уменьшает тепловое повреждение тканей
+- именно [вода](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/drinking_regime.md) лучше всего уменьшает тепловое повреждение тканей
 
 ## Шаг 3. Снимите мешающие предметы
 
-- кольца, браслеты, часы и тесную одежду снимают как можно раньше
+- кольца, браслеты, [часы](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) и тесную одежду снимают как можно раньше
 - после появления отёка сделать это будет труднее
 - если ткань не прилипла, её можно аккуратно убрать
 - если одежда прилипла, её не отрывают от ожога
 
-## Шаг 4. Закройте ожог чистым материалом
+## Шаг 4. Закройте [ожог](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/13_ozhogi_vidy_stepeni.md) чистым материалом
 
 - подходит сухая стерильная или очень чистая ткань
 - [повязка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md) должна быть неплотной и не давить на пузыри
 - её задача — защитить кожу от грязи и трения
-- если ожог маленький и человек дома, после охлаждения можно использовать специальную аптечную повязку по инструкции
+- если ожог маленький и [человек](../../../1.2_natural_sciences/physics_in_everyday_life/Q45003.md) дома, после охлаждения можно использовать специальную аптечную повязку по инструкции
 
 ## Что делать при солнечном ожоге
 
-- увести человека с солнца в тень или прохладное помещение
+- увести человека с солнца в [тень](../../../1.2_natural_sciences/physics_in_everyday_life/Q14506045.md) или прохладное помещение
 - охладить кожу прохладным душем или влажной тканью
 - дать пить воду небольшими порциями
 - следить за слабостью, температурой и головной болью
 
 ## Когда домашней помощи недостаточно
 
-- если есть большие пузыри или сильная боль
+- если есть большие пузыри или сильная [боль](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md)
 - если ожог на лице, глазах, кистях или в паху
 - если человеку трудно дышать или он чувствует слабость
 - если ожог получил маленький ребёнок
@@ -57,7 +57,7 @@
 - при необходимости использовать возрастное обезболивающее по инструкции
 - наблюдать, не ухудшается ли состояние
 
-## Короткие вопросы и ответы
+## Короткие [вопросы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md) и ответы
 
 ### Вопрос 1. Почему именно вода — первое средство при ожоге?
 
@@ -96,13 +96,13 @@
 
 - **Охлаждение** — снижение температуры повреждённых тканей водой
 - **Термический фактор** — [источник](../../../5.1_technology_and_digital_literacy/information and media literacy/дезинформация_и_фейки.md) жара, вызвавший ожог
-- **Стерильная повязка** — чистое покрытие, защищающее ожог от загрязнения
-- **Отёк** — увеличение объёма тканей после [травмы](../../../7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md)
+- **Стерильная [повязка](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/09_pervaya_pomoshch_pri_poreze.md)** — чистое [покрытие](../../../1.2_natural_sciences/physics_in_everyday_life/Q34442.md), защищающее ожог от загрязнения
+- **[Отёк](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/04_ushib_chto_eto_priznaki.md)** — увеличение объёма тканей после [травмы](../../../7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md)
 - **Солнечный ожог** — повреждение кожи из-за избытка ультрафиолета
-- **Обезвоживание** — потеря воды организмом
+- **Обезвоживание** — [потеря](../../../1.2_natural_sciences/neurobiology_for_teens/articles/20_sadness.md) воды организмом
 - **Пузыри** — проявление ожога второй [степени](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/13_ozhogi_vidy_stepeni.md)
 - **Проточная вода** — неподвижная и чистая вода для охлаждения повреждения
 
 ---
 [Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Ласточкин Максим.  
-[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные материалы по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские источники, LLM - ChatGPT.
+[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные [материалы](../../../1.2_natural_sciences/physics_in_everyday_life/Q487005.md) по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские [источники](../../../4.2_thinking_and_working_information/how_to_search_information/articles/three_whales.md), [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md).

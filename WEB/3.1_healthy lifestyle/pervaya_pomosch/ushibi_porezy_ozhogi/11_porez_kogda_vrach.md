@@ -1,6 +1,6 @@
 # Когда при порезе и ране обязательно нужен [врач](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md)
 
-Не любую рану можно безопасно лечить дома. Иногда пострадавший видит лишь маленькое отверстие на коже, но на самом деле ткань повреждена глубоко, а [риск](../../../8.1_entertainment/articles/gambling-and-harm.md) инфекции и кровопотери остаётся высоким.
+Не любую рану можно безопасно лечить дома. Иногда пострадавший видит лишь маленькое [отверстие](../../../1.2_natural_sciences/physics_in_everyday_life/Q133900.md) на коже, но на самом деле ткань повреждена глубоко, а [риск](../../../8.1_entertainment/articles/gambling-and-harm.md) инфекции и кровопотери остаётся высоким.
 
 Отдельный [навык](../../../5.1_technology_and_digital_literacy/information and media literacy/карта_компетенций_по_возрастам.md) в первой помощи — вовремя понять, что домашней обработки уже недостаточно. В этой статье собраны [признаки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/04_ushib_chto_eto_priznaki.md), при которых [нельзя](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) откладывать поездку в [травмпункт](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md) или вызов скорой.
 
@@ -8,33 +8,33 @@
 
 См. также: [Виды ран и ссадин](./08_porezy_sadiny_vidy.md); [Как остановить кровотечение](./10_krovotechenie_chto_delat.md).
 
-## Признаки глубокой или опасной [раны](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md)
+## [Признаки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/04_ushib_chto_eto_priznaki.md) глубокой или опасной [раны](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md)
 
-- края раны широко расходятся и не сближаются
+- края [раны](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) широко расходятся и не сближаются
 - внутри видны глубоко расположенные ткани
 - [кровотечение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md) остаётся сильным несмотря на прижатие
-- боль очень выраженная и нарастает
+- [боль](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md) очень выраженная и нарастает
 
 ## Инородные предметы в ране
 
 - осколки стекла, кусочки металла, древесина и пластик могут оставаться внутри
-- самостоятельное извлечение иногда усиливает кровотечение
+- самостоятельное извлечение иногда усиливает [кровотечение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md)
 - если предмет застрял глубоко, его лучше не трогать до врача
-- поверхность вокруг можно закрыть чистой повязкой и аккуратно зафиксировать
+- [поверхность](../../../1.2_natural_sciences/physics_in_everyday_life/Q35197.md) вокруг можно закрыть чистой повязкой и аккуратно зафиксировать
 
 ## Грязные и колотые раны
 
 - укол гвоздём, ржавым металлом или грязным предметом опасен столбняком
-- [земля](../../../1.2_natural_sciences/why_science_help_understand_world/earth_sciences.md), пыль и уличная грязь увеличивают риск инфекции
+- [земля](../../../1.2_natural_sciences/why_science_help_understand_world/earth_sciences.md), пыль и уличная грязь увеличивают [риск](../../../1.2_natural_sciences/neurobiology_for_teens/articles/05_teen_brain.md) инфекции
 - даже маленькая колотая [рана](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md) может быть глубокой
-- врач оценивает необходимость прививки и дополнительной обработки
+- [врач](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md) оценивает [необходимость](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/need.md) прививки и дополнительной обработки
 
 ## Опасные зоны тела
 
 - раны на лице важны не только из-за крови, но и из-за косметических последствий
 - повреждения кисти опасны из-за сухожилий, нервов и мелких сосудов
 - раны в области суставов требуют внимательной [оценки](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) движений
-- повреждения шеи всегда требуют особенно серьёзного отношения
+- повреждения шеи всегда требуют особенно серьёзного [отношения](../../../2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md)
 
 ## Когда нужна [помощь](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md) из-за риска инфекции
 
@@ -55,11 +55,11 @@
 - остановить кровотечение прижатием и повязкой
 - не трогать глубоко сидящий инородный предмет
 - не заливать рану агрессивными растворами
-- по возможности [запомнить](../../../how_to_memorize/articles/zapominanie.md) обстоятельства травмы и время её получения
+- по возможности [запомнить](../../../how_to_memorize/articles/zapominanie.md) обстоятельства [травмы](../../../1.2_natural_sciences/physics_in_everyday_life/Q628858.md) и [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) её получения
 
-## Короткие вопросы и ответы
+## Короткие [вопросы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md) и ответы
 
-### Вопрос 1. Если рана маленькая, врач не нужен?
+### Вопрос 1. Если [рана](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/10_krovotechenie_chto_delat.md) маленькая, врач не нужен?
 
 Размер снаружи не всегда отражает глубину и риск повреждения внутри.
 
@@ -69,11 +69,11 @@
 
 ### Вопрос 3. Опасна ли рана после укуса животного?
 
-Да, такие повреждения требуют отдельной оценки из-за инфекции и иногда прививок.
+Да, такие повреждения требуют отдельной [оценки](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) из-за инфекции и иногда прививок.
 
-### Вопрос 4. Можно ли самому вытаскивать стекло?
+### Вопрос 4. Можно ли самому вытаскивать [стекло](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md)?
 
-Только если это мелкая поверхностная соринка; глубоко сидящие осколки трогать нельзя.
+Только если это мелкая поверхностная соринка; глубоко сидящие осколки трогать [нельзя](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md).
 
 ### Вопрос 5. Зачем врачу знать про прививку от столбняка?
 
@@ -95,14 +95,14 @@
 ## Словарь по теме
 
 - **[Инородное тело](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/11_porez_kogda_vrach.md)** — предмет, оставшийся в ране после травмы
-- **Столбняк** — опасная инфекция, связанная с загрязнёнными ранами
+- **[Столбняк](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/11_porez_kogda_vrach.md)** — опасная инфекция, связанная с загрязнёнными ранами
 - **Вакцинация** — создание защиты от инфекции с помощью прививки
-- **Сухожилие** — структура, соединяющая мышцу с костью
-- **Чувствительность** — способность чувствовать прикосновение, боль и температуру
-- **Травмпункт** — место, куда обращаются при травмах
+- **Сухожилие** — [структура](../../../4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md), соединяющая мышцу с костью
+- **Чувствительность** — способность чувствовать [прикосновение](../../../1.2_natural_sciences/neurobiology_for_teens/articles/17_hugs_oxytocin.md), боль и температуру
+- **[Травмпункт](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/06_ushib_kogda_vrach.md)** — место, куда обращаются при травмах
 - **Нагноение** — признак инфекции в ране
-- **Осмотр специалиста** — оценка раны врачом и [выбор](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) лечения
+- **Осмотр специалиста** — [оценка](../../../4.1_rules_of_study/how_to_learn_effectively/articles/self_reflection.md) раны врачом и [выбор](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) лечения
 
 ---
 [Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Косов Всеволод.  
-[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные материалы по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские источники, LLM - ChatGPT.
+[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): учебные [материалы](../../../1.2_natural_sciences/physics_in_everyday_life/Q487005.md) по [ОБЖ](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md), рекомендации служб экстренной помощи, справочные медицинские [источники](../../../4.2_thinking_and_working_information/how_to_search_information/articles/three_whales.md), [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md).

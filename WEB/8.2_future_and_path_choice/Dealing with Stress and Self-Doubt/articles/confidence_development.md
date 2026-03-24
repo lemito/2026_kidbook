@@ -1,12 +1,12 @@
-# Развитие уверенности в себе 🌟
+# [Развитие](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md) уверенности в себе 🌟
 
-Иногда человеку хочется смело отвечать у доски, знакомиться, высказывать своё мнение и пробовать новое.  
-Но в реальности бывает иначе: внутри появляется тревога, мысли путаются, а в голове звучит голос:  
+Иногда человеку хочется смело отвечать у доски, знакомиться, высказывать своё [мнение](../../../4.2_thinking_and_working_information/critical_thinking/articles/fact_and_opinion_differences.md) и пробовать новое.  
+Но в реальности бывает иначе: внутри появляется [тревога](../../../1.2_natural_sciences/neurobiology_for_teens/articles/07_stress.md), мысли путаются, а в голове звучит голос:  
 **«А вдруг не получится?»** 😟
 
-Это и есть неуверенность. Она знакома почти всем.  
-Важно помнить: **уверенность в себе не появляется за один день**.  
-Она растёт постепенно — из маленьких шагов, удачного опыта, поддержки и доброго отношения к себе 💚
+Это и есть [неуверенность](../../../8.1_self-understanding/HowToFindYourStrengths/articles/impostor_syndrome.md). Она знакома почти всем.  
+Важно [помнить](../../../4.1_rules_of_study/how_to_memorize/articles/pamyat.md): **[уверенность в себе](../../../2.1_society/how_and_where_find_friends/articles/fandom.md) не появляется за один день**.  
+Она растёт постепенно — из маленьких шагов, удачного опыта, поддержки и доброго [отношения](../../../2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md) к себе 💚
 
 ---
 
@@ -15,17 +15,17 @@
 Уверенность в себе — это не значит считать себя лучше всех.  
 Это значит:
 
-- знать, that ты тоже имеешь право на мнение
+- знать, that ты тоже имеешь [право](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md) на мнение
 - понимать, что можешь учиться и становиться лучше
-- не сдаваться сразу после первой ошибки
+- не сдаваться сразу после первой [ошибки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)
 - относиться к себе с уважением
 
-Уверенный человек не обязан быть самым громким, самым смелым или самым популярным.  
-Он просто знает: **«Я могу пробовать, учиться и справляться шаг за шагом»**.
+Уверенный [человек](../../../1.2_natural_sciences/physics_in_everyday_life/Q45003.md) не обязан быть самым громким, самым смелым или самым популярным.  
+Он просто знает: **«Я могу пробовать, учиться и справляться [шаг](../../../1.2_natural_sciences/physics_in_everyday_life/Q36253.md) за шагом»**.
 
 ---
 
-## Почему уверенность иногда становится слабее? 🌧️
+## Почему [уверенность](../../../2.1_society/how_and_where_find_friends/articles/otkaz_ne_konets.md) иногда становится слабее? 🌧️
 
 Неуверенность может появляться по разным причинам:
 
@@ -33,10 +33,10 @@
 - он часто сравнивает себя с другими
 - ему кажется, что все вокруг лучше
 - он слишком строго к себе относится
-- у него был неприятный опыт: насмешки, критика, неудача
-- он устал, плохо спал или сильно переживает
+- у него был неприятный [опыт](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md): насмешки, [критика](../../../8.1_self-understanding/HowToFindYourStrengths/articles/impostor_syndrome.md), неудача
+- он [устал](../../../4.1_rules_of_study/how_to_memorize/articles/ustalost.md), плохо спал или сильно переживает
 
-Иногда неуверенность усиливается, когда человек всё время думает о результате и почти не замечает своих маленьких успехов.  
+Иногда неуверенность усиливается, когда человек всё [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) думает о результате и почти не замечает своих маленьких успехов.  
 Полезно почитать ещё [future_planning](../../../2.1_society/cause_and_effect_relationships/articles/future_planning.md) и [personal_choice](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md).
 
 ---
@@ -59,8 +59,8 @@
 
 ## Важная мысль 💡
 
-Уверенность — это не волшебный талант, который либо есть, либо нет.  
-Это навык. А навык можно развивать.
+Уверенность — это не волшебный [талант](../../../8.1_self-understanding/HowToFindYourStrengths/articles/talent_monetization.md), который либо есть, либо нет.  
+Это [навык](../../../5.1_technology_and_digital_literacy/information and media literacy/карта_компетенций_по_возрастам.md). А навык можно развивать.
 
 Так же как человек учится читать, плавать, рисовать или кататься на велосипеде, он может учиться и уверенности в себе 🚲✨
 
@@ -71,7 +71,7 @@
 Уверенность обычно растёт из нескольких вещей:
 
 ### 1. Из опыта
-Когда ты что-то пробуешь и у тебя получается, мозг запоминает:  
+Когда ты что-то пробуешь и у тебя получается, [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) запоминает:  
 **«Ага, я могу!»**
 
 ### 2. Из поддержки
@@ -81,11 +81,11 @@
 Если воспринимать ошибку не как катастрофу, а как часть учёбы, уверенность растёт быстрее.
 
 ### 4. Из честного взгляда на себя
-Важно видеть не только свои трудности, но и свои сильные стороны.
+Важно видеть не только свои [трудности](../../../4.1_rules_of_study/how_to_learn_effectively/articles/growth_mindset.md), но и свои [сильные стороны](../../../8.1_self-understanding/HowToFindYourStrengths/articles/career-rise-natural-strengths.md).
 
 ---
 
-## Маленькие шаги, которые делают человека увереннее 👣
+## [Маленькие шаги](../../articles/goal_setting_and_anxiety.md), которые делают человека увереннее 👣
 
 ### 1. Замечай, что у тебя уже получается ✅
 
@@ -109,12 +109,12 @@
 
 ---
 
-### 2. Не сравнивай свой путь с чужим 🛤️
+### 2. Не сравнивай свой [путь](../../../1.2_natural_sciences/physics_in_everyday_life/Q11476.md) с чужим 🛤️
 
 Кто-то быстрее отвечает, кто-то лучше рисует, кто-то легче выступает.  
 Но это не значит, что ты хуже.
 
-У всех разный характер, разный опыт, разный темп.  
+У всех разный [характер](../../../1.2_natural_sciences/neurobiology_for_teens/articles/06_phineas_gage.md), разный опыт, разный темп.  
 Главнее сравнивать себя не с другими, а **с собой вчерашним**.
 
 Можно спросить себя:
@@ -145,7 +145,7 @@
 - «Я не обязан быть идеальным»
 
 Добрые слова к себе — это не слабость.  
-Это опора.
+Это [опора](../../../1.2_natural_sciences/physics_in_everyday_life/Q2945123.md).
 
 ---
 
@@ -154,20 +154,20 @@
 Когда задача кажется слишком большой, уверенность часто уменьшается.  
 Например: выступить перед классом, познакомиться, начать новый кружок.
 
-Тогда помогает правило: **не думать сразу обо всём, а выбрать один следующий шаг**.
+Тогда помогает [правило](../../../1.2_natural_sciences/why_science_help_understand_world/patterns.md): **не думать сразу обо всём, а выбрать один следующий шаг**.
 
 Например:
 - не «я должен выступить идеально», а «я скажу первое предложение»
 - не «я должен всем понравиться», а «я поздороваюсь»
 - не «я должен всё решить прямо сейчас», а «я выберу с чего начать»
 
-Если хочется потренироваться в том, как двигаться постепенно, можно заглянуть в [future_planning](../../../2.1_society/cause_and_effect_relationships/articles/future_planning.md).
+Если хочется потренироваться в [том](../../../7.1_art/musical_instruments/articles/drums.md), как двигаться постепенно, можно заглянуть в [future_planning](../../../2.1_society/cause_and_effect_relationships/articles/future_planning.md).
 
 ---
 
 ### 5. Разреши себе ошибаться 🛠️
 
-Ошибка — не доказательство того, что ты слабый или «неспособный».  
+[Ошибка](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md) — не [доказательство](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) того, что ты слабый или «неспособный».  
 Ошибка — это часть пути.
 
 Без ошибок невозможно:
@@ -177,7 +177,7 @@
 - находить свой способ делать что-то лучше
 
 Даже очень уверенные люди ошибаются.  
-Разница в том, что они не делают из этого вывод: **«Я плохой»**.  
+Разница в том, что они не делают из этого [вывод](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md): **«Я плохой»**.  
 Они думают: **«Не получилось, попробую по-другому»**.
 
 ---
@@ -199,27 +199,27 @@
 
 ---
 
-### 7. Следи за телом: сон, усталость, энергия 😴⚡
+### 7. Следи за телом: [сон](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md), [усталость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md), [энергия](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) 😴⚡
 
-Когда человек очень устал, плохо спит или у него совсем нет сил, уверенность часто снижается.  
+Когда человек очень устал, плохо спит или у него совсем [нет сил](../../../4.1_rules_of_study/how_to_memorize/articles/ustalost.md), уверенность часто снижается.  
 Даже простые дела начинают казаться сложнее.
 
 Поэтому уверенность связана не только с мыслями, но и с состоянием тела.
 
 Может помочь:
 - достаточный сон
-- перерывы в течение дня
-- движение
-- вода
-- нормальный отдых
+- [перерывы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/breaks_and_rest.md) в течение дня
+- [движение](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md)
+- [вода](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/drinking_regime.md)
+- нормальный [отдых](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md)
 
-Иногда на самочувствие хорошо влияют спорт, режим и отдых. Можно почитать [sport_and_energy](../../../3.1_healthy%20lifestyle/Sleep,%20nutrition,%20and%20adolescent%20energy/articles/sport_and_energy.md) и [evening_rituals_sleep_fast](../../../3.1_healthy%20lifestyle/Sleep,%20nutrition,%20and%20adolescent%20energy/articles/evening_rituals_sleep_fast.md).
+Иногда на самочувствие хорошо влияют [спорт](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sport_and_energy.md), [режим](../../../4.1_rules_of_study/how_to_learn_effectively/articles/breaks_and_rest.md) и отдых. Можно почитать [sport_and_energy](../../../3.1_healthy%20lifestyle/Sleep,%20nutrition,%20and%20adolescent%20energy/articles/sport_and_energy.md) и [evening_rituals_sleep_fast](../../../3.1_healthy%20lifestyle/Sleep,%20nutrition,%20and%20adolescent%20energy/articles/evening_rituals_sleep_fast.md).
 
 ---
 
 ## Небольшое упражнение «Я уже могу» ✍️
 
-Возьми листочек или заметки в телефоне и напиши:
+Возьми листочек или [заметки](../../../4.1_rules_of_study/how_to_memorize/articles/konspektirovanie.md) в телефоне и напиши:
 
 **Я умею:**
 - `____________`
@@ -231,7 +231,7 @@
 - `____________`
 - `____________`
 
-**Я хочу попробовать:**
+**Я [хочу](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md) попробовать:**
 - `____________`
 - `____________`
 
@@ -249,10 +249,10 @@
 - не требовать от себя идеальности
 - начать с короткого разговора
 - заранее придумать простую фразу
-- смотреть не на «оценку», а на контакт
+- смотреть не на «оценку», а на [контакт](../../../1.2_natural_sciences/neurobiology_for_teens/articles/17_hugs_oxytocin.md)
 - помнить, что другие тоже часто волнуются
 
-Хорошее общение строится не на том, чтобы быть «идеальным», а на уважении, внимании и умении слышать другого.  
+Хорошее [общение](../../../2.1_society/how_and_where_find_friends/articles/guide_dlya_introvertov.md) строится не на том, чтобы быть «идеальным», а на уважении, внимании и умении слышать другого.  
 Можно ещё посмотреть [empathy_causality](../../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md).
 
 ---
@@ -266,8 +266,8 @@
 - выступать
 - отстаивать своё мнение
 - говорить «нет», если что-то не нравится
-- выбирать кружки, занятия и цели
-- не сдаваться после неудачи
+- выбирать [кружки](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/clubs_and_sections.md), занятия и [цели](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md)
+- не сдаваться после [неудачи](../../../4.1_rules_of_study/how_to_learn_effectively/articles/learning_from_mistakes.md)
 
 То есть уверенность нужна не только для «смелости», а вообще для жизни.
 
@@ -275,7 +275,7 @@
 
 ## Мини-план развития уверенности на неделю 📅
 
-Можно попробовать такой простой план:
+Можно попробовать такой простой [план](../../../7.2 Media, leisure and hobbies/Computer games/articles/genres_and_worlds/strategy.md):
 
 **День 1:** похвали себя за 3 вещи  
 **День 2:** задай один вопрос, если что-то непонятно  
@@ -309,17 +309,17 @@
 - другим взрослым, которому ты доверяешь
 
 Просить поддержки — это не стыдно.  
-Иногда именно с этого и начинается настоящая внутренняя сила 💚
+Иногда именно с этого и начинается настоящая внутренняя [сила](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md) 💚
 
 ---
 
-## Главное, что стоит запомнить 💬
+## Главное, что стоит [запомнить](../../../4.1_rules_of_study/how_to_memorize/articles/zapominanie.md) 💬
 
 Уверенность в себе — это не про то, чтобы никогда не бояться.  
 Это про то, чтобы **действовать даже тогда, когда немного страшно**.
 
 Неуверенность не делает тебя слабым.  
-Она просто показывает, что тебе сейчас нужна практика, поддержка и время.
+Она просто показывает, что тебе сейчас нужна [практика](../../../1.2_natural_sciences/physics_in_everyday_life/Q124003.md), [поддержка](../../../1.2_natural_sciences/neurobiology_for_teens/articles/17_hugs_oxytocin.md) и время.
 
 Ты можешь расти.  
 Ты можешь учиться.  
@@ -328,5 +328,5 @@
 
 ---
 
-**Автор:** Кауров Данил  
-**Сгенерировано:** ChatGPT 5.4 Thinking 🤖
+**[Автор](../../../4.2_thinking_and_working_information/how_to_search_information/articles/copypaste.md):** Кауров Данил  
+**Сгенерировано:** [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md) 5.4 Thinking 🤖

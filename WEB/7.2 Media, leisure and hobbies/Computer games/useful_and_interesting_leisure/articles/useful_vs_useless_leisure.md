@@ -1,13 +1,13 @@
 ## 📚 Полезный и бесполезный [досуг](leisure_and_why_need.md)
 
 ### [Определение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) полезного досуга 🎯
-**Полезный [досуг](leisure_and_why_need.md)** — это деятельность, направленная на [развитие](leisure_influence_on_future.md) личности, расширение кругозора, укрепление здоровья и улучшение эмоционального состояния человека. Это времяпровождение приносит пользу физическому и психическому здоровью, помогает накапливать знания и умения, необходимые в жизни.
+**Полезный [досуг](leisure_and_why_need.md)** — это деятельность, направленная на [развитие](leisure_influence_on_future.md) личности, расширение кругозора, укрепление здоровья и [улучшение](../../../../4.1_rules_of_study/how_to_learn_effectively/articles/learning_from_mistakes.md) эмоционального состояния человека. Это времяпровождение приносит пользу физическому и психическому здоровью, помогает накапливать знания и [умения](../../../../8.2_future/choosing_a_career_path/articles/skills.md), необходимые в жизни.
 
 Например, [чтение](reading_and_self_education.md) книг, занятия спортом, [изучение](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) новых предметов, [творчество](creativity_and_handicrafts.md), волонтерство и другие полезные [увлечения](balance_study_rest_hobby.md) — всё это [виды](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) полезного досуга.
 
 💡 **Почему важно заниматься полезным досугом?**
 
-1. **[Развитие](leisure_influence_on_future.md) интеллектуальных способностей.** [Чтение](reading_and_self_education.md) книг, [решение](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) головоломок, изучение иностранных языков помогают тренировать [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) и развивать умственные способности.
+1. **[Развитие](leisure_influence_on_future.md) интеллектуальных способностей.** [Чтение](reading_and_self_education.md) книг, [решение](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) головоломок, [изучение](../../../../1.2_natural_sciences/why_science_help_understand_world/science.md) иностранных языков помогают тренировать [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) и развивать умственные [способности](../../../../4.1_rules_of_study/how_to_learn_effectively/articles/growth_mindset.md).
    
 2. **Укрепление физического здоровья.** Спортивные игры, танцы, йога, [прогулки](active_recreation_and_sport.md) на свежем воздухе улучшают физическую форму и самочувствие.
 
@@ -15,7 +15,7 @@
 
 ---
 
-### Что такое бесполезный досуг? 🕵️‍♂️
+### Что такое [бесполезный досуг](../../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/useful_vs_useless_leisure.md)? 🕵️‍♂️
 
 **Бесполезный досуг** — это занятие, которое отвлекает [внимание](../../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md) от важных дел, не приносит пользы и часто даже вредит организму. Например, бесцельное сидение перед телевизором, пустое серфингование интернета, чрезмерное употребление сладостей и фастфуда.
 
@@ -23,17 +23,17 @@
 
 1. **Снижение продуктивности.** Постоянное отвлечение [внимания](../../../how_to_memorize/articles/vnimanie.md) снижает способность концентрироваться и эффективно решать [задачи](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md).
 
-2. **Негативное [влияние](../../../5.1_technology_and_digital_literacy/information and media literacy/манипуляции_и_пропаганда.md) на [здоровье](active_recreation_and_sport.md).** Сидячий образ жизни ведет к ожирению, ухудшению зрения, проблемам с позвоночником и снижению иммунитета.
+2. **Негативное [влияние](../../../5.1_technology_and_digital_literacy/information and media literacy/манипуляции_и_пропаганда.md) на [здоровье](active_recreation_and_sport.md).** [Сидячий образ жизни](../../../../3.1_healthy lifestyle/vrednye_privychki/articles/malopodvizhnost.md) ведет к ожирению, ухудшению зрения, проблемам с позвоночником и снижению иммунитета.
 
 3. **Психологическое истощение.** Длительное пребывание в состоянии скуки или раздражения повышает [уровень](../../../8.1_entertainment/articles/gamification.md) стресса и тревоги.
 
 ---
 
-### Как отличить полезный досуг от бесполезного? 🌟
+### Как отличить [полезный досуг](../../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/useful_vs_useless_leisure.md) от бесполезного? 🌟
 
-Вот несколько критериев, по которым ты сможешь определить, полезен ли твой досуг:
+Вот несколько критериев, по которым ты сможешь определить, полезен ли твой [досуг](../../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/leisure_and_why_need.md):
 
-- **Приносит ли удовольствие и радость?** Если после занятий чувствуешь себя отдохнувшим и счастливым — значит, они полезны.
+- **Приносит ли [удовольствие](../../../../1.2_natural_sciences/neurobiology_for_teens/articles/11_reward_system.md) и радость?** Если после занятий чувствуешь себя отдохнувшим и счастливым — значит, они полезны.
   
 - **Помогает ли развиваться?** Любишь узнавать новое, читать интересные [книги](reading_and_self_education.md), посещать мастер-классы — значит, твои [увлечения](leisure_influence_on_future.md) полезны.
 
@@ -44,13 +44,13 @@
 ### Иллюстрация: описание темы 🖼️
 ![Иллюстрация: полезный и бесполезный досуг](../../../../WEB/7.2_leisure/useful_and_interesting_leisure/images/useful_vs_useless_leisure.jpg)
 
-Посмотри [внимательно](../../../how_to_memorize/articles/vnimanie.md) на рисунок. Подумай, какие увлечения приносят пользу, а какие скорее вредят нашему развитию и самочувствию.
+Посмотри [внимательно](../../../how_to_memorize/articles/vnimanie.md) на рисунок. Подумай, какие [увлечения](../../../../2.1_society/how_and_where_find_friends/articles/druzhba_i_hobby.md) приносят пользу, а какие скорее вредят нашему развитию и самочувствию.
 
 ---
 
-### Заключение 🔑
+### [Заключение](../../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md) 🔑
 
-Теперь ты знаешь разницу между полезным и бесполезным досугом. Помни, как бы тебе ни хотелось провести [свободное время](time_for_hobby_daily_routine.md) за играми или просмотром сериалов, важно находить [баланс](balance_study_rest_hobby.md) и уделять время занятиям, которые действительно принесут тебе пользу и сделают тебя лучше!
+Теперь ты знаешь разницу между полезным и бесполезным досугом. Помни, как бы тебе ни хотелось провести [свободное время](time_for_hobby_daily_routine.md) за играми или просмотром сериалов, важно находить [баланс](balance_study_rest_hobby.md) и уделять [время](../../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) занятиям, которые действительно принесут тебе пользу и сделают тебя лучше!
 
 Выбирай правильно и наслаждайся каждым моментом своего свободного времени!
 

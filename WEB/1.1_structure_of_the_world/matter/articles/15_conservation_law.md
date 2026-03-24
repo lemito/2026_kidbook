@@ -20,10 +20,10 @@
 
 [Закон сохранения](01_matter.md) [массы](01_matter.md) формулировался независимо несколькими учёными:
 
-| [Учёный](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) | Год | Вклад |
+| [Учёный](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) | Год | [Вклад](../../../6.2_money_and_literacy/how_to_save_for_goal/articles/bank_account.md) |
 |--------|-----|-------|
 | **М.В. Ломоносов** | 1748 | Первая формулировка в письме к Эйлеру; экспериментальное подтверждение (1756) |
-| **А. Лавуазье** | 1789 | Независимое [открытие](../../../1.2_natural_sciences/why_science_help_understand_world/science.md); точные количественные измерения |
+| **А. Лавуазье** | 1789 | Независимое [открытие](../../../1.2_natural_sciences/why_science_help_understand_world/science.md); точные количественные [измерения](../../../1.2_natural_sciences/physics_in_everyday_life/Q11423.md) |
 
 ### Формулировка
 
@@ -34,7 +34,7 @@
 
 ### Примеры
 
-**Горение магния:**
+**[Горение](../../../1.2_natural_sciences/physics_in_everyday_life/Q560.md) магния:**
 > 2Mg + O₂ → 2MgO
 
 [Масса](01_matter.md) магния (48,6 г) + [масса](01_matter.md) кислорода (32,0 г) = [масса](01_matter.md) оксида магния (80,6 г)
@@ -51,33 +51,33 @@
 
 > ΔU = Q − W
 
-где ΔU — изменение внутренней [энергии](01_matter.md), Q — подведённая теплота, W — совершённая работа.
+где ΔU — изменение внутренней [энергии](01_matter.md), Q — подведённая [теплота](../../../1.2_natural_sciences/physics_in_everyday_life/Q11379.md), W — совершённая [работа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md).
 
 ### Формы [энергии](01_matter.md)
 
-| Форма [энергии](01_matter.md) | Описание | Пример |
+| [Форма](../../../7.1_art/modern_technological_art/articles/4.5_algorithmic_craft.md) [энергии](01_matter.md) | Описание | Пример |
 |--------------|----------|--------|
 | Кинетическая | [Энергия](01_matter.md) движения | [Движение](../../../1.2_natural_sciences/why_science_help_understand_world/physical_science.md) [молекул газа](07_gases.md) |
 | Потенциальная | [Энергия](01_matter.md) положения/конфигурации | [Химические связи](04_molecular_level.md) |
-| Тепловая | [Энергия](01_matter.md) [хаотического движения](07_gases.md) частиц | Нагрев [твёрдого тела](05_solids.md) |
-| Электромагнитная | [Энергия](01_matter.md) [электромагнитного поля](14_fundamental_interactions.md) | [Свет](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md), радиоволны |
+| Тепловая | [Энергия](01_matter.md) [хаотического движения](07_gases.md) частиц | [Нагрев](../../../1.2_natural_sciences/physics_in_everyday_life/Q3198.md) [твёрдого тела](05_solids.md) |
+| Электромагнитная | [Энергия](01_matter.md) [электромагнитного поля](14_fundamental_interactions.md) | [Свет](../../../1.2_natural_sciences/why_science_help_understand_world/physics.md), [радиоволны](../../../1.2_natural_sciences/physics_in_everyday_life/Q12969754.md) |
 | Ядерная | [Энергия связи](18_mass_energy.md) нуклонов в [ядре](03_atom_structure.md) | Ядерные реакции |
 | [Энергия покоя](18_mass_energy.md) | mc² ([масса-энергия](18_mass_energy.md)) | [Аннигиляция](16_antimatter.md) |
 
-### Историческое развитие
+### Историческое [развитие](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md)
 
-| Учёный | Год | Вклад |
+| [Учёный](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) | Год | Вклад |
 |--------|-----|-------|
-| Лейбниц | 1686 | Концепция «живой силы» (vis viva = mv²) |
-| Ю.Р. Майер | 1842 | Формулировка [закона](../../../2.1_society/rights_and_responsibilities/articles/person.md); эквивалент теплоты и работы |
-| Дж. Джоуль | 1843 | Экспериментальное [определение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) механического эквивалента теплоты |
+| Лейбниц | 1686 | Концепция «живой [силы](../../../1.2_natural_sciences/physics_in_everyday_life/Q11423.md)» (vis viva = mv²) |
+| Ю.Р. Майер | 1842 | Формулировка [закона](../../../2.1_society/rights_and_responsibilities/articles/person.md); эквивалент теплоты и [работы](../../../8.2_future/choosing_a_career_path/articles/interview.md) |
+| Дж. [Джоуль](../../../1.2_natural_sciences/physics_in_everyday_life/Q25269.md) | 1843 | Экспериментальное [определение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) механического эквивалента теплоты |
 | Г. Гельмгольц | 1847 | Строгая математическая формулировка |
 
 ## Объединение: [закон сохранения](01_matter.md) [массы-энергии](18_mass_energy.md)
 
 ### Эквивалентность [массы](01_matter.md) и [энергии](01_matter.md)
 
-В 1905 году **Альберт Эйнштейн** показал, что [масса](01_matter.md) и [энергия](01_matter.md) эквивалентны:
+В 1905 году **[Альберт Эйнштейн](../../../1.2_natural_sciences/physics_in_everyday_life/Q83213.md)** показал, что [масса](01_matter.md) и [энергия](01_matter.md) эквивалентны:
 
 > **[E = mc²](01_matter.md)**
 
@@ -85,7 +85,7 @@
 
 Это означает, что:
 - [Масса](01_matter.md) — это форма [энергии](01_matter.md) ([энергия покоя](18_mass_energy.md))
-- [Энергия](01_matter.md) имеет [массу](01_matter.md) (m = E/c²)
+- [Энергия](01_matter.md) имеет [массу](01_matter.md) (m = E/[c](../../../2.1_society/how_and_where_find_friends/articles/sora_drug.md)²)
 - В замкнутой системе сохраняется суммарная **[масса-энергия](18_mass_energy.md)**, а не [масса](01_matter.md) и [энергия](01_matter.md) по отдельности
 
 ### Дефект [массы](01_matter.md)
@@ -97,7 +97,7 @@
 | [Реакция](../../../1.2_natural_sciences/why_science_help_understand_world/chemistry.md) | Δm | ΔE |
 |---------|-----|-----|
 | Синтез гелия (4p → He) | 0,0287 а.е.м. | 26,7 МэВ |
-| Деление U-235 | ~0,1% [массы](01_matter.md) | ~200 МэВ |
+| Деление U-235 | ~0,1% [массы](01_matter.md) | ~[200](../../../5.1_technology_and_digital_literacy/how_internet_works/articles/http_https/http_https.md) МэВ |
 | [Аннигиляция](16_antimatter.md) e⁺e⁻ | 2mₑ | 1,022 МэВ |
 
 В [химических реакциях](12_chemical_properties.md) дефект [массы](01_matter.md) ничтожен (~10⁻⁹ от [массы](01_matter.md) [реагентов](12_chemical_properties.md)), поэтому классический [закон сохранения](01_matter.md) [массы](01_matter.md) работает с высокой точностью.
@@ -134,9 +134,9 @@
 
 ## [Значение](../../../7.2_leisure/useful_and_interesting_leisure/articles/leisure_and_why_need.md) для науки и философии
 
-[Закон сохранения](01_matter.md) [массы-энергии](18_mass_energy.md) имеет глубокое значение:
+[Закон сохранения](01_matter.md) [массы-энергии](18_mass_energy.md) имеет глубокое [значение](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/leisure_and_why_need.md):
 
-1. **Неуничтожимость [материи](01_matter.md)**: [материя](01_matter.md) может менять форму ([вещество](01_matter.md) ↔ поле ↔ излучение), но не исчезать
+1. **Неуничтожимость [материи](01_matter.md)**: [материя](01_matter.md) может менять форму ([вещество](01_matter.md) ↔ [поле](../../../5.2_cybersecurity/cpp_fundamentals/13_struct.md) ↔ [излучение](../../../1.2_natural_sciences/physics_in_everyday_life/Q1.md)), но не исчезать
 2. **Основа химии**: позволяет составлять уравнения [реакций](12_chemical_properties.md) и рассчитывать выходы [продуктов](12_chemical_properties.md)
 3. **Основа [энергетики](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md)**: от сжигания топлива до ядерных реакторов
 4. **Космология**: определяет [эволюцию Вселенной](17_dark_matter.md)
@@ -152,4 +152,4 @@
 - [Атомизм](02_atomism.md)
 - [Фундаментальные взаимодействия](14_fundamental_interactions.md)
 
-*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Червоненко Павел • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) ChatGPT • Слов: 480 • 2026-03-17*
+*[Автор](../../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Червоненко Павел • Сгенерировано с [помощью](../../../2.1_society/rights_and_responsibilities/articles/police.md) [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md) • Слов: 480 • 2026-03-17*

@@ -1,12 +1,12 @@
-## 🌟 Как провести время весело и бесплатно 🎮📚
+## 🌟 Как провести [время](../../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) весело и бесплатно 🎮📚
 
 ### 🔍 [Определение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md) досуга
 
-[Досуг](leisure_and_why_need.md) — это та самая область жизни человека, когда ты отдыхаешь от повседневных забот и обязанностей. **[Досуг](leisure_and_why_need.md)** помогает нам восстановить силы, расслабиться и набраться энергии перед новыми свершениями. Обычно [досуг](leisure_and_why_need.md) включает разные [виды](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) деятельности, развлечения и занятия, которые приносят удовольствие и радость.
+[Досуг](leisure_and_why_need.md) — это та самая область жизни человека, когда ты отдыхаешь от повседневных забот и обязанностей. **[Досуг](leisure_and_why_need.md)** помогает нам восстановить [силы](../../../../1.2_natural_sciences/physics_in_everyday_life/Q11423.md), расслабиться и набраться энергии перед новыми свершениями. Обычно [досуг](leisure_and_why_need.md) включает разные [виды](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) деятельности, [развлечения](../../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md) и занятия, которые приносят [удовольствие](../../../../1.2_natural_sciences/neurobiology_for_teens/articles/11_reward_system.md) и радость.
 
 ---
 
-### ✨ Какие виды досуга существуют?
+### ✨ Какие [виды](../../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) досуга существуют?
 
 Есть много разных видов досуга, среди которых выделяют:
 
@@ -14,7 +14,7 @@
 - **[Чтение](reading_and_self_education.md) книг**: погружение в интересный [сюжет](../../../8.1_entertainment/articles/script.md) и мир фантазии делают [чтение](reading_and_self_education.md) отличным способом проведения свободного времени.
 - **Спортивные игры**: футбол, волейбол, бадминтон — активные занятия укрепляют [здоровье](active_recreation_and_sport.md) и поднимают [настроение](../../../8.1_entertainment/articles/psychology_of_music.md).
 - **Туризм и путешествия**: походы в [лес](../../../1.2_natural_sciences/why_science_help_understand_world/nature.md), экскурсии по городам расширяют [кругозор](reading_and_self_education.md) и помогают отвлечься от рутины.
-- **[Хобби](time_for_hobby_daily_routine.md)**: [рисование](creativity_and_handicrafts.md), [вязание](creativity_and_handicrafts.md), фотография — хобби позволяют творчески самовыражаться и развивать полезные [навыки](computer_games_with_benefit.md).
+- **[Хобби](time_for_hobby_daily_routine.md)**: [рисование](creativity_and_handicrafts.md), [вязание](creativity_and_handicrafts.md), фотография — [хобби](../../../../2.1_society/how_and_where_find_friends/articles/neochevidnye_mesta_dlya_znakomstva.md) позволяют творчески самовыражаться и развивать полезные [навыки](computer_games_with_benefit.md).
   
 ---
 
@@ -26,7 +26,7 @@
 ![Иллюстрация описание темы](../../../../WEB/7.2_leisure/useful_and_interesting_leisure/images/free_leisure_activities.jpg)
    
 2. **Проведение интеллектуальных игр**: викторины, [шахматы](../../../8.1_entertainment/articles/board-games.md), [настольные игры](board_and_intellectual_games.md) развивают [мышление](../../../5.1_technology_and_digital_literacy/information and media literacy/критическое_мышление_в_онлайн_среде.md) и улучшают коммуникацию.
-3. **Творческие мастер-классы онлайн**: учись новому через вебинары и уроки мастерства, не выходя из дома.
+3. **Творческие мастер-классы [онлайн](../../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/internet-safety.md)**: учись новому через вебинары и уроки мастерства, не выходя из дома.
 4. **[Общение](leisure_with_friends_and_family.md) с друзьями и семьей**: иногда самые лучшие развлечения происходят именно тогда, когда мы вместе проводим время.
 5. **Занятия самообразованием**: [изучение](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) иностранных языков, [чтение](reading_and_self_education.md) специализированной литературы, [развитие](leisure_influence_on_future.md) новых компетенций.
 
@@ -40,7 +40,7 @@
 
 ### 🐾 Домашние питомцы и [животные](../../../1.2_natural_sciences/why_science_help_understand_world/nature.md)
 
-Забота о домашних животных приносит радость и умиротворение. [Общение](../../../5.1_technology_and_digital_literacy/information and media literacy/этика_общения_в_сети.md) с собаками, кошками, птицами или даже рыбками помогает снять [стресс](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md) и почувствовать себя частью большого мира природы.
+[Забота](../../../../8.2_future_and_path_choice/articles/support_and_help.md) о домашних животных приносит радость и умиротворение. [Общение](../../../5.1_technology_and_digital_literacy/information and media literacy/этика_общения_в_сети.md) с собаками, кошками, птицами или даже рыбками помогает снять [стресс](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md) и почувствовать себя частью большого мира природы.
 
 ---
 
@@ -50,9 +50,9 @@
 
 ---
 
-### 👩‍🏫 Заключение
+### 👩‍🏫 [Заключение](../../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md)
 
-Теперь ты знаешь, сколько всего интересного можно сделать бесплатно! Не обязательно тратить [деньги](../../../2.1_society/cause_and_effect_relationships/articles/economic_chains.md), чтобы отдохнуть и получить удовольствие. Главное — это твоё желание и стремление искать новые впечатления и возможности для развития. Пусть твой досуг будет ярким и насыщенным!
+Теперь ты знаешь, сколько всего интересного можно сделать бесплатно! Не обязательно тратить [деньги](../../../2.1_society/cause_and_effect_relationships/articles/economic_chains.md), чтобы отдохнуть и получить удовольствие. Главное — это твоё [желание](../../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md) и стремление искать новые впечатления и возможности для развития. Пусть твой [досуг](../../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/leisure_and_why_need.md) будет ярким и насыщенным!
 
 ---
 

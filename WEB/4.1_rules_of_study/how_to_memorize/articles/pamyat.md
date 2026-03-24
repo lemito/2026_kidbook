@@ -1,10 +1,10 @@
 # [Память](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md)
 
-Память — это удивительная способность нашего мозга сохранять и воспроизводить информацию. Благодаря ей мы помним имена друзей, [правила](../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md) в школе и даже то, как кататься на велосипеде. Без памяти учёба и повседневная [жизнь](../../1.2_natural_sciences/why_science_help_understand_world/biology.md) были бы намного сложнее.
+[Память](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) — это удивительная способность нашего мозга сохранять и воспроизводить информацию. Благодаря ей мы помним имена друзей, [правила](../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md) в школе и даже то, как кататься на велосипеде. Без памяти [учёба](../../../8.1_colf-underctandina/HouToFindVourStrenaths/articles/use_strengths_in_life.md) и повседневная [жизнь](../../1.2_natural_sciences/why_science_help_understand_world/biology.md) были бы намного сложнее.
 
 ## Что это такое
 
-Память — это процесс, с помощью которого [человек](../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md) **запоминает, хранит и вспоминает информацию**. Она помогает нам учиться новому и использовать уже полученные знания.
+Память — это [процесс](../../../5.1_technology_and_digital_literacy/operating system/articles/process.md), с помощью которого [человек](../../1.2_natural_sciences/why_science_help_understand_world/life_sciences.md) **запоминает, хранит и вспоминает информацию**. Она помогает нам учиться новому и использовать уже полученные знания.
 
 Когда ты читаешь учебник, решаешь задачу или просто разговариваешь — в этот момент работает память. Она тесно связана с процессом [Запоминание](./zapominanie.md), потому что именно благодаря ему [информация](../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) попадает в [мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md).
 
@@ -15,7 +15,7 @@
 Память нужна почти для всего:
 
 - чтобы учить уроки и отвечать у доски  
-- чтобы [запоминать](zapominanie.md) правила, формулы и слова  
+- чтобы [запоминать](zapominanie.md) [правила](../../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md), формулы и слова  
 - чтобы узнавать людей и места  
 - чтобы ориентироваться в городе  
 - чтобы не [повторять](povtorenie.md) одни и те же [ошибки](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)  
@@ -29,7 +29,7 @@
 
 Память можно представить как большую библиотеку или компьютер:
 
-- сначала информация «попадает» в мозг  
+- сначала [информация](../../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) «попадает» в [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md)  
 - потом она «обрабатывается»  
 - затем «сохраняется»  
 - и при необходимости «извлекается»  
@@ -37,7 +37,7 @@
 У памяти есть разные [виды](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md). Например:
 
 - [Кратковременная память](./kratkovremennaya_pamyat.md) — хранит информацию совсем недолго (например, номер, который ты только что услышал или задание, которое сказал учитель)  
-- [Долговременная память](./dolgovremennaya_pamyat.md) — хранит знания надолго: факты, навыки, воспоминания  
+- [Долговременная память](./dolgovremennaya_pamyat.md) — хранит знания надолго: [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md), [навыки](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/computer_games_with_benefit.md), [воспоминания](../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md)  
 
 Чтобы информация из кратковременной памяти перешла в долговременную, нужно с ней немного «поработать»: повторить, понять, связать с чем-то знакомым.
 
@@ -47,9 +47,9 @@
 
 Представь, что ты учишь стихотворение.
 
-Сначала ты читаешь его — это работа кратковременной памяти. Слова вроде бы знакомы, но легко забываются.  
+Сначала ты читаешь его — это [работа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md) кратковременной памяти. Слова вроде бы знакомы, но легко забываются.  
 Потом повторяешь несколько раз — начинаешь лучше понимать смысл, появляются [ассоциации](associacii.md).  
-Через некоторое время ты можешь рассказать его наизусть — значит, оно уже перешло в долговременную память.
+Через некоторое [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) ты можешь рассказать его наизусть — значит, оно уже перешло в долговременную память.
 
 А если ты прочитал стих один раз и сразу отвлёкся, то, скорее всего, через час не вспомнишь ни строчки.
 
@@ -59,27 +59,27 @@
 
 Вот простые способы, которые помогут твоей памяти работать лучше:
 
-- Повторяй материал — это укрепляет память (см. [Повторение](./povtorenie.md))  
+- Повторяй [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md) — это укрепляет память (см. [Повторение](./povtorenie.md))  
 - Старайся понимать смысл, а не просто заучивать слова  
-- Делай небольшие перерывы, чтобы мозг успевал «обрабатывать» информацию  
+- Делай небольшие [перерывы](../../how_to_learn_effectively/articles/breaks_and_rest.md), чтобы мозг успевал «обрабатывать» информацию  
 - Высыпайся — [Сон](./son.md) помогает закреплять знания  
 - Учись в спокойной обстановке без шума и отвлечений  
 - Проверяй себя: попробуй рассказать тему без подсказок  
 
-Если делать это регулярно, запоминать станет гораздо легче.
+Если делать это регулярно, [запоминать](zapominanie.md) станет гораздо легче.
 
 ## Что помогает, а что мешает
 
 | Помогает | Мешает |
 |----------|--------|
-| Внимательное [чтение](../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md) и слушание | Постоянные отвлечения |
+| Внимательное [чтение](../../7.2_leisure/useful_and_interesting_leisure/articles/reading_and_self_education.md) и [слушание](../../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/Listen-to-the-music-correctly.md) | Постоянные отвлечения |
 | [Повторение материала](povtorenie.md) | Спешка и поверхностное [изучение](../../1.2_natural_sciences/why_science_help_understand_world/science.md) |
 | [Понимание](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md) смысла | Зазубривание без понимания |
 | Хороший [сон](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/evening_rituals_sleep_fast.md) | [Недосып](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/chronic_sleep_deprivation.md) |
 | Спокойное состояние | [Стресс](./stress.md) |
 | Перерывы в учёбе | Сильная [Усталость](./ustalost.md) |
 
-## Частые ошибки
+## Частые [ошибки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)
 
 - Пытаться выучить всё за один раз перед контрольной  
 - Читать материал, не вникая в смысл  
@@ -99,7 +99,7 @@
 
 Также память напрямую связана с запоминанием: это как два этапа одного процесса. Сначала ты запоминаешь, потом хранишь и используешь.
 
-Разные виды памяти помогают нам справляться с разными задачами — от запоминания списка покупок до решения сложных задач на уроках.
+Разные [виды](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md) памяти помогают нам справляться с разными задачами — от запоминания списка покупок до решения сложных задач на уроках.
 
 ## Интересный [факт](../../1.2_natural_sciences/why_science_help_understand_world/science.md)
 
@@ -116,4 +116,4 @@
 
 ---
 Авторы: Иван, @cupydox;  
-[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - ChatGPT
+[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md)

@@ -1,2 +1,2 @@
-# KidBook - детская энциклопедия
+# KidBook - детская [энциклопедия](4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md)
 ...

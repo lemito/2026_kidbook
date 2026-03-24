@@ -1,4 +1,4 @@
-# Работа с данными и статистикой
+# [Работа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md) с данными и статистикой
 
 ## Что такое [статистика](../../../5.1_technology_and_digital_literacy/information and media literacy/проверка_цитат_и_статистики.md)
 
@@ -13,7 +13,7 @@
 - в рекламе  
 - в социальных исследованиях  
 
-Цифры часто выглядят убедительно. Но важно [помнить](../../../how_to_memorize/articles/pamyat.md), что **данные можно представить по-разному**, и иногда это используют для [манипуляции](manipulation_recognition.md).
+Цифры часто выглядят убедительно. Но важно [помнить](../../../how_to_memorize/articles/pamyat.md), что **[данные](../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md) можно представить по-разному**, и иногда это используют для [манипуляции](manipulation_recognition.md).
 
 ![Иллюстрация: описание статьи](../images/image_data_and_statistics.png)
 ---
@@ -35,7 +35,7 @@
 - показывают [рост](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/micronutrients_and_teenagers.md) продаж только за удачный месяц  
 - сравнивают только те показатели, которые выглядят выгодно  
 
-Если посмотреть **полную статистику**, вывод может оказаться другим.
+Если посмотреть **полную статистику**, [вывод](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) может оказаться другим.
 
 ---
 
@@ -45,7 +45,7 @@
 
 Например:
 
-- сравнение разных периодов времени  
+- [сравнение](../../../5.2_cybersecurity/cpp_fundamentals/5_operators.md) разных периодов времени  
 - сравнение стран с сильно разным населением  
 - использование разных методов подсчёта
 
@@ -57,7 +57,7 @@
 
 Графики помогают быстро понять информацию, но их тоже можно искажать.
 
-### Изменённая шкала
+### Изменённая [шкала](../../../1.2_natural_sciences/physics_in_everyday_life/Q11223329.md)
 
 Иногда на графике **обрезают начало шкалы**.
 
@@ -105,7 +105,7 @@
 
 Поэтому важно:
 
-- [внимательно](../../../how_to_memorize/articles/vnimanie.md) смотреть на источники данных  
+- [внимательно](../../../how_to_memorize/articles/vnimanie.md) смотреть на [источники](../../how_to_search_information/articles/three_whales.md) данных  
 - проверять сравнения  
 - обращать [внимание](../../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md) на графики и визуализацию  
 
@@ -113,4 +113,4 @@
 
 ---
 Авторы: Матвей Германенко, @THENEAL24;  
-*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): LLM - ChatGPT (OpenAI)*
+*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md) (OpenAI)*

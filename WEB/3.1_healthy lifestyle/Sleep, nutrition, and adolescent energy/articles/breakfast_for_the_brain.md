@@ -1,25 +1,25 @@
 # [Завтрак](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) для мозга: Что съесть утром, чтобы «дожить» до обеда
 
-Утро. Будильник прозвенел три раза. Ты кое-как дополз до кухни. В холодильнике глаз цепляется за вчерашнюю пиццу или коробку с самыми быстрыми сладкими хлопьями. «Сойдет, главное — быстро».
+Утро. Будильник прозвенел три раза. Ты кое-как дополз до кухни. В холодильнике [глаз](../../../1.2_natural_sciences/physics_in_everyday_life/Q467980.md) цепляется за вчерашнюю пиццу или коробку с самыми быстрыми сладкими хлопьями. «Сойдет, главное — быстро».
 
-Спойлер: это не «сойдет». То, что ты съешь в первые два часа после пробуждения, определит, будешь ты на [третьем уроке]("./articles/healthy_school_snacks.md") соображать или тупо смотреть в окно, мечтая снова оказаться в подушке.
+[Спойлер](../../../1.2_natural_sciences/neurobiology_for_teens/articles/19_curiosity.md): это не «сойдет». То, что ты съешь в первые два часа после пробуждения, определит, будешь ты на [третьем уроке]("./articles/healthy_school_snacks.md") соображать или тупо смотреть в окно, мечтая снова оказаться в подушке.
 
-> ### 🛑 Рубрика «Миф vs Реальность»
+> ### 🛑 Рубрика «Миф vs [Реальность](../../../1.2_natural_sciences/physics_in_everyday_life/Q140028.md)»
 >
 > **1. Про хлопья и соки**  
 > 🔴 *Миф:* «Хлопья с молоком и стакан апельсинового сока — это полезно».  
 > 🟢 *Реальность:* Это сахарная бомба. Через 40 минут [уровень](../../../8.1_entertainment/articles/gamification.md) глюкозы рухнет, и ты снова захочешь есть, а [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) начнет тормозить.
 >
 > **2. Про то, что можно не есть**  
-> 🔴 *Миф:* «Я все равно не хочу есть утром, пропущу завтрак».  
-> 🟢 *Реальность:* Если ты не ешь с 20:00 до 13:00 следующего дня — твой мозг работает в режиме энергосбережения. Ты просто не можешь соображать на полную.
+> 🔴 *Миф:* «Я все равно не [хочу](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md) есть утром, пропущу [завтрак](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md)».  
+> 🟢 *Реальность:* Если ты не ешь с 20:00 до 13:00 следующего дня — твой [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) работает в режиме энергосбережения. Ты просто не можешь соображать на полную.
 
 ## Разбор идеального завтрака: Белки + Сложные [углеводы](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md)
 
 Представь, что твой мозг — это суперкар. Ему нужно два вида топлива: быстрое (чтобы завестись) и медленное (чтобы ехать).
 
-*   **Сложные углеводы (каши, цельнозерновой хлеб).** Они расщепляются постепенно, подкидывая глюкозу в кровь маленькими порциями. Мозг получает стабильное [питание](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) 3–4 часа.
-*   **Белки (яйца, творог, сыр, йогурт).** Они дают аминокислоту **тирозин**, из которой мозг делает **дофамин** и **норадреналин**. Эти вещества отвечают за концентрацию и бодрость.
+*   **Сложные [углеводы](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) (каши, цельнозерновой хлеб).** Они расщепляются постепенно, подкидывая глюкозу в кровь маленькими порциями. Мозг получает стабильное [питание](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) 3–4 часа.
+*   **Белки (яйца, творог, сыр, йогурт).** Они дают аминокислоту **тирозин**, из которой мозг делает **[дофамин](../../../1.2_natural_sciences/neurobiology_for_teens/articles/10_sweet_tooth.md)** и **[норадреналин](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md)**. Эти вещества отвечают за концентрацию и [бодрость](../../vrednye_privychki/articles/energetiki.md).
 
 ```mermaid
 graph TD;
@@ -31,14 +31,14 @@ graph TD;
     E --> F;
     F --> G[Ясная голова до обеда];
 ```
-# Сладкие хлопья: Враг под видом друга
+# Сладкие хлопья: [Враг](../../../7.2 Media, leisure and hobbies/Computer games/articles/heroes_and_villains/main_villains.md) под видом друга
 ![Завтраки](../images/bad_vs_good_breakfast.png "Враг под видом друга")
 
 **Быстрые завтраки** (кукурузные хлопья, шоколадные шарики, сладкие подушки) — это чистый [сахар]("./articles/sugar_rollercoaster.md") и быстрые углеводы. Они взлетают в кровь мгновенно. Ты чувствуешь прилив сил... на 30–40 минут.
 
 Поджелудочная железа в ужасе от такого наплыва сахара и выбрасывает **тонну инсулина**, чтобы быстро это убрать. [Инсулин](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) убирает [сахар](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sugar_rollercoaster.md) так эффективно, что через час его становится **меньше, чем было до завтрака**.
 
-**[Результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md):** вялость, трясущиеся руки, раздражительность и дикое желание съесть еще одну шоколадку. Это называется **«реактивная гипогликемия»**.
+**[Результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md):** вялость, трясущиеся руки, раздражительность и дикое [желание](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md) съесть еще одну шоколадку. Это называется **«реактивная гипогликемия»**.
 
 ## Чек-лист: Топ-3 завтрака для подростка
 

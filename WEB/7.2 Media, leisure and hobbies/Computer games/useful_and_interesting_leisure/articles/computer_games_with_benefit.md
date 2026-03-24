@@ -1,8 +1,8 @@
-## 🎮 Компьютерные игры: как играть с пользой 🌐
+## 🎮 [Компьютерные игры](../../../../3.1_healthy lifestyle/vrednye_privychki/articles/computer_games.md): как играть с пользой 🌐
 
 ### 📚 [Определение](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/01_chto_takoe_pervaya_pomoshch.md)
 
-Компьютерная игра — это интерактивное развлечение, которое происходит на экране компьютера или другого устройства. Игры бывают разные: от простых головоломок до сложных стратегий, симуляторов и шутеров. Но почему же мы говорим про пользу?
+Компьютерная [игра](../../../../4.1_rules_of_study/how_to_learn_effectively/articles/gamification.md) — это интерактивное развлечение, которое происходит на экране компьютера или другого [устройства](../../../../5.1_technology_and_digital_literacy/operating system/articles/HAL.md). Игры бывают разные: от простых головоломок до сложных стратегий, симуляторов и шутеров. Но почему же мы говорим про пользу?
 
 ---
 
@@ -11,14 +11,14 @@
 Давай разберёмся вместе!
 
 #### 🔸 [Развитие](leisure_influence_on_future.md) [внимания](../../../how_to_memorize/articles/vnimanie.md) и реакции
-Игры помогают тренировать [внимание](../../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md) и [скорость реакции](../../../1.1_structure_of_the_world/matter/articles/12_chemical_properties.md). Например, когда ты быстро решаешь головоломки или стреляешь по врагам, [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) учится быстрее обрабатывать информацию.
+Игры помогают тренировать [внимание](../../../5.1_technology_and_digital_literacy/information and media literacy/эмоциональные_триггеры_в_контенте.md) и [скорость реакции](../../../1.1_structure_of_the_world/matter/articles/12_chemical_properties.md). Например, когда ты быстро решаешь [головоломки](../../articles/useful_tips/educational_games.md) или стреляешь по врагам, [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) учится быстрее обрабатывать информацию.
 
 **Пример:** Игра «Counter-Strike» помогает развивать реакцию и умение мгновенно принимать решения.
 
-#### 🔸 Улучшение координации движений
+#### 🔸 [Улучшение](../../../../4.1_rules_of_study/how_to_learn_effectively/articles/learning_from_mistakes.md) координации движений
 Современные игры часто требуют движения мышью или джойстиком, что развивает моторику рук и координацию движений.
 
-**Пример:** Симуляторы вождения («Need for Speed») отлично тренируют управление автомобилем.
+**Пример:** Симуляторы вождения («[Need for Speed](../../articles/genres_and_worlds/racing_fighting_sports.md)») отлично тренируют управление автомобилем.
 
 #### 🔸 Тренировка стратегического мышления
 Стратегические игры учат планировать, думать наперёд и анализировать ситуацию. Ты строишь города, защищаешь базы или создаёшь армии.
@@ -34,13 +34,13 @@
 
 ### 🛠️ Как выбрать полезные игры?
 
-Чтобы извлечь максимум пользы, нужно выбирать правильные игры.
+Чтобы извлечь [максимум](../../../../1.2_natural_sciences/physics_in_everyday_life/Q136980.md) пользы, нужно выбирать правильные игры.
 
 1. **Изучай отзывы и рейтинги.** Узнай [мнение](../../../4.2/critical_thinking/articles/fact_and_opinion_differences.md) экспертов и игроков о той или иной игре.
    
 2. **Определи [цель](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) игры.** Если хочешь развить реакцию — выбирай экшены. Если интересуют новые знания — образовательные игры.
 
-3. **Ограничивай время.** Не забывай про [баланс](balance_study_rest_hobby.md) между играми и реальной жизнью.
+3. **Ограничивай [время](../../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md).** Не забывай про [баланс](balance_study_rest_hobby.md) между играми и реальной жизнью.
 
 ---
 
@@ -48,9 +48,9 @@
 
 Вот несколько классных игр, которые точно принесут тебе пользу:
 
-- **«Civilization VI»** — стратегическая игра, развивающая [мышление](../../../5.1_technology_and_digital_literacy/information and media literacy/критическое_мышление_в_онлайн_среде.md) и [планирование](time_for_hobby_daily_routine.md).
+- **«[Civilization](../../articles/genres_and_worlds/strategy.md) VI»** — стратегическая игра, развивающая [мышление](../../../5.1_technology_and_digital_literacy/information and media literacy/критическое_мышление_в_онлайн_среде.md) и [планирование](time_for_hobby_daily_routine.md).
   
-- **«Minecraft»** — образовательная игра, где можно изучать физику, архитектуру и инженерию.
+- **«[Minecraft](../../../../5.1_technology_and_digital_literacy/how_internet_works/articles/tcp_udp/online_games.md)»** — образовательная игра, где можно изучать физику, архитектуру и инженерию.
 
 - **«The Witcher III»** — приключенческая игра с глубоким сюжетом и моральными дилеммами.
 
@@ -64,7 +64,7 @@
 
 - **Контролируй продолжительность игры.** Ограничивай время, проведённое перед экраном.
   
-- **Выбирай подходящие жанры.** Для младших детей лучше подойдут пазлы и простейшие стратегии.
+- **Выбирай подходящие [жанры](../../../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/z3.md).** Для младших детей лучше подойдут пазлы и простейшие [стратегии](../../../../../8.1_self_understanding/articles/overcoming.md).
 
 - **Обсуждай игру после неё.** Спрашивай ребёнка, чему он научился или что узнал нового.
 
@@ -74,9 +74,9 @@
 
 ---
 
-### 📅 Заключение
+### 📅 [Заключение](../../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md)
 
-Компьютерные игры могут приносить огромную пользу, если подходить к ним осознанно. Они развивают ум, [тело](../../../1.2_natural_sciences/why_science_help_understand_world/organism.md) и расширяют [кругозор](reading_and_self_education.md). Главное — правильно выбирать игры и соблюдать [баланс](balance_study_rest_hobby.md) между виртуальным миром и реальной жизнью.
+Компьютерные игры могут приносить огромную пользу, если подходить к ним осознанно. Они развивают [ум](../../articles/useful_tips/educational_games.md), [тело](../../../1.2_natural_sciences/why_science_help_understand_world/organism.md) и расширяют [кругозор](reading_and_self_education.md). Главное — правильно выбирать игры и соблюдать [баланс](balance_study_rest_hobby.md) между виртуальным миром и реальной жизнью.
 
 ---
 

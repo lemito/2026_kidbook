@@ -1,11 +1,11 @@
-# Понятие музыки и её устройство
+# Понятие музыки и её [устройство](../../../1.2_natural_sciences/physics_in_everyday_life/Q178032.md)
 
 ![Иллюстрация](../images/gigachat_generated/music.jpg)
 
 
 
 
-Музыка – это язык чувств и [эмоций](psychology_of_music.md), который люди используют уже тысячи лет. Она окружает нас повсюду: от утренних песен птиц до звуков дождя за окном. Музыка помогает нам выразить то, что трудно передать словами, и делает нашу [жизнь](../../1.2_natural_sciences/why_science_help_understand_world/biology.md) ярче и интереснее.
+[Музыка](../../../1.2_natural_sciences/neurobiology_for_teens/articles/18_music_chills.md) – это [язык](../../../5.2_cybersecurity/cpp_fundamentals/1_introduction.md) чувств и [эмоций](psychology_of_music.md), который люди используют уже тысячи лет. Она окружает нас повсюду: от утренних песен птиц до звуков дождя за окном. Музыка помогает нам выразить то, что трудно передать словами, и делает нашу [жизнь](../../1.2_natural_sciences/why_science_help_understand_world/biology.md) ярче и интереснее.
 
 ## 1. Введение
 
@@ -13,9 +13,9 @@
 
 ## 2. [История](../../2.1_society/cause_and_effect_relationships/articles/lessons_of_history.md)
 
-Музыка появилась очень давно, ещё в древние времена. Наши предки использовали простые инструменты вроде барабанов и флейт, чтобы общаться друг с другом и передавать важные сообщения. Со временем музыка стала частью культуры разных народов мира. Например:
+Музыка появилась очень давно, ещё в древние времена. Наши предки использовали простые [инструменты](../../../1.2_natural_sciences/physics_in_everyday_life/Q36253.md) вроде барабанов и флейт, чтобы общаться друг с другом и передавать важные [сообщения](../../../5.1_technology_and_digital_literacy/operating system/articles/IPC.md). Со временем музыка стала частью культуры разных народов мира. Например:
 
-- **Древние греки** создавали сложные [музыкальные произведения](composer.md), которые звучали во время праздников и ритуалов.
+- **Древние греки** создавали сложные [музыкальные произведения](composer.md), которые звучали во [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) праздников и ритуалов.
 - **Средневековые монахи** пели хоралы, объединяя слова молитв со звуками [музыкальных инструментов](musical_instruments.md).
 - **В эпоху Возрождения** [композиторы](composer.md) начали писать оперы и симфонии, создавая настоящие шедевры искусства.
 
@@ -27,7 +27,7 @@
 
 ### Классическая музыка
 
-Это серьёзное и сложное искусство, которое исполняется [оркестрами](musical_instruments.md) и солистами. [Композиторы](composer.md) пишут длинные произведения, состоящие из множества частей. Примером классической музыки могут служить произведения таких мастеров, как Бетховен, [Моцарт](../../7.1_art/musical_instruments/articles/bassoon.md) и [Чайковский](../../7.1_art/musical_instruments/articles/celesta.md).
+Это серьёзное и сложное [искусство](../../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/aesthetics_and_taste.md), которое исполняется [оркестрами](musical_instruments.md) и солистами. [Композиторы](composer.md) пишут длинные произведения, состоящие из множества частей. Примером классической музыки могут служить произведения таких мастеров, как Бетховен, [Моцарт](../../7.1_art/musical_instruments/articles/bassoon.md) и [Чайковский](../../7.1_art/musical_instruments/articles/celesta.md).
 
 ### [Поп-музыка](music_genres.md)
 
@@ -35,17 +35,17 @@
 
 ### Рок-музыка
 
-[Рок](music_genres.md) – это энергичная и мощная музыка, наполненная [эмоциями](psychology_of_music.md) и страстью. Такие группы, как The Beatles, Led Zeppelin и Queen, стали настоящими легендами [рок](music_genres.md)-[сцены](script.md).
+[Рок](music_genres.md) – это энергичная и мощная музыка, наполненная [эмоциями](psychology_of_music.md) и страстью. Такие группы, как The Beatles, [Led](../../../7.2 Media, leisure and hobbies/Computer games/articles/technologies_inside/screen_magic.md) Zeppelin и Queen, стали настоящими легендами [рок](music_genres.md)-[сцены](script.md).
 
 ### [Джаз](../../7.1_art/musical_instruments/articles/clarinet.md) и [блюз](../../7.1_art/musical_instruments/articles/harmonica.md)
 
-Джаз и блюз – это свободные формы музыки, позволяющие музыкантам импровизировать и выражать свои [чувства](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md) через игру на инструментах. Исполнители джаза и блюза включают Луи Армстронга, Майлса Дэвиса и Мадди Уотерса.
+[Джаз](../../../7.1_art/musical_instruments/articles/clarinet.md) и [блюз](../../../7.1_art/musical_instruments/articles/harmonica.md) – это свободные формы музыки, позволяющие музыкантам импровизировать и выражать свои [чувства](../../2.1_society/cause_and_effect_relationships/articles/empathy_causality.md) через игру на инструментах. Исполнители джаза и блюза включают Луи Армстронга, Майлса Дэвиса и Мадди Уотерса.
 
-## 4. Интересные факты
+## 4. Интересные [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md)
 
 Вот несколько увлекательных фактов о музыке:
 
-- **[Мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) реагирует на музыку**: Когда мы слушаем любимые песни, наш мозг выделяет химические вещества, называемые эндорфинами, которые вызывают чувство радости и счастья.
+- **[Мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) реагирует на музыку**: Когда мы слушаем любимые песни, наш [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) выделяет химические вещества, называемые эндорфинами, которые вызывают чувство радости и счастья.
 - **[Музыкальные инструменты](musical_instruments.md) бывают необычными**: Существуют даже такие экзотические инструменты, как [маримба](../../7.1_art/musical_instruments/articles/marimba.md) ([деревянный](../../7.1_art/musical_instruments/articles/didgeridoo.md) инструмент) и [диджериду](../../7.1_art/musical_instruments/articles/didgeridoo.md) (австралийский [духовой инструмент](musical_instruments.md)).
 - **Звуки природы тоже музыка**: Шум моря, звон колокольчиков или пение птиц – всё это естественные звуки, которые можно считать музыкой природы.
 
@@ -54,7 +54,7 @@
 Послушай [внимательно](../../how_to_memorize/articles/vnimanie.md), и ты услышишь музыку везде:
 
 - **Утро начинается с птичьих трелей**, которые напоминают нежную мелодию.
-- **Вечерний дождь стучит по крышам домов**, создавая монотонный [ритм](../../7.1_art/musical_instruments/articles/castanets.md), похожий на удары барабана.
+- **Вечерний [дождь](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/thunderstorm-safety.md) стучит по крышам домов**, создавая монотонный [ритм](../../7.1_art/musical_instruments/articles/castanets.md), похожий на удары барабана.
 - **Твой любимый [мультфильм](animation.md)** звучит весело и задорно благодаря музыкальному сопровождению.
 
 ## 6. [Польза](../../7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit.md)
@@ -72,21 +72,21 @@
 - **Чрезмерное прослушивание громкой музыки** может повредить слух.
 - **Слишком много времени перед экраном** с [видеоиграми](history-of-games.md) или [фильмами](movie.md) снижает физическую активность и [общение](../../5.1_technology_and_digital_literacy/information and media literacy/этика_общения_в_сети.md) с друзьями.
 
-## 8. [Баланс](../../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md) пользы и развлечения
+## 8. [Баланс](../../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md) пользы и [развлечения](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md)
 
-Чтобы получать максимум удовольствия и пользы от музыки, важно соблюдать баланс между развлечением и обучением:
+Чтобы получать [максимум](../../../1.2_natural_sciences/physics_in_everyday_life/Q136980.md) удовольствия и пользы от музыки, важно соблюдать [баланс](../../../1.2_natural_sciences/physics_in_everyday_life/Q634.md) между развлечением и обучением:
 
 - **Выбирай качественные музыкальные [записи](../../how_to_memorize/articles/konspektirovanie.md)**: Старайся слушать хорошие альбомы и композиции проверенных исполнителей.
 - **Делись музыкой с другими**: Обменивайся песнями и идеями с друзьями, учась новому вместе.
 - **Учись играть на инструменте**: Это не только развивает координацию рук и мозга, но и улучшает концентрацию [внимания](../../how_to_memorize/articles/vnimanie.md).
 
-## 9. Заключение
+## 9. [Заключение](../../../1.2_natural_sciences/physics_in_everyday_life/Q2225.md)
 
-Музыка – это волшебство, которое наполняет нашу жизнь радостью и смыслом. Пусть твоя любовь к музыке всегда будет гармоничной и полезной!
+Музыка – это волшебство, которое наполняет нашу [жизнь](../../../1.2_natural_sciences/physics_in_everyday_life/Q1751973.md) радостью и смыслом. Пусть твоя [любовь](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md) к музыке всегда будет гармоничной и полезной!
 
 ---
 [Автор](../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): Канева Юлия
 
-*LLM - GigaChat*
+*[LLM](../../../7.1_art/modern_technological_art/README.md) - GigaChat*
 
 

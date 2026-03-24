@@ -1,4 +1,4 @@
-# Безопасные онлайн-покупки: как не потерять деньги
+# Безопасные онлайн-покупки: как не потерять [деньги](../../../2.1_society/cause_and_effect_relationships/articles/economic_chains.md)
 
 ![Иллюстрация: ребёнок и взрослый вместе проверяют интернет-магазин](../images/safe_online_shopping.png)
 
@@ -8,7 +8,7 @@
 
 ## Почему магазин нужно проверять? 🕵️
 
-Не каждый сайт с товарами настоящий. Иногда мошенники делают красивую страницу только для того, чтобы выманить оплату.
+Не каждый сайт с товарами настоящий. Иногда [мошенники](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/phishing-links.md) делают красивую страницу только для того, чтобы выманить оплату.
 
 Это похоже на прилавок из картона: издалека выглядит как настоящий магазин, а если подойти ближе, оказывается обманкой.
 
@@ -20,16 +20,16 @@
 
 - известный это магазин или нет
 - нет ли ошибок в адресе сайта
-- не выглядит ли цена слишком сказочной
+- не выглядит ли [цена](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/price.md) слишком сказочной
 - есть ли понятные отзывы
 
 > ✅ Если что-то кажется слишком выгодным, это повод быть ещё внимательнее.
 
-## Что ребёнку нельзя делать одному? ❌
+## Что ребёнку [нельзя](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md) делать одному? ❌
 
 Ребёнку не стоит самому:
 
-- вводить данные банковской карты
+- вводить [данные](../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md) банковской карты
 - покупать на незнакомом сайте
 - спешить из-за надписей вроде *"только сегодня"*
 
@@ -43,6 +43,6 @@
 
 ---
 
-**Автор:** Ермеков Георгий
+**[Автор](../../../4.2_thinking_and_working_information/how_to_search_information/articles/copypaste.md):** Ермеков Георгий
 
-*Ресурсы: LLM - ChatGPT; Генерация изображений - DALL-E*
+*[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md); [Генерация изображений](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md) - [DALL-E](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md)*
