@@ -1,0 +1,62 @@
+flowchart TD
+    Universe["Вселенная"]
+    BigBang["Большой взрыв"]
+    Spacetime["Пространство-время"]
+    Expansion["Расширение Вселенной"]
+    CMB["Реликтовое излучение"]
+    DarkEnergy["Тёмная энергия"]
+    DarkMatter["Тёмная материя"]
+    Gravity["Гравитация"]
+    GalaxyCluster["Скопление галактик"]
+    Galaxy["Галактика"]
+    MilkyWay["Млечный Путь"]
+    SolarSystem["Солнечная система"]
+    Star["Звезда"]
+    Planet["Планета"]
+    Exoplanet["Экзопланета"]
+    Nebula["Туманность"]
+    BlackHole["Чёрная дыра"]
+    NeutronStar["Нейтронная звезда"]
+
+    Universe --> Spacetime
+    Universe --> BigBang
+    BigBang --> Expansion
+    BigBang --> CMB
+    Expansion --> CMB
+    DarkEnergy --> Expansion
+
+    Universe --> GalaxyCluster
+    GalaxyCluster --> Galaxy
+    Galaxy --> MilkyWay
+    MilkyWay --> SolarSystem
+    SolarSystem --> Planet
+    Exoplanet --> Planet
+    Exoplanet --> Star
+
+    Galaxy --> Star
+    Galaxy --> Nebula
+    Galaxy --> DarkMatter
+    Nebula --> Star
+    Star --> Planet
+    Star --> BlackHole
+    Star --> NeutronStar
+
+    Gravity --> SolarSystem
+    Gravity --> Galaxy
+    Gravity --> GalaxyCluster
+    Gravity --> BlackHole
+    DarkMatter --> Gravity
+    DarkMatter --> Galaxy
+    DarkMatter --> GalaxyCluster
+
+    classDef universe fill:#edf6ff,stroke:#2474a6,stroke-width:1px;
+    classDef process fill:#fff4dc,stroke:#b7791f,stroke-width:1px;
+    classDef structure fill:#eef8e8,stroke:#3f8f3f,stroke-width:1px;
+    classDef object fill:#f7eefc,stroke:#7a4da0,stroke-width:1px;
+    classDef hidden fill:#f1f1f1,stroke:#555,stroke-width:1px;
+
+    class Universe,Spacetime universe;
+    class BigBang,Expansion,CMB process;
+    class GalaxyCluster,Galaxy,MilkyWay,SolarSystem structure;
+    class Star,Planet,Exoplanet,Nebula,BlackHole,NeutronStar object;
+    class DarkEnergy,DarkMatter,Gravity hidden;
