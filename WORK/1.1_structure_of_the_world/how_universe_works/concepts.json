@@ -1,0 +1,348 @@
+[
+  {
+    "section": "1.1. Структура мира",
+    "subsection": "Как устроена Вселенная",
+    "topic": "Как работает Вселенная",
+    "author_group": "команда 20",
+    "members": [
+      "Петухов Глеб Андреевич",
+      "Мальцев Александр Николаевич",
+      "Садыхян Михаил Робертович"
+    ],
+    "resources": [
+      "LLM",
+      "Wikidata"
+    ],
+    "concepts": [
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/01_universe",
+        "name": "Вселенная",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/01_universe.md",
+        "description": "О Вселенной как совокупности пространства, времени, материи, энергии, галактик, звёзд, планет и других космических явлений.",
+        "lemmas": [
+          "вселенная",
+          "вселенной",
+          "вселенную",
+          "космос",
+          "космоса",
+          "мироздание"
+        ],
+        "wikidata_id": "Q1",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1",
+        "author": "Петухов Глеб Андреевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/02_big_bang",
+        "name": "Большой взрыв",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/02_big_bang.md",
+        "description": "О научной модели ранней горячей и плотной Вселенной, из которой объясняются расширение космоса и реликтовое излучение.",
+        "lemmas": [
+          "большой взрыв",
+          "большого взрыва",
+          "большому взрыву",
+          "большим взрывом",
+          "большом взрыве",
+          "модель большого взрыва",
+          "теория большого взрыва"
+        ],
+        "wikidata_id": "Q323",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q323",
+        "author": "Петухов Глеб Андреевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/03_spacetime",
+        "name": "Пространство-время",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/03_spacetime.md",
+        "description": "О едином описании пространства и времени, которое помогает понимать гравитацию, чёрные дыры и расширение Вселенной.",
+        "lemmas": [
+          "пространство-время",
+          "пространства-времени",
+          "пространстве-времени",
+          "пространством-временем",
+          "пространство и время",
+          "пространства и времени",
+          "пространственно-временной"
+        ],
+        "wikidata_id": "Q133327",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q133327",
+        "author": "Петухов Глеб Андреевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/04_galaxy",
+        "name": "Галактика",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/04_galaxy.md",
+        "description": "О больших гравитационно связанных системах из звёзд, газа, пыли, тёмной материи и межзвёздной среды.",
+        "lemmas": [
+          "галактика",
+          "галактики",
+          "галактик",
+          "галактике",
+          "галактикой",
+          "галактическая система",
+          "галактический"
+        ],
+        "wikidata_id": "Q318",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q318",
+        "author": "Петухов Глеб Андреевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/05_milky_way",
+        "name": "Млечный Путь",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/05_milky_way.md",
+        "description": "О нашей галактике, где находятся Солнечная система, Земля и видимые на небе звёзды.",
+        "lemmas": [
+          "млечный путь",
+          "млечного пути",
+          "млечному пути",
+          "млечным путём",
+          "млечным путем",
+          "млечном пути",
+          "наша галактика"
+        ],
+        "wikidata_id": "Q321",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q321",
+        "author": "Петухов Глеб Андреевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/06_star",
+        "name": "Звезда",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/06_star.md",
+        "description": "О горячих самосветящихся шарах газа и плазмы, в недрах которых идут термоядерные реакции.",
+        "lemmas": [
+          "звезда",
+          "звезды",
+          "звёзды",
+          "звезд",
+          "звёзд",
+          "звезде",
+          "звездой",
+          "звёздой",
+          "звёздный",
+          "звездный"
+        ],
+        "wikidata_id": "Q523",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q523",
+        "author": "Петухов Глеб Андреевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/07_solar_system",
+        "name": "Солнечная система",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/07_solar_system.md",
+        "description": "О Солнце, планетах, спутниках, астероидах, кометах и других телах, связанных гравитацией с нашей звездой.",
+        "lemmas": [
+          "солнечная система",
+          "солнечной системы",
+          "солнечную систему",
+          "солнечной системе",
+          "солнечной системой",
+          "планетная система"
+        ],
+        "wikidata_id": "Q544",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q544",
+        "author": "Мальцев Александр Николаевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/08_planet",
+        "name": "Планета",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/08_planet.md",
+        "description": "О небесных телах, которые обращаются вокруг звезды или звёздного остатка и не светят собственным светом как звёзды.",
+        "lemmas": [
+          "планета",
+          "планеты",
+          "планет",
+          "планете",
+          "планетой",
+          "планетарный",
+          "планетная система"
+        ],
+        "wikidata_id": "Q634",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q634",
+        "author": "Мальцев Александр Николаевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/09_exoplanet",
+        "name": "Экзопланета",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/09_exoplanet.md",
+        "description": "О планетах за пределами Солнечной системы, которые обращаются вокруг других звёзд или звёздных остатков.",
+        "lemmas": [
+          "экзопланета",
+          "экзопланеты",
+          "экзопланет",
+          "экзопланете",
+          "экзопланетой",
+          "внесолнечная планета"
+        ],
+        "wikidata_id": "Q44559",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q44559",
+        "author": "Мальцев Александр Николаевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/10_nebula",
+        "name": "Туманность",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/10_nebula.md",
+        "description": "О больших облаках газа и пыли в космосе, где могут рождаться звёзды или оставаться следы погибших звёзд.",
+        "lemmas": [
+          "туманность",
+          "туманности",
+          "туманностей",
+          "туманностью",
+          "газовое облако",
+          "облако газа и пыли",
+          "межзвёздное облако",
+          "межзвездное облако"
+        ],
+        "wikidata_id": "Q42372",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q42372",
+        "author": "Мальцев Александр Николаевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/11_black_hole",
+        "name": "Чёрная дыра",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/11_black_hole.md",
+        "description": "О области пространства-времени с настолько сильной гравитацией, что после горизонта событий наружу не может выйти даже свет.",
+        "lemmas": [
+          "чёрная дыра",
+          "черная дыра",
+          "чёрной дыры",
+          "черной дыры",
+          "чёрные дыры",
+          "черные дыры",
+          "чёрных дыр",
+          "черных дыр",
+          "горизонт событий"
+        ],
+        "wikidata_id": "Q589",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q589",
+        "author": "Мальцев Александр Николаевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/12_neutron_star",
+        "name": "Нейтронная звезда",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/12_neutron_star.md",
+        "description": "О сверхплотных остатках массивных звёзд, состоящих в основном из нейтронов и обладающих сильной гравитацией.",
+        "lemmas": [
+          "нейтронная звезда",
+          "нейтронной звезды",
+          "нейтронные звёзды",
+          "нейтронные звезды",
+          "нейтронных звёзд",
+          "нейтронных звезд",
+          "пульсар",
+          "пульсары"
+        ],
+        "wikidata_id": "Q4202",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q4202",
+        "author": "Мальцев Александр Николаевич"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/13_gravity",
+        "name": "Гравитация",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/13_gravity.md",
+        "description": "О фундаментальном притяжении, которое удерживает планеты на орбитах, собирает звёзды и формирует крупные структуры Вселенной.",
+        "lemmas": [
+          "гравитация",
+          "гравитации",
+          "гравитацией",
+          "гравитацию",
+          "гравитационное притяжение",
+          "тяготение",
+          "притяжение"
+        ],
+        "wikidata_id": "Q11412",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q11412",
+        "author": "Садыхян Михаил Робертович"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/14_dark_matter",
+        "name": "Тёмная материя",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/14_dark_matter.md",
+        "description": "О невидимой форме материи, которую обнаруживают по гравитационному влиянию на галактики и скопления галактик.",
+        "lemmas": [
+          "тёмная материя",
+          "темная материя",
+          "тёмной материи",
+          "темной материи",
+          "тёмную материю",
+          "темную материю",
+          "невидимая материя",
+          "скрытая масса"
+        ],
+        "wikidata_id": "Q79925",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q79925",
+        "author": "Садыхян Михаил Робертович"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/15_dark_energy",
+        "name": "Тёмная энергия",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/15_dark_energy.md",
+        "description": "О загадочной форме энергии, с которой связывают ускоренное расширение Вселенной.",
+        "lemmas": [
+          "тёмная энергия",
+          "темная энергия",
+          "тёмной энергии",
+          "темной энергии",
+          "тёмную энергию",
+          "темную энергию",
+          "ускоренное расширение"
+        ],
+        "wikidata_id": "Q18343",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q18343",
+        "author": "Садыхян Михаил Робертович"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/16_universe_expansion",
+        "name": "Расширение Вселенной",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/16_universe_expansion.md",
+        "description": "О том, что расстояния между далёкими областями космоса со временем увеличиваются, а свет далёких галактик испытывает красное смещение.",
+        "lemmas": [
+          "расширение вселенной",
+          "расширения вселенной",
+          "расширением вселенной",
+          "расширении вселенной",
+          "расширение пространства",
+          "космическое расширение",
+          "красное смещение"
+        ],
+        "wikidata_id": "Q1129469",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1129469",
+        "author": "Садыхян Михаил Робертович"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/17_cosmic_microwave_background",
+        "name": "Реликтовое излучение",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/17_cosmic_microwave_background.md",
+        "description": "О слабом микроволновом свете ранней Вселенной, который считается одним из главных наблюдательных следов Большого взрыва.",
+        "lemmas": [
+          "реликтовое излучение",
+          "реликтового излучения",
+          "реликтовому излучению",
+          "реликтовым излучением",
+          "космическое микроволновое фоновое излучение",
+          "микроволновое фоновое излучение",
+          "CMB"
+        ],
+        "wikidata_id": "Q15605",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q15605",
+        "author": "Садыхян Михаил Робертович"
+      },
+      {
+        "id": "1.1_structure_of_the_world/how_universe_works/18_galaxy_cluster",
+        "name": "Скопление галактик",
+        "file": "WEB/1.1_structure_of_the_world/how_universe_works/articles/18_galaxy_cluster.md",
+        "description": "О крупных гравитационно связанных группах из сотен и тысяч галактик, горячего газа и тёмной материи.",
+        "lemmas": [
+          "скопление галактик",
+          "скопления галактик",
+          "скоплению галактик",
+          "скоплением галактик",
+          "скоплении галактик",
+          "галактическое скопление",
+          "группа галактик"
+        ],
+        "wikidata_id": "Q204107",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q204107",
+        "author": "Садыхян Михаил Робертович"
+      }
+    ]
+  }
+]
